@@ -1,0 +1,154 @@
+id,latitude,longitude,price,review_count,rating,zip_code,city,alias,category
+BA7TnabiZhm4S5Jv7jbkxA,33.9292549,-118.2522808,$,1332.0,4.5,90059,Los Angeles,hawkins-house-of-burgers-los-angeles,['burgers']
+i7e6os6LjclE8MP0FVYZkA,33.8958351,-118.2267699,$$,344.0,4.5,90220,Compton,almas-cookies-and-company-restaurant-compton-2,"['desserts', 'soulfood']"
+gCuDrOJPUEWDfCfGfrzKDA,33.896412,-118.219653,$,165.0,5.0,90221,Compton,patria-coffee-compton-2,"['coffeeroasteries', 'coffee']"
+0qpf7fMLi8WfBpD_rW-0Uw,33.9236812311346,-118.269558427633,$,48.0,5.0,90061,Los Angeles,fun-diggity-funnel-cakes-los-angeles,"['desserts', 'streetvendors', 'catering']"
+URAWeNwKJouuMu1t1mVGTQ,33.92322,-118.253917,$$,47.0,4.5,90059,Los Angeles,holmes-homemade-chicken-sausage-los-angeles,['chicken_wings']
+LTvl-91W3g6pYpD6c4N9sQ,33.9240837097168,-118.24698638916,$,90.0,4.0,90059,Los Angeles,mariscos-las-palmas-de-colima-los-angeles,"['mexican', 'seafood']"
+fQiiNcx6HKI3gjr01XLR9A,33.8957165256653,-118.223629854619,$,183.0,4.5,90220,Compton,phat-noodles-compton,"['noodles', 'coffee']"
+jXlGcuFRUSBxm5ycg3UQOw,33.943472,-118.239854,$$,282.0,4.0,90002,Los Angeles,watts-coffee-house-los-angeles,"['coffee', 'breakfast_brunch']"
+3jfH3FY3jH16d6U57lBe_A,33.93804,-118.26194,$$,241.0,4.0,90059,Los Angeles,all-flavor-no-grease-los-angeles,"['foodtrucks', 'mexican']"
+P8jOe65n-VSNt0KjS7PCQQ,33.9346389704683,-118.226422399082,$,66.0,4.5,90059,Los Angeles,mariscos-tocho-los-angeles,"['seafood', 'foodtrucks', 'tacos']"
+eq503c6_NW4hzwI4so0IOw,33.9256880432367,-118.238958343863,$,83.0,4.0,90059,Los Angeles,china-gate-los-angeles,['chinese']
+j19OJLlC_G45bx2wQXW7cw,33.9033764630067,-118.255910812164,$$,202.0,4.0,90222,Compton,hana-teppanyaki-compton,['japanese']
+186vFNm0yjmVG82zvhcurQ,33.896422,-118.221708,$,90.0,5.0,90220,Compton,everytable-compton,['salad']
+GIccVBiWiHQz5lWrTTV9Vw,33.9378,-118.23663,$$,29.0,5.0,90059,Los Angeles,dona-mary-los-angeles-2,['seafood']
+tcLPjEHuKPBSLiCwDQZXPg,33.924702,-118.265355,$,40.0,4.5,90061,Los Angeles,bernard-burgers-los-angeles,['burgers']
+JvFjx-FEb_U0kMY-3aI-1g,33.90361,-118.22387,$,45.0,4.5,90222,Compton,pops-chicken-compton,['chicken_wings']
+U7WdEDOss5y3jKbdLQBJrA,33.94535,-118.21836,$,109.0,4.5,90280,South Gate,eatgud-cafe-south-gate-2,"['cafes', 'acaibowls', 'sandwiches']"
+IDLBM5Yp9O1wfOQnSX9Plg,33.9376487731934,-118.218811035156,$,79.0,4.5,90280,South Gate,joy-wok-express-south-gate,['chinese']
+y-PYylz4ZcPkg8ej1h_Yvw,33.9235,-118.25466,$,133.0,3.0,90059,Los Angeles,taco-pete-los-angeles,['mexican']
+SvePE7APfmE8d7tji85X-g,33.9412,-118.26552,$,44.0,4.5,90003,Los Angeles,becks-burgers-and-bbq-los-angeles,"['burgers', 'bbq', 'soulfood']"
+fuAL8-5XTZVao9KZyVa84w,33.9457849,-118.2537301,$,59.0,4.5,90002,Los Angeles,cafe-oaxaca-los-angeles-2,"['coffee', 'juicebars', 'desserts']"
+0D0zWV5iFdzOCz9uqLuP8g,33.896058,-118.241528,$,72.0,4.0,90220,Compton,loretos-fried-turkey-compton,['tradamerican']
+pps5eGg0siKIBEujCtMG0g,33.89603,-118.23253,$$,49.0,4.5,90220,Compton,new-earth-health-food-compton,"['healthmarkets', 'vegetarian']"
+,,,,,,,,,['salad']
+Mafm93t8rXgs8_8uJY50pw,33.9464378356934,-118.216743469238,$,120.0,4.0,90280,South Gate,teriyaki-sushi-house-south-gate,['sushi']
+Dv7MNvte2Z4y973h9E7DaA,33.89607,-118.25259,$,30.0,5.0,90220,Compton,m-and-t-donuts-compton,"['donuts', 'coffee']"
+Y4bszkr-N89F9YjNSZeyaQ,33.94622,-118.21684,$$,214.0,3.5,90280,South Gate,jaruwan-thai-restaurant-south-gate,['thai']
+aBli0CMjPQpfLsTdIkUalQ,33.9170761108398,-118.217903137207,$,39.0,4.5,90222,Compton,rubens-bakery-and-mexican-food-compton,"['bakeries', 'mexican']"
+xPDv_TJvpWRR72df5q0WXA,33.89564,-118.23161,$,25.0,5.0,90220,Compton,juanillos-mexican-grill-compton-2,['mexican']
+D9F7Zo5zIexaXGIuwyaHNw,33.903178,-118.229086,$,34.0,4.5,90220,Compton,san-antonio-bakery-compton-2,"['desserts', 'bakeries']"
+8iXOwcJ0DB546bt1aOcwCg,33.9375209955932,-118.220057487488,$,22.0,4.5,90280,South Gate,tacos-santa-fe-south-gate,"['mexican', 'foodtrucks']"
+oJXJkru8hlae9e5XWGvNgA,33.93079,-118.2172,$$,92.0,3.5,90262,Lynwood,mariscos-nayarit-lynwood,"['mexican', 'seafood']"
+_J7B_90XvVj1-DamRhco9w,33.9165985,-118.2181893,$,27.0,4.5,90222,Compton,uruapan-taco-compton,['mexican']
+rQMXlZkqe43xKYeAtrKLvQ,33.9489,-118.21765,$$,116.0,3.5,90280,South Gate,el-pescador-west-south-gate-south-gate,"['mexican', 'seafood', 'cocktailbars']"
+RGdGUZIIY6jh06a8I9MFaw,33.9165549,-118.2657999,$$,63.0,3.5,90061,Los Angeles,pizza-king-los-angeles-2,"['pizza', 'chicken_wings']"
+naNSbdrNqB1F806WCQDr9w,33.93389,-118.23934,$,43.0,3.5,90059,Los Angeles,chicken-n-roll-los-angeles-2,"['southern', 'chicken_wings']"
+asebA7Ytz9qyVSqEfkj0kg,33.94512317,-118.2647765,$,40.0,4.0,90003,Los Angeles,kims-fish-world-los-angeles-3,"['seafoodmarkets', 'fishnchips']"
+qZsbp3hix4ZFBYHh6RJEqg,33.923355,-118.265991,$,39.0,4.0,90061,Los Angeles,clucks-chicken-los-angeles,['chicken_wings']
+8aiXxGlnFMPRScmKUv1LCA,33.9292,-118.25171,$$,26.0,3.5,90059,Los Angeles,mariscos-los-koritas-estilo-nayarit-los-angeles,"['mexican', 'foodstands']"
+c3S-0rDpBsubU_vYxlaHbw,33.9306144714355,-118.220733642578,$,73.0,3.5,90262,Lynwood,hercules-lynwood,"['burgers', 'hotdogs', 'greek']"
+JkGGN9DsGRzWyzQ5hDhlhw,33.9144,-118.26426,$$,15.0,4.5,90061,Los Angeles,caesars-restaurant-los-angeles,"['breakfast_brunch', 'burgers', 'sandwiches']"
+3ovQL4R4SwTaDenaThXhVw,33.9258135,-118.2388566,$,36.0,3.0,90059,Los Angeles,california-steak-and-fries-los-angeles-3,['tradamerican']
+brz2hqbW-Yxo0a0X7YqrNg,33.9031251,-118.2267385,$,31.0,4.0,90222,Compton,super-pizza-compton,['pizza']
+oQoYo9AehqNuQJmB0MoyOA,33.943522,-118.244675,$,22.0,4.0,90002,Los Angeles,chinese-express-los-angeles,['chinese']
+60vfOTEFvmGPODo2OIA8YQ,33.9029964626389,-118.253394023427,$,56.0,3.5,90221,Compton,tams-burgers-compton,['burgers']
+,,,,,,,,,"['foodtrucks', 'tacos']"
+37sjVyEmvikTBvuJVmVrzA,33.91919,-118.22426,$,27.0,4.0,90222,Compton,restaurant-onofre-compton,['mexican']
+ZqcJz3QdTLNTZpY8DEzrKg,33.9509325,-118.2654757,$,63.0,4.0,90003,Los Angeles,a-and-t-burgers-los-angeles,"['burgers', 'breakfast_brunch']"
+TD-M0kMVYZrkzqvO8FO4HQ,33.930774,-118.226141,$,9.0,5.0,90059,Los Angeles,jala-mariscos-los-angeles,"['foodstands', 'seafood']"
+PfI9vqpE8vA6lh9xz0erGA,33.931768,-118.264445,$,45.0,3.5,90061,Los Angeles,a-and-t-burgers-los-angeles-2,"['burgers', 'breakfast_brunch', 'newamerican']"
+ZdVv4a4R1y5021MiPwrYLA,33.9268602750001,-118.238834652761,$,35.0,1.5,90059,Los Angeles,pizza-hut-los-angeles-32,"['pizza', 'italian', 'chicken_wings']"
+nFT-maHKMHCdKqdCAaWWkA,33.903133392334,-118.217613220215,$,30.0,3.0,90221,Compton,taqueria-zavalas-compton,['mexican']
+Ga1hTeq_1COZkbwjiYFyrw,33.94849,-118.21673,$,13.0,4.0,90280,South Gate,tiendas-el-compita-south-gate,['mexican']
+E2Uizc31K9fRW2ftz-mlgw,33.9027205,-118.2513315,$,31.0,2.5,90220,Compton,little-caesars-pizza-compton,"['pizza', 'hotdogs']"
+,,,,,,,,,"['mexican', 'foodtrucks']"
+,,,,,,,,,['mexican']
+,,,,,,,,,"['foodtrucks', 'burgers']"
+u9hCeElKWuXr9W2Fp1n-Zg,33.926628,-118.239003,$,22.0,2.0,90059,Los Angeles,taco-bell-los-angeles-19,"['mexican', 'tex-mex', 'hotdogs']"
+-Ycd4L702FwPCYCo84VX0g,33.924876,-118.23866012014,$,37.0,1.5,90059,Los Angeles,kfc-los-angeles-46,"['hotdogs', 'chicken_wings', 'chickenshop']"
+Woa6SWl2tWmJ3U7m8GzEJA,33.89623333,-118.22293733,$,8.0,4.0,90221,Compton,subway-restaurants-compton-3,['sandwiches']
+rJdSLI91EnCKegl4pdcZMg,33.908905,-118.2654419,$,37.0,2.0,90061,Los Angeles,golden-bird-chicken-los-angeles-2,['hotdogs']
+qKC84EP5FoPEtExZHwd_wA,33.9334526062012,-118.265510559082,$,9.0,3.5,90061,Los Angeles,piara-pizza-los-angeles-3,"['chicken_wings', 'pizza']"
+qGBEa3SbDxbdgHJXBrF23w,33.94348,-118.24474,$,34.0,2.0,90002,Los Angeles,popeyes-louisiana-kitchen-los-angeles-5,"['chicken_wings', 'hotdogs']"
+4lwAgXrSFWnXpydoBh1n2A,33.9030838012695,-118.256544,$,57.0,1.5,90059,Los Angeles,dominos-pizza-los-angeles-60,"['pizza', 'chicken_wings', 'sandwiches']"
+,,,,,,,,,"['soulfood', 'foodstands', 'bbq']"
+rgl2fSFe9ddQkxmEoalBGw,33.925355,-118.238753,$,9.0,3.0,90059,Los Angeles,subway-restaurants-los-angeles-52,['sandwiches']
+I_I1OEKjHHdZ3i17i4wRKg,33.9036102,-118.2269287,$,22.0,2.5,90222,Compton,el-zocalo-compton-2,['mexican']
+x6hrrxxkyk8_shWCjXUoaw,34.745082,-87.666192,$,46.0,1.5,35661,Muscle Shoals,pizza-hut-muscle-shoals-5,"['italian', 'pizza', 'chicken_wings']"
+,,,,,,,,,['parks']
+9IoX69UKti9MJOEGMHtQTA,33.9253478095797,-118.242861628532,$,3.0,3.5,90059,Los Angeles,swendelis-cafe-los-angeles,['cafes']
+337ZtVECNEFWo-dYDDo5-g,33.895884,-118.221472,$,17.0,3.0,90220,Compton,taco-bell-compton-4,"['tex-mex', 'hotdogs', 'mexican']"
+KbOcFoW_OtMsWX8LkZSEEA,33.916672,-118.265521,$,25.0,2.0,90061,Los Angeles,popeyes-louisiana-kitchen-los-angeles-9,"['hotdogs', 'chicken_wings']"
+,,,,,,,,,['mexican']
+_5Txr99XFMAr6FB3d0-NVA,33.8956691991147,-118.221661408345,$,35.0,2.5,90220,Compton,papa-johns-pizza-compton,['pizza']
+HbvTzr5GcJfrfV0EOv7UaA,33.9427827064032,-118.238853943436,$,5.0,4.0,90002,Los Angeles,louisiana-fried-chicken-and-china-bowl-los-angeles-2,"['chinese', 'tacos', 'chicken_wings']"
+RKYv-BdVzsg209vbN6HESg,33.8958359,-118.2223969,$,7.0,4.0,90220,Compton,louisiana-famous-fried-chicken-compton,"['southern', 'chicken_wings', 'chinese']"
+riPHV6ETPp88hkd_FJvyjw,33.91689,-118.26487,$,26.0,2.0,90061,Los Angeles,burger-king-los-angeles-28,"['burgers', 'hotdogs']"
+nBDO9oBDU_H9Trk5V7A6WQ,33.90306,-118.23892,$,4.0,4.0,90222,Compton,el-potrero-restaurant-compton,['mexican']
+D75-0k4ZzLXJ19SAuyM8xg,33.9423625,-118.26557233,$,7.0,3.5,90003,Los Angeles,subway-restaurants-los-angeles-22,['sandwiches']
+NRhlNxoSqcOFxVn6ejSDIg,33.8957694021328,-118.221649378538,$,17.0,3.0,90220,Compton,jade-palace-buffet-compton,['buffets']
+,,,,,,,,,['seafood']
+rzMY5Fysozva-Retvo_1sQ,33.94889,-118.21686,$$,48.0,2.0,90280,South Gate,la-perla-del-mar-south-gate,['restaurants']
+qonaqV7Okfg434PTccEbJw,33.94946,-118.26551,$$,5.0,4.0,90003,Los Angeles,avalon-ice-cream-and-candy-los-angeles,"['icecream', 'candy']"
+,,,,,,,,,"['hotdogs', 'chinese']"
+JUDcby431GPUAj2LmD_6pw,33.8957252,-118.226716,$,56.0,1.5,90220,Compton,popeyes-louisiana-kitchen-compton,"['chicken_wings', 'hotdogs']"
+EgX4Wfdg56n0VD3yqNOuag,33.8961149,-118.2238573,$,44.0,2.0,90220,Compton,el-pollo-loco-compton-6,"['mexican', 'hotdogs']"
+,,,,,,,,,"['desserts', 'breakfast_brunch', 'tapas']"
+4QCFoamzXT1cQ_7vc95_Pg,33.9025133335327,-118.253969619982,$,30.0,2.0,90059,Los Angeles,mcdonalds-los-angeles-71,"['hotdogs', 'burgers', 'coffee']"
+,,,,,,,,,"['streetvendors', 'mexican']"
+XKj37mYLxDVVkjfaA4yjeg,33.92993,-118.24593,$,6.0,2.5,90059,Los Angeles,seafood-express-los-angeles,['seafood']
+,,,,,,,,,"['parks', 'kids_activities', 'playgrounds']"
+,,,,,,,,,['chicken_wings']
+,,,,,,,,,"['customcakes', 'cupcakes', 'desserts']"
+5CKwlUmFailFbKeTwrHV7g,33.896444,-118.2523205,$,21.0,2.0,90220,Compton,jack-in-the-box-compton-2,"['hotdogs', 'breakfast_brunch', 'burgers']"
+haNyKhWgBMgiS4tLAQRzTw,33.943506,-118.244737,$,9.0,2.5,90002,Los Angeles,subway-restaurants-los-angeles-32,['sandwiches']
+kPViKqyWJC5vwiekLnAAGA,33.8963758,-118.225022,$,28.0,2.0,90220,Compton,mcdonalds-compton-7,"['coffee', 'burgers', 'hotdogs']"
+BPdaa7NyQqZ5p23-7PMBfg,33.8958765,-118.2230418,$,20.0,2.5,90220,Compton,yoshinoya-compton-and-alameda-compton-2,['restaurants']
+tv1t54S1GuCOEpn9HUIJTQ,33.8961049,-118.22165,$,12.0,3.0,90220,Compton,eggroll-king-no-2-compton,['chinese']
+MtcJ55yvY-etl_Yd5c-jEA,33.9452069518192,-118.265528131074,$,29.0,2.0,90003,Los Angeles,mcdonalds-los-angeles-130,"['hotdogs', 'burgers', 'coffee']"
+yEAjU4Lkb3zy-af6YjwWeQ,33.9433153,-118.2668094,$$,16.0,2.0,90003,Los Angeles,superior-grocers-los-angeles-11,"['grocery', 'bakeries', 'meats']"
+,,,,,,,,,"['mexican', 'foodtrucks']"
+,,,,,,,,,"['pizza', 'burgers']"
+rV9YqAeZpxUL73mLcAkB_A,33.93303,-118.25637,$,1.0,5.0,90059,Los Angeles,mariscos-los-angeles-2,['seafood']
+cpRD4cUWqjfowarSyMFb_A,33.896411152856,-118.22310179472,$,65.0,1.5,90220,Compton,pizza-hut-compton,"['pizza', 'italian', 'chicken_wings']"
+,,,,,,,,,['parks']
+,,,,,,,,,"['tradamerican', 'mexican', 'chinese']"
+XPxXilGtooTe8y0RmTnVJg,33.90266,-118.24966,$,19.0,2.0,90220,Compton,taco-bell-compton-3,"['hotdogs', 'mexican']"
+,,,,,,,,,"['foodtrucks', 'mexican']"
+XmlrT0s0Z5wXeXb0_65Qyg,33.897465,-118.252616,$,24.0,1.5,90220,Compton,churchs-chicken-compton-2,"['hotdogs', 'chicken_wings']"
+,,,,,,,,,"['streetvendors', 'tacos']"
+AFQFkHKU9y-X6bOe-nLCXw,33.93139,-118.27348,$,6.0,3.0,90061,Los Angeles,louisiana-fried-chicken-los-angeles-7,['hotdogs']
+YtIYj64dozA4YOLHVwCkew,33.9435134806636,-118.243741393089,$,23.0,1.5,93955,Seaside,burger-king-seaside-4,"['burgers', 'hotdogs']"
+0VA31YAW18o_8H77TKF7Vg,33.9160108334661,-118.254845659258,$,2.0,3.0,90059,Los Angeles,7-eleven-los-angeles-158,"['convenience', 'coffee']"
+,,,,,,,,,['parks']
+EFlRjqIfXOFJqewh-QgH1Q,33.94297,-118.25447,$,20.0,1.5,90002,Los Angeles,jack-in-the-box-los-angeles-4,"['burgers', 'hotdogs', 'breakfast_brunch']"
+,,,,,,,,,"['bars', 'bedbreakfast', 'catering']"
+DyiLaDeyRwWpR-HjmQAkYg,33.9159596930271,-118.238476216793,$,2.0,2.5,90222,Compton,7-eleven-compton-7,"['coffee', 'convenience']"
+LlKorY2GDmNV7zLym8YSHA,33.8961,-118.252319912286,$,21.0,1.5,90220,Compton,kfc-compton,"['chicken_wings', 'hotdogs', 'chickenshop']"
+Pr9qZ_8_NzGLMIfQJMKOEg,33.94637,-118.22292,$,5.0,3.0,90280,South Gate,el-coatepecano-pupuseria-south-gate,"['salvadoran', 'mexican']"
+,,,,,,,,,"['recreation', 'parks']"
+XehN9FWiDxtJxZCgrCZy0Q,33.9028140146728,-118.251369856062,$,17.0,1.0,90220,Compton,subway-restaurants-compton-4,['sandwiches']
+66PMMjRX0m0BzjCLYZb53w,33.89568567,-118.22068933,$,26.0,1.5,90220,Compton,burger-king-compton-2,"['hotdogs', 'burgers']"
+Eh0aKbZuV8VsZrNCumOQ-g,33.946275,-118.265108,$,16.0,1.5,90003,Los Angeles,taco-bell-los-angeles-11,"['mexican', 'hotdogs']"
+,,,,,,,,,['mexican']
+ylGu0-UZ75HbyWp51uBZ1Q,33.94375,-118.24554,$,10.0,2.0,90002,Los Angeles,little-caesars-pizza-los-angeles-38,"['pizza', 'hotdogs']"
+,,,,,,,,,['chinese']
+,,,,,,,,,['bakeries']
+NqwVR5pE_2xXyfspSgFJww,33.895679473877,-118.218116760254,$,4.0,3.0,90221,Compton,lusias-bakery-compton,['bakeries']
+,,,,,,,,,['parks']
+,,,,,,,,,"['icecream', 'foodtrucks']"
+,,,,,,,,,"['skate_parks', 'playgrounds']"
+,,,,,,,,,"['streetvendors', 'importedfood']"
+,,,,,,,,,"['donuts', 'icecream', 'bagels']"
+,,,,,,,,,['mexican']
+,,,,,,,,,"['donuts', 'bakeries']"
+,,,,,,,,,['chinese']
+,,,,,,,,,['chinese']
+,,,,,,,,,"['bbq', 'soulfood', 'burgers']"
+,,,,,,,,,['mexican']
+UzEPzFRao-AITFLemas5iA,33.89611,-118.2267,$,2.0,3.0,90220,Compton,7-eleven-compton-10,"['convenience', 'coffee']"
+MqLOC90AQiGygN04amwivg,33.9426235109568,-118.265234604478,$,7.0,2.0,90003,Los Angeles,little-caesars-pizza-los-angeles-45,"['pizza', 'hotdogs']"
+YZJh-SCATOR6I4S616VFUw,33.897205,-118.2523251,$,2.0,3.0,90220,Compton,winfreys-pit-barbecue-compton,['bbq']
+,,,,,,,,,['bbq']
+z_80cimxDUDP7pQV_4kOzw,33.9307124600129,-118.264733701944,$,2.0,1.0,90059,Los Angeles,7-eleven-los-angeles-175,"['convenience', 'coffee']"
+OpUiMdB-sLYebkvuxkx5Mg,37.826029,-82.823873,$,1.0,4.0,41240,Paintsville,pizza-hut-paintsville-5,"['pizza', 'italian', 'chicken_wings']"
+,,,,,,,,,['restaurants']
+,,,,,,,,,"['newamerican', 'newmexican', 'venues']"
+,,,,,,,,,['pizza']
+,,,,,,,,,"['foodtrucks', 'mexican']"
+cWQajEsk6RjJOJMQB6X1lg,33.89569,-118.26537,$,2.0,3.0,90220,Compton,7-eleven-compton-11,"['convenience', 'coffee']"
+,,,,,,,,,['tacos']
+,,,,,,,,,"['pizza', 'italian', 'chicken_wings']"
+,,,,,,,,,"['wedding_planning', 'desserts']"

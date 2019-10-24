@@ -1,0 +1,658 @@
+id,latitude,longitude,price,review_count,rating,zip_code,city,alias,category
+DJek3FUewBzMc0gS-Gms9w,34.12384,-118.26868,$$,4227.0,4.5,90039,Los Angeles,the-morrison-los-angeles,"['gastropubs', 'burgers', 'bars']"
+iO0omKwI1mLl9q0tzTA03A,34.1166106,-118.2619737,$$,900.0,4.5,90039,Los Angeles,wanderlust-creamery-los-angeles-2,"['desserts', 'icecream']"
+fUvFTpgd2zP4R47UvhscQw,34.1232631115639,-118.254601815275,$,551.0,4.5,91204,Glendale,game-haus-cafe-glendale,"['cafes', 'eatertainment', 'tradamerican']"
+Hd6wCJbQz81UdD_EyOumPA,34.14659,-118.25335,$$,4306.0,4.5,91205,Glendale,raffis-place-glendale-2,"['mideastern', 'persian', 'armenian']"
+oNHjZ3wC0F9l5KpuqHd45w,34.114824,-118.269945,$,1160.0,4.5,90027,Los Angeles,rickys-fish-tacos-los-angeles-3,"['foodtrucks', 'tacos']"
+bY6RStcfjyCJtDr8nLpohQ,34.1169649464573,-118.262093149437,$$,676.0,4.5,90039,Los Angeles,dune-los-angeles,"['falafel', 'salad', 'sandwiches']"
+jQXj5x1V-mtVMFYoMQYOkg,34.116939,-118.261573,$$,853.0,4.0,90039,Los Angeles,proof-bakery-los-angeles,"['coffee', 'sandwiches', 'cakeshop']"
+P_2Z_Wwk2Xtepobtxxsa6A,34.1434651,-118.2560737,$$,3482.0,4.0,91210,Glendale,din-tai-fung-glendale-6,"['shanghainese', 'dimsum', 'taiwanese']"
+yg5ORvyzea1b8v9UQwJOhg,34.1409322180971,-118.258618754722,$$,934.0,4.5,91204,Glendale,mini-kabob-glendale,"['mideastern', 'armenian']"
+Bjc7vN33dRQbLzRViyHbdA,34.14223,-118.25671,$$,2108.0,4.0,91204,Glendale,foxys-restaurant-glendale-3,"['diners', 'tradamerican', 'breakfast_brunch']"
+dUPaip9XyZ0LZUpl3K6Ncg,34.1157446801662,-118.25143866241,$$,524.0,4.0,90039,Los Angeles,momed-atwater-village-los-angeles-2,"['mediterranean', 'cocktailbars']"
+M1N8QH15HzL5wsJX0Me_ow,34.1451088111189,-118.25509250164,$$,2442.0,4.0,91210,Glendale,granville-glendale,"['newamerican', 'breakfast_brunch', 'cocktailbars']"
+4B_hWagBKAMcsotnnoH30Q,34.10768,-118.26677,$$,840.0,4.5,90039,Los Angeles,little-pine-los-angeles-2,"['vegan', 'bars', 'newamerican']"
+X-ramHIJtG5HHulYqt_Qqg,34.1173706,-118.2620697,$$,911.0,4.0,90039,Atwater Village,bon-vivant-market-and-cafe-atwater-village,"['cocktailbars', 'tradamerican', 'desserts']"
+cJ_-7MywlZgLvvsS4u7jaQ,34.125675145001,-118.264257899961,$$$,1343.0,4.0,90039,Los Angeles,tam-o-shanter-los-angeles-2,"['pubs', 'british']"
+jjKXyjjw-Vcz1FOzzAK3YA,34.1242766,-118.2672948,$$,965.0,4.0,90039,Los Angeles,the-village-bakery-and-cafe-los-angeles,"['bakeries', 'breakfast_brunch', 'sandwiches']"
+XN31yqCpt4_aOJDoceuCvw,34.1184299,-118.25971,$$,576.0,4.0,90039,Los Angeles,allacqua-los-angeles-2,"['italian', 'pizza']"
+ohosmz6FXVAeoW5nUkYwng,34.0905963760163,-118.277172084005,$$,2152.0,4.5,90026,Los Angeles,pine-and-crane-los-angeles,"['taiwanese', 'chinese', 'bubbletea']"
+MXvGRmu3cJC53Mr9KdCvQw,34.117769,-118.261504,$,614.0,4.0,90039,Los Angeles,tacos-villa-corona-los-angeles,"['mexican', 'breakfast_brunch']"
+WylKsZv1qKCDqrHd-joiOA,34.1069829190952,-118.263623872353,$$,759.0,4.0,90039,Los Angeles,michelangelo-ristorante-los-angeles-2,"['italian', 'pizza']"
+WfBK0ZIWouEHYtjBstLyfw,34.13328,-118.26205,$,966.0,4.0,91204,Glendale,el-sauz-tacos-glendale,['tacos']
+-kXz-ND_kQuBnOhpdlN7gA,34.09918,-118.25887,$$,1597.0,4.0,90039,Los Angeles,red-lion-tavern-los-angeles,"['pubs', 'german']"
+H7NLpkqnvEhAGY8w9KTlCg,34.1253662442897,-118.256283067167,$,210.0,4.5,91204,Glendale,viking-pizza-and-kabob-glendale,"['pizza', 'mediterranean', 'sandwiches']"
+0z7gwkDXQPbJaEP3QIBf1A,34.1121895,-118.2356667,$$,604.0,4.0,90065,Los Angeles,lemon-poppy-kitchen-los-angeles,"['cafes', 'breakfast_brunch', 'coffee']"
+rjMhEh_QzX7LysAvxnJP-g,34.102695,-118.25858833,$$,832.0,4.0,90039,Los Angeles,by-chloe-los-angeles-4,"['salad', 'vegan', 'gluten_free']"
+SzHkbqY5ODErf_QGYwX3ZQ,34.1303579,-118.2610411,$,360.0,4.5,91204,Glendale,glendale-tap-glendale,"['beerbar', 'tapas']"
+QyA3-z9RCgvOPxa1d5htSw,34.1068633394147,-118.271928675245,$,533.0,4.5,90039,Los Angeles,magpies-softserve-los-angeles,['icecream']
+H6zhdp4uIC7a8Dq-ZBjH4Q,34.10268,-118.24345,$$,291.0,4.5,90039,Los Angeles,wax-paper-los-angeles-2,"['tradamerican', 'coffee']"
+BPgbSNw9tPUSaZpuhjVgfA,34.1461,-118.252891,$$,1081.0,4.5,91205,Glendale,joon-shabu-shabu-glendale-3,"['hotpot', 'japanese', 'seafood']"
+k3sjUtQjPwg5uEwOW6Mvgg,34.146236,-118.245647,$,1055.0,4.5,91205,Glendale,marios-italian-deli-and-market-glendale,"['delis', 'grocery']"
+aJwc6FwkLgel0uE2ju997Q,34.1152705,-118.2460433,$,120.0,5.0,90065,Los Angeles,kabob-bowl-los-angeles-4,"['mediterranean', 'vegetarian', 'mideastern']"
+UJEw3VVhwrFMgJCiTaQG8A,34.12519,-118.26466,$$,977.0,3.5,90039,Los Angeles,the-griffin-los-angeles,"['lounges', 'gastropubs']"
+oak4AbPlfLLmD8_qGh86Mw,34.1165809631348,-118.263031005859,$$,434.0,4.0,90039,Los Angeles,link-n-hops-los-angeles,"['beerbar', 'sportsbars', 'wineries']"
+dLVJpkmbg_Nm45fOHkFqbg,34.13477,-118.251604,$$,775.0,4.0,91205,Glendale,elenas-greek-armenian-restaurant-glendale,"['greek', 'mediterranean', 'armenian']"
+98KeJCu_8XbfOXB1aRAW1A,34.10743,-118.25441,$$,913.0,3.5,90039,Los Angeles,salazar-los-angeles-4,"['mexican', 'breakfast_brunch', 'desserts']"
+LcL7LoUxlxswt6lzS9pG7w,34.103958,-118.273749,$,1000.0,4.0,90027,Silver Lake,tomato-pie-pizza-joint-silver-lake,"['pizza', 'italian', 'sandwiches']"
+C9rLh3Mp-agjne7JWv8KLA,34.125401,-118.231779,$$,775.0,4.0,90065,Los Angeles,polka-polish-restaurant-los-angeles-2,['polish']
+t5EsO3i6c_ESKA5f3CUTXg,34.1378135681152,-118.254585266113,$$,996.0,4.0,91204,Glendale,mamita-peruvian-restaurant-glendale,['peruvian']
+xPLtv8UrLEiAg9IR9sEtDw,34.130009,-118.260435,$,508.0,4.0,91204,Glendale,victorias-tacos-and-grill-glendale-2,"['breakfast_brunch', 'tacos']"
+HR8XXdUSfkMpZK6RZokhrA,34.10605,-118.25694,$$,353.0,4.5,90039,Los Angeles,ivanhoe-restaurant-and-bar-los-angeles,"['bars', 'tradamerican', 'breakfast_brunch']"
+kuSagptKgRRFEWVR6KGT-w,34.1178922,-118.2613927,$,168.0,4.5,90039,Los Angeles,black-elephant-coffee-los-angeles-2,"['coffee', 'salad', 'sandwiches']"
+rMPUk3S0KppytGvrsqmQ8g,34.1048199,-118.27272,$$,637.0,4.5,90027,Los Angeles,the-fix-burger-los-angeles,['burgers']
+poF-P1wBGKR0rNjCav_o1w,34.1428539,-118.2547951,$,607.0,4.5,91204,Glendale,philz-coffee-glendale,['coffee']
+KQZ8w5zpwzQIKKW9nfD9Bg,34.105472,-118.247701,$,106.0,5.0,90039,Los Angeles,frogtowns-gourmet-tacos-los-angeles-5,"['tacos', 'breakfast_brunch']"
+xE2cO8td-Xy7BVe1gxwXGg,34.1051892815553,-118.243668233677,$$,332.0,4.5,90039,Los Angeles,spoke-bicycle-cafe-los-angeles-3,"['coffee', 'breakfast_brunch', 'bikerentals']"
+z4aq88YHr8FVrM6oCqenmA,34.11802,-118.26142,$$,145.0,4.5,90039,Los Angeles,palette-food-and-juice-los-angeles,"['vegan', 'markets', 'gluten_free']"
+MzclD_A-6_hX9yNaB7b-AQ,34.1411234,-118.2579849,$$,655.0,4.5,91204,Glendale,r101-ramen-glendale,['ramen']
+tU-LWiCu9sncQpbyCl9eIQ,34.1137390136719,-118.235038757324,$$,569.0,4.0,90065,Los Angeles,verdugo-bar-los-angeles-3,"['lounges', 'musicvenues']"
+q98WlyRMyDbol-8l6xJkEA,34.1465013,-118.2469332,$$,459.0,4.5,91206,Glendale,creamy-spoon-french-bistro-glendale,"['french', 'breakfast_brunch', 'wine_bars']"
+yd0wUTFGSmkhgYEj-qfBWA,34.13328,-118.25743,$,475.0,4.0,91204,Glendale,papillon-international-bakery-glendale,['bakeries']
+ECxbZjmpDgyI2wCzwlnFeA,34.1437809,-118.2553149,$$,670.0,4.5,91210,Glendale,bacari-gdl-glendale-3,"['wine_bars', 'italian']"
+kCE2Y0q5igAkBlkL0HNF8g,34.1139857,-118.2537968,$,89.0,4.5,90039,Los Angeles,vinces-market-los-angeles,['sandwiches']
+vefEUesqmGP53JwBUG6fQg,34.1179437,-118.2606162,$$,409.0,4.0,90039,Los Angeles,atwater-village-tavern-los-angeles,"['mexican', 'bars']"
+E4cxyRbCKBR479g5lHewCw,34.1429336112168,-118.239794187248,$$,539.0,4.5,91205,Glendale,rockbird-glendale-5,"['chickenshop', 'tradamerican']"
+lfsfX9DQx1a2EFNpfHQrPg,34.11231,-118.24858,$$,328.0,4.0,90039,Los Angeles,curry-king-los-angeles,"['indpak', 'halal', 'pakistani']"
+JBo_m_MS83tNyj2wzZ2e5w,34.14106,-118.25826,$$,714.0,4.0,91204,Glendale,poke-n-roll-glendale-4,"['japanese', 'hawaiian', 'poke']"
+qqYU0ueZtsYO2vYWsM7YBQ,34.105159897289,-118.259571790695,$$,460.0,4.0,90039,Los Angeles,modern-eats-los-angeles,['breakfast_brunch']
+2BAnOPEzZMd64ahUxN4cpA,34.13094,-118.25819,$$,181.0,4.5,91204,Glendale,king-s-kitchen-glendale,"['mediterranean', 'newamerican', 'sandwiches']"
+N4pjPdbE4mM1THvdj5085w,34.1040697732704,-118.272939999995,$$,1141.0,4.0,90027,Los Angeles,barbrix-restaurant-and-wine-bar-los-angeles,"['wine_bars', 'tapasmallplates', 'newamerican']"
+SbtbiDJvI57tEfoH-kIAYg,34.1378498,-118.251091,$$,330.0,4.5,91205,Glendale,ameci-pizza-kitchen-glendale-glendale-2,"['pizza', 'italian']"
+5ozDBb5uJZZsLo4QCso1vA,34.11722,-118.26223,$,279.0,4.0,90039,Los Angeles,kaldi-coffee-los-angeles,['coffee']
+GyBDI4rDUar_j8hVs3VM8A,34.129374,-118.259861,$$,688.0,3.5,91204,Glendale,dinahs-chicken-glendale,"['chickenshop', 'tradamerican', 'hotdogs']"
+fGuyw9iJE2Sy-VGV_jjP6A,34.1234664916992,-118.267936706543,$$,721.0,3.5,90039,Los Angeles,the-bigfoot-lodge-los-angeles,['lounges']
+dN2NGyvzQN6mIuuvjZGRUg,34.14668,-118.23995,$$,567.0,4.5,91206,Glendale,lemon-zest-cafe-glendale-3,"['mediterranean', 'greek', 'kebab']"
+vAJxEj98SKCt_AOJxI6bEQ,34.1427476339728,-118.255254419442,$$$,944.0,4.0,91204,Glendale,bourbon-steak-glendale-6,"['steak', 'bars', 'tradamerican']"
+d-kAa_gsJr7Uis5hseK3jA,34.1357060550165,-118.263380358233,$$,177.0,5.0,91204,Glendale,the-atmosphere-glendale,"['mediterranean', 'hookah_bars', 'desserts']"
+VzDCWYpkzzpWa1s1E7M2Sg,34.10532,-118.27257,$$,849.0,4.0,90027,Los Angeles,hyperion-public-los-angeles-5,"['gastropubs', 'newamerican', 'breakfast_brunch']"
+7lKMFBCxBpwZlFcOtAqLgA,34.117043,-118.262428,$$,523.0,3.5,90039,Los Angeles,viet-noodle-bar-atwater-los-angeles,"['vietnamese', 'noodles']"
+H5EqviXSmiSXH-a_phw3ig,34.11655,-118.26295,$,319.0,4.0,90039,Los Angeles,crispy-crust-atwater-glendale-los-angeles,"['pizza', 'salad', 'chicken_wings']"
+6qgkl8eHaJ8DoRq0iFMLyw,34.1301612854004,-118.252136230469,$,506.0,4.0,91205,Glendale,taqueria-el-tapatio-glendale,['mexican']
+tpGyNaDsTYVZX_Mg0icolQ,34.092263,-118.280311,$$,1702.0,4.0,90029,Los Angeles,intelligentsia-coffee-los-angeles-4,['coffee']
+PK9bwd-vOUNFM7ef68rN8g,34.10851,-118.26806,$$$,498.0,4.0,90039,Los Angeles,blairs-restaurant-los-angeles,['italian']
+NdDDw2bz1YytVXzZ2rqEBg,34.1317325,-118.2524327,$,174.0,4.5,91205,Glendale,why-not-kabob-glendale,"['mideastern', 'mediterranean']"
+EYbE21-tQAt84Yfz8CMlBQ,34.1436429198616,-118.256382755119,$$,1270.0,4.0,91210,Glendale,trattoria-amici-glendale-2,['italian']
+h_R_5wD2zEd5R4sWjA9EtA,34.1088493,-118.2716819,$$,674.0,4.0,90027,Los Angeles,mixto-comida-latina-los-angeles-2,"['mexican', 'latin', 'salad']"
+ZLhWj4S_v6JeWVWdEqg6mA,34.0916898,-118.279471,$,900.0,4.5,90026,Los Angeles,pazzo-gelato-los-angeles,"['icecream', 'gelato']"
+qRIvkWkJFHTs9EQGWIzpgA,34.11764,-118.26177,$$,372.0,3.5,90039,Los Angeles,baracoa-cuban-cafe-los-angeles,['cuban']
+ElXryWSHhVWItl8Xtsl3aA,34.1234677855783,-118.268165759559,$$,436.0,4.0,90039,Los Angeles,giamelas-submarine-sandwiches-los-angeles,"['sandwiches', 'pizza', 'pastashops']"
+E9ddFN9dTC-QnMMhQmR_hQ,34.1446,-118.25461,$$,519.0,4.5,91204,Glendale,the-famous-glendale,"['bars', 'newamerican']"
+N4sbDFWKIPkZKgNs-A6BCg,34.1428476,-118.2366086,$$,589.0,4.5,91205,Glendale,pizza-boy-glendale,"['pizza', 'vegan', 'gluten_free']"
+lYVZgdGl1RylM6XjyAIZsQ,34.1373664,-118.2511911,$$,433.0,4.0,91205,Glendale,tarme-mediterranean-grill-glendale,"['mediterranean', 'lebanese']"
+pEntCG2PHetPlnkfz5Ao6w,34.1123580932617,-118.258865356445,$,50.0,5.0,90039,Los Angeles,lovecakes-los-angeles-2,"['cupcakes', 'bakeries', 'customcakes']"
+mYARoYlKTqGd0a9-1YxveA,34.1,-118.25885,$$,985.0,3.5,90039,Los Angeles,gingergrass-los-angeles,['vietnamese']
+xjCxjcW4O09pO3ETk2anoQ,34.1350070644262,-118.252066472783,$$,390.0,4.0,91205,Glendale,kabab-way-glendale,"['mideastern', 'mediterranean']"
+YFIRXIURuYpfPicOQ33ACw,34.1192398071289,-118.258995056152,$,297.0,3.5,90039,Los Angeles,sepan-chicken-los-angeles,"['mediterranean', 'mideastern']"
+BbUbfewbViDaZ_TcMWsG6Q,34.11633,-118.26201,$,427.0,3.5,90039,Los Angeles,el-buen-gusto-restaurant-los-angeles-2,['salvadoran']
+QBH718b8MK86RGmZVRedsA,34.11419,-118.24468,$,196.0,4.0,90065,Los Angeles,lupitas-tamales-los-angeles,['mexican']
+HXSp1lTVVO0I8uQVe6wP9Q,34.1460760673927,-118.247027337267,$,935.0,4.0,91205,Glendale,glendale-pho-co-glendale-4,['vietnamese']
+M15cUqjxn7xBD6onjCwUNw,34.1163625,-118.2622691,$$,359.0,3.5,90039,Los Angeles,indochine-vien-los-angeles-2,['vietnamese']
+X_QoHd32bFtUXOilyit44A,34.105764,-118.273017,$$,574.0,4.0,90027,Los Angeles,speranza-los-angeles,['italian']
+YH1OQLjQnpQZV1BIZgwxjQ,34.107629,-118.265871,$$,535.0,3.5,90039,Los Angeles,edendale-los-angeles,"['newamerican', 'cocktailbars']"
+U0Rp6zWvuSSBvupDY24BhA,34.1469282,-118.2537603,$$,1345.0,3.5,91206,Glendale,octopus-japanese-restaurant-glendale-2,"['japanese', 'sushi']"
+bi95XObe3hmrpYAu2eJxgQ,34.12422,-118.2665,$,324.0,4.0,90039,Los Angeles,the-roost-los-angeles,"['divebars', 'thai', 'chicken_wings']"
+fhtBoSbJC45QQ4rYrFHj6Q,34.0901908874512,-118.277725219727,$$$,1637.0,4.0,90026,Los Angeles,cliffs-edge-los-angeles,"['breakfast_brunch', 'newamerican', 'cocktailbars']"
+,,,,,,,,,['museums']
+t4W9SvZmYQhBM6jDEmeiKA,34.0912104093655,-118.279427202132,$$,1166.0,4.0,90026,Los Angeles,flore-vegan-cuisine-los-angeles-2,['vegan']
+TasEzt1Mdfm6EXGoZof38A,34.1429557800293,-118.23503112793,$,401.0,4.5,91205,Glendale,thai-food-express-glendale,['thai']
+mO9nAdFoVWX8F9C_tdi3cQ,34.1265363073434,-118.23221930728,$$,131.0,4.5,90065,Los Angeles,little-ripper-coffee-los-angeles,['coffee']
+rkdnTlmI3t2AUemfUaTj0g,34.14562,-118.25398,$$,658.0,4.0,91205,Glendale,kumadori-sushi-glendale-4,"['sushi', 'japanese']"
+9FDt9PxIZdXgH38ZruZHjQ,34.117635,-118.24818167,$$,106.0,4.0,90065,Los Angeles,corner-cuisine-los-angeles-13,['mediterranean']
+pDsQLimkCIDJpmAeRzLuqQ,34.1326942294836,-118.241955712438,$$,156.0,4.5,91205,Glendale,kafn-coffee-bar-glendale,['coffee']
+fqYODriMt8nF-WpiG-HEkA,34.0993799,-118.25958,$,745.0,3.5,90039,Los Angeles,cha-cha-lounge-los-angeles,"['lounges', 'newamerican']"
+uJ57E0C8_a-Lh3EsEMZuRQ,34.1424233093676,-118.243928477168,$,242.0,4.5,91205,Glendale,akkad-mediterranean-and-iraqi-grill-glendale-2,"['mideastern', 'mediterranean', 'sandwiches']"
+ssw9D1Q0rOEoc3Fx7hi5pg,34.117569,-118.2334213,$$,365.0,4.0,90065,Los Angeles,habitat-coffee-and-tea-los-angeles,"['breakfast_brunch', 'coffee', 'sandwiches']"
+yE2lmUXi-cfDY1gDhNpMdA,34.123891,-118.267133,$,509.0,3.5,90039,Los Angeles,india-sweets-and-spices-los-angeles,"['indpak', 'vegetarian', 'pizza']"
+Z4Tr_oS3XRxPbGiP8LgKJQ,34.1374028318587,-118.25808650762,$,193.0,4.5,91204,Glendale,mitzee-cafe-glendale,"['korean', 'cafes']"
+xzw8HmwAm9EWMOsF-K76fw,34.118824,-118.259368,$$,558.0,3.0,90039,Atwater Village,hugos-tacos-atwater-village,"['mexican', 'foodstands']"
+FPiXnOp-4lRRL-VUiOJXvQ,34.1427225315537,-118.254781092611,$$,1230.0,3.5,91204,Glendale,shake-shack-glendale,['burgers']
+Jj45PH87bBa_wP51JDSglQ,34.1465950012207,-118.246658325195,$,300.0,4.5,91205,Glendale,highlight-coffee-glendale,"['coffee', 'sandwiches']"
+70vdsYbr-BWUzak9RE3YOw,34.14411,-118.24869,$$,698.0,4.0,91205,Glendale,shiraz-glendale,"['mideastern', 'persian', 'mediterranean']"
+ohHAqz9VUXBiBLoEmGzCng,34.1445984,-118.2347337,$,586.0,4.0,91205,Glendale,taco-azteca-glendale-2,"['mexican', 'foodstands']"
+bhyaGTuJDfJcbSp7Mj-pJw,34.1081352233887,-118.271438598633,$$,283.0,4.0,90027,Los Angeles,say-cheese-los-angeles,"['cheese', 'sandwiches', 'cafes']"
+VvaPZ02O9BJPfJy3loEx_w,34.10507,-118.22997,$,310.0,4.0,90065,Los Angeles,division-3-los-angeles-2,"['coffee', 'breakfast_brunch', 'sandwiches']"
+psUltv3CP1oDasxKAtotng,34.0957642,-118.2284241,$,260.0,4.5,90065,Los Angeles,restaurante-tierra-caliente-los-angeles-3,['mexican']
+aKtzia5s7vecMycPXvkrfw,34.130916595459,-118.257377624512,$$$,61.0,5.0,91204,Glendale,renaissance-banquet-glendale-2,"['eventplanning', 'armenian']"
+45hAJsw3OuYH1NpSbQzt-w,34.109043,-118.271781,$$,119.0,4.5,90027,Los Angeles,standing-egg-coffee-los-angeles,['coffee']
+U87KuTIAMMYHqHUi2cruhg,34.11139,-118.24989,$,176.0,4.0,90039,Los Angeles,at-bangkok-los-angeles-5,['thai']
+cKp1cDlpJZFP529sHS894w,34.1430818428284,-118.256099219049,$$,339.0,4.0,91210,Glendale,bar-verde-at-nordstrom-glendale,"['newamerican', 'cocktailbars']"
+WYUZp-8IK2JiwbXS7SMlAg,34.14042,-118.25071,$$,546.0,4.0,91205,Glendale,karinas-cake-house-glendale,"['bakeries', 'cupcakes', 'desserts']"
+AOBWAGMvCBq7xMC3wQEHkQ,34.10597,-118.25611,$,437.0,3.5,90039,Los Angeles,ricks-drive-in-and-out-los-angeles-2,"['tradamerican', 'burgers']"
+jlKyBc0sy5tzv5BcORUNaQ,34.1443847,-118.2587378,$,195.0,4.5,91204,Glendale,enjoyer-glendale-3,"['icecream', 'vegan']"
+ka_8UdcfXaXjUdF8SMzE8A,34.1430404156944,-118.241988,$$,502.0,4.0,91205,Glendale,kanpai-ramen-glendale-4,"['ramen', 'bubbletea', 'poke']"
+L5eZArm-zHbCMgx-lg2dsA,34.1081472276243,-118.271613575263,$$,348.0,4.0,90027,Los Angeles,what-the-fish-los-angeles-5,"['sushi', 'seafood']"
+hfNl1MDTeGxuEBe7PN9_xg,34.1205338,-118.2579766,$$,78.0,4.5,90039,Los Angeles,thank-you-for-coming-los-angeles,"['tradamerican', 'breakfast_brunch', 'turkish']"
+E3FcxLk7-HQqbdQKr7cd0A,34.08929,-118.27693,$$,392.0,4.5,90026,Los Angeles,mh-zh-los-angeles,"['mediterranean', 'steak', 'tapasmallplates']"
+TZYQHRWHtzWeqM4XYFKUFQ,34.12591,-118.26336,$$,306.0,4.0,90039,Los Angeles,sizzler-los-angeles-3,"['seafood', 'steak', 'salad']"
+,,,,,,,,,"['hiking', 'recreation']"
+1bEFouiXiNo3I6vslUdZKA,34.1467089188584,-118.255266031214,$$$,265.0,4.5,91203,Glendale,sushi-sasabune-glendale,"['sushi', 'japanese']"
+cCnZVTCxtmhxH7NI5epRfg,34.1258010864258,-118.255325317383,$,279.0,3.5,91204,Glendale,gold-star-hamburgers-glendale-2,"['hotdogs', 'burgers', 'mexican']"
+RHYVZyNRnP-pIqo5MFQEmw,34.143226,-118.233953,$$,764.0,4.0,91205,Glendale,zankou-chicken-glendale,"['mediterranean', 'armenian', 'lebanese']"
+v_QZxQO1BCKzN-8Rnc_u_w,34.08929,-118.27693,$$,989.0,4.0,90026,Los Angeles,millies-cafe-los-angeles,"['diners', 'breakfast_brunch']"
+eEZ513RR5db2I3812xX39A,34.14222,-118.2651,$,299.0,4.5,91204,Glendale,toro-grillhouse-glendale-3,"['burgers', 'mexican', 'filipino']"
+r-k6MMbcQcTk6uRpPqeiBQ,34.1303579,-118.2610411,$$,84.0,4.5,91204,Glendale,ribs-against-the-machine-glendale,"['bbq', 'sandwiches', 'foodtrucks']"
+YiTl28mtpPc2CV9zgGkztw,34.14293,-118.23836,$$,412.0,4.0,91205,Glendale,kims-kitchen-glendale,['korean']
+IOlSdiYvH3hTNGLLIkq-Qw,34.144628,-118.2540883,$$,299.0,4.5,91205,Glendale,the-oak-and-vine-glendale,"['cocktailbars', 'tapasmallplates']"
+ALUAIZZrhELXUQIKfi52yA,34.08957,-118.24977,$$,375.0,4.0,90026,Los Angeles,pollen-los-angeles-2,"['breakfast_brunch', 'newamerican', 'beer_and_wine']"
+Wrz_e8wJbRb9K1QObKl9Og,34.145537,-118.254784,$,332.0,4.5,91204,Glendale,mediterranean-delight-glendale,"['greek', 'mediterranean']"
+26fIBSlQkaTa29uoKAvZOw,34.099915,-118.25892833,$$,332.0,4.0,90039,Los Angeles,burgers-never-say-die-los-angeles-2,['burgers']
+69tOUW61gu2s8mKICPZuvw,34.0998743,-118.259153,$,338.0,4.0,90039,Los Angeles,silverlake-coffee-los-angeles-2,"['coffee', 'breakfast_brunch']"
+_oQ9DYS22gCKCmjTurAVJw,34.1339480742169,-118.255205154419,$$,344.0,3.5,91205,Glendale,toasted-bun-glendale-2,"['breakfast_brunch', 'diners']"
+uij8dK2_5uWeujVolVkXKA,34.1045698,-118.2580665,$,194.0,4.0,90039,Los Angeles,guss-tacos-mexican-grill-los-angeles,"['mexican', 'foodtrucks']"
+IqQPyuiXjD_zV7sD4AnGiA,34.1423785,-118.2606413,$$,89.0,5.0,91204,Glendale,puro-humo-cigars-glendale,"['tobaccoshops', 'cigarbars']"
+vyd9To7lYmnDoTYw2fr-eA,34.142909,-118.235424,$,518.0,4.0,91205,Glendale,thai-touch-restaurant-glendale-2,['thai']
+3e9GNOPdQH6SRxSPkw2FTQ,34.0914091,-118.2792034,$$,784.0,4.0,90026,Los Angeles,forage-los-angeles,"['newamerican', 'salad', 'vegetarian']"
+VVbEoA9GAPB4H70wSnJy6A,34.1450399361161,-118.254895668223,$$,1459.0,3.5,91204,Glendale,vegas-seafood-buffet-glendale,"['buffets', 'seafood', 'sushi']"
+aXFFs7b_ipCNDjYwblXRYA,34.13108,-118.25132,$$,61.0,4.5,91205,Glendale,hamlets-kitchen-glendale,"['mideastern', 'armenian', 'bbq']"
+,,,,,,,,,"['coffee', 'juicebars']"
+BSwUqOtWkFhgz67t1cqs3g,34.1369789679261,-118.251635785495,$$,263.0,4.0,91205,Glendale,la-cubana-glendale,['cuban']
+3Vo90k-OyQMQ9mZR-qSVdw,34.09879,-118.27361,$,254.0,4.5,90027,Los Angeles,the-lyric-hyperion-theatre-and-cafe-los-angeles-2,"['cafes', 'beer_and_wine', 'breakfast_brunch']"
+RDPX9ODs53ZUoriZdjGg1g,34.1425519,-118.2355981,$$,355.0,4.0,91205,Glendale,burgerim-glendale-glendale,"['burgers', 'halal', 'chicken_wings']"
+vY1R7J9pkUU2Or38i451Og,34.1432103969043,-118.255326742853,$$,342.0,4.0,91210,Glendale,lemonade-glendale-6,"['newamerican', 'sandwiches']"
+zGvdECZ292t_dwLtmKdCNw,34.1203070063453,-118.258765626941,$,63.0,4.5,90039,Los Angeles,restore-cafe-los-angeles,"['coffee', 'juicebars', 'sandwiches']"
+2h8N26mDQvOdRDAXufWFFQ,34.1428539,-118.2547951,$$,624.0,3.5,91204,Glendale,eggslut-glendale-4,"['newamerican', 'breakfast_brunch']"
+Qdma-BmazPtkPC-qwLm73g,34.1151448,-118.2459233,$,54.0,4.5,90065,Los Angeles,pizza-la-los-angeles-2,"['pizza', 'chicken_wings']"
+7mE0KbALy4JKVldNq5wnGw,34.1123188,-118.2493008,$,211.0,3.5,90039,Los Angeles,el-amoroso-los-angeles-2,"['mexican', 'salvadoran']"
+VvA0nov49dmHETTJpDpIsA,34.144182426812,-118.255278803833,$$,1968.0,3.0,91210,Glendale,frida-mexican-cuisine-glendale-8,['mexican']
+qrIHMsZLOdKyLhq1o9UdAw,34.1066423,-118.2719916,$,281.0,4.0,90039,Los Angeles,meze-los-angeles-2,"['mediterranean', 'greek', 'kebab']"
+ZV_ilrKdvPjiKqftA-kOGg,34.1341585,-118.2405094,$$,384.0,4.0,91205,Glendale,arts-bakery-glendale-2,"['bakeries', 'cakeshop']"
+NBqw5G5Pm2qJwa1lVUmc9Q,34.14347,-118.255483,$$,274.0,4.0,91210,Glendale,pressed-juicery-glendale-2,"['juicebars', 'icecream']"
+GVt0MwAoQcuM06V_-fHkug,34.0583969,-118.1912081,$,1176.0,4.5,90063,Los Angeles,the-lobos-truck-los-angeles,"['foodtrucks', 'tradamerican', 'comfortfood']"
+OZ9LuAdbBjWyg4wWMg47tw,34.1442072503216,-118.257229364886,$$,1662.0,3.0,91210,Glendale,the-cheesecake-factory-glendale-2,"['desserts', 'tradamerican']"
+7uMwkbHjyUooBlMf7Ws9TQ,34.142466,-118.225757,$$,207.0,4.5,90041,Los Angeles,the-cloudy-garlic-los-angeles,"['hotdog', 'salad', 'tradamerican']"
+Un86hgN63rh1CyAA0aDYpQ,34.1233211,-118.2688757,$$,324.0,3.5,90039,Los Angeles,los-feliz-cafe-los-angeles-2,"['breakfast_brunch', 'burgers', 'sandwiches']"
+wPJZ7pLq4n8O4u5zGJlj_w,34.1175224,-118.2609917,$,165.0,3.5,90039,Los Angeles,coral-reef-chinese-restaurant-los-angeles,['chinese']
+cJSfXCJts3MtpGok3em36Q,34.1428526,-118.2441616,$$,569.0,4.0,91205,Glendale,hookah-lounge-glendale,"['lounges', 'hookah_bars', 'mediterranean']"
+PFuhkFVcq1kEjSjXjUgCyQ,34.1467745,-118.2540049,$$,207.0,4.5,91206,Glendale,khinkali-house-glendale,"['armenian', 'georgian', 'mideastern']"
+_1aQwjXmDLgfqQ3uHurKjg,34.1184800571439,-118.260909877717,$$,110.0,4.0,90039,Los Angeles,hail-mary-pizza-los-angeles,['pizza']
+2gowfKE-EviO3BIjxHP9Iw,34.1149749755859,-118.240303039551,$,77.0,4.5,90065,Los Angeles,gorditas-lupita-los-angeles,"['foodtrucks', 'tacos']"
+0ZPJsD5QbbDzSRcOS69rVw,34.12663,-118.26405,$$,360.0,3.5,90039,Los Angeles,souplantation-los-angeles-6,"['salad', 'vegetarian', 'buffets']"
+6jAUSJFZy70JJ3mHwzMTrg,34.144464,-118.255262,$$,576.0,3.5,91210,Glendale,the-tsujita-glendale-6,"['ramen', 'noodles']"
+TC6_GqiBjbGiXNaVGfZybw,34.126123,-118.264239,$$,636.0,3.0,90039,Los Angeles,mimis-bistro-bakery-los-angeles,"['breakfast_brunch', 'tradamerican', 'french']"
+kmQXBXdi9d-s_AdhOZFPIg,34.11419,-118.24468,$,64.0,4.5,90065,Los Angeles,abc-donuts-los-angeles-3,"['donuts', 'sandwiches', 'juicebars']"
+TmDZlfdPWgvQvXrZZcDiGA,34.09026,-118.26783,$$,138.0,4.5,90026,Los Angeles,the-silver-lake-house-los-angeles,"['thai', 'asianfusion']"
+oy2QsY6RpqrwxdzwnRHScw,34.145497,-118.254086,$$,761.0,3.5,91204,Glendale,ichiban-glendale,"['sushi', 'japanese']"
+PRb-eI7uG6j7hhIflIG24w,34.1459290201384,-118.25743317604,$,371.0,4.0,91210,Glendale,blaze-fast-fired-pizza-glendale-2,"['pizza', 'salad', 'hotdogs']"
+_JKZ9v9w_UjGfI9Ukb5IYg,34.122148,-118.225827331283,$$,262.0,4.0,90065,Los Angeles,kusina-filipina-los-angeles,"['filipino', 'seafood', 'breakfast_brunch']"
+,,,,,,,,,['amusementparks']
+cuQeL5alLr_UEjrSeQiPQQ,34.1447611,-118.2548151,$$,371.0,4.0,91204,Glendale,karas-glendale-4,"['bbq', 'pizza', 'burgers']"
+M_dSo9Idg2r5OTFxHp0PgQ,34.14153,-118.24937,$$,141.0,4.5,91205,Glendale,moon-mart-kabab-glendale,"['mideastern', 'persian', 'mediterranean']"
+aZDNqo30EgApA8f9Bcq_iw,34.11717,-118.26229,$$,131.0,4.0,90039,Los Angeles,the-juice-los-angeles,"['raw_food', 'juicebars']"
+j63ipopHrhHHnoy9Ac5m0g,34.0908699035645,-118.27921295166,$,565.0,4.0,90026,Los Angeles,tacos-delta-los-angeles,['mexican']
+Bjkw0oRy1STaCJmv5EZ0Mw,34.0905727,-118.2778757,$$,663.0,4.0,90026,Los Angeles,sawyer-los-angeles,"['newamerican', 'breakfast_brunch', 'seafood']"
+RdLz9GVW48pu2XmhrMsLUg,34.09745,-118.27499,$$,627.0,3.5,90027,Los Angeles,casita-del-campo-los-angeles,"['mexican', 'seafood', 'bars']"
+IIM4IwS-I6DRcMy3xBMsOg,34.1407775774849,-118.257578391174,$$,73.0,5.0,91204,Glendale,maksen-cake-house-glendale,"['desserts', 'customcakes', 'bakeries']"
+iCbVYeMyT45iPrBHrgz3oA,34.11759,-118.26067,$,121.0,4.0,90039,Los Angeles,club-tee-gee-los-angeles,['divebars']
+u5qdnHg6qnAWswWouJ69Qw,34.1330564,-118.2522139,$,142.0,4.0,91205,Glendale,sarkis-pastry-glendale,"['bakeries', 'mideastern', 'desserts']"
+CdZW3OZ3NeAeMVICOGsxsg,34.146833,-118.254664,$,649.0,3.5,91203,Glendale,the-halal-guys-glendale,"['halal', 'mideastern', 'sandwiches']"
+AOz-OHPggqpxk0VoycSeBQ,34.1429217843633,-118.234598929203,$,136.0,4.5,91205,Glendale,rincon-argentino-glendale-3,"['argentine', 'empanadas', 'intlgrocery']"
+fZt2vAYJEEYw94P6lddtgw,34.0921489105996,-118.280392260188,$$$,902.0,3.5,90029,Los Angeles,café-stella-los-angeles-2,"['french', 'cocktailbars', 'breakfast_brunch']"
+xH7qAmJbtiLCIKdHCOHvMg,34.092885676512,-118.281318144806,$$,532.0,4.0,90029,Los Angeles,4100-bar-los-angeles,"['divebars', 'cocktailbars']"
+U0hSS1xoqU4a5WVUZbbmyQ,34.12005,-118.25148,$,42.0,4.5,90065,Los Angeles,green-room-billiards-los-angeles-2,"['sportsbars', 'poolhalls']"
+o1YTg845iAw0hq0yfDeo7A,34.1442456388934,-118.255921576617,$$,1843.0,3.0,91210,Glendale,katsuya-glendale-glendale,"['japanese', 'sushi', 'venues']"
+k8eNszsCL8yHicSMA9loVA,34.14317,-118.23357,$,194.0,4.5,91205,Glendale,wongs-wok-glendale,['chinese']
+Auv41ZI3Rco6By1pUtEqlQ,34.1039347869618,-118.237738609314,$$,96.0,4.5,90065,Los Angeles,big-ants-bbq-los-angeles-2,['bbq']
+HN11c9eMQZs6rcYhDrRW4w,34.0908543,-118.2783261,$$,340.0,4.0,90026,Los Angeles,33-taps-silver-lake-los-angeles-2,"['sportsbars', 'breakfast_brunch', 'gastropubs']"
+2V6TNK0HdvjPA_Dk4LypXA,34.106028,-118.27328,$$,92.0,4.5,90027,Los Angeles,trophy-wife-bar-los-angeles,"['sportsbars', 'breakfast_brunch', 'burgers']"
+1xXS0mxzoCJr3BZccn96Mg,34.1329825,-118.2623906,$$,112.0,4.5,91204,Glendale,old-gyumri-restaurant-glendale,"['armenian', 'russian']"
+fJX1BugBIOPQCFF_yVPbgw,34.1400728,-118.2337507,$$,280.0,4.0,91205,Glendale,verdugo-pizza-glendale,"['pizza', 'gluten_free', 'pastashops']"
+uIzdHpMiDYml1UJjtFxx9Q,34.14238,-118.24721,$,339.0,4.0,91205,Glendale,lucys-pizza-and-burgers-glendale,"['burgers', 'pizza', 'italian']"
+OrvyEKOIsBqlCV-CfxHbOQ,34.13513,-118.25823,$,184.0,4.0,91204,Glendale,shawarma-factory-glendale,['mideastern']
+ZS9_vLoTYJLAYbur3WP_SQ,34.133056640625,-118.251472473145,$$,49.0,4.5,91205,Glendale,varoujs-kabobs-glendale,"['mediterranean', 'lebanese']"
+I5seatE2nst92KQ1yK5mGg,34.1320782797567,-118.254520421341,$,120.0,4.0,91204,Glendale,rainbow-sushi-and-teriyaki-glendale,"['japanese', 'sushi']"
+SxwwTIDtuGkm2doMkC9g9g,34.108214,-118.271592,$,35.0,5.0,90027,Los Angeles,hyperion-gelato-los-angeles-2,"['gelato', 'icecream', 'juicebars']"
+8yyVeK0RjNe0-7j9ozoeLg,34.1202523,-118.2580874,$$,48.0,4.0,90039,Los Angeles,sepan-banquet-hall-los-angeles,"['venues', 'newamerican']"
+mVF8JEumvPZMsvkvvL7fWA,34.1234321594238,-118.268005371094,$,134.0,4.0,90039,Los Angeles,sun-hai-inn-los-angeles,['chinese']
+1u3ofhqf9zD4T6fTL7UGfg,34.1424560546875,-118.230560302734,$$,366.0,4.0,91205,Glendale,scarantinos-italian-inn-glendale,"['italian', 'pizza']"
+VbnCeyjlBrgmZAr4gsBMaw,34.1072915908488,-118.254635373417,$$,107.0,4.0,90039,Los Angeles,zebulon-los-angeles-2,"['musicvenues', 'cocktailbars']"
+HE8yOk2Ty25InmpStznKMw,34.10272,-118.2366,$,64.0,4.5,90065,Los Angeles,taqueria-la-guadalupana-los-angeles-2,"['mexican', 'foodtrucks']"
+3bP5CU6hMWdlhZc1jpae5w,34.13527,-118.24425,$$$$,35.0,5.0,91205,Glendale,chubby-cheek-cakes-glendale-2,"['desserts', 'bakeries']"
+,,,,,,,,,"['japanese', 'noodles']"
+eOjEbkiOciSZ-SKAjsPdKw,34.1465733640631,-118.255228923803,$,142.0,4.5,91203,Glendale,la-goccia-espresso-bar-glendale,['coffee']
+zGtynbEDAasMNrCo89Hcew,34.1455933391755,-118.255410833205,$,345.0,4.0,91204,Glendale,in-n-out-burger-glendale-2,"['burgers', 'hotdogs']"
+ve58x--7f44p4fYHV9zWDA,34.1423376,-118.2619206,$$,256.0,4.0,91204,Glendale,sista-marys-soul-food-glendale-2,"['soulfood', 'breakfast_brunch', 'sandwiches']"
+xjtuHD3-hHe2M_oYsP5GcA,34.1254094038924,-118.265204839695,$,37.0,4.5,91342,Los Angeles,viva-taco-azteca-original-los-angeles,"['foodtrucks', 'mexican']"
+6hf7Ju4aJ9zOrh4O7lfO2g,34.12932,-118.25957,$,71.0,4.0,91204,Glendale,el-ruby-cafe-glendale,['mexican']
+jQRuQA8nPXjOM1bKo4isXQ,34.1111221313477,-118.250137329102,$,61.0,4.0,90039,Los Angeles,fosters-freeze-los-angeles-2,"['icecream', 'burgers', 'tradamerican']"
+n3OgzOZv9aXlseq4DlZdGw,34.1332413871081,-118.257398134234,$,39.0,4.5,91204,Glendale,chefs-bbq-glendale,"['pizza', 'bbq', 'armenian']"
+BrJnK2QyM89EU10djBmqcA,34.14003,-118.25001,$,251.0,3.5,91205,Glendale,troys-drive-in-6-glendale,['hotdogs']
+,,,,,,,,,['parks']
+QADDG3waUFFqhjnSn_qfsA,34.092097,-118.279745,$$,462.0,4.0,90029,Los Angeles,the-black-cat-los-angeles,"['newamerican', 'cocktailbars', 'venues']"
+,,,,,,,,,"['petstore', 'aquariums']"
+7OB7_6gaeOLXSLvaJFxTAA,34.142254,-118.242294,$$$,47.0,5.0,91205,Glendale,royal-cakes-and-designs-glendale-2,"['eventplanning', 'desserts']"
+vAGszIli2pkHf_0HolmLmw,34.10596,-118.27281,$$,209.0,4.0,90027,Los Angeles,mi-corazon-los-angeles,"['mexican', 'breakfast_brunch', 'cocktailbars']"
+RPlpi0SE_WncYFAWseYulQ,34.1436571455163,-118.268347429973,$,67.0,4.5,91204,Glendale,hot-dogs-depot-glendale-3,"['hotdog', 'sandwiches']"
+F6_jtuyHa7YDRa-90a3bVw,34.1446115640827,-118.256320953369,$,251.0,4.0,91210,Glendale,potato-corner-glendale-4,"['gourmet', 'hotdogs', 'chicken_wings']"
+cVqPQIalLhoh-m4CjXpXCw,34.1046006231501,-118.25810236724,$,127.0,3.5,90039,Los Angeles,guss-lunch-box-los-angeles-4,['mexican']
+8I7alvAKk2-y49KNw77IfQ,34.1424612,-118.2325087,$$,330.0,4.0,91205,Glendale,fu-house-glendale-2,"['chinese', 'sushi']"
+,,,,,,,,,"['newamerican', 'breakfast_brunch', 'wine_bars']"
+z0gLF_IbpB8jcbfaCegnbg,34.1443874,-118.2575016,$$,529.0,3.5,91210,Glendale,sprinkles-cupcakes-and-ice-cream-glendale-2,"['cupcakes', 'bakeries', 'desserts']"
+2w7pMH5RBoZPDvluSTchTw,34.1466232647055,-118.262607174622,$,200.0,4.0,91204,Glendale,lucky-7-pizza-glendale,"['pizza', 'sandwiches', 'burgers']"
+iCVK2meVbQeRkQ9TLxWxGg,34.104563,-118.258754,$$,363.0,3.0,90039,Los Angeles,astro-family-restaurant-los-angeles,"['diners', 'tradamerican', 'breakfast_brunch']"
+J50DHUSmmWEu4FEvD-eT3w,34.119838,-118.227055,$,90.0,4.0,90065,Los Angeles,matsuri-bowl-los-angeles-3,['japanese']
+yy6HIDpS1lwxjY_VmFC-mQ,34.089478,-118.26812,$$$,456.0,3.5,90026,Los Angeles,alimento-los-angeles-2,['italian']
+ZgRYBdvRE0eZE14En11GbQ,34.14459,-118.25458,$$,199.0,4.0,91204,Glendale,underdogs-glendale,"['sportsbars', 'pubs', 'tradamerican']"
+ToruEYFFhf_FuFB9ZOxB5Q,34.1445960789665,-118.255334548271,$$,138.0,4.0,91210,Glendale,capital-one-café-glendale-3,"['coffee', 'banks']"
+Puj8VvWz0JngoEhcKCEGJA,34.1440754,-118.2556802,$$,444.0,3.5,91210,Glendale,le-pain-quotidien-glendale-2,"['coffee', 'breakfast_brunch', 'bakeries']"
+vwoUUN1BA8-Dnh2vj70M4w,34.1425151,-118.2437534,$,205.0,4.0,91205,Glendale,sing-woo-kitchen-glendale,['chinese']
+ck-GJ9RYUiFUFFGHnijvqQ,34.1069858035144,-118.271935303272,$$,75.0,4.5,90039,Los Angeles,jersey-mikes-subs-los-angeles-28,"['sandwiches', 'hotdogs', 'delis']"
+bMvq6Wvo3UuGQ9X0C5dm_Q,34.1327799,-118.25246,$,90.0,4.0,91209,Glendale,taron-bakery-glendale,['bakeries']
+OPPhMsOtXu20qZ6sOeYJ_g,34.1436722808643,-118.255919292569,$$,345.0,3.5,91210,Glendale,delucas-italian-deli-glendale-2,"['italian', 'delis', 'sandwiches']"
+zpRDtNfGOGLS54pwImjdzg,34.143568,-118.256547,$$,139.0,4.0,91210,Glendale,ombra-glendale,"['wine_bars', 'diners', 'cocktailbars']"
+rfE_dPmMt3vjpH2YYDgcBA,34.14317,-118.23357,$,192.0,4.0,91205,Glendale,baklava-factory-glendale,['desserts']
+zO6oXt908Yp0XM5rxUzA5g,34.1335249,-118.26873,$,67.0,4.5,90039,Los Angeles,la-villa-cafe-los-angeles-2,"['mexican', 'cafes']"
+KtQN4hJ0RjJkMyvpIeQ1fA,34.146969,-118.255467,$$,1046.0,3.0,91203,Glendale,bjs-restaurant-and-brewhouse-glendale,"['newamerican', 'breweries', 'pizza']"
+H3gvPk4En85iPdN4VfzMqQ,34.13709,-118.2573,$,102.0,4.0,91204,Glendale,anas-kitchen-glendale-2,['mexican']
+hagTEXx6TQqcT6d_2gz_5w,34.0930290222168,-118.281455993652,$,63.0,5.0,90029,Los Angeles,richs-bbq-los-angeles,['bbq']
+mdPdWJvKCpOJhMqrFiQqWw,34.0907745,-118.2779437,$$,382.0,3.5,90026,Los Angeles,kettle-black-los-angeles,"['italian', 'wine_bars', 'breakfast_brunch']"
+pdC1c2gJr4FY7_0-4Zjn_A,34.145235399229,-118.254244787689,$,175.0,4.0,91204,Glendale,its-boba-time-glendale,"['shavedice', 'coffee', 'juicebars']"
+iwmQihGlPz6O3aKBV9P7Dg,34.1285259,-118.2592154,$,91.0,3.5,91204,Glendale,the-original-slyder-house-glendale,"['burgers', 'hotdogs']"
+,,,,,,,,,"['desserts', 'icecream', 'korean']"
+ZDB12Cy1UgwEMYUH424OWg,34.1018,-118.24317,$$,75.0,4.0,90039,Los Angeles,la-colombe-frogtown-los-angeles,['coffeeroasteries']
+ilVomKZpoG8uid24dYIRLw,34.1465401937672,-118.256184576721,$$,340.0,3.5,91204,Glendale,islands-restaurant-glendale,"['burgers', 'sportsbars', 'tradamerican']"
+kzsFMwDxA5U2M3C3QtGaNA,34.09094,-118.27802,$$,247.0,4.0,90026,Los Angeles,kombu-sushi-and-sake-los-angeles,"['japanese', 'sushi']"
+5CU9stwc0OF7SQ0LfKRqWA,34.1051902,-118.2384062,$,222.0,3.5,90065,Los Angeles,patras-charbroiled-burgers-los-angeles,['burgers']
+,,,,,,,,,['chinese']
+,,,,,,,,,"['popuprestaurants', 'tradamerican', 'chickenshop']"
+XRbyfQZ7nWwJCOjRC8EW-g,34.09845,-118.2751,$,111.0,4.0,90027,Los Angeles,ô-banh-mi-los-angeles,"['vietnamese', 'sandwiches', 'coffee']"
+GUFMf_JEAP6mDeNRy8TKBw,34.107956,-118.272593,$$$,201.0,3.5,90027,Los Angeles,gelsons-market-los-angeles-3,"['grocery', 'delis', 'wine_bars']"
+ORNMI0rGniEqb0AsTCPraw,34.1166727,-118.2627424,$,140.0,3.0,90039,Glendale,boba-loca-glendale-2,"['coffee', 'bubbletea', 'juicebars']"
+,,,,,,,,,"['latin', 'seafood', 'bars']"
+EW4aYD6GgQQI70bG1nxjew,34.1319623355469,-118.254643476951,$,62.0,4.0,91205,Glendale,brand-grill-glendale,"['delis', 'armenian', 'mediterranean']"
+t4jEP89lVU3bfoTGV0q2vQ,34.1460301693658,-118.258545313573,$$,111.0,4.0,91210,Glendale,creamistry-glendale,"['desserts', 'icecream']"
+DwPf8dkC0xjdqcmUznf6OQ,34.1467437744141,-118.25464630127,$$,207.0,4.0,91203,Glendale,royal-vanak-glendale-2,"['persian', 'mideastern', 'hookah_bars']"
+Elt1_91j87F4ePzGPWZJ9Q,34.144812,-118.248078,$$,498.0,3.0,91205,Glendale,thai-original-bbq-glendale,"['thai', 'bbq']"
+,,,,,,,,,['golf']
+dKil1FUnzT5_0_GDiAmb2w,34.1466064453125,-118.249588012695,$,95.0,4.0,91205,Glendale,hot-spot-cafe-and-pizzeria-glendale-2,"['pizza', 'cafes']"
+GmudaM7OiTp4WnNTCpELVQ,34.140075,-118.2337509,$$,201.0,3.5,91205,Glendale,indra-restaurant-glendale,['thai']
+gu6Eu1fbOT-srq0Bhp3ggg,34.1161139,-118.262517,$,200.0,2.5,90039,Los Angeles,dunkin-los-angeles-8,"['donuts', 'coffee']"
+Lucc8Er7O8BGBfRTkAi56Q,34.1073546687631,-118.237945474684,$,39.0,4.5,90065,Los Angeles,el-taco-feliz-los-angeles-2,"['mexican', 'foodstands']"
+qmNUsjhEmM1xIv-xtWNpPw,34.0906793,-118.2771723,$$,108.0,4.5,90026,Los Angeles,roo-coffee-los-angeles-2,"['coffee', 'breakfast_brunch', 'cafes']"
+FjeJOpiweItEdygOyv-49A,34.107774,-118.273139,$$,84.0,4.0,90027,Los Angeles,juice-crafters-los-angeles-15,"['juicebars', 'breakfast_brunch', 'vegan']"
+lIciD_8H5AsKn-8TYZVNmw,34.1060199,-118.2728416,$$,102.0,4.0,90027,Silver Lake,the-friend-silver-lake,['cocktailbars']
+JDXIkp_g-NaslFvIMcWhhw,34.132421384954,-118.252450012369,$$,140.0,3.5,91205,Glendale,shakeys-pizza-parlor-glendale-2,"['pizza', 'buffets']"
+B5UgrCUNqREq5-0fidGb4A,34.0915844177706,-118.279859684408,$,127.0,4.0,90029,Los Angeles,la-colombe-los-angeles,['cafes']
+1_erH4O4st6ByfuLxE-d1Q,34.12213,-118.22559,$,115.0,3.5,90065,Los Angeles,la-esquina-restaurant-los-angeles-2,"['salvadoran', 'mexican']"
+jDkDrZ5PF7CSolAIfaQUrg,34.0953941345215,-118.231010437012,$,31.0,5.0,90065,Los Angeles,tacos-la-morenita-los-angeles-3,"['tacos', 'foodstands']"
+JJwFfIdILacHFTfvKLXgVQ,34.119594,-118.227739,$,77.0,4.0,90065,Los Angeles,auntie-dees-pan-de-manila-los-angeles,"['bakeries', 'filipino']"
+KnxOIeOwjZ7atvjUL2KTNQ,34.131364,-118.251562,$$,34.0,4.5,91205,Glendale,bliss-restaurant-glendale-3,"['armenian', 'seafood', 'mediterranean']"
+yFEqBhIr_YtAibpyBzQKtw,34.0893594018348,-118.268309100123,$$,160.0,4.0,90026,Los Angeles,yakuza-sushi-los-angeles-3,"['sushi', 'japanese', 'wine_bars']"
+,,,,,,,,,"['newmexican', 'tacos']"
+f_Xa1nG7aHNSiVdFEVByYA,34.14298,-118.23556,$,113.0,4.0,91205,Glendale,el-munchies-glendale-2,"['mexican', 'icecream', 'desserts']"
+,,,,,,,,,['dog_parks']
+,,,,,,,,,['parks']
+w80cICInXuhpoNB1-iiQjQ,34.145065204175,-118.258929561308,$,205.0,3.5,91210,Glendale,bibigo-glendale-6,['korean']
+SzlQTdwUCgkz3DGHAky0tQ,34.1437313115495,-118.255366086959,$,131.0,3.5,91210,Glendale,the-coffee-bean-and-tea-leaf-glendale-2,['coffee']
+0Af05DlvB8p3Jfu3xSQXQQ,34.1227,-118.22506,$,84.0,4.0,90065,Los Angeles,angel-s-tijuana-tacos-los-angeles,"['streetvendors', 'tacos']"
+4WiBd4Kb9YsjQLizhT37Gg,34.14234,-118.261921,$,36.0,4.5,90057,Los Angeles,marys-food-los-angeles,"['mexican', 'foodtrucks']"
+s9Q15qTNu5S2JO1bVur60w,34.103217,-118.237169,$,85.0,4.0,90065,Los Angeles,tacos-la-fonda-los-angeles,['mexican']
+HAjDTbmdxias_DFGkuPYIA,34.135007,-118.258126,$,235.0,3.0,91204,Glendale,starbucks-glendale-12,['coffee']
+ecNpUUOka0UR__k1LBkFlw,34.144793,-118.254402,$$$,41.0,4.5,91205,Glendale,veranda-restaurant-glendale-2,"['mediterranean', 'modern_european', 'venues']"
+hZ43sHIILjIarp8z_7z67g,34.127229,-118.258031,$,44.0,4.0,91204,Glendale,starbucks-glendale-58,['coffee']
+sDFS4nYIBhlFi3Xzo_6OaQ,34.12462,-118.2657,$,42.0,4.0,90039,Los Angeles,el-flamin-taco-los-angeles-12,"['foodtrucks', 'mexican']"
+x7k1MbMu6akN0oZK1MUvTw,34.1335549,-118.2659517,$,62.0,4.0,90039,Los Angeles,la-azteca-los-angeles-2,['mexican']
+lEy-BF6tkqwxhsM3BXVXhw,34.1151605,-118.2459383,$,59.0,3.5,90065,Los Angeles,egg-roll-king-los-angeles,['chinese']
+r5z9gSZvKcDgu7PU8T59pA,34.14236,-118.24345,$,105.0,4.0,91205,Glendale,soo-good-lutong-pinoy-glendale,['filipino']
+0MN-gzeV_6cixnU92FC7Hg,34.09409,-118.226471,$,321.0,3.5,90065,Los Angeles,king-taco-los-angeles-13,['mexican']
+,,,,,,,,,['golf']
+aMtiY5593uurWW6AF2SccA,34.117743,-118.248605,$,9.0,5.0,90065,Los Angeles,action-cookies-los-angeles,['bakeries']
+BSwjpBfATKPnhRGOmCf6vg,34.089882,-118.2682356,$$,180.0,3.5,90026,Los Angeles,the-satellite-los-angeles,"['bars', 'musicvenues']"
+T2bY5PNmMX3LPXdVeWp4-A,34.126618,-118.263554,$$,115.0,3.0,90039,Los Angeles,starbucks-los-angeles-143,['coffee']
+fl6RC6MMp-b4QZoGuAzdhA,34.0906362156233,-118.27773001045,$$,326.0,3.5,90026,Los Angeles,el-condor-los-angeles,['mexican']
+D-Adpn2oSmg68Z6NgCCz9Q,34.1426942726247,-118.235065720749,$$,119.0,4.0,91205,Glendale,sushi2u-glendale-2,['sushi']
+Noc2JkGidcR3PFOg54qXxA,34.145589,-118.254626,$$,93.0,4.0,91204,Glendale,poké-bar-glendale-3,"['poke', 'seafood', 'hawaiian']"
+eEpvCtDpzg__Ceeqk_qYqQ,34.09045,-118.27699,$,108.0,4.0,90026,Los Angeles,united-bread-and-pastry-los-angeles,"['bakeries', 'filipino']"
+iL8MyuLn1CdZb6Y9i-2eLw,34.08948,-118.25886,$$,217.0,3.5,90026,Los Angeles,spain-restaurant-los-angeles-2,"['spanish', 'argentine']"
+GZuAHjxC_7An0HAWkro_gw,34.108896461737,-118.27169986142,$,127.0,3.5,90027,Los Angeles,pinkberry-los-angeles-27,['icecream']
+llK72lv17IBhdRLklRD0IA,34.1448863211896,-118.254895668322,$$,107.0,4.0,91205,Glendale,rolling-factory-glendale-2,['icecream']
+abspBF9SSbLZtDKFfPONLg,34.1400146484375,-118.254653930664,$$,72.0,4.0,91204,Glendale,fresco-ristorante-glendale,['italian']
+CWLgVycWXVuYFpKp27KvbQ,34.124955,-118.26513,$,166.0,3.0,90039,Los Angeles,del-taco-los-angeles-6,['hotdogs']
+,,,,,,,,,['localflavor']
+lT91vvYBo4poj0Zjz-oW1Q,34.1438523687662,-118.257093,$$,143.0,3.5,91210,Glendale,the-pie-hole-glendale,"['desserts', 'coffee']"
+sVw7ZQEr0Ea8j8a8uvly3Q,34.1448081552387,-118.259022541118,$,121.0,3.5,91210,Glendale,stone-oven-glendale-2,"['sandwiches', 'salad']"
+LHjcsfHV8ipStVh0bK5VoA,34.1425151,-118.2436655,$,89.0,3.5,91205,Glendale,red-ribbon-bakeshop-glendale,"['bakeries', 'hotdogs', 'filipino']"
+pmtajumQ1NKljcPuIYZQFg,34.1463851718627,-118.253951442222,$,494.0,3.0,91205,Glendale,king-taco-glendale-3,['mexican']
+KqBA4IFH0JHDpDK1WLDkXQ,34.143028789524,-118.247378468513,$,40.0,4.5,91205,Glendale,sasoun-bakery-glendale-2,"['bakeries', 'mediterranean']"
+6MWElD7t-Gz17452OlFy9Q,34.10468,-118.2375,$,27.0,4.5,90065,Los Angeles,tortilleria-la-california-los-angeles,"['bakeries', 'newamerican', 'mexican']"
+sJ-78DoiZPngg53vMrKg_Q,34.1164775,-118.262908,$,71.0,3.0,90039,Los Angeles,starbucks-los-angeles-64,['coffee']
+Wpdx2cB_xRTktfzi5LyRdQ,34.13005,-118.25284,$,63.0,3.5,91205,Glendale,kings-pizza-glendale-2,['pizza']
+v4uT__sM7YZA7fCDzmYFYA,34.0894171500353,-118.27683952415,$,162.0,3.5,90026,Los Angeles,matchabar-los-angeles,"['coffee', 'vegan', 'breakfast_brunch']"
+xCjRDWK8z4s97jvb4yAFiQ,34.1429634094238,-118.24828338623,$,143.0,3.5,91205,Glendale,flor-de-cafe-bakery-glendale,['bakeries']
+ga1GBiOnCTgRAYwx1j3dyQ,34.151939,-118.361105,$,120.0,4.5,91602,Los Angeles,tacos-palacios-los-angeles-4,"['tacos', 'foodtrucks']"
+uD4jQJd6J3psFIkdduodug,34.1062467715253,-118.272330009766,$$,91.0,3.5,90027,Los Angeles,square-one-silverlake-los-angeles,"['tradamerican', 'coffee', 'breakfast_brunch']"
+,,,,,,,,,['artmuseums']
+,,,,,,,,,"['museums', 'arttours', 'kids_activities']"
+Nq2YZfdbG9pCgZTJqhteDg,34.1142369,-118.245555,$,256.0,2.0,90065,Los Angeles,dennys-los-angeles-9,"['diners', 'breakfast_brunch', 'tradamerican']"
+q54b_YSNpYJv-wpeVZwvRg,34.1008796691895,-118.235191345215,$,32.0,4.5,90065,Los Angeles,salvamex-los-angeles-2,"['mexican', 'salvadoran']"
+o6rF7tsd6o27Di0uLJYAaw,34.145086612653,-118.258965611458,$$,304.0,3.0,91210,Glendale,massis-kabob-the-original-kabobery-glendale-4,"['mideastern', 'mediterranean', 'persian']"
+FuYnVWp3jirjUriaYIl2Pg,34.1461751,-118.246648,$,134.0,3.5,91205,Glendale,daves-on-broadway-glendale,"['divebars', 'karaoke', 'musicvenues']"
+LV5m8rRmE0Jx2Or5CA4nrg,34.1449960461459,-118.2549452,$,77.0,4.0,91204,Glendale,better-fresh-burger-glendale-2,"['breakfast_brunch', 'burgers', 'hotdogs']"
+O7FjiWCKHe5XAlnTRvzDaA,34.104063,-118.2590007,$,113.0,3.0,90039,Los Angeles,starbucks-los-angeles-91,['coffee']
+sIJyVqz8yb3Y2RM9WU2fYw,34.128357,-118.25972,$$,138.0,2.5,91204,Glendale,mariscos-mi-lindo-sinaloa-glendale,"['seafood', 'mexican']"
+AvTXxpwt7Fn14XxmedVh6Q,34.11964,-118.227455,$,51.0,4.0,90065,Los Angeles,little-ongpin-eagle-rock-los-angeles,"['filipino', 'chinese']"
+DtGKN2OaCK5ES6bkkh4RjA,34.1449294,-118.2595651,$,67.0,4.0,91210,Glendale,wafflejack-glendale,['waffles']
+gHPV7TYuCmEQPk7Yjk0QMA,34.1463588,-118.239982,$,70.0,4.0,91205,Glendale,the-lahmajune-factory-glendale-2,"['bakeries', 'armenian', 'pizza']"
+TfVLSE9Uc3d76h1de9qesg,34.11549167,-118.24595333,$,53.0,3.0,90065,Los Angeles,waba-grill-los-angeles-14,"['hotdogs', 'asianfusion']"
+cklgVsBdpeXEl5A7_YF3GA,34.1434296470568,-118.255934224403,$,69.0,4.0,91210,Glendale,nordstrom-ebar-artisan-coffee-glendale,['coffee']
+,,,,,,,,,['thai']
+KwCq01tHFRaaTbnCeshrGg,34.14312,-118.23293,$,159.0,3.5,91205,Glendale,arko-foods-international-glendale,"['grocery', 'filipino', 'seafood']"
+aJsbqYiSLAz911PaKsexmA,34.1253700256348,-118.231422424316,$,61.0,3.5,90065,Los Angeles,totos-lechon-manok-los-angeles,['filipino']
+LeMJmGimHkEiKp7DWQd6kg,34.126681,-118.263381,$$,127.0,3.0,90039,Los Angeles,california-roll-and-sushi-los-angeles-4,"['japanese', 'sushi']"
+u7nGcTKVEIfEIQzFS3I8VA,34.10418,-118.237868,$,34.0,4.0,90065,Los Angeles,donut-factory-los-angeles-2,"['donuts', 'coffee']"
+VBovDBeqr-cxwAqeUGs2aA,34.14311,-118.24937,$,273.0,3.0,91205,Glendale,wingstop-glendale-3,['chicken_wings']
+,,,,,,,,,"['coffee', 'foodtrucks']"
+,,,,,,,,,"['foodtrucks', 'vegan']"
+QNGPjHCQyFlUIx2y70fitg,34.1412013773296,-118.225020404893,$,195.0,3.0,90041,Los Angeles,jollibee-los-angeles-2,['filipino']
+bVDRKbPpKp0kUGWmORyHow,34.1195569851985,-118.227978693748,$,72.0,3.5,90065,Los Angeles,lutong-bahay-los-angeles-2,"['grocery', 'filipino']"
+jSylK2YBLd2wGm-v4E0pIw,34.09836,-118.27517,$,75.0,3.5,90027,Los Angeles,hyperion-tavern-los-angeles,"['divebars', 'pubs']"
+9iju2Mdk_qoKeS-qhKH95Q,34.1327744,-118.2415555,$$,48.0,3.5,91205,Glendale,adams-kabob-house-glendale,"['mediterranean', 'greek']"
+,,,,,,,,,"['bakeries', 'catering']"
+PCXnEHlZSSCU9R06yjLvvQ,34.142606,-118.235103,$,218.0,3.0,91205,Glendale,starbucks-glendale-54,['coffee']
+,,,,,,,,,"['tradamerican', 'pubs']"
+BJ7vdfiuzktyDeOtV6tfGg,34.1448756870331,-118.254682889024,$$,488.0,2.5,91205,Glendale,buffalo-wild-wings-glendale-5,"['chicken_wings', 'sportsbars', 'tradamerican']"
+,,,,,,,,,['localflavor']
+,,,,,,,,,"['parks', 'venues']"
+ZRvPqGOFwfyUFYUfj0Q-cg,34.1450261218035,-118.259265013039,$$,125.0,3.5,91203,Glendale,la-vaca-brazilian-grill-glendale-3,"['brazilian', 'steak', 'bbq']"
+,,,,,,,,,"['icecream', 'bubbletea', 'acaibowls']"
+hMAIF7aHCV9Hzz2o5cr6NA,34.1465841635881,-118.271506614983,$,77.0,4.0,91204,Glendale,burgers-and-all-glendale,['burgers']
+,,,,,,,,,"['parks', 'walkingtours']"
+6r-bBzNMCFBiaJyn99tp9w,34.102664,-118.2359185,$$,62.0,3.5,90065,Los Angeles,tres-palmas-los-angeles,"['mexican', 'seafood']"
+3QRRptCEfjUtnDnZ4jTzMA,34.0039082,-118.2818791,$,132.0,4.0,90037,Los Angeles,tacos-los-carnalillos-taco-truck-los-angeles-2,"['mexican', 'foodtrucks']"
+RalYlLHfgQl3rXtPFdOPig,34.126444056905,-118.263958692961,$,92.0,3.0,90039,Los Angeles,baja-fresh-los-angeles-13,"['mexican', 'tex-mex', 'hotdogs']"
+kztekKvGrR4KgMWLvEPpEA,34.1345531,-118.2403879,$,34.0,4.0,91205,Glendale,the-david-brothers-chili-parlor-glendale,['tradamerican']
+ym7h0cxvEYErVqJkaxCYaQ,34.1449091910265,-118.255236234781,$,105.0,3.5,91210,Glendale,jersey-mikes-subs-glendale-4,"['sandwiches', 'hotdogs', 'delis']"
+,,,,,,,,,"['bakeries', 'desserts']"
+,,,,,,,,,['parks']
+Yc8a3ZxdLyL_Cm1Vkarl4g,34.143726348877,-118.248168945312,$$,62.0,3.5,91205,Glendale,golden-fork-glendale,"['newamerican', 'russian']"
+ssa4LeQ9boadZnxk99ULNA,34.1421422670245,-118.263912877969,$,77.0,3.5,91204,Glendale,el-sauz-tacos-no-2-glendale,['mexican']
+myAT2nhCgxNsnaCeRsA2ng,34.14138,-118.22585,$,63.0,4.0,90041,Los Angeles,ricks-los-angeles-3,"['filipino', 'mexican']"
+7TB6DhlQz57yRdi6cidWTw,34.1385040283203,-118.251564025879,$,18.0,4.5,91205,Glendale,glendale-fine-bakery-glendale,['bakeries']
+L7Uv5wxTiR5gmyzzSWmnMw,34.14243,-118.23526,$$,104.0,3.5,91205,Glendale,og-wingz-glendale,"['chicken_wings', 'burgers', 'sandwiches']"
+vKtJJDdDIoWbLyc7Nb14jg,34.145579,-118.253694,$$,183.0,3.0,91205,Glendale,l-and-l-hawaiian-bbq-glendale-3,"['hawaiian', 'bubbletea', 'poke']"
+XmvbZIKY5mK2a6ElnMqS0Q,34.13328,-118.25743,$,25.0,4.0,91204,Glendale,baskin-robbins-glendale-6,"['icecream', 'desserts', 'customcakes']"
+,,,,,,,,,"['pizza', 'beerbar', 'salad']"
+,,,,,,,,,"['streetvendors', 'tacos']"
+,,,,,,,,,"['georgian', 'mideastern', 'armenian']"
+wXWjVsjbgUwMnoDvBN76VQ,34.1391350599193,-118.250370050926,$$,18.0,4.5,91205,Glendale,ararat-fish-and-meat-market-glendale,"['seafoodmarkets', 'armenian', 'meats']"
+,,,,,,,,,"['mediterranean', 'venues']"
+,,,,,,,,,['italian']
+LBi5TAHFwbnWtKZW2Nshzw,34.1053,-118.25941,$,41.0,3.5,90039,Los Angeles,subway-restaurants-los-angeles-99,"['hotdogs', 'sandwiches']"
+LSc4ZYo3B_mD6uB7KTmitg,34.10825,-118.27129,$$,383.0,2.0,90027,Los Angeles,tenants-of-the-trees-los-angeles,"['cocktailbars', 'musicvenues']"
+ZFXMlpntuiMZw8iH-VRdtQ,34.1424612,-118.2325087,$,127.0,3.0,91205,Glendale,filipino-bagnet-glendale-restaurant-and-bakery-glendale,['filipino']
+,,,,,,,,,['parks']
+cznUc_zCndAZRs5tvMtzoQ,34.11493,-118.24545,$,55.0,2.5,90065,Los Angeles,yoshinoya-san-fernando-and-fletcher-los-angeles,['japanese']
+uNQ3f2QpuQSAP9K5PQfZtg,34.12684,-118.26358,$,81.0,2.5,90039,Los Angeles,panda-express-los-angeles-10,"['chinese', 'hotdogs']"
+,,,,,,,,,['museums']
+HaP3KP63jsn-QdfH5bEl5w,34.1050491333008,-118.230888366699,$,28.0,4.0,90065,Los Angeles,la-esquina-restaurant-los-angeles-4,"['mexican', 'spanish', 'juicebars']"
+0ZprSW57hDbagnfCf60cKA,34.11551,-118.24434,$,14.0,4.0,90065,Los Angeles,france-bakery-los-angeles-2,['bakeries']
+i_rPSZsc62K9DGXDy31rTg,34.1463882,-118.2546637,$$,104.0,3.0,91205,Glendale,electric-pussycat-glendale-3,"['cocktailbars', 'danceclubs']"
+,,,,,,,,,"['foodtrucks', 'chickenshop', 'hotdogs']"
+,,,,,,,,,"['bakeries', 'desserts', 'catering']"
+,,,,,,,,,['golf']
+EX58hSqt05ja4k4wdaLzVQ,34.12042,-118.22701,$,63.0,3.0,90065,Los Angeles,monster-tacos-los-angeles,"['foodtrucks', 'mexican']"
+7tIK40ZvTu8vuhBnR6g3wg,34.0664817,-118.3520389,$,117.0,4.0,90036,Los Angeles,yalla-truck-los-angeles,"['mediterranean', 'foodtrucks']"
+V1sXO6aTg7TPaerHwGZBZg,34.107655,-118.273132,$$,25.0,4.0,90027,Los Angeles,starbucks-los-angeles-485,['coffee']
+,,,,,,,,,"['catering', 'foodstands']"
+RUk8APCb9xFPhJx2g8P8cg,34.146142,-118.257685,$$,39.0,3.5,91210,Glendale,north-pole-snow-cream-glendale,"['desserts', 'shavedice', 'bubbletea']"
+iXOoZa48w8DsdkE7hATixg,34.12754,-118.25985,$,73.0,2.5,91204,Glendale,carls-jr-glendale-2,"['hotdogs', 'burgers']"
+BArd4g5jNxd7qK-b0gwpPw,34.1426737,-118.243627,$$$,25.0,4.0,91205,Glendale,ani-banquet-hall-glendale,"['venues', 'catering', 'armenian']"
+,,,,,,,,,"['foodtrucks', 'tacos', 'vegan']"
+375RAvfmIkt6YbAtJY0nqA,34.1444475,-118.2570278,$$,64.0,3.0,91210,Glendale,ladurée-glendale-4,"['desserts', 'french', 'macarons']"
+L-p6J-tSWPC5btsqDmpgOA,34.0907433,-118.277879159813,$$,43.0,4.0,90026,Los Angeles,scout-los-angeles-5,"['cafes', 'coffee', 'sandwiches']"
+,,,,,,,,,"['foodtrucks', 'mexican']"
+,,,,,,,,,['desserts']
+i02F7PGEJSsckpCQWD4lBA,34.1369514465332,-118.256088256836,$,39.0,3.5,91204,Glendale,sri-windsor-glendale,['thai']
+3FOEynkuw5TpJKbwROaHgw,34.1293411254883,-118.259613037109,$,24.0,3.5,91204,Glendale,el-pavo-bakery-glendale,['bakeries']
+wrx-YLym2lvizwZlzZ_luw,34.1313469,-118.2521615,$,39.0,3.0,91205,Glendale,el-sabrosito-restaurante-glendale,['latin']
+bTHs7QBW41Yh52AmSz05Zw,34.1422661741858,-118.255232973145,$,110.0,2.5,91204,Glendale,yoshinoya-glendale-glendale,['japanese']
+ZeoNcn8dufa83ulgdX-SIA,34.1454315185547,-118.259185791016,$,59.0,3.5,91204,Glendale,charleys-philly-steaks-glendale-2,['sandwiches']
+tzPFsU_Zwnnk7SVnSIaFtg,34.14597,-118.24285,$,44.0,3.5,91205,Glendale,van-bakery-glendale-2,"['bakeries', 'customcakes']"
+OKom4poViaaWD_fEz1Rk0A,34.1142359375954,-118.245292380452,$,117.0,2.0,90065,Los Angeles,el-pollo-loco-los-angeles-65,"['mexican', 'hotdogs']"
+lROyZXXheAjMtvTFRKMmqg,34.14242,-118.22857,$,96.0,3.0,90041,Los Angeles,popeyes-louisiana-kitchen-los-angeles-7,"['hotdogs', 'chicken_wings']"
+_Ya25mooV7VGZHJh3_-rfA,34.1376725,-118.2669413,$,9.0,4.5,91204,Glendale,lord-de-pastry-glendale,['bakeries']
+2w5pm_KofysBrh43h_yUuw,34.1205845787424,-118.227424797275,$,9.0,4.5,90065,Los Angeles,tacos-manzanillo-los-angeles,['mexican']
+YAWw27xx0PS7zIrf7C77PQ,34.1465782,-118.2590751,$,30.0,4.0,91210,Glendale,hot-dog-on-a-stick-glendale,['hotdog']
+,,,,,,,,,['localflavor']
+H3cJ7V_VQWDL161wxHgERw,34.0986293019372,-118.233750741395,$,9.0,5.0,90065,Los Angeles,quesadilla-melis-los-angeles,['tacos']
+2-HY2swvtiw4yDGIP6neew,34.119567,-118.227642,$,86.0,2.5,90065,Los Angeles,nanay-glorias-fast-foods-los-angeles,['filipino']
+,,,,,,,,,"['foodtrucks', 'peruvian', 'tacos']"
+Sb6h0uQF9p1rAJ6LAMk14Q,34.1452093,-118.2597147,$,56.0,3.0,91210,Glendale,salt-and-fries-glendale,['tradamerican']
+O9YsAgdd8r_K5mB_AGAFCw,34.0891226578943,-118.286847158605,$,36.0,4.0,90029,Los Angeles,biggest-burgers-and-tacos-los-angeles,"['foodtrucks', 'tacos', 'burgers']"
+tDcvdJvvRtdAi1twuMzvxQ,34.134756,-118.257941,$,61.0,2.5,91204,Glendale,taco-bell-glendale-5,"['mexican', 'tex-mex', 'hotdogs']"
+Ip1r2rswq1zQ5jasa8k_3g,34.130867,-118.251658,$,10.0,4.0,91205,Glendale,international-bakery-glendale,['bakeries']
+ch3YMdtg6ikMh1BUgmuIgg,34.0954399108887,-118.228851318359,$,11.0,4.5,90065,Los Angeles,tacos-bernis-los-angeles,['streetvendors']
+GZqe2VlNtb18oP4wxN47QA,34.1151357355261,-118.246706338923,$,136.0,1.5,90065,Los Angeles,mcdonalds-los-angeles-54,"['hotdogs', 'burgers', 'coffee']"
+,,,,,,,,,['pizza']
+pydXbiksIQoSA2scHl_4qQ,34.1448760044167,-118.259834982455,$,20.0,4.0,91210,Glendale,sweet-wonders-glendale,"['shavedice', 'icecream']"
+CLUhajWlS32TrHfN4ED49w,34.1425151,-118.2434456,$,58.0,3.0,91205,Glendale,little-caesars-pizza-glendale-2,['pizza']
+,,,,,,,,,['mexican']
+,,,,,,,,,['tacos']
+CaYSHBOzp0HoaTPjoPvLOA,34.1428539,-118.2547951,$,33.0,3.5,91204,Glendale,joe-and-the-juice-glendale,"['coffee', 'juicebars', 'sandwiches']"
+__spVHJb31aURYpMjIbJIw,34.138285,-118.251333,$,46.0,3.0,91205,Glendale,maple-market-glendale,"['gourmet', 'bakeries']"
+,,,,,,,,,['parks']
+42T0QBpdUsf2-n8GYE9z1A,34.1422647324084,-118.25545145543,$,50.0,3.0,91204,Glendale,christinas-donuts-glendale,"['donuts', 'sandwiches', 'juicebars']"
+gaf5CP1yVq8CWMyKvlDrbQ,34.14469,-118.25676,$$,63.0,3.0,91210,Glendale,nespresso-boutique-glendale,"['coffeeroasteries', 'coffee', 'cafes']"
+PGdhlhpo36EqMW2KIg654A,34.182541,-118.305763,$$,30.0,4.5,91502,Burbank,bouvardia-restaurant-burbank-6,"['venues', 'armenian', 'musicians']"
+K8cKt7RvEX4gDwl22_9LtQ,34.1413000982214,-118.224759328026,$$,122.0,2.5,90041,Los Angeles,chuck-e-cheese-los-angeles-4,"['pizza', 'arcades', 'kids_activities']"
+L8n6EAv92xlLoI1Kiub1iQ,34.1379651,-118.2508153,$,9.0,4.5,91205,Glendale,sams-armenian-bakery-glendale,['bakeries']
+Kff9lX0yhf2YFODU1BOxtg,34.14068,-118.25739,$,50.0,3.0,91204,Glendale,kabob-land-restaurant-glendale-2,"['mideastern', 'armenian']"
+,,,,,,,,,['parks']
+1QEtpRUgtG6GzzFW1qB40w,34.1469549,-118.2640066,$,28.0,4.0,91204,Glendale,natalies-pastry-glendale,['bakeries']
+,,,,,,,,,['mongolian']
+,,,,,,,,,"['persian', 'armenian']"
+,,,,,,,,,"['parks', 'football', 'kids_activities']"
+GZoOysMfhRfgNmTgbZGnzQ,34.1331607535712,-118.252258747816,$,21.0,3.5,91205,Glendale,7-eleven-glendale-11,"['convenience', 'coffee']"
+wgtKqTxfoprlR_EwNzlIhQ,34.2724002,-118.4647573,$,32.0,5.0,91345,Los Angeles,cítrico-ceviche-bar-los-angeles,"['seafood', 'mexican', 'foodtrucks']"
+,,,,,,,,,['coffeeroasteries']
+vl-FYG7-BIuOAmdimzxcgg,34.136780108827,-118.258109086706,$,70.0,2.5,91204,Glendale,dominos-pizza-glendale-15,['pizza']
+it3vMSFSMP9ozaZzNN7Vsg,34.1460964298488,-118.256205439395,$$,35.0,3.5,91210,Glendale,five-guys-glendale-3,"['hotdogs', 'burgers']"
+WkgLwJyQkqylD8hgf8XGqg,34.119632,-118.227459,$,39.0,3.0,90065,Los Angeles,papa-johns-pizza-los-angeles-14,['pizza']
+kHA4Nscb7DBYvZYkyToyqA,34.1452468,-118.2549434,$,52.0,3.0,91210,Glendale,häagen-dazs-glendale-2,"['juicebars', 'icecream', 'gourmet']"
+zWbWiJYxBcAc3_bkj1jhGA,34.0925506,-118.2245693,$,35.0,3.5,90065,Los Angeles,genesis-restaurante-y-pupuseria-los-angeles,['salvadoran']
+QmtLoszvFHPEXgYDzRX8dg,34.14138,-118.22585,$,162.0,2.5,90041,Los Angeles,chowking-los-angeles-3,"['filipino', 'noodles']"
+qjek3iorOOf0k8vPop_N-w,34.1300368784013,-118.258099,$,50.0,2.5,91204,Glendale,pizza-hut-glendale-3,"['pizza', 'italian', 'chicken_wings']"
+,,,,,,,,,['museums']
+OmCaTXq5zu8SMKgPf8zp8A,34.145343,-118.259297,$,48.0,3.0,91210,Glendale,ice-n-cream-glendale,"['icecream', 'juicebars']"
+VekoaypCfIzqVAxK8OqsIw,34.14684,-118.25464,$,76.0,3.0,91203,Glendale,subway-restaurants-glendale-12,['sandwiches']
+-Ykul6mcNWEyRAm9GriZiw,34.144086,-118.255658,$,77.0,2.5,91210,Glendale,honeyboba-glendale-4,['bubbletea']
+,,,,,,,,,"['parks', 'recreation', 'daycamps']"
+11wHvEY1aEhv3yna0w2s-A,34.1465874016285,-118.259161412716,$$,61.0,3.0,91210,Glendale,bento-box-glendale-2,"['poke', 'ramen']"
+VYwyabloDpEiGBISyqyD5w,34.14342,-118.24916,$,162.0,2.0,91205,Glendale,el-pollo-loco-glendale-12,"['hotdogs', 'mexican']"
+bU8wjx4IdQlSe01Eerescg,34.1463,-118.25148,$,8.0,4.5,,Glendale,dapper-baby-cakes-glendale-2,['desserts']
+,,,,,,,,,"['foodtrucks', 'african']"
+,,,,,,,,,"['newamerican', 'burgers', 'breakfast_brunch']"
+lwF3lK0_oCQUp2FoxhF8Zg,34.11521,-118.24563,$,21.0,2.5,90065,Los Angeles,yum-yum-donuts-los-angeles-18,"['donuts', 'coffee', 'sandwiches']"
+L8RvH6XZp2bCTUkjVzXkLg,34.1463949,-118.242691,$$,18.0,4.0,91205,Glendale,french-pastry-cafe-de-jour-glendale,['bakeries']
+mUbJxmgOL4HyUiFTXpvUmg,34.1424249743052,-118.236480653286,$,148.0,2.0,91205,Glendale,mcdonalds-glendale-27,"['burgers', 'hotdogs', 'coffee']"
+FSj0WXj9Ig2eG3h9heM0sA,34.1428822759336,-118.240371197462,$,58.0,2.5,91205,Glendale,jack-in-the-box-glendale-4,"['hotdogs', 'burgers', 'breakfast_brunch']"
+,,,,,,,,,['parks']
+A5yxx4SbdaBGbK2QPLNt_Q,34.1428327914833,-118.241125272518,$,67.0,2.5,91205,Glendale,taco-bell-glendale-9,"['mexican', 'tex-mex', 'hotdogs']"
+B6TahbS9QW-YpP3eLghTHQ,34.1425159,-118.2445979,$$,35.0,3.0,91205,Glendale,sayat-nova-restaurant-and-banquet-glendale,['armenian']
+s9GuMdZaQ1BcHbJFaT5aPg,34.1148513990932,-118.245382234454,$,8.0,3.5,90065,Los Angeles,7-eleven-los-angeles-149,"['convenience', 'coffee']"
+5V8DIj1lHwb5Zuujj4IMMA,34.1163637,-118.2622654,$,26.0,2.5,90039,Los Angeles,subway-restaurants-los-angeles-120,"['sandwiches', 'hotdogs']"
+,,,,,,,,,"['icecream', 'foodtrucks']"
+,,,,,,,,,['coffee']
+uEfUukhC-eQzn2xH69hdfQ,34.1428049,-118.2471419,$,52.0,2.5,91205,Glendale,pizza-man-glendale-2,"['pizza', 'italian']"
+MCWRHC3k6eWs-RZQa2pz8w,34.146596,-118.2593449,$,42.0,3.0,91210,Glendale,l-a-italian-kitchen-glendale,"['italian', 'pizza']"
+,,,,,,,,,"['foodtrucks', 'korean']"
+uA-cl6hYHDg8rZDVlMr4UQ,34.1092426,-118.2707359,$,24.0,3.0,90027,Los Angeles,7-eleven-los-angeles-28,"['convenience', 'coffee']"
+sX-G1TURng1cDzQZaIQLog,34.1451498443564,-118.259291,$,109.0,2.0,91210,Glendale,chipotle-mexican-grill-glendale-9,"['mexican', 'hotdogs']"
+eNnuNe4a09p_IhSZf73PjA,34.1455979,-118.2578027,$,21.0,3.5,91210,Glendale,cinnabon-bakery-glendale,['bakeries']
+yvZhdhMtzkM3hZG5ZJHm9g,33.8341771453,-118.384204297,$$,48.0,4.5,90277,Redondo Beach,recess-truck-redondo-beach,"['desserts', 'foodtrucks', 'icecream']"
+0keVL4-CSnDHyg4ZR-OXDw,34.1428749,-118.234695,$,6.0,5.0,91205,Glendale,carniceria-latina-glendale,"['meats', 'delis']"
+vri770z10_dIx2kWteX9lw,34.1398107,-118.258087,$$,5.0,4.5,91204,Glendale,corner-cuisine-glendale-7,"['mediterranean', 'mideastern', 'armenian']"
+,,,,,,,,,['localflavor']
+f7kX-iP6mgW_9VRcd9QWag,34.1077613830566,-118.272605895996,$$$,17.0,3.0,90027,Los Angeles,viktor-benês-bakery-los-angeles,['bakeries']
+MeGN78ZLNrdDUY6F3Rr01A,34.1422348022461,-118.263710021973,$,5.0,5.0,91204,Glendale,colorado-bakery-glendale,['bakeries']
+kaqnNEf6oXwuMhJD_jSphw,34.115281,-118.245893,$,23.0,2.0,90065,Los Angeles,burger-king-los-angeles-46,"['burgers', 'hotdogs']"
+hzkrsZrZJHhGNC-aADkIaQ,34.1418779815451,-118.257474762526,$,65.0,2.0,91204,Glendale,papa-johns-pizza-glendale-3,['pizza']
+,,,,,,,,,['bakeries']
+,,,,,,,,,"['juicebars', 'breakfast_brunch', 'vegan']"
+,,,,,,,,,"['catering', 'tradamerican']"
+,,,,,,,,,"['hotdogs', 'coffee', 'chicken_wings']"
+,,,,,,,,,"['healthtrainers', 'hiking']"
+,,,,,,,,,"['atvrentals', 'rvrental', 'hiking']"
+,,,,,,,,,"['chicken_wings', 'catering', 'foodtrucks']"
+RuqVUyzs320HIHlFOtq20w,34.11974,-118.22735,$,17.0,3.0,90065,Los Angeles,subway-restaurants-los-angeles-115,"['sandwiches', 'hotdogs']"
+21RrRocf_vhERPEXiO3ozg,34.1464274819134,-118.259158735789,$,66.0,2.0,91204,Glendale,mcdonalds-glendale-11,"['hotdogs', 'burgers', 'coffee']"
+Rb0nwtPIWu1kRN22Ap0EtQ,34.0891878391892,-118.276820991476,$$,5.0,5.0,90026,Los Angeles,of-aire-los-angeles,"['newamerican', 'mideastern', 'vegetarian']"
+vMoFe8wlzzKSyHTW5F-bRw,34.14251,-118.23256,$,54.0,2.5,91205,Glendale,dominos-pizza-glendale-23,"['pizza', 'chicken_wings', 'sandwiches']"
+uJUVrZGEZ-mPudAFLzeCjg,33.91285,-118.35251,$$,57.0,4.0,90250,Hawthorne,chef-cs-smhokin-pot-hawthorne-20,"['cajun', 'foodtrucks', 'southern']"
+,,,,,,,,,['bakeries']
+,,,,,,,,,"['museums', 'historicaltours']"
+,,,,,,,,,"['parks', 'kids_activities', 'playgrounds']"
+DddZd2ulJi7iMGbwaa8FSw,34.1427645,-118.2399867,$,20.0,3.0,91205,Glendale,china-food-express-glendale,['chinese']
+KZo1BVzO7lpAMRO5c6aGFw,34.1151134,-118.2458933,$,33.0,1.5,90065,Los Angeles,subway-restaurants-los-angeles-94,"['sandwiches', 'hotdogs']"
+,,,,,,,,,"['bartenders', 'djs', 'cocktailbars']"
+DzLL4uXlCsrFXNWY7XIRRQ,34.1429214477539,-118.241973876953,$$,7.0,4.0,91205,Glendale,palmer-international-cuisine-glendale-2,"['mideastern', 'delis', 'sandwiches']"
+,,,,,,,,,['parks']
+EKprIxnFvKBma7YCad4U5w,34.14138,-118.22585,$$,52.0,2.5,90041,Los Angeles,grill-city-los-angeles-3,"['seafood', 'bbq', 'filipino']"
+,,,,,,,,,"['korean', 'foodtrucks']"
+MwEW3wYP5SSJbzz2XGZGtw,34.145604,-118.258774,$$,20.0,3.0,91210,Glendale,häagen-dazs-glendale-3,"['icecream', 'juicebars']"
+,,,,,,,,,"['cafes', 'bakeries']"
+,,,,,,,,,['tacos']
+gPy-frPOabgTNhyVim3lbA,34.1341521483797,-118.2420692797,$$,14.0,3.0,91205,Glendale,moonlight-restaurant-glendale,"['seafood', 'armenian', 'mediterranean']"
+,,,,,,,,,['hiking']
+meF8_ttRw3P9Q_4Qebt-Fw,34.142381,-118.239125,$,50.0,2.0,91205,Glendale,burger-king-glendale-10,"['hotdogs', 'burgers']"
+VkB0Cau98NFR75muz-uv5Q,33.7523035,-118.1298234,$,41.0,4.5,90031,Los Angeles,frijolitos-mobile-coffee-los-angeles-4,"['coffee', 'foodtrucks']"
+,,,,,,,,,['icecream']
+0CY1m1RvynNP7lOsVqL2Bw,34.1466582496323,-118.25042143464,$,30.0,2.5,91205,Glendale,7-eleven-glendale-10,"['convenience', 'coffee']"
+,,,,,,,,,['parks']
+NDulwLNtqgtQacbz2kaBqg,34.0892412234654,-118.268992,$,17.0,3.5,90026,Los Angeles,7-eleven-los-angeles-152,"['convenience', 'coffee']"
+rtlEtkfeAQiJiFegvbFLpw,34.0955963134766,-118.281005859375,$,10.0,4.0,90029,Los Angeles,korner-grill-los-angeles,"['tradamerican', 'burgers']"
+SMGvzZLDMx0qMuFYuNncbw,34.1469363,-118.2642665,$,22.0,3.0,91204,Glendale,selin-food-bazaar-glendale,"['grocery', 'delis']"
+T-Lw6wV5AgMOc_CFy_FuXA,34.1449821546307,-118.259147213492,$$,38.0,2.5,91210,Glendale,panda-express-glendale-4,"['chinese', 'hotdogs']"
+sRiCHMw8D_tQSlCttp8YTw,34.1376953125,-118.241470336914,$,8.0,4.0,91205,Glendale,adams-supper-market-glendale,"['grocery', 'delis']"
+,,,,,,,,,"['creperies', 'foodtrucks']"
+qhK1tAYKiMizyJti4415TQ,34.1429729197303,-118.25905232011,$,56.0,2.0,91204,Glendale,starbucks-glendale-53,['coffee']
+,,,,,,,,,['parks']
+afj4RRfg_UHvg7q7qLXLnQ,34.1461251,-118.2426024,$$,26.0,3.0,91205,Glendale,good-fellow-pizza-glendale-2,['pizza']
+,,,,,,,,,"['foodtrucks', 'pizza']"
+Cj6xdy0wkcwUCBlmsPya-g,34.1390190124512,-118.251083374023,$$,7.0,3.5,91205,Glendale,kilikia-grill-glendale,"['mideastern', 'greek']"
+,,,,,,,,,['landmarks']
+,,,,,,,,,['parks']
+,,,,,,,,,['parks']
+1Cl5_CVsTdePDkYPftTB5w,34.1425625570071,-118.228732,$,59.0,2.0,90041,Los Angeles,pizza-hut-los-angeles-6,"['pizza', 'italian']"
+,,,,,,,,,"['salad', 'vegetarian']"
+,,,,,,,,,['parks']
+,,,,,,,,,['localflavor']
+,,,,,,,,,['parks']
+_L5Pf7bTLXHlvluXUQCd_w,34.16536,-118.52706,$$$,7.0,5.0,91316,Encino,sweet-cheeks-bakehouse-encino-3,"['bakeries', 'fooddeliveryservices']"
+,,,,,,,,,['landmarks']
+,,,,,,,,,['bakeries']
+,,,,,,,,,"['bakeries', 'breakfast_brunch', 'coffee']"
+,,,,,,,,,['museums']
+,,,,,,,,,"['beer_and_wine', 'delis']"
+,,,,,,,,,"['foodtrucks', 'streetvendors']"
+cMr4DI45PftY80INpxfDNw,34.144863,-118.259007,$,24.0,2.5,91210,Glendale,panda-express-glendale-10,"['chinese', 'hotdogs']"
+,,,,,,,,,['thai']
+,,,,,,,,,['desserts']
+,,,,,,,,,"['foodtrucks', 'tacos']"
+,,,,,,,,,['bakeries']
+,,,,,,,,,['wine_bars']
+fnSwAtGc-052hcv-VMTKZA,34.1217875065633,-118.224249409453,$,17.0,2.0,90065,Los Angeles,7-eleven-los-angeles-207,"['convenience', 'coffee']"
+,,,,,,,,,"['gastropubs', 'pubs']"
+KAiggpfAzniSroLXsWvkeg,34.1211207,-118.2736148,$,2.0,4.5,90027,Los Angeles,pony-ride-refreshment-stand-los-angeles,"['newamerican', 'foodstands']"
+oInsHouJUl6cqMIRHrqVuA,34.14635,-118.256674,$,7.0,3.5,91210,Glendale,urban-cafe-glendale,"['coffee', 'sandwiches']"
+,,,,,,,,,['localflavor']
+he4kkB0kzinLcxgROLuvig,34.13544,-118.25198,$,2.0,4.5,91205,Glendale,tonir-bakery-and-grill-glendale,['bakeries']
+,,,,,,,,,"['reiki', 'spiritual_shop', 'coffee']"
+1UmnjvOUKU-lSAMKda4J_w,34.141463,-118.224311,$,36.0,2.0,90041,Los Angeles,starbucks-los-angeles-238,['coffee']
+,,,,,,,,,['coffee']
+,,,,,,,,,['desserts']
+,,,,,,,,,['sandwiches']
+Ox6KEoJNpShHZdVhuLwRLg,33.7482208,-117.863545,$,82.0,4.0,92701,Santa Ana,chiva-torta-santa-ana,"['mexican', 'foodtrucks']"
+,,,,,,,,,['mediterranean']
+1StuymR_aV7xU6yKdpk_aA,33.9196596,-118.273849942022,$$,6.0,5.0,90061,Los Angeles,mariscos-los-tres-animales-los-angeles-2,"['mexican', 'foodtrucks']"
+52GlfmbXydatZHC084GRwA,34.1445846557617,-118.234909057617,$,7.0,3.5,91205,Glendale,torik-bakery-glendale,"['bakeries', 'sandwiches']"
+FfsITsavB2QCtmi5sb2wdQ,34.1421363846252,-118.264642506838,$,14.0,2.5,91204,Glendale,7-eleven-glendale-4,"['convenience', 'coffee']"
+akoQ2pfn-zycZjzdr_yBkg,34.113485,-118.23536,$,1.0,5.0,90065,Los Angeles,verdugo-taco-vendor-los-angeles,['foodstands']
+,,,,,,,,,['parks']
+,,,,,,,,,"['desserts', 'eventplanning']"
+,,,,,,,,,['bubbletea']
+,,,,,,,,,"['mexican', 'vegan', 'foodtrucks']"
+tkhEP4__Tv2hO6r3nfnatw,34.134248,-118.263501,$$,1.0,5.0,91204,Glendale,parla-gelato-and-dessert-glendale,"['desserts', 'icecream']"
+,,,,,,,,,['mexican']
+,,,,,,,,,"['localfishstores', 'aquariumservices', 'aquariums']"
+rhssGQjWLwwxFkYHewr1Ng,34.103776,-118.238039,$,1.0,5.0,90065,Los Angeles,food-court-los-angeles,"['mediterranean', 'greek', 'gourmet']"
+,,,,,,,,,['streetvendors']
+OLQZLBrCwS5bPYfjHOCalA,34.0903484038359,-118.277281935222,$,2.0,5.0,90026,Los Angeles,bomb-foods-los-angeles,['newamerican']
+,,,,,,,,,['mideastern']
+,,,,,,,,,['hotdogs']
+,,,,,,,,,"['southern', 'foodtrucks', 'catering']"
+yQXLREny5_aI_vKflOEF8A,33.9692239,-118.256724,$$,3.0,5.0,90001,Los Angeles,mariscos-el-peri-los-angeles,"['seafood', 'foodtrucks']"
+URcRRAomU4GNfQ-ixlEQCQ,34.1332537000234,-118.251799889675,$,13.0,1.5,91205,Glendale,subway-restaurants-glendale-10,['sandwiches']
+,,,,,,,,,"['foodtrucks', 'seafood', 'mexican']"
+,,,,,,,,,"['foodtrucks', 'sushi']"
+,,,,,,,,,['coffee']
+,,,,,,,,,['streetvendors']
+,,,,,,,,,['armenian']
+,,,,,,,,,"['mexican', 'foodstands']"
+,,,,,,,,,"['cupcakes', 'customcakes', 'foodtrucks']"
+,,,,,,,,,['landmarks']
+,,,,,,,,,['parks']
+,,,,,,,,,['landmarks']
+,,,,,,,,,['cafes']
+5hf1cfROupDDVemUMUSwEg,34.145966,-118.2419549,$,8.0,3.0,91205,Glendale,pouri-bakery-glendale,['bakeries']
+3mJCx8WOBtqFeyL9Q1xSBw,34.1448424291407,-118.255505561829,$,1.0,5.0,91210,Glendale,pucker-up-glendale,['desserts']
+hN6kaTo6AaUc4H5DKmbcUA,34.14138,-118.22585,$$,10.0,2.0,90041,Los Angeles,valerios-tropical-bake-shop-los-angeles,['bakeries']
+bKr6ttgp_Im67uMRmOjR8Q,34.14649,-118.24216,$,2.0,4.0,91205,Glendale,ara-deli-and-grocery-glendale,"['delis', 'sandwiches']"
+3qIM4_mIkXNKpJGtn24gaA,34.1466008821989,-118.240330284525,$,11.0,2.5,91205,Glendale,7-eleven-glendale-5,"['convenience', 'coffee']"
+,,,,,,,,,['mexican']
+,,,,,,,,,"['foodtrucks', 'tacos', 'catering']"
+,,,,,,,,,['coffee']
+,,,,,,,,,['publicart']
+,,,,,,,,,['chinese']
+,,,,,,,,,"['foodtrucks', 'burgers']"
+,,,,,,,,,['mexican']
+,,,,,,,,,['indpak']
+,,,,,,,,,"['foodtrucks', 'bbq', 'italian']"
+myW4G0FVfeUvXqefR57A6A,34.1831481,-119.1656806,$,66.0,4.5,93033,Oxnard,its-in-the-sauce-bbq-oxnard,"['bbq', 'catering', 'foodtrucks']"
+,,,,,,,,,['localflavor']
+,,,,,,,,,['localflavor']
+,,,,,,,,,"['foodtrucks', 'catering', 'desserts']"
+,,,,,,,,,['localflavor']
+IfIxSPEVJnBV6NkLOrPFNA,34.141223,-118.249714672565,$,2.0,3.0,91205,Glendale,7-eleven-glendale-9,"['convenience', 'coffee']"
+VmzM107lXp51kmsjTUWyEw,34.14236,-118.24345,$,3.0,3.0,91205,Glendale,lgc-thai-rific-thai-food-glendale,['thai']
+,,,,,,,,,['lakes']
+,,,,,,,,,['parks']
+fSONTocy2q9Og7uncfQENA,34.14559717,-118.240152,$,2.0,3.0,91205,Glendale,subway-restaurants-glendale-6,['sandwiches']
+,,,,,,,,,['landmarks']
+h3_UX5tL5SuuItfmDsMTYw,34.1463549,-118.2401766,$,1.0,4.0,91205,Glendale,hong-kong-express-glendale,['chinese']
+,,,,,,,,,['beerbar']
+,,,,,,,,,['bakeries']
+,,,,,,,,,"['mexican', 'streetvendors']"
+,,,,,,,,,"['foodtrucks', 'icecream']"
+,,,,,,,,,"['atvrentals', 'hiking', 'rvrental']"
+,,,,,,,,,"['coffee', 'greek']"
+,,,,,,,,,['italian']
+hFULMmempwfqbvbEigh9eQ,34.1448149,-118.2595651,$$,1.0,3.0,91210,Glendale,lisas-tea-treasures-in-glendale-glendale,['coffee']
+,,,,,,,,,"['nightlife', 'restaurants']"
+,,,,,,,,,"['meats', 'delis']"
+,,,,,,,,,['landmarks']
+,,,,,,,,,"['parks', 'recreation']"
+,,,,,,,,,"['zoos', 'nonprofit']"
+M9M-lp8R4Zs_HiHCvzxd7w,34.1034530151801,-118.23763347196,$,1.0,1.0,90065,Los Angeles,7-eleven-los-angeles-196,"['convenience', 'coffee']"
+,,,,,,,,,"['foodtrucks', 'tradamerican']"
+,,,,,,,,,"['burgers', 'foodtrucks', 'streetvendors']"
+,,,,,,,,,"['thai', 'bubbletea', 'soup']"
+,,,,,,,,,['cafes']
+,,,,,,,,,"['catering', 'desserts', 'foodtrucks']"
+,,,,,,,,,['sandwiches']
+,,,,,,,,,['pizza']
+,,,,,,,,,"['japanese', 'sushi']"
+,,,,,,,,,"['parks', 'playgrounds']"
+7Ts6K-xf2kg9TB1sbWrL9g,34.0936546325684,-118.240676879883,$$,1.0,1.0,90031,Los Angeles,foodcraft-los-angeles,"['coffee', 'fooddeliveryservices']"
+,,,,,,,,,"['russian', 'mideastern']"
+,,,,,,,,,"['tacos', 'foodstands']"
+,,,,,,,,,['chicken_wings']
+,,,,,,,,,"['coffee', 'foodtrucks', 'juicebars']"
+,,,,,,,,,"['coffee', 'donuts']"
+,,,,,,,,,"['foodtrucks', 'halal', 'mediterranean']"
+,,,,,,,,,"['cajun', 'hotdogs', 'chicken_wings']"
+,,,,,,,,,['restaurants']
+,,,,,,,,,"['foodtrucks', 'caribbean']"
+,,,,,,,,,"['wedding_planning', 'desserts']"
+,,,,,,,,,"['pettingzoos', 'kids_activities', 'facepainting']"
+,,,,,,,,,"['foodtrucks', 'sandwiches', 'puertorican']"

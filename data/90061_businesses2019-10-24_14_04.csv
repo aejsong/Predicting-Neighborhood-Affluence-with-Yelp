@@ -1,0 +1,187 @@
+id,latitude,longitude,price,review_count,rating,zip_code,city,alias,category
+BA7TnabiZhm4S5Jv7jbkxA,33.9292549,-118.2522808,$,1332.0,4.5,90059,Los Angeles,hawkins-house-of-burgers-los-angeles,['burgers']
+0qpf7fMLi8WfBpD_rW-0Uw,33.9236812311346,-118.269558427633,$,48.0,5.0,90061,Los Angeles,fun-diggity-funnel-cakes-los-angeles,"['desserts', 'streetvendors', 'catering']"
+nYtlmdPPpS2wxCcS_upECg,33.892435,-118.283432,$$,196.0,4.5,90248,Gardena,d-lunch-spot-gardena-4,"['mediterranean', 'breakfast_brunch', 'mexican']"
+RpgMXd-usckXwHZZM3f7Qg,33.93159,-118.29123,$,227.0,4.0,90044,Los Angeles,jim-dandy-fried-chicken-los-angeles,"['southern', 'chickenshop']"
+Ys9uU-KzH2C9tCpWbem4Yw,33.901170195057,-118.2932169,$$,425.0,4.0,90247,Gardena,the-pan-gardena-5,"['pizza', 'breakfast_brunch', 'burgers']"
+3jfH3FY3jH16d6U57lBe_A,33.93804,-118.26194,$$,241.0,4.0,90059,Los Angeles,all-flavor-no-grease-los-angeles,"['foodtrucks', 'mexican']"
+vaL_yOrN7NvoF6--_jYu4g,33.9166503584856,-118.300613350476,$,159.0,4.0,90249,Gardena,stevens-burgers-gardena,"['newamerican', 'sandwiches']"
+T3fnkijxPT0yLm28TFVpWQ,33.892371,-118.295326,$$,314.0,4.0,90247,Gardena,ya-yaa-thai-cuisine-gardena,['thai']
+tcLPjEHuKPBSLiCwDQZXPg,33.924702,-118.265355,$,40.0,4.5,90061,Los Angeles,bernard-burgers-los-angeles,['burgers']
+kk0_MTufPU-WKo6xXioBgA,33.9017151,-118.2997333,$$,221.0,4.0,90247,Gardena,nachos-lab-gardena-3,['mexican']
+URAWeNwKJouuMu1t1mVGTQ,33.92322,-118.253917,$$,47.0,4.5,90059,Los Angeles,holmes-homemade-chicken-sausage-los-angeles,['chicken_wings']
+j19OJLlC_G45bx2wQXW7cw,33.9033764630067,-118.255910812164,$$,202.0,4.0,90222,Compton,hana-teppanyaki-compton,['japanese']
+ggCDO13OSnv7uLoT216uSQ,33.89209,-118.29527,$,159.0,4.0,90247,Gardena,tacos-and-mariscos-el-parque-gardena,['mexican']
+SvePE7APfmE8d7tji85X-g,33.9412,-118.26552,$,44.0,4.5,90003,Los Angeles,becks-burgers-and-bbq-los-angeles,"['burgers', 'bbq', 'soulfood']"
+daou46F3hpV4msPYyMPWEg,33.91747,-118.27432,$,15.0,4.5,90061,Los Angeles,the-family-room-los-angeles,"['danceclubs', 'bars', 'karaoke']"
+KyFQ8-7bdXW3IwpiN-Pd5Q,33.9101142,-118.3002651,$,72.0,4.0,90249,Gardena,marthas-mexican-deli-gardena,['mexican']
+mMKBJbaY_-cRbaJQWJdb0A,33.897116,-118.276127,$,74.0,4.0,90248,Gardena,fabulous-grill-on-main-street-gardena,['tradamerican']
+LTvl-91W3g6pYpD6c4N9sQ,33.9240837097168,-118.24698638916,$,90.0,4.0,90059,Los Angeles,mariscos-las-palmas-de-colima-los-angeles,"['mexican', 'seafood']"
+GA4wY7ec1Qt_1VtJo-bcbQ,33.9308351,-118.2937549,$$,147.0,3.5,90044,Los Angeles,moms-bar-b-que-los-angeles,['bbq']
+9STi9HRKWFHs9mmX8k0zew,33.892166,-118.297221,$,115.0,4.0,90247,Gardena,rainbow-donuts-gardena-2,"['donuts', 'coffee', 'juicebars']"
+vtTbIWuGozJojLpUGg1c3Q,33.89441,-118.3005849,$,106.0,4.0,90247,Gardena,sweeties-bakery-gardena,['bakeries']
+UtcGk8i-8E5yXY7_u0Uutg,33.915631,-118.300736,$,64.0,4.0,90249,Gardena,tacos-la-perla-gardena-2,"['mexican', 'hotdogs']"
+ODCG41zk-kfSl4qL9s1llg,33.9167442321777,-118.282356262207,$,68.0,3.5,90061,Los Angeles,el-antojito-grill-los-angeles,"['mexican', 'grocery']"
+RGdGUZIIY6jh06a8I9MFaw,33.9165549,-118.2657999,$$,63.0,3.5,90061,Los Angeles,pizza-king-los-angeles-2,"['pizza', 'chicken_wings']"
+fuAL8-5XTZVao9KZyVa84w,33.9457849,-118.2537301,$,59.0,4.5,90002,Los Angeles,cafe-oaxaca-los-angeles-2,"['coffee', 'juicebars', 'desserts']"
+Dv7MNvte2Z4y973h9E7DaA,33.89607,-118.25259,$,30.0,5.0,90220,Compton,m-and-t-donuts-compton,"['donuts', 'coffee']"
+qZsbp3hix4ZFBYHh6RJEqg,33.923355,-118.265991,$,39.0,4.0,90061,Los Angeles,clucks-chicken-los-angeles,['chicken_wings']
+y-PYylz4ZcPkg8ej1h_Yvw,33.9235,-118.25466,$,133.0,3.0,90059,Los Angeles,taco-pete-los-angeles,['mexican']
+2MG5974PYpXESLFGlRyLvw,33.916276,-118.3005249,$,76.0,3.5,90249,Gardena,golden-bowl-teriyaki-gardena,"['japanese', 'hotdogs', 'burgers']"
+J59N-Pym1PbpTyCzZFqztQ,33.8920273,-118.2978321,$,164.0,3.5,90247,Gardena,l-and-l-hawaiian-barbecue-gardena,"['hawaiian', 'bbq']"
+JkGGN9DsGRzWyzQ5hDhlhw,33.9144,-118.26426,$$,15.0,4.5,90061,Los Angeles,caesars-restaurant-los-angeles,"['breakfast_brunch', 'burgers', 'sandwiches']"
+,,,,,,,,,"['aquariums', 'localfishstores']"
+WZBif7Ezj0gIvyPb_gO7Lw,33.892983,-118.2863899,$$,302.0,3.0,90247,Gardena,farmer-boys-gardena-4,"['burgers', 'breakfast_brunch']"
+asebA7Ytz9qyVSqEfkj0kg,33.94512317,-118.2647765,$,40.0,4.0,90003,Los Angeles,kims-fish-world-los-angeles-3,"['seafoodmarkets', 'fishnchips']"
+54tljJOuK8iQmi7DdPiW8w,33.8924180139518,-118.295416029961,$,31.0,4.5,90247,Gardena,white-cup-donuts-gardena-3,"['donuts', 'breakfast_brunch', 'bagels']"
+-s5KrnC2hMWWMHpO5CHlXw,33.8915,-118.29294,$$,176.0,3.0,90247,Gardena,hustler-casino-gardena,"['casinos', 'lounges']"
+1StuymR_aV7xU6yKdpk_aA,33.9196596,-118.273849942022,$$,6.0,5.0,90061,Los Angeles,mariscos-los-tres-animales-los-angeles-2,"['mexican', 'foodtrucks']"
+wyQX3ev2iw9JeWyD5vnZPA,33.9017151,-118.2997244,$,242.0,3.0,90247,Gardena,nuevo-san-miguel-gardena-2,['salvadoran']
+7bv2RGayD2N1sBLsUvxE-A,33.90155,-118.28217,$,22.0,4.0,90248,Gardena,rafas-lunch-truck-gardena,"['mexican', 'foodtrucks']"
+PfI9vqpE8vA6lh9xz0erGA,33.931768,-118.264445,$,45.0,3.5,90061,Los Angeles,a-and-t-burgers-los-angeles-2,"['burgers', 'breakfast_brunch', 'newamerican']"
+eDXhazYuXpL8S8FYkHgzAg,33.936605,-118.282772,$,14.0,4.5,90061,Los Angeles,balbuenas-mexican-restaurant-los-angeles,['mexican']
+q_3o8I4Enf5USqn5KltCZQ,33.8924331665039,-118.283432006836,$,54.0,3.5,90248,Gardena,kunchorn-thai-food-gardena,['thai']
+CFfXygjsxJZQ1iDZkNHVtw,33.9017151,-118.2983272,$,82.0,3.5,90247,Gardena,ricks-in-and-out-gardena,"['breakfast_brunch', 'burgers', 'sandwiches']"
+Hs-Wn0yasik5HwPYXHHPtg,33.9161,-118.2743,$,37.0,3.0,90061,Los Angeles,prontos-burgers-los-angeles,"['mexican', 'burgers']"
+IZASzQcasLXEGWCC-Br3Dg,33.9340744018555,-118.274238586426,$,20.0,4.0,90061,Los Angeles,mariscos-el-pariente-los-angeles,['mexican']
+bdgAUpUdSZVnmiuUTlRDtA,33.9114952,-118.3002777,$$,43.0,3.5,90249,Gardena,mariscos-los-primos-gardena,"['mexican', 'seafood']"
+25BWYdXWMYHJ-5P_SDZFcg,33.9143028259277,-118.27555847168,$$,18.0,4.0,90061,Los Angeles,reeds-los-angeles,"['gourmet', 'localflavor']"
+k-ZTSChPoR31OdCGo59OQQ,33.9318169017419,-118.283106055225,$$,44.0,3.0,90061,Los Angeles,wingstop-los-angeles-14,['chicken_wings']
+nFnruEC1dFAp_BCfqewEcA,33.8916802464941,-118.296961529456,$$,139.0,3.0,90247,Gardena,gardena-buffet-and-grill-gardena-2,"['buffets', 'japanese', 'seafood']"
+60vfOTEFvmGPODo2OIA8YQ,33.9029964626389,-118.253394023427,$,56.0,3.5,90221,Compton,tams-burgers-compton,['burgers']
+mWvOL0DAfS-iQ4D_Sjc4Bg,33.892805582939,-118.286919614013,$,53.0,3.5,90247,Gardena,ono-hawaiian-bbq-gardena,"['hawaiian', 'bbq']"
+ZlcSMZPIX6N3nyS5uhaSFQ,33.9312030033869,-118.282912150221,$,7.0,5.0,90061,Los Angeles,durango-market-los-angeles-2,"['mexican', 'grocery']"
+9qz-cJlrxETf94_p05_h6g,33.901619,-118.300052,$,143.0,3.0,90247,Gardena,starbucks-gardena-6,['coffee']
+,,,,,,,,,"['foodstands', 'tacos']"
+,,,,,,,,,['salvadoran']
+Q6OwWBJn2nlORlTEK2Jhsg,33.9317229,-118.2653249,$,11.0,4.0,90061,Los Angeles,dona-anas-kitchen-los-angeles,"['southern', 'mexican', 'salvadoran']"
+Q5UAPeUGRxFwv1O5SxT9aw,33.9027849,-118.2566178,$$,70.0,3.0,90222,Compton,fatburger-compton,"['hotdogs', 'tradamerican', 'burgers']"
+fGreq9ZFyARTn2AZXvPp0A,33.916796,-118.282434,$,11.0,4.0,90061,Los Angeles,subway-restaurants-los-angeles-25,['sandwiches']
+8aiXxGlnFMPRScmKUv1LCA,33.9292,-118.25171,$$,26.0,3.5,90059,Los Angeles,mariscos-los-koritas-estilo-nayarit-los-angeles,"['mexican', 'foodstands']"
+khK1AmVSHF3nQeLg5umRMg,33.9398291,-118.2693851,$,6.0,5.0,90003,Los Angeles,j-k-ice-cream-los-angeles,"['icecream', 'juicebars']"
+iYrRwd1wXudQILpsrS6s2Q,33.9163237810135,-118.263919651508,$,33.0,3.0,90059,Los Angeles,howells-bakery-los-angeles-3,['bakeries']
+CjEZOOUqYQmJLnobRaTMyQ,33.9353399,-118.29225,$,12.0,4.5,90044,Los Angeles,taco-vaquero-los-angeles,['mexican']
+DM8waRdb5owDRk8utpxULw,33.9026481,-118.2530915,$,32.0,3.5,90220,Compton,louisiana-fried-chicken-compton-2,['hotdogs']
+mXX_rFfzi2yD3JotZrGvVQ,33.9090177,-118.2738651,$$,39.0,2.5,90061,Los Angeles,izzyhana-los-angeles-2,['japanese']
+pn8ePI2BN0dhvwob6UQZ5g,33.9472,-118.30054,$,17.0,4.5,90044,Los Angeles,alejandras-bakery-los-angeles,['bakeries']
+dDcXdw2rFpgxI2XtifsdhQ,33.9310261260989,-118.273902161481,$$,4.0,5.0,90061,Los Angeles,jjs-cake-pops-los-angeles,['bakeries']
+,,,,,,,,,"['foodtrucks', 'burgers']"
+1wkC7-OXlCzaIUX22X7Cnw,33.91667,-118.26997,$,42.0,2.5,90061,Los Angeles,toms-junior-burger-los-angeles,"['diners', 'burgers']"
+INO2F00HtxIV4ARjFnUaLA,33.9056791,-118.3002751,$,60.0,3.0,90249,Gardena,gianni-burgers-gardena,"['burgers', 'newamerican', 'hotdog']"
+bor9bT5d7kWkml5ztVxEEw,33.916675567627,-118.253829956055,$,31.0,3.0,90222,Compton,nakas-broiler-compton,['newamerican']
+c8dLqItbza1uKlMr-SUe-A,33.903159,-118.254998,$,189.0,2.0,90222,Compton,starbucks-compton-2,['coffee']
+telQNwvw8qigGnoDBg87PA,33.902117122964,-118.26871778816,$,16.0,3.5,90248,Gardena,tacos-los-cunados-gardena,['mexican']
+0r5zrWIM6chmFuoiLaS_gg,33.94841,-118.27356,$,9.0,4.5,90003,Los Angeles,nancys-market-los-angeles,"['grocery', 'delis', 'mexican']"
+iw48b6q-FoyvWLzFk7JoJw,33.9482727050781,-118.2431640625,$,11.0,4.5,90002,Los Angeles,tacos-de-birria-la-pely-grosa-los-angeles,['tacos']
+T2AxD0A67CvPkRj2GndEFQ,33.9478802,-118.2935891,$,6.0,5.0,90044,Los Angeles,whipped-elements-los-angeles,"['cupcakes', 'desserts', 'customcakes']"
+OnzjyfumXpDP0cyjJmtzbA,33.9376,-118.29113,$,20.0,3.5,90044,Los Angeles,happy-times-burgers-los-angeles,"['burgers', 'tacos', 'hotdog']"
+ekfBDge2_rRu7g5HuqYL0w,33.930295,-118.292115,$,9.0,4.0,90044,Los Angeles,louisiana-fried-chicken-and-fish-los-angeles,"['chicken_wings', 'fishnchips']"
+9lQd6Eu-AuLkRJBG0-vdEQ,33.91683,-118.27432,$,14.0,3.0,90061,Los Angeles,jack-in-the-box-los-angeles-50,"['hotdogs', 'breakfast_brunch', 'burgers']"
+PqyYvNC96j0Zwlm_OPHNgw,33.91608,-118.26484,$,56.0,2.0,90061,Los Angeles,el-pollo-loco-los-angeles-81,"['hotdogs', 'mexican']"
+,,,,,,,,,['parks']
+XZIjq2-5WXF0qY7DjlfivA,33.9011185802118,-118.292211885181,$,37.0,2.5,90247,Gardena,china-town-express-gardena,['chinese']
+2l2T47172WhDsz3-EGxHLA,33.9027194,-118.2514223,$,32.0,3.0,90220,Compton,central-fish-market-compton,['seafood']
+G-jXUat6vQmw5D5iy-E7Pg,33.9029782839658,-118.255640028742,$$,57.0,2.5,90222,Compton,wingstop-compton-3,['chicken_wings']
+aKQFiQ0Rd55XbX86yCxrjA,33.90151,-118.29573,$,99.0,2.0,90247,Gardena,popeyes-louisiana-kitchen-gardena,"['hotdogs', 'chicken_wings']"
+,,,,,,,,,"['burgers', 'hotdogs']"
+Ekrm1S_5x5dcgZeYgbgZRA,33.9440147684904,-118.254278273419,$,14.0,4.0,90002,Los Angeles,watts-burgers-los-angeles,"['hotdogs', 'burgers']"
+BAfji6n3y8Wa6DPftI_ODw,33.9055719385314,-118.300748601068,$,27.0,3.0,90249,Gardena,froggys-bar-and-grill-gardena-2,"['sportsbars', 'tradamerican', 'divebars']"
+xJLV_kbR5APr_e-JepARsQ,33.9167404174805,-118.282363891602,$,10.0,3.0,90061,Los Angeles,louisiana-famous-fried-chicken-los-angeles-8,['hotdogs']
+c51W7jPmw_VSBQlxVeg2TQ,33.9312755005977,-118.282927125692,$,80.0,1.5,90044,Los Angeles,mcdonalds-los-angeles-5,"['burgers', 'hotdogs', 'coffee']"
+EK36SX4etXxNcj4zd8SR5Q,33.89266,-118.29649,$,76.0,2.0,90247,Gardena,churchs-chicken-gardena-2,"['hotdogs', 'chicken_wings']"
+rJdSLI91EnCKegl4pdcZMg,33.908905,-118.2654419,$,37.0,2.0,90061,Los Angeles,golden-bird-chicken-los-angeles-2,['hotdogs']
+7mXSpesZQCOWqNAlFwljiA,33.9165649,-118.2979758,$,5.0,4.5,90247,Gardena,la-mexicana-market-gardena,"['grocery', 'foodstands', 'mexican']"
+,,,,,,,,,"['soulfood', 'foodstands', 'bbq']"
+_ursKCJiU5ELlzXmEKN35w,33.9026721,-118.2523554,$,13.0,3.5,90220,Compton,baskin-robbins-compton-2,"['icecream', 'desserts', 'customcakes']"
+UBwLow8hvey5LF1bOCR8DA,33.90172,-118.293667,$,26.0,3.0,90247,Gardena,subway-restaurants-gardena-4,['sandwiches']
+vw2-6MGeTdR10gCRDxG5NQ,33.9012320847705,-118.300064148024,$,19.0,3.0,90247,Gardena,louisiana-fried-chicken-gardena,"['hotdogs', 'chicken_wings']"
+hwyHNooDhf58vHNm7Xn6mA,33.9029329172558,-118.256516596321,$,10.0,3.5,90222,Compton,7-eleven-compton,"['convenience', 'coffee']"
+TcZI3mazARIJLxdYMB8_Cg,33.9306432019151,-118.300039363615,$,36.0,2.5,90044,Los Angeles,el-pollo-loco-los-angeles-82,"['hotdogs', 'mexican']"
+qKC84EP5FoPEtExZHwd_wA,33.9334526062012,-118.265510559082,$,9.0,3.5,90061,Los Angeles,piara-pizza-los-angeles-3,"['chicken_wings', 'pizza']"
+0gF0TdGXjoblnTizY3Ynew,33.90216,-118.29229,$,17.0,3.0,90247,Gardena,yoshinoya-vermont-and-rosecrans-gardena-2,['japanese']
+v1296DVrpweVFdb5pDzs5g,33.903171,-118.255363,$,72.0,2.0,90220,Compton,panda-express-compton,"['chinese', 'hotdogs']"
+KbOcFoW_OtMsWX8LkZSEEA,33.916672,-118.265521,$,25.0,2.0,90061,Los Angeles,popeyes-louisiana-kitchen-los-angeles-9,"['hotdogs', 'chicken_wings']"
+yyg_sYFT_43F2aWRl4klOg,33.9016884372459,-118.3027868,$,42.0,2.5,90249,Gardena,astro-burgers-no-7-gardena,"['burgers', 'breakfast_brunch']"
+UmSZrTtE0pGY4e5_Edousw,33.8923496,-118.2921524,$$,13.0,3.5,90247,Gardena,larry-flynts-bar-and-grill-gardena,"['bars', 'newamerican']"
+o7__znXHxJdfZ-MlvY7N8g,33.9384750817425,-118.254446089268,$,5.0,4.5,90059,Los Angeles,express-burger-los-angeles,['burgers']
+ekc14oriCpfuboFqdCvjWA,33.9313545,-118.3001862,$,8.0,4.0,90044,Los Angeles,hong-kong-express-los-angeles-24,['chinese']
+pGMfuNsJtPdUBurS-M0PFg,33.930722,-118.282192846025,$,30.0,2.0,90061,Los Angeles,jack-in-the-box-los-angeles-55,"['hotdogs', 'burgers', 'breakfast_brunch']"
+mCasM1pWMAZBLMq5v8iplw,33.9161071777344,-118.255027770996,$,9.0,3.5,90059,Los Angeles,magic-fingers-eat-em-up-los-angeles,"['tradamerican', 'soulfood']"
+x6hrrxxkyk8_shWCjXUoaw,34.745082,-87.666192,$,46.0,1.5,35661,Muscle Shoals,pizza-hut-muscle-shoals-5,"['italian', 'pizza', 'chicken_wings']"
+riPHV6ETPp88hkd_FJvyjw,33.91689,-118.26487,$,26.0,2.0,90061,Los Angeles,burger-king-los-angeles-28,"['burgers', 'hotdogs']"
+bl_iDlPdMoTW-NkCXVTU9w,33.9296698236468,-118.25400352478,$,6.0,4.0,90059,Los Angeles,tacos-el-pueblo-los-angeles,"['mexican', 'foodtrucks']"
+,,,,,,,,,['parks']
+b_SSDjEY_41_UMjmp3k_jA,33.9016593948051,-118.293037662824,$,34.0,2.0,90247,Gardena,kfc-gardena-3,"['hotdogs', 'chicken_wings', 'chickenshop']"
+,,,,,,,,,"['hotdogs', 'chinese']"
+E2Uizc31K9fRW2ftz-mlgw,33.9027205,-118.2513315,$,31.0,2.5,90220,Compton,little-caesars-pizza-compton,"['pizza', 'hotdogs']"
+,,,,,,,,,"['parks', 'playgrounds']"
+tgo2cJxZ-Sql8fhiimLCkg,33.891908,-118.300654,$,99.0,2.0,90247,Gardena,el-pollo-loco-gardena-2,"['hotdogs', 'mexican']"
+6b9L1YKzvPDFrv_Wuq_IWg,33.9372268,-118.2740149,$,16.0,3.0,90061,Los Angeles,monster-burger-los-angeles-2,"['breakfast_brunch', 'mexican']"
+,,,,,,,,,['parks']
+4lwAgXrSFWnXpydoBh1n2A,33.9030838012695,-118.256544,$,57.0,1.5,90059,Los Angeles,dominos-pizza-los-angeles-60,"['pizza', 'chicken_wings', 'sandwiches']"
+eLJ-YyFwN6HNLcXEOu9uPQ,33.89904,-118.274766,$$$,3.0,4.5,90248,Gardena,hannahmax-baking-gardena-2,['bakeries']
+,,,,,,,,,['brazilian']
+,,,,,,,,,"['streetvendors', 'mexican']"
+YwEih1nFpQEORX77MhyOKA,33.8916041,-118.2999912,$,26.0,2.5,90247,Gardena,hong-kong-express-gardena-2,['chinese']
+D75-0k4ZzLXJ19SAuyM8xg,33.9423625,-118.26557233,$,7.0,3.5,90003,Los Angeles,subway-restaurants-los-angeles-22,['sandwiches']
+muAgsUXEudmYB5nEDi8IiQ,33.9016659,-118.292273283005,$,26.0,2.0,90247,Gardena,jack-in-the-box-gardena,"['hotdogs', 'burgers', 'breakfast_brunch']"
+Zk0LbPzbaUru42OgtbFSXA,33.89208984375,-118.295272827148,$,12.0,3.5,90247,Gardena,las-casuelas-gardena,['mexican']
+AFQFkHKU9y-X6bOe-nLCXw,33.93139,-118.27348,$,6.0,3.0,90061,Los Angeles,louisiana-fried-chicken-los-angeles-7,['hotdogs']
+qonaqV7Okfg434PTccEbJw,33.94946,-118.26551,$$,5.0,4.0,90003,Los Angeles,avalon-ice-cream-and-candy-los-angeles,"['icecream', 'candy']"
+jmbXZXGJVFfFAAY0Cv-FPQ,33.9306412,-118.3006973,$,18.0,2.5,90047,Los Angeles,winchells-donuts-los-angeles-19,"['coffee', 'donuts', 'sandwiches']"
+,,,,,,,,,['mexican']
+wsR6bHYXqZiP_nEr7ogb6w,33.916294,-118.282648,$,15.0,1.5,90061,Los Angeles,taco-bell-los-angeles-20,"['hotdogs', 'mexican', 'tex-mex']"
+9AJTNSjDVP3UchWVimxUAA,33.9448127746582,-118.28296661377,$,16.0,2.5,90003,Los Angeles,tams-burgers-no-6-los-angeles,['burgers']
+7x1XGvxRPnmRIzIHaAHkGg,33.9146690368652,-118.280502319336,$$,1.0,5.0,90061,Los Angeles,pacific-crayfish-los-angeles,['seafood']
+,,,,,,,,,"['coffee', 'convenience']"
+r0gvpyk7X_HUKte2Z63R8A,33.8931594918899,-118.283471614122,$,32.0,2.0,90248,Gardena,mcdonalds-gardena-4,"['hotdogs', 'burgers', 'coffee']"
+9aM477Xzpctju8XHHaTreQ,33.9012023,-118.300113,$,36.0,2.0,90247,Gardena,pizza-hut-gardena,"['pizza', 'italian', 'chicken_wings']"
+yEAjU4Lkb3zy-af6YjwWeQ,33.9433153,-118.2668094,$$,16.0,2.0,90003,Los Angeles,superior-grocers-los-angeles-11,"['grocery', 'bakeries', 'meats']"
+iddFHOksMzDeeyy423m7Lg,33.8915,-118.29294,$$,6.0,4.0,90247,Gardena,the-blackjack-lounge-gardena,"['casinos', 'lounges']"
+NCcsyGhRo0H-dNfIzyipmQ,33.901502,-118.292793,$,18.0,2.0,90247,Gardena,long-john-silvers-gardena,"['hotdogs', 'seafood']"
+MtcJ55yvY-etl_Yd5c-jEA,33.9452069518192,-118.265528131074,$,29.0,2.0,90003,Los Angeles,mcdonalds-los-angeles-130,"['hotdogs', 'burgers', 'coffee']"
+eMmrdzamh8i4qwCJIak6dw,33.930753,-118.287468,$,17.0,2.0,90044,Los Angeles,subway-restaurants-los-angeles-27,['sandwiches']
+NnNx50ssy7Q5iEpCuCBhEw,33.9015573112266,-118.290911639008,$,20.0,2.0,90247,Gardena,mcdonalds-gardena-3,"['hotdogs', 'burgers', 'coffee']"
+dUiamJgnTmfBCctbmAj7xQ,33.9168183102002,-118.283225186169,$,5.0,3.0,90061,Los Angeles,little-caesars-pizza-los-angeles-50,"['pizza', 'hotdogs']"
+pw_BJ5OIEG3ueXEdz-f1UQ,33.9612846374512,-118.289627075195,$$,2.0,5.0,90044,Los Angeles,truly-blessed-bakery-los-angeles,"['desserts', 'customcakes', 'cupcakes']"
+4QCFoamzXT1cQ_7vc95_Pg,33.9025133335327,-118.253969619982,$,30.0,2.0,90059,Los Angeles,mcdonalds-los-angeles-71,"['hotdogs', 'burgers', 'coffee']"
+rLbeLNkqTqllhuG0siUQhQ,33.8928932882395,-118.28687962872,$,9.0,3.0,90247,Gardena,subway-restaurants-gardena-6,"['hotdogs', 'sandwiches']"
+,,,,,,,,,"['pizza', 'chicken_wings']"
+,,,,,,,,,['mexican']
+do6Bgb_KNOGaVuAsjHNTGw,33.903538,-118.291166,$,9.0,3.0,90247,Gardena,guadalajara-meat-market-gardena,"['grocery', 'meats', 'foodstands']"
+,,,,,,,,,['chicken_wings']
+5CKwlUmFailFbKeTwrHV7g,33.896444,-118.2523205,$,21.0,2.0,90220,Compton,jack-in-the-box-compton-2,"['hotdogs', 'breakfast_brunch', 'burgers']"
+,,,,,,,,,"['tacos', 'foodstands']"
+XZl4GipHQcCSLnkyq3lJ9w,33.94525,-118.27875,$,29.0,1.5,90003,Los Angeles,burger-king-los-angeles-44,"['burgers', 'hotdogs']"
+,,,,,,,,,"['foodtrucks', 'mexican']"
+4hA7Okt1nURv8Xp3pwFZEw,33.9456951923339,-118.2921048,$,42.0,1.5,90044,Los Angeles,pizza-hut-los-angeles-3,"['pizza', 'italian', 'chicken_wings']"
+rV9YqAeZpxUL73mLcAkB_A,33.93303,-118.25637,$,1.0,5.0,90059,Los Angeles,mariscos-los-angeles-2,['seafood']
+,,,,,,,,,['mexican']
+XmlrT0s0Z5wXeXb0_65Qyg,33.897465,-118.252616,$,24.0,1.5,90220,Compton,churchs-chicken-compton-2,"['hotdogs', 'chicken_wings']"
+Eh0aKbZuV8VsZrNCumOQ-g,33.946275,-118.265108,$,16.0,1.5,90003,Los Angeles,taco-bell-los-angeles-11,"['mexican', 'hotdogs']"
+O_y4c0FX389fHde5raxZUg,33.8925034,-118.2956102,$,9.0,2.5,90247,Gardena,7-eleven-gardena-5,"['convenience', 'coffee']"
+XPxXilGtooTe8y0RmTnVJg,33.90266,-118.24966,$,19.0,2.0,90220,Compton,taco-bell-compton-3,"['hotdogs', 'mexican']"
+EFlRjqIfXOFJqewh-QgH1Q,33.94297,-118.25447,$,20.0,1.5,90002,Los Angeles,jack-in-the-box-los-angeles-4,"['burgers', 'hotdogs', 'breakfast_brunch']"
+0VA31YAW18o_8H77TKF7Vg,33.9160108334661,-118.254845659258,$,2.0,3.0,90059,Los Angeles,7-eleven-los-angeles-158,"['convenience', 'coffee']"
+8NReF5lpWJqRHEUFbDYIiw,33.9023809285776,-118.291385471821,$,9.0,2.0,90247,Los Angeles,7-eleven-los-angeles-190,"['convenience', 'coffee']"
+,,,,,,,,,['chinese']
+LlKorY2GDmNV7zLym8YSHA,33.8961,-118.252319912286,$,21.0,1.5,90220,Compton,kfc-compton,"['chicken_wings', 'hotdogs', 'chickenshop']"
+,,,,,,,,,"['icecream', 'foodtrucks']"
+XehN9FWiDxtJxZCgrCZy0Q,33.9028140146728,-118.251369856062,$,17.0,1.0,90220,Compton,subway-restaurants-compton-4,['sandwiches']
+d-aPoHdzj_OyZV58H63hkA,33.9313233477485,-118.300688713789,$,8.0,1.5,90044,Los Angeles,7-eleven-los-angeles-134,"['convenience', 'coffee']"
+,,,,,,,,,"['divebars', 'poolbilliards']"
+Pl7ofDZFiGWcfeJ-mFSJ3g,33.90242,-118.29344,$$,13.0,3.0,90247,Gardena,bar-1045-gardena,"['bars', 'tradamerican']"
+MqLOC90AQiGygN04amwivg,33.9426235109568,-118.265234604478,$,7.0,2.0,90003,Los Angeles,little-caesars-pizza-los-angeles-45,"['pizza', 'hotdogs']"
+mjjmJE-2stQXPOedQJbYCQ,33.9017151,-118.2997333,$,1.0,4.0,90247,Gardena,china-rose-express-gardena,['chinese']
+OsnFl_5ZrNdomjW-UurWvg,33.945324,-118.300442,$,5.0,2.0,90047,Los Angeles,taco-bell-los-angeles-25,"['hotdogs', 'mexican', 'tex-mex']"
+z_80cimxDUDP7pQV_4kOzw,33.9307124600129,-118.264733701944,$,2.0,1.0,90059,Los Angeles,7-eleven-los-angeles-175,"['convenience', 'coffee']"
+YZJh-SCATOR6I4S616VFUw,33.897205,-118.2523251,$,2.0,3.0,90220,Compton,winfreys-pit-barbecue-compton,['bbq']
+OpUiMdB-sLYebkvuxkx5Mg,37.826029,-82.823873,$,1.0,4.0,41240,Paintsville,pizza-hut-paintsville-5,"['pizza', 'italian', 'chicken_wings']"
+,,,,,,,,,['chinese']
+1uW8-S7rBMbmc8YULGNElw,33.91673,-118.28318,$,4.0,1.5,90061,Los Angeles,7-eleven-los-angeles-173,"['convenience', 'coffee']"
+cWQajEsk6RjJOJMQB6X1lg,33.89569,-118.26537,$,2.0,3.0,90220,Compton,7-eleven-compton-11,"['convenience', 'coffee']"
+FWLng-fg-CmRUAPI2sYedg,33.89208984375,-118.295272827148,$,1.0,3.0,90247,Gardena,celias-big-tacos-gardena,['mexican']
+,,,,,,,,,"['customcakes', 'cupcakes', 'bakeries']"
+,,,,,,,,,['pizza']
+,,,,,,,,,"['pizza', 'italian', 'chicken_wings']"
+,,,,,,,,,"['bakeries', 'desserts', 'customcakes']"

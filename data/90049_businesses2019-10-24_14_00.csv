@@ -1,0 +1,67 @@
+category,id,latitude,longitude,price,review_count,rating,zip_code,city,alias
+['artmuseums'],,,,,,,,,
+"['newamerican', 'cafes']",u-b74zN5hyFfIcRZqfx-Tg,34.0778099237411,-118.475537524606,$$$,578.0,4.0,90049,Los Angeles,the-restaurant-at-the-getty-center-los-angeles
+"['newamerican', 'lounges']",vcDXEyrubM6HT_SklfSBIA,34.0738923,-118.4681433,$$$,589.0,4.0,90049,Los Angeles,west-restaurant-and-lounge-los-angeles
+"['bakeries', 'cafes', 'sandwiches']",Zzueg_h1VFtr-y0bGGBKCw,34.06513371655,-118.46948765075,$,371.0,4.5,90049,Los Angeles,belwood-bakery-cafe-los-angeles
+"['parks', 'hiking']",,,,,,,,,
+"['newamerican', 'sandwiches', 'salad']",iCZjQPADbk9sYHNvjef2Zg,34.0642722,-118.4690313,$$,459.0,4.0,90049,Los Angeles,lemonade-los-angeles-6
+"['newamerican', 'seafood', 'cocktailbars']",7s0s_rBFKPxt2B9xBMmQsw,34.0773694,-118.4687328,$$$,196.0,4.0,90049,Los Angeles,the-bel-air-los-angeles-10
+['mexican'],oqXlAAHuPMCur3qiXbcSvw,34.064266308669,-118.469055609789,$$,102.0,4.5,90049,Los Angeles,casa-de-campo-los-angeles-2
+['localflavor'],,,,,,,,,
+"['pizza', 'italian', 'desserts']",lXGM91VTUcJ3K7SCjob97g,34.07714,-118.46918,$$,184.0,4.0,90049,Los Angeles,mannys-pizzeria-los-angeles-3
+"['bakeries', 'desserts', 'customcakes']",C-4pBx861b7pAmliTKIBQA,34.1598963,-118.2666852,$$,403.0,4.5,91202,Glendale,roobinas-cake-glendale
+"['italian', 'wine_bars']",IH5OdO9k2bzk6qhuoJ2B8Q,34.06407,-118.46946,$$$,160.0,4.0,90049,Los Angeles,divino-los-angeles
+"['coffee', 'bagels', 'sandwiches']",CYdNDYe3fFbHbrh88ZoNvA,34.0776094459912,-118.468632978521,$$,58.0,4.0,90049,Los Angeles,the-shack-in-the-back-los-angeles
+"['icecream', 'gelato', 'vegan']",PeYm0nioeSSLy5dfF8mwog,34.0642408,-118.4694159,$$,68.0,4.5,90049,Los Angeles,the-yogurt-shoppe-los-angeles
+"['falafel', 'gluten_free', 'mideastern']",a858YHV2PZx_HdoBr2g_5g,34.064367,-118.469398,$$,80.0,4.5,90049,Los Angeles,soom-soom-fresh-mediterranean-los-angeles-4
+"['coffee', 'bakeries', 'breakfast_brunch']",X2V5ZvWbK9ugE1QYagLNuA,34.0644108,-118.469407707453,$$,149.0,4.0,90049,Los Angeles,le-pain-quotidien-los-angeles-27
+"['tradamerican', 'lounges']",V7h6iFznzyLgN-MFksriYA,34.065068,-118.469313,$$$,166.0,3.5,90049,Los Angeles,brentwood-restaurant-and-lounge-los-angeles
+"['museums', 'nonprofit']",,,,,,,,,
+"['aquariums', 'localfishstores', 'aquariumservices']",,,,,,,,,
+"['pizza', 'italian']",TjLM-VHOgZ3GSn-N9yoSeA,34.0645292401314,-118.469736948609,$$,168.0,3.5,90049,Brentwood,marias-italian-kitchen-brentwood
+"['italian', 'bars']",GyOuWB-5RWyf1XQTKjSfIg,34.065,-118.46909,$$$,144.0,3.5,90049,Brentwood,peppone-ristorante-brentwood
+"['sushi', 'japanese']",,,,,,,,,
+"['poutineries', 'foodtrucks']",,,,,,,,,
+"['foodtrucks', 'breakfast_brunch']",7lhZv_79QeSLdxKFHHhckQ,34.05513,-118.38404,$$,87.0,4.0,90035,Los Angeles,the-rooster-los-angeles-3
+['cafes'],zm3vq1SwB2UNKCu28-SRTA,34.0778130264411,-118.475676509679,$$,68.0,3.0,90049,Los Angeles,cafe-at-the-getty-center-los-angeles-2
+['dog_parks'],,,,,,,,,
+"['foodstands', 'burgers']",eC6LKNPIDWHFj4KgDZgpJQ,34.23356533,-118.58883683,$$,50.0,5.0,91304,Canoga Park,uncle-johnnys-burgers-canoga-park
+['coffee'],t0vFrIyqX6N5mAT3d0YV_Q,34.064514,-118.469416,$$,76.0,3.0,90049,Los Angeles,starbucks-los-angeles-20
+"['museums', 'localflavor']",,,,,,,,,
+['parks'],,,,,,,,,
+['cafes'],pE3-U1XKbFZ6Fp-5WmV6YA,34.06612,-118.45978,$$,33.0,4.0,90049,Los Angeles,media-services-cafe-los-angeles
+"['desserts', 'cupcakes', 'bakeries']",cVLrl9q5Aei9VWvnGiyruQ,34.17436,-118.61076,$$,16.0,5.0,91367,Woodland Hills,sweet-little-things-by-shiry-woodland-hills
+"['persian', 'foodstands']",,,,,,,,,
+"['foodtrucks', 'seafood']",,,,,,,,,
+"['german', 'foodtrucks', 'catering']",,,,,,,,,
+"['foodtrucks', 'coffee', 'breakfast_brunch']",qu8yFETeo4J8fMbf_7XV_Q,34.03983,-118.26855,$,29.0,4.5,90015,Los Angeles,urban-espresso-los-angeles-6
+['parks'],,,,,,,,,
+['museums'],,,,,,,,,
+['lounges'],X2rXvM1mkOCIkLWlADIPsg,34.08659,-118.446365,$$$,11.0,4.0,90077,Los Angeles,bar-and-lounge-los-angeles
+['mexican'],gUDrVlRXX5hskk3TuPypuQ,34.05817,-118.491973,$,12.0,3.5,90024,Los Angeles,flaming-tacos-los-angeles
+"['foodtrucks', 'seafood', 'fishnchips']",,,,,,,,,
+['hiking'],,,,,,,,,
+"['foodtrucks', 'thai']",,,,,,,,,
+['sandwiches'],_CEl1EIbirUWPwL3pQnE3w,34.06415,-118.469947,$,17.0,3.0,90049,Los Angeles,subway-restaurants-los-angeles-8
+['parks'],,,,,,,,,
+['parks'],,,,,,,,,
+"['foodtrucks', 'spanish', 'seafood']",,,,,,,,,
+"['foodtrucks', 'sandwiches', 'salad']",JiYslHHmxDRNtjDg_49fmQ,33.7885,-117.97395,$$,178.0,4.0,92841,Garden Grove,mess-hall-canteen-garden-grove-7
+"['facepainting', 'magicians', 'pettingzoos']",,,,,,,,,
+"['bakeries', 'desserts', 'gourmet']",ZVY-0beo87GIQxcBMgJ9Nw,34.0531234741211,-118.46745300293,$$,3.0,4.0,90049,Los Angeles,nice-krispies-los-angeles
+['museums'],,,,,,,,,
+['gelato'],,,,,,,,,
+"['catering', 'foodstands', 'mexican']",EGz4toczaB2njcFcqGzsxA,33.7332038879395,-118.294395446777,$$,24.0,5.0,90731,San Pedro,fiyahnesian-cuisine-no-title
+"['mediterranean', 'seafood', 'french']",,,,,,,,,
+"['desserts', 'foodtrucks', 'creperies']",,,,,,,,,
+"['wine_bars', 'winetastingroom', 'selfstorage']",,,,,,,,,
+"['gourmet', 'desserts']",WVWlRFDrjP48K-fBC4bV1A,34.0869369506836,-118.488250732422,$$$,3.0,2.5,90049,Los Angeles,milk-and-krunchies-los-angeles-2
+"['foodtrucks', 'chickenshop']",,,,,,,,,
+"['foodtrucks', 'latin', 'cafes']",,,,,,,,,
+"['publicservicesgovt', 'localflavor', 'localservices', 'education']",,,,,,,,,
+['landmarks'],,,,,,,,,
+"['shavedice', 'foodstands']",Tub-psQGYAjbtny6MnfQmg,34.0770492553711,-118.25887298584,$,2.0,5.0,90026,Los Angeles,yum-yum-shave-ice-los-angeles-2
+"['shavedice', 'desserts', 'foodtrucks']",,,,,,,,,
+"['indpak', 'foodtrucks', 'streetvendors']",,,,,,,,,
+"['tacos', 'foodstands']",,,,,,,,,
+"['coffee', 'foodstands']",,,,,,,,,

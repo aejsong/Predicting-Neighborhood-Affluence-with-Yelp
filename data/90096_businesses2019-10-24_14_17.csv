@@ -1,0 +1,551 @@
+id,latitude,longitude,price,review_count,rating,zip_code,city,alias,category
+Elf0H4l_3qp-g_Dh63IQLw,33.9836076530163,-118.185687519908,$$,1316.0,4.5,90270,Maywood,big-als-pizzeria-maywood-3,"['pizza', 'halal', 'chicken_wings']"
+dXmtaoS7aBic0rFD2F7Q-Q,33.97791,-118.18331,$,356.0,4.5,90201,Bell,gorditas-bell,['mexican']
+rFUJGsKELozjJO9BBJEjiA,33.9601705,-118.1563554,$$,385.0,4.5,90201,Bell Gardens,rocios-mexican-kitchen-bell-gardens,"['mexican', 'salad', 'steak']"
+lnMxfF4u2UrDfw9dJE58wQ,33.97724,-118.182035,$,356.0,4.5,90201,Bell,te-amo-pizza-bell,"['pizza', 'hotdogs']"
+GX6SAROuL7qg_eQ9yRFKVQ,33.9624091,-118.1859293,$,166.0,4.5,90201,Cudahy,lees-bbq-and-boba-cudahy,"['bbq', 'bubbletea', 'chinese']"
+fc0uUUpsE7OubJ1UfJTj4w,33.9768746982918,-118.175854091004,$,115.0,4.5,90201,Bell,super-pizza-veloz-bell,"['pizza', 'chicken_wings']"
+znNsBFBJW05Jq10718xc1w,33.9658441,-118.1519534,$,398.0,4.0,90201,Bell Gardens,pioneer-chicken-bell-gardens,"['chickenshop', 'chicken_wings', 'fishnchips']"
+50kL1ThoZQUkcBiKmIRc3Q,33.95143,-118.18228,$$,568.0,4.0,90280,South Gate,tierra-mia-coffee-south-gate,"['coffee', 'latin']"
+_Gzb8oDw4QNbAVIqW9Kanw,33.9786,-118.19515,$$,1025.0,4.0,90201,Bell,la-casita-mexicana-bell,['mexican']
+qTSKc4nxxU7eAs67nYmVXQ,33.9670353,-118.1576338,$,233.0,4.0,90201,Bell Gardens,the-rice-street-bell-gardens-2,"['asianfusion', 'thai']"
+_ZsbDxHDfEs6a232eBYplw,33.9624499,-118.1478,$$,383.0,4.0,90201,Bell Gardens,el-coraloense-bell-gardens,['seafood']
+JhqQlWZOoJAHhvByXw_xnw,33.9488514606822,-118.163208506523,$$,182.0,4.5,90280,South Gate,burgerim-south-gate,"['tradamerican', 'burgers', 'sandwiches']"
+DSpBx5Sust-P0JANIG0hMA,33.97195,-118.164619,$$,216.0,4.0,90201,Bell Gardens,el-pescador-bell-gardens-bell-gardens-2,"['mexican', 'seafood']"
+vSyrqIorGw4EEcjSIC9ZGA,33.9741945,-118.1496378,$,281.0,4.0,90040,Commerce,lucero-bakery-commerce-6,"['bakeries', 'customcakes']"
+cZrl7ReIltMu1vjkGYyKbw,33.989457,-118.160776,$,184.0,4.5,90040,Commerce,new-york-slicers-commerce,['delis']
+THzu4Nad1Iu0NCesCRNnJg,33.9466976533365,-118.149104208458,$$,226.0,4.5,90241,Downey,caña-by-tropicana-downey,"['cuban', 'sandwiches']"
+nNCyfO4Fa8spaz-TYYtfow,33.9710182927184,-118.1947231,$$,290.0,4.0,90201,Bell,world-famous-grill-bell,"['burgers', 'mediterranean', 'mexican']"
+S8FjJtv2Xlm2bgVdcDHekQ,33.946481,-118.1445312,$$,771.0,4.0,90241,Downey,narai-thai-cuisine-downey,"['thai', 'noodles', 'soup']"
+UNhsuZmtqGA5X5_3_pGYUw,34.02252,-118.21658,$,354.0,4.5,90023,Los Angeles,tacos-y-birria-la-unica-los-angeles,"['tacos', 'foodtrucks']"
+H_L6Geho-v3lekdqzlTH1A,33.97138,-118.19525,$$,263.0,4.0,90201,Bell,el-ceviche-loco-bell,"['mexican', 'seafood']"
+rWedwRqfRfEuxcvcq-inSg,33.963882,-118.164947,$,64.0,4.5,90201,Bell Gardens,t-and-a-taco-no-2-bell-gardens,['mexican']
+NKnhXJm4NOCyNJP_2ztzkg,33.977306,-118.183349,$,142.0,4.0,90201,Bell,jims-burgers-bell,['burgers']
+TtNyoWyQiKFIH5PjT3VbGA,33.9525571868032,-118.163803981265,$,213.0,4.0,90280,South Gate,golden-bowl-south-gate,['japanese']
+L1JIPUVxd7q09AZTbeAsZw,33.9671033620834,-118.158494755626,$,76.0,4.0,90201,Bell Gardens,bionicos-jugos-zapopan-bell-gardens-2,"['juicebars', 'vegan', 'mexican']"
+vrUgDkt71DugSpsYWmDDFw,33.97527,-118.1869,$$,757.0,3.0,90201,Bell,culichi-town-bell-bell,"['sushi', 'mexican', 'seafood']"
+GVt0MwAoQcuM06V_-fHkug,34.0583969,-118.1912081,$,1176.0,4.5,90063,Los Angeles,the-lobos-truck-los-angeles,"['foodtrucks', 'tradamerican', 'comfortfood']"
+GaSHdE1X3sXMjMuFCCXAnA,33.9903086,-118.1611117,$$,94.0,4.5,90040,Los Angeles,fish-o-licious-los-angeles,"['seafood', 'fishnchips']"
+Ag_FMsz-TSPhkFwt6Rw5KQ,33.9655189,-118.187006,$,89.0,4.5,90201,Cudahy,chriss-hamburgers-cudahy,"['tradamerican', 'burgers']"
+lgWETzAgjEcvMwNj7LgeIg,33.95234,-118.1845,$,260.0,4.0,90280,South Gate,blaze-fast-fired-pizza-south-gate,"['salad', 'pizza', 'hotdogs']"
+CI1naCxoM1yif-2QpCf7ag,33.9492874145508,-118.163475036621,$$,101.0,4.5,90280,South Gate,ostioneria-el-compa-south-gate,['mexican']
+ed-cqCa05G4eo-t8_jyfcw,33.9742262378138,-118.152216206991,$,56.0,4.5,90201,Bell Gardens,el-zarape-michoacano-bell-gardens,['mexican']
+Po8D_iC1arJwre3_qrlfNg,33.94919,-118.16243,$$,182.0,4.0,90280,South Gate,buena-mesa-south-gate,"['seafood', 'steak', 'bars']"
+b9bwa_CECZdAqqig7eSuDw,33.9787582,-118.1927202,$$,92.0,4.5,90201,Bell,riccos-pizza-bell,['pizza']
+5O7AYJu-VSUbhIZi_2TNXA,33.94651,-118.15063,$,159.0,4.5,90241,Downey,acai-world-downey-2,"['juicebars', 'nutritionists', 'sandwiches']"
+9hC6oZ4ecJGGJZckAmdzVQ,33.9697993,-118.1659774,$,62.0,4.0,90201,Bell Gardens,taqueria-los-altos-bell-gardens,"['mexican', 'latin', 'seafood']"
+i2WGN2yxLE55CI05m4vuQQ,33.969047,-118.164993,$,164.0,3.0,90201,Bell Gardens,alfredos-mexican-food-bell-gardens,['mexican']
+8Fozx_g8yfmsRywNzv1Dgg,33.9475138485432,-118.147197291255,$$,498.0,3.5,90241,Downey,bobs-big-boy-broiler-downey,['tradamerican']
+tOTheaU_Iunq5OLrD0nNkA,33.973569,-118.164228,$,49.0,4.0,90201,Bell Gardens,tacos-el-negro-bell-gardens-7,['mexican']
+Sv_BwToAp0Hc4X-URskYIw,33.979548,-118.197578,$,136.0,4.0,90201,Bell,el-pollero-95-bell,"['mexican', 'seafood']"
+y86XqxYxzGdhqan4rtUMQA,33.9832877375256,-118.185955510334,$,77.0,4.5,90270,Maywood,paleteria-limon-maywood-2,"['icecream', 'desserts']"
+CIlfHfZRDDWBbb4mMhsz1A,33.96688,-118.15252,$$,236.0,3.5,90201,Bell Gardens,el-picante-bell-gardens,['mexican']
+lwBbzIzX1q7MavJOR7Tzyg,33.97908,-118.25009,$,1580.0,3.5,90001,Los Angeles,the-grilled-cheese-truck-los-angeles,"['foodtrucks', 'tradamerican']"
+kffFPLFA7FF_CivGdpnpKQ,33.9475914,-118.1488998,$,222.0,4.0,90241,Downey,ta-carbon-mexican-taqueria-downey,"['mexican', 'breakfast_brunch']"
+U6ax3p65i8GmCtcagEkOsQ,33.9879812,-118.1925218,$,70.0,4.5,90270,Maywood,lucero-bakery-maywood,"['bakeries', 'customcakes']"
+,,,,,,,,,"['beerbar', 'breweries']"
+ExLEx4SCNM65SLT7yml3zg,33.984672,-118.161847,$$,367.0,3.0,90040,Commerce,aqui-es-texcoco-commerce,"['mexican', 'latin', 'breakfast_brunch']"
+uB-FucodeaHzxNMvd7X5WA,33.9483533100694,-118.163467124725,$$,234.0,3.5,90280,South Gate,hiccups-south-gate,"['vietnamese', 'thai', 'coffee']"
+4DD4gNRaO2ShS0lJDtkEFA,33.971968,-118.1881012,$,34.0,4.5,90201,Bell,ay-caramba-helados-y-cafe-bell-3,"['icecream', 'cafes', 'sandwiches']"
+2olEEFk4ioOW3VUuzHbQmA,33.9644686,-118.164938,$,34.0,4.0,90201,Bell Gardens,fosters-freeze-bell-gardens,"['icecream', 'burgers', 'tradamerican']"
+IAzVa3gaOGeIKttZqphD2g,33.9894829,-118.262014,$,683.0,4.0,90011,Los Angeles,teddys-red-tacos-los-angeles,"['foodtrucks', 'tacos']"
+OQ7usNkSf7SdpZUGYOAE0g,33.9781723,-118.1630478,$,40.0,4.5,90201,Bell Gardens,carnitas-michoacanas-bell-gardens,['mexican']
+PyivZWrHyYv4JQd9qGGrjw,33.9788284301758,-118.249931335449,$$,180.0,4.5,90001,Los Angeles,tokyo-doggie-style-los-angeles-6,"['foodtrucks', 'japanese', 'hotdog']"
+H8cJ7u0L0K0elanlJ_lWYQ,33.9689949096495,-118.180641420186,$,19.0,5.0,90201,Bell,cedars-halal-meat-market-and-grill-bell-3,['halal']
+UWD9F8hm6kjELGNxrRqceQ,33.970218,-118.188862,$,92.0,4.0,90201,Bell,tacos-gavilan-bell,['mexican']
+PP-BN8-8j35zScu9Hfxmiw,33.9873046875,-118.184196472168,$,51.0,4.5,90270,Maywood,the-redwood-room-maywood-2,['divebars']
+AZtJ8w3d0oUqTX2_Il9U6w,33.969058,-118.163356,$,40.0,4.0,90201,Bell Gardens,delicias-de-mexico-bell-gardens-2,"['mexican', 'breakfast_brunch']"
+o4EPxqPC4r44-RGm_5hgBQ,33.950579,-118.163694,$,100.0,4.0,90280,South Gate,85-c-bakery-cafe-south-gate-2,"['coffee', 'cakeshop', 'bakeries']"
+ZbBCuc6xB6UgA3i1YxjT7Q,33.98834,-118.18571,$,366.0,3.0,90270,Maywood,king-taco-maywood,['mexican']
+4ak0aDauUemwuCREnykTYQ,33.9843597412109,-118.18635559082,$$,354.0,3.0,90270,Maywood,krazy-cup-maywood,"['candy', 'icecream']"
+I8Z7dp6v_z7jlQkOXbL-uw,33.952357,-118.1851394,$,131.0,4.0,90280,South Gate,the-habit-burger-grill-south-gate-2,"['burgers', 'salad', 'sandwiches']"
+XRFea35pQ3tRRWk1Pogt2g,33.94588,-118.14315,$$,165.0,4.0,90241,Downey,food-culture-la-downey,"['gourmet', 'desserts', 'breakfast_brunch']"
+LtJRhQJfGKrSzVmZ5hDoBg,33.9914785954827,-118.184265183685,$,431.0,3.0,90270,Maywood,tacos-los-desvelados-maywood,['mexican']
+vjMDYg9TlWYeM5ixvO8c-A,33.9644872,-118.1787624,$,44.0,4.0,90201,Bell Gardens,t-and-a-taco-bell-gardens,['mexican']
+VtklT23LNrycnr2iQSW3qw,33.9527459,-118.1641802,$$,232.0,3.0,90280,South Gate,lets-sea-south-gate,"['seafood', 'thai']"
+GTBTo8Kpd3cNO23CdsPxLg,33.97045,-118.16392,$$,25.0,4.5,90201,Bell Gardens,menchies-frozen-yogurt-bell-gardens-2,['icecream']
+4cAht1eDrUr7_8Ebk8nuSg,33.97689,-118.17396,$,51.0,4.0,90201,Bell,reynas-bakery-bell,['bakeries']
+uK1xX_dtLVyHZortd43fdA,33.9853364293361,-118.162061174467,$,39.0,4.5,90040,Los Angeles,elm-tree-sandwich-shop-los-angeles,['sandwiches']
+x6PG4-Z37xeSHgsBGgZCNg,33.9692979,-118.1771445,$,26.0,4.5,90201,Bell,ml-yogurt-bell,['icecream']
+rFnYyaQI-WSynC7Z3OPgDg,33.9488862,-118.1648359,$$,189.0,3.5,90280,South Gate,churroholic-south-gate-2,"['coffee', 'desserts', 'icecream']"
+LENzUW6ZM4G4HfdeaS0Svg,33.9674608774833,-118.164437,$$,325.0,2.5,90201,Bell Gardens,applebees-grill-bar-bell-gardens,"['tradamerican', 'sportsbars', 'burgers']"
+ufLBtXcH4hbhAvydKmrncw,33.96964,-118.1785,$$,179.0,3.0,90201,Bell,la-barca-restaurantes-bell-3,"['mexican', 'gourmet']"
+SXt7Akc5UrhWp-Lr9LRsRQ,33.963451,-118.165672,$,33.0,4.0,90201,Bell Gardens,super-pizza-veloz-bell-gardens,['pizza']
+2b33zawwQ4UMtQA_sN1F4A,33.94542,-118.18018,$,103.0,4.0,90280,South Gate,la-champita-south-gate-3,"['latin', 'seafood']"
+8YG6uFjGbYaX6By_QVkLfQ,33.99728,-118.15168,$,88.0,4.5,90040,Los Angeles,tacos-el-charro-los-angeles,['mexican']
+NowRYlpLk7tAt8GQ1e73kw,33.9611076198851,-118.185520600553,$,61.0,4.0,90201,Cudahy,jims-burgers-cudahy,['burgers']
+D60IHYnEJv7NaEZOMw46MA,33.9797402,-118.1869049,$,38.0,4.5,90201,Bell,di-pietro-pizzeria-bell,"['pizza', 'italian']"
+BROlsHnGp9mxNbWhc5_CQw,33.9663405,-118.1513139,$,54.0,4.0,90201,Bell Gardens,evas-cookery-bell-gardens,"['newamerican', 'mexican', 'seafood']"
+,,,,,,,,,"['mexican', 'soup']"
+_0yhEPWiDAJQs_rb4MpwRw,33.9883203,-118.1958934,$,113.0,4.0,90270,Maywood,little-mexico-chiquito-maywood,['mexican']
+zVIrGqKoTh1HCGduPhtP4g,33.9527715457719,-118.188301727509,$,152.0,3.5,90280,South Gate,in-n-out-burger-south-gate-2,"['burgers', 'hotdogs']"
+FMC0oEiVDOpZLg8nmfKn-Q,33.983341217041,-118.186508178711,$,39.0,4.5,90270,Maywood,mariscos-bahia-restaurant-maywood-4,"['seafood', 'tacos']"
+xwrZkDtUAnykeRkSJ_JPoQ,33.956973,-118.1645455,$,30.0,4.5,90201,Bell Gardens,el-pollito-bakery-bell-gardens,['bakeries']
+OnlKeO6tvPNdCaip7rYelg,33.968397,-118.174573,$$,31.0,4.0,90201,Bell,conde-cakes-bell,['bakeries']
+C-4pBx861b7pAmliTKIBQA,34.1598963,-118.2666852,$$,403.0,4.5,91202,Glendale,roobinas-cake-glendale,"['bakeries', 'desserts', 'customcakes']"
+_60u0Ri6GtBqd6SnrdhRCA,33.96243,-118.185321,$,21.0,4.5,90201,Cudahy,la-princesa-bakery-cudahy,['bakeries']
+VzDjEycs-rSXcCfR9gmqqA,33.9782196,-118.1889871,$,62.0,4.0,90201,Bell,el-nuevo-mundo-market-and-cafe-bell-3,"['grocery', 'cuban', 'cafes']"
+MOsejjx-fjKN_OZ2t3BmTA,33.9648515,-118.1512104,$,27.0,4.5,90201,Bell Gardens,magic-wok-bell-gardens,['chinese']
+bLJs5Tw7y1eBVyJ6whvoqw,33.9751,-118.16296,$,33.0,4.0,90201,Bell Gardens,j-b-burgers-bell-gardens,['burgers']
+mc48ay6sTLbdwAvihoYtnA,33.97087,-118.19049,$$,96.0,3.5,90201,Bell,dianas-las-playas-restaurant-bell-3,['mexican']
+UXCbanlTDr3548fpDpTlGg,33.9878582226173,-118.1851378943,$,19.0,5.0,90270,Maywood,delicias-la-michoacana-maywood,['icecream']
+htj_7XADMiR8FfAMKl4JYg,33.97069,-118.18913,$,160.0,3.0,90201,Bell,boulevard-burgers-bell,"['burgers', 'tradamerican', 'mexican']"
+DxojnjveCx1-ap4PgnOH7w,33.9878685400376,-118.190175824876,$,46.0,4.0,90270,Maywood,el-indio-azteca-maywood,['mexican']
+nMEh6boQ7v_q03qcFZZ79Q,34.0569114685059,-118.243949890137,$,624.0,3.5,90012,Los Angeles,white-rabbit-truck-los-angeles-4,"['filipino', 'foodtrucks', 'catering']"
+zL8oJ5LlBrJJKMnflfxkrw,33.9789699,-118.18715,$,65.0,4.0,90201,Bell,taqueria-jalisco-bell-2,['mexican']
+HVg0ZTcPClwrXLQreEKcsw,33.981206,-118.186857,$,88.0,3.5,90201,Bell,los-pollos-bell,['mexican']
+-nm3hL64XZmJEh1305Y1eg,33.969123,-118.166022,$,30.0,3.5,90201,Bell Gardens,crepes-n-shakes-la-bell-gardens-2,"['icecream', 'bubbletea', 'creperies']"
+Qw5TUfyY6Qx60M_NvEKPdg,33.9902372,-118.1611246,$,90.0,3.5,90040,Los Angeles,the-green-olive-los-angeles,['mediterranean']
+ponMNhnAGl6Bv9T1wYFDWA,33.9521298591265,-118.188190162182,$$,70.0,4.0,90280,South Gate,the-hound-bar-south-gate,['bars']
+bIiwxicFQmbPsfanmnokhw,33.9911996453473,-118.184544694443,$$,72.0,4.0,90270,Maywood,mariscos-el-chavalon-maywood,"['mexican', 'seafood']"
+vwUFddGG_ENiNkQT6yp9JQ,33.96919,-118.164202,$,117.0,2.5,90201,Bell Gardens,starbucks-bell-gardens-2,['coffee']
+,,,,,,,,,"['poutineries', 'foodtrucks']"
+uqv-g2bIpUoBx8Erx9yS_A,33.94833,-118.16461,$,118.0,3.5,90280,South Gate,tacos-gavilan-south-gate,['mexican']
+,,,,,,,,,['icecream']
+_o12I4SdwIlxw61yQqVNSQ,33.9926414489746,-118.183349609375,$,44.0,4.0,90270,Maywood,douglas-drive-in-maywood,"['burgers', 'hotdogs']"
+dgdSpNQhJMAoz8LH-gEjVg,33.974219,-118.152524,$,44.0,3.5,90201,Bell Gardens,lucero-cafe-bell-gardens-4,"['juicebars', 'bakeries']"
+EDheymA9pAnm1u0XTQFHLA,33.942863,-118.1958,$$,378.0,3.0,90280,South Gate,wing-house-south-gate,"['chicken_wings', 'sandwiches', 'sportsbars']"
+ubVYIy62ZEnFGVasmY6Pcg,33.9872912,-118.1845955,$,21.0,4.5,90270,Maywood,marys-bakery-maywood,['bakeries']
+e3cioFZAJ56ZZQM7Cdgcuw,33.95274,-118.194305,$,64.0,4.0,90280,South Gate,dragon-flame-chinese-restaurant-bbq-and-seafood-south-gate,"['chinese', 'bbq', 'seafood']"
+1ON2XXttBB7k5Z5LvZrVlw,33.8893305,-118.2074657,$$,186.0,4.5,90221,Compton,billionaire-burger-boyz-compton,"['foodtrucks', 'burgers']"
+DFAtaOjN8SjNr2uy0zoKgw,34.0391055850598,-118.169239805088,$,59.0,4.5,90022,Los Angeles,east-los-tacos-los-angeles,"['foodtrucks', 'tacos']"
+Ud0s3Ms7eVLVidoedb0Wxg,34.1211685401886,-118.205555453897,$,116.0,5.0,90042,Los Angeles,tacos-la-tehuanita-los-angeles,"['tacos', 'foodtrucks', 'vegan']"
+YfRKWRl0rUgSUbuTHAhIcg,33.98635717,-118.1868835,$,30.0,4.5,90270,Maywood,waba-grill-maywood,"['hotdogs', 'asianfusion']"
+lgTA7H8kR4oVp5nPDCGsmg,33.9773433158024,-118.176094392065,$,38.0,3.5,90201,Bell,taco-boy-bell,['mexican']
+Sq65_WmoZbKRuVMkhDuVSw,33.977825,-118.187507,$$,45.0,3.5,90201,Bell,guadalajara-inn-no-2-bell,"['mexican', 'salad', 'steak']"
+fSq_wM3oyJWFhWlyJmbG3w,33.9688179641962,-118.17436940968,$,29.0,3.5,90201,Bell,raspado-xpress-bell,"['icecream', 'juicebars']"
+,,,,,,,,,"['parks', 'baseballfields', 'football']"
+jD7IfCyIRSKJvPCjBfduMA,33.9716537,-118.1875867,$,147.0,3.0,90201,Bell,krazy-wings-bell,"['chicken_wings', 'pizza']"
+lGUShSOZqaLtnhpecJMm1w,33.987936,-118.185702,$,63.0,3.5,90270,Maywood,ohana-hawaiian-bbq-maywood,['hawaiian']
+sYZ-QjJ0BI1qV1aTRbXUJQ,33.95804,-118.3898,$,199.0,4.5,90045,Los Angeles,cafe-vietnam-truck-los-angeles-30,"['vietnamese', 'sandwiches', 'foodtrucks']"
+EMigUD_PUAsuRlm2Cc5fUA,33.9755542,-118.1870151,$$,231.0,4.0,90201,Bell,tacos-and-mezcal-bell,"['cocktailbars', 'tacos']"
+VtXX32KqO_VEzEzNcULwgw,33.9787727,-118.1928874,$$,31.0,4.0,90201,Bell,la-costa-restaurant-bell,"['mexican', 'seafood']"
+0znrhByWGLP5j_IhjxebOA,33.9449195861816,-118.141532897949,$,253.0,3.0,90241,Downey,mr-petes-burgers-downey,"['burgers', 'hotdogs']"
+wSRTP7_TLfS9mv3sVaeVxA,33.9709415708721,-118.192881345749,$,41.0,4.0,90201,Bell,cemitas-poblanas-en-bell-bell,"['mexican', 'hotdogs']"
+JwWps44aTyGWGrPzWOTzbg,33.97074,-118.19549,$$,107.0,3.5,90201,Bell,el-pescador-bell-bell,"['mexican', 'seafood']"
+Vc53x8-glj-8mcdWP8isxg,33.9465141296387,-118.181495666504,$,43.0,4.0,90280,South Gate,chucks-chinese-and-american-food-south-gate,"['chinese', 'tradamerican']"
+wt2KkurQF6nGv-KPdYjYmA,33.9005754171619,-118.326611867643,$,168.0,4.5,90249,Gardena,dotys-tacos-gardena,"['mexican', 'foodtrucks']"
+G2wTjiq-KATdVD8ngrZTOA,33.97075,-118.1647,$,64.0,3.0,90201,Bell Gardens,dunkin-bell-gardens,"['donuts', 'coffee']"
+c5fIb9uj26R61KbdL2zxKw,33.9692532818899,-118.164268185231,$$,25.0,3.5,90201,Bell Gardens,cold-stone-creamery-bell-gardens,"['icecream', 'customcakes', 'cupcakes']"
+A_EpH6ENOWEVs7AbKoVozg,33.9508675,-118.1825418,$,169.0,3.0,90280,South Gate,pancake-corner-south-gate,['breakfast_brunch']
+KH0joF1d7HiKIWd0IN58_Q,33.989647,-118.160716,$,65.0,3.5,90040,Commerce,palaha-thai-food-commerce,['thai']
+i4EqaeoL_j0ca0IpJYQRmQ,33.98407,-118.18567,$,26.0,4.0,90270,Maywood,birreria-estilo-la-barca-jalisco-maywood,['mexican']
+je1VQSkG1AUNIwHvv51zWQ,33.978664,-118.187786,$,47.0,3.5,90201,Bell,ramen-table-bell-2,"['ramen', 'asianfusion']"
+qkhU_iehN1zGaDrCPguqVw,33.954502,-118.148403,$$,73.0,3.5,90241,Downey,rio-hondo-golf-course-downey,['golf']
+SpjDA9cepYauUpPPGDvtJA,33.9735145568848,-118.18726348877,$,40.0,3.5,90201,Bell,tacos-el-unico-bell-3,['mexican']
+jljq3PO3l-0zEdCDirweQA,34.00455,-118.26009,$$,48.0,5.0,90011,Los Angeles,stopbye-café-los-angeles-3,"['asianfusion', 'foodtrucks', 'indonesian']"
+fPpAP6LJ599svpS2g5CBMA,33.98736,-118.18476,$,50.0,3.5,90270,Maywood,taco-boy-maywood,['mexican']
+THIyc2OYky78giXUnCk1BA,33.968241,-118.16522,$$,75.0,2.5,90201,Bell Gardens,ihop-bell-gardens,"['breakfast_brunch', 'tradamerican', 'burgers']"
+,,,,,,,,,['tacos']
+PsZxmUVJx1XBuq1EvBNwmA,33.948851428057,-118.163208518957,$$,88.0,3.5,90280,South Gate,the-buffalo-spot-south-gate,"['chicken_wings', 'tradamerican']"
+G6A6oEC3Ju85A7o9ffJryA,33.962477,-118.185346,$$,10.0,5.0,90201,Cudahy,puntip-cuisine-thai-food-cudahy,['thai']
+cxtC3L9fS9AN8pK8SSDIIQ,33.96288,-118.16508,$$,109.0,2.5,90201,Bell Gardens,mariscos-sol-y-mar-bell-gardens,['mexican']
+z2ZfkpMKkRHusTVVDn4BYA,33.9961999182784,-118.197736219002,$,40.0,4.5,90058,Vernon,tacos-la-korita-vernon,"['foodtrucks', 'mexican']"
+pKGSYYij_CO-LWowNbafIQ,34.00566,-118.25849,$,46.0,5.0,90011,Los Angeles,tumaca-truck-los-angeles,"['foodtrucks', 'sandwiches', 'catering']"
+FWBeF6g78wwphRkG64ngvA,34.08841,-118.37783,$$,693.0,4.0,90069,Los Angeles,babys-badass-burgers-los-angeles,"['burgers', 'foodtrucks']"
+EtEG3t1IGb5sELjxfgjybw,33.9524371734926,-118.186746798456,$$,416.0,2.0,90280,South Gate,tgi-fridays-south-gate,['tradamerican']
+dvRoSS5y3-zuNsnQdRf49w,34.0387725830078,-118.26114654541,$$,123.0,4.5,90015,Los Angeles,postcards-central-american-soul-food-los-angeles,"['foodtrucks', 'soulfood']"
+dPgVG1nGSUONC0IViu5Phg,34.08928,-118.16793,$,71.0,4.5,90032,Los Angeles,mariscos-los-lechugas-los-angeles,"['seafood', 'foodtrucks', 'cocktailbars']"
+XbT9wW2AEHmyE9A6yXsXLw,33.9695895,-118.1646138,$,46.0,3.0,90201,Bell Gardens,waba-grill-bell-gardens,"['asianfusion', 'hotdogs']"
+4_AMfMMXspP17EiP2CZKAg,33.98821,-118.19312,$,36.0,4.0,90270,Maywood,pronto-pizza-maywood,['pizza']
+,,,,,,,,,['popuprestaurants']
+6kZB5LWBrujqaga3lOzmjw,33.952311,-118.184216,$$,116.0,3.0,90280,South Gate,wingstop-south-gate-5,['chicken_wings']
+dMNwp_6mU8lqmUCXrTVNoQ,33.9460581,-118.1437434,$$,139.0,3.5,90241,Downey,el-salto-del-fraile-peruvian-restaurant-downey,['peruvian']
+0WxpD1FaPHOJFwn8dKLt0g,33.94601,-118.1493,$,78.0,3.5,90241,Downey,pollos-a-la-brasas-downey,['peruvian']
+tjNHPGed_T6XTpLK6ZTboQ,33.9706525,-118.1641231,$$,77.0,2.5,90201,Bell Gardens,wingstop-bell-gardens-2,['chicken_wings']
+hnzdcTQmqPiifPgvrASwcg,33.97422,-118.18707,$,13.0,4.5,90201,Bell,bionicos-y-cafe-bell-bell,"['juicebars', 'breakfast_brunch', 'sandwiches']"
+Qh-R8EGDLQZFwwdApN0Kvw,34.02911,-118.28306,$$,74.0,4.5,90007,Los Angeles,the-fix-on-wheels-los-angeles,"['foodtrucks', 'burgers']"
+vhh-RNhUtwI_S95pAncN5w,33.9593469,-118.1418621,$,141.0,3.0,90240,Downey,myras-salvadorian-cuisine-downey,['salvadoran']
+,,,,,,,,,"['sushi', 'seafood', 'vegan']"
+3QRRptCEfjUtnDnZ4jTzMA,34.0039082,-118.2818791,$,132.0,4.0,90037,Los Angeles,tacos-los-carnalillos-taco-truck-los-angeles-2,"['mexican', 'foodtrucks']"
+QJ5vpcw6l90skZHlk9UWcQ,33.966675,-118.1647296,$$$,92.0,2.5,90201,Bell Gardens,premier-fiesta-mexicana-bell-gardens,"['mexican', 'bars']"
+Te302ycaEsmrGS8fmUEE4A,33.99221,-118.1836,$$,37.0,4.0,90270,Maywood,guatemalteca-bakery-and-restaurant-maywood,"['bakeries', 'latin']"
+UIsZ4PaViTPntVnwYjiTRQ,33.9629462,-118.1865264,$,47.0,3.5,90201,Cudahy,tasty-goody-chinese-fast-food-cudahy,['chinese']
+A6_y3VDR_wU3y7m1sK7NoA,33.9731537202773,-118.188107013702,$,25.0,4.0,90201,Bell,baskin-robbins-bell,"['desserts', 'icecream', 'customcakes']"
+nHbsdlCizUVC3wU5EG__XA,33.95098333,-118.16403833,$$,425.0,2.0,90280,South Gate,hooters-south-gate-3,"['chicken_wings', 'sportsbars', 'tradamerican']"
+_rp9q6I7A1F0510dSqz4Qg,33.9697,-118.1649,$,54.0,2.5,90201,Bell Gardens,el-pollo-loco-bell-gardens-3,"['hotdogs', 'mexican']"
+XN5mfYArEwNS--OZDEguNg,33.990023,-118.1611631,$,34.0,4.0,90040,Commerce,the-garden-spot-commerce,['tradamerican']
+jjoa7pMo31JAYE3zXFN_Xg,33.9469506,-118.1510635,$,67.0,3.5,90241,Downey,jims-burgers-downey-2,['burgers']
+AXTUB3oSGo_4H1ZiXTgA4g,33.970047,-118.176438,$$,69.0,2.5,90201,Bell,chuck-e-cheese-bell,"['pizza', 'arcades', 'kids_activities']"
+,,,,,,,,,"['cupcakes', 'desserts', 'customcakes']"
+E6ttTHGRjdUn99R_v3JduA,33.9948375,-118.1427577,$,311.0,2.5,90040,Commerce,farmer-boys-commerce-3,"['breakfast_brunch', 'burgers', 'salad']"
+GBiToqUYuazjYgZatY80Tg,33.989616394043,-118.160888671875,$,26.0,4.0,90040,Los Angeles,d-j-burger-los-angeles,"['burgers', 'juicebars', 'breakfast_brunch']"
+p0EyI8Yk9Kmvvf4qpGWY3Q,33.99889,-118.145209,$$,114.0,3.5,90040,Commerce,the-arena-sports-bar-and-grill-commerce,"['tradamerican', 'sportsbars']"
+UqZ75r7yE3hfX1-MQdsEMw,33.9917,-118.184767,$$,65.0,3.5,90270,Maywood,las-trancas-maywood-3,"['mexican', 'seafood']"
+vsojb5XtJkCb2wvJZKpIsQ,33.997387,-118.147956,$,25.0,4.5,90040,Commerce,mj-cafe-commerce-2,"['cafes', 'delis', 'sandwiches']"
+foHtKMCbAsYPI8tgQ6tyQQ,33.9528342955798,-118.194259744271,$,32.0,4.0,90280,South Gate,taides-bionicos-south-gate-2,"['juicebars', 'mexican']"
+GnefdeJQlDqb31GvgsOi3Q,33.9518967876817,-118.162772195566,$,90.0,3.0,90280,South Gate,pollo-campero-south-gate,['latin']
+PTPu_b1lSc6v-c1uo1CrDQ,33.952214,-118.163859,$,93.0,3.0,90280,Southgate,starbucks-southgate,['coffee']
+xd1KZPHVIDRlODgHUEvZmw,33.96886,-118.18051,$$,16.0,4.0,90201,Bell,rincon-sinaloense-bell,['mexican']
+3NjFerQQQsPrDDp5vGGCrg,33.9421,-118.18195,$$,82.0,3.5,90280,South Gate,el-pescador-east-south-gate-south-gate,"['mexican', 'seafood']"
+9tS2PiRWDRp6YmD3rVrgcQ,33.9658057181159,-118.186495909905,$,29.0,3.5,90201,Cudahy,la-tripa-veloz-cudahy,['mexican']
+RsGwD5cK5J2AyNv3SUTvdw,33.998901,-118.145188,$$,313.0,2.5,90040,Commerce,commerce-casino-commerce-2,"['casinos', 'hotels', 'lounges']"
+ZJyrm7HkU0_F9W_DfqnRbA,34.0236705,-118.2180793,$$,66.0,4.0,90023,Los Angeles,bison-burger-los-angeles,"['foodtrucks', 'burgers', 'sandwiches']"
+HgO37Kca69Pm1C_K5slQ_w,34.0187096355305,-118.199443034828,$,35.0,4.5,90023,Los Angeles,tacos-los-gueros-los-angeles,"['mexican', 'foodtrucks']"
+typz7EtU_XeQW8gMUys74g,33.9523597,-118.1851633,$,51.0,3.5,90280,South Gate,yogurtland-south-gate-south-gate,['icecream']
+u-ZBrJ5zOluGa68mpHDn5w,33.96563,-118.15263,$,42.0,3.0,90201,Bell Gardens,pupuseria-comalapa-bell-gardens,['latin']
+YQcgqKUZS94UD6k9ks02KA,33.9789048506982,-118.195699207909,$,27.0,4.0,90201,Bell,jims-burgers-bell-3,['burgers']
+9SuZd_KL61JAnnpjU7mARQ,33.9876444,-118.1905192,$,23.0,4.0,90270,Maywood,fiesta-del-mar-restaurant-maywood-2,"['mexican', 'seafood', 'breakfast_brunch']"
+l9g8tt3NXCN3vJFlR_MV7g,34.0480743054621,-118.351336928125,$,179.0,4.0,90019,Los Angeles,ta-bom-truck-los-angeles-2,"['brazilian', 'foodtrucks']"
+beIe_YCdi797MQZUtRwPQw,33.970652,-118.188405,$,129.0,2.5,90201,Bell,starbucks-bell,['coffee']
+,,,,,,,,,['parks']
+,,,,,,,,,"['taiwanese', 'asianfusion', 'chinese']"
+VYRFH8xYLBC2MXUPF716mA,33.9747335,-118.187696,$,24.0,3.5,90201,Bell,tacos-mexico-bell,['mexican']
+A8u1P4p29eYwtVYbjQuRkw,34.05814,-118.24666,$$,217.0,3.5,90012,Los Angeles,brewwings-los-angeles,"['chicken_wings', 'catering', 'foodtrucks']"
+EFpxCAEjPR_hWEnS3qE9hw,33.9695205688477,-118.148880004883,$,40.0,3.5,90201,Bell Gardens,boys-hamburgers-bell-gardens,['burgers']
+Xl7uUmrNQY2qJm25WdlkJg,33.971855,-118.163726,$$,30.0,3.0,90201,Bell Gardens,bell-gardens-thai-bbq-bell-gardens,['thai']
+uVVjfDCDOMg1ve76k3W3gA,34.0526698567151,-118.318055927413,$,47.0,4.5,90019,Los Angeles,smaffee-cafe-los-angeles-3,"['electronicsrepair', 'mobilephonerepair', 'coffee']"
+xfOnRmuaXhROWxifwi1-8Q,33.9844667860716,-118.186239570392,$,24.0,4.0,90270,Maywood,los-cabos-the-pupusa-house-maywood-3,['salvadoran']
+9NIO-FacWATK_r5rg_Fmuw,33.9506953399205,-118.164505921304,$,19.0,4.0,90280,S.Gate,wendys-s-gate,"['burgers', 'hotdogs']"
+,,,,,,,,,"['museums', 'arttours', 'kids_activities']"
+s1J-_6nDHhHzJ-NimhcF-g,33.9430126,-118.1959372,$,20.0,4.5,90280,South Gate,chapinlandia-market-south-gate,"['grocery', 'salvadoran']"
+,,,,,,,,,"['groomer', 'pet_sitting', 'dog_parks']"
+3cpo0TqVa0qHsAkmOxnG2Q,33.9743897215857,-118.15041496732,$,22.0,3.5,90201,Bell Gardens,olympic-troys-burgers-2-bell-gardens-2,"['burgers', 'mexican', 'tradamerican']"
+OYT4yQWLuwz20kPnDJMWOg,33.94156,-118.18092,$,116.0,3.0,90280,South Gate,toms-jr-south-gate,"['burgers', 'hotdogs']"
+ST5Tywv-cVpPDpAd12eKmg,34.09996,-118.32698,$$,91.0,4.5,90028,Los Angeles,kings-wings-los-angeles-2,"['foodtrucks', 'chicken_wings']"
+oG9Qtci3iAtTlX1BJJmULA,33.9895552931527,-118.16089319532,$,41.0,3.0,90040,Commerce,poki-and-roll-california-sushi-commerce,['japanese']
+S0x72gw_3ukfT0526HSdog,33.9861118842228,-118.18688994248,$$,83.0,2.5,90270,Maywood,las-islas-marias-maywood,"['seafood', 'mexican']"
+abv-O81T4lmr5aRd9lNmjw,34.049423190418,-118.239630887237,$,32.0,4.5,90001,Los Angeles,merci-clement-truck-los-angeles,"['foodtrucks', 'gelato']"
+TnYe0dkLk9-HvwiNvZN8VQ,33.9878158569336,-118.19482421875,$,82.0,3.0,90270,Maywood,chriss-hamburgers-maywood,"['burgers', 'hotdogs']"
+_b6l5MvaAtbX_8U1QwepNw,33.95633,-118.14616,$$,24.0,4.0,90240,Downey,hackers-bar-and-grill-downey,"['bars', 'tradamerican']"
+_sQMwxV7qoUqBith7Cvc-g,33.9433154870435,-118.19610740582,$,36.0,4.0,90280,South Gate,taqueria-tepeque-south-gate,['mexican']
+,,,,,,,,,"['foodtrucks', 'african']"
+Xhm-jbVs-hiGV-G-RAtRsg,33.9443721,-118.1416874,$$,65.0,3.5,90241,Downey,stater-bros-markets-downey-3,"['grocery', 'delis', 'butcher']"
+qO3jSn18vzfOyzieqFpYyg,34.0309258,-118.2380432,$,46.0,4.0,90021,Los Angeles,sus-arepas-los-angeles,"['foodtrucks', 'latin', 'sandwiches']"
+NJEI0MTVSxzDV3u0ZUyf6Q,33.9492874145508,-118.163475036621,$,14.0,4.0,90280,South Gate,china-express-south-gate,['chinese']
+GXuad5M3_WP4BApVj52efg,33.9485356507926,-118.163365138017,$,27.0,3.5,90280,South Gate,flame-broiler-south-gate,['hotdogs']
+,,,,,,,,,['mexican']
+hGrHI6iF3ZR9mVhobgvFxA,33.9952521038697,-118.142605065849,$,91.0,3.0,90040,Commerce,the-coffee-bean-and-tea-leaf-commerce-2,['coffee']
+,,,,,,,,,['japanese']
+,,,,,,,,,['mexican']
+wl0tO91HBJQKvdYRfftVdw,33.970275160269,-118.189826073018,$,15.0,4.0,90201,Bell,sammys-cake-n-candy-supply-bell-2,"['candy', 'bakeries']"
+pTiO0XDEv8sa72-xUtmp7Q,33.9587058,-118.1580222,$,19.0,3.5,90201,Bell Gardens,la-pizza-del-sol-bell-gardens,['pizza']
+WiTMRukKmLARoEoKdrV6Qg,34.1463062227897,-118.425396788406,$$,296.0,4.0,91423,Los Angeles,okamoto-kitchen-los-angeles-2,"['foodtrucks', 'japanese', 'catering']"
+tjH3qvDpxHBiwWHSd2r8wg,33.9627,-118.14811,$,26.0,3.5,90201,Bell Gardens,toms-burgers-bell-gardens,"['burgers', 'breakfast_brunch', 'mexican']"
+XTZyJwC2mCyUiL1cvI3r5w,33.974842,-118.182029,$$,15.0,5.0,90201,Bell,type-2-treats-bell-2,"['bakeries', 'cupcakes']"
+osLCNfMkqmtDF5-CNlYcxw,33.99562,-118.14756,$,46.0,3.5,90040,Commerce,del-taco-commerce,"['hotdogs', 'mexican']"
+C8RqnV8A2Wa9eT3j8KqgHg,33.962112,-118.185699,$,26.0,3.0,90201,Cudahy,marysol-restaurant-y-pupuseria-cudahy,['latin']
+H7bMxFFJgwvUguc8HfjHYw,33.9684618,-118.1644166,$,16.0,3.0,90201,Bell Gardens,chinatownexpress-no-55-bell-gardens,['chinese']
+AbxSXMU0AAnv802XHAf01g,33.9520674785217,-118.163322777551,$,17.0,4.0,90280,South Gate,frutti-south-gate,['icecream']
+QacjmNJr3y_9jl9cU95H-A,33.9432948,-118.188329,$,33.0,3.5,90280,Los Angeles,roys-taquizas-catering-los-angeles,"['catering', 'streetvendors']"
+,,,,,,,,,"['catering', 'foodstands']"
+zG-4yGzPGCegHFw7ts4LXg,33.9939613342285,-118.141647338867,$,33.0,3.5,90040,Commerce,costco-food-court-commerce,"['pizza', 'sandwiches', 'convenience']"
+FfFQm3rhgo3_fYjU1u8b6w,34.0403442382813,-118.143180847168,$$,30.0,4.5,91754,Monterey Park,tiffanys-catering-monterey-park-4,"['bakeries', 'catering']"
+Zv6pQP12TsaqfQfLBHhOiQ,34.0928916931152,-118.360679626465,$,56.0,4.5,90046,Los Angeles,happy-ice-los-angeles,"['foodtrucks', 'shavedice', 'icecream']"
+cXGa7GdyfiO1mgR91EieBQ,33.9794034,-118.1869863,$,29.0,3.0,90201,Bell,el-zunzal-bell,['salvadoran']
+,,,,,,,,,"['foodtrucks', 'vegan']"
+ga1GBiOnCTgRAYwx1j3dyQ,34.151939,-118.361105,$,120.0,4.5,91602,Los Angeles,tacos-palacios-los-angeles-4,"['tacos', 'foodtrucks']"
+,,,,,,,,,"['icecream', 'foodtrucks']"
+2a4bY1XYVAabxk8LJQbSaA,33.9672966003418,-118.157295227051,$,35.0,2.5,90201,Bell Gardens,sams-burgers-bell-gardens,"['mexican', 'burgers']"
+nGHdAK0u2jXLTqGvMwtEpA,33.9646331,-118.1500988,$,9.0,4.0,90201,Bell Gardens,bionicos-el-picoso-bell-gardens-2,"['juicebars', 'acaibowls', 'sandwiches']"
+6QE6mVBArz-5oUFS_zh5Lw,33.9585991,-118.1852341,$,18.0,3.5,90201,Cudahy,el-quiubole-tacos-restaurant-cudahy,['mexican']
+_7DBi2e3n_fu0ugo4Z-E_A,33.9979952,-118.1460361,$$,44.0,3.5,90040,Commerce,323-bistro-commerce,['newamerican']
+ukDSCMJdIOYEwMTczJbUWA,34.05843,-118.3057,$$,210.0,3.5,90005,Los Angeles,richeeze-los-angeles-3,"['foodtrucks', 'sandwiches']"
+,,,,,,,,,"['asianfusion', 'dimsum', 'juicebars']"
+Bo2Fs-EjLmDAgO9MKBp4Cw,33.95243,-118.19127,$,10.0,4.5,90280,South Gate,penjamo-bakery-south-gate,"['bakeries', 'coffee', 'juicebars']"
+I4KKzmyfyAuQZg3HlUG1IA,33.97133,-118.1638,$,29.0,2.5,90201,Bell Gardens,taco-bell-bell-gardens,"['tex-mex', 'hotdogs', 'mexican']"
+JiYslHHmxDRNtjDg_49fmQ,33.7885,-117.97395,$$,178.0,4.0,92841,Garden Grove,mess-hall-canteen-garden-grove-7,"['foodtrucks', 'sandwiches', 'salad']"
+7lhZv_79QeSLdxKFHHhckQ,34.05513,-118.38404,$$,87.0,4.0,90035,Los Angeles,the-rooster-los-angeles-3,"['foodtrucks', 'breakfast_brunch']"
+ZD0HmlOejHmRQ2jNxW1F9A,33.952512,-118.1856175,$,126.0,2.0,90280,South Gate,chipotle-mexican-grill-south-gate,"['mexican', 'hotdogs']"
+bnnJjNzbNf_Fnqf6OJqKAw,28.20565,-81.42318,$,40.0,2.5,34746,Kissimmee,pizza-hut-kissimmee-22,"['pizza', 'italian', 'chicken_wings']"
+,,,,,,,,,"['facepainting', 'magicians', 'pettingzoos']"
+IdvKPkAnraeMMj3q17yUbA,34.07663,-118.26483,$,25.0,4.5,90026,Los Angeles,los-angeles-shave-ice-truck-los-angeles,"['icecream', 'shavedice', 'foodtrucks']"
+eVoncKyBgaBF-mqbir45IQ,33.9574333,-118.1957048,$,14.0,4.0,90025,South Gate,juquila-south-gate,"['mexican', 'foodtrucks']"
+WDjr98tkcOSTmvtJpCYX7A,33.9482305662805,-118.155557541953,$,27.0,3.5,90241,Downey,taco-bell-downey,"['hotdogs', 'mexican', 'tex-mex']"
+hPCuUvAd2ButeBkWm_mExA,33.9734306,-118.1521683,$$$,4.0,5.0,90201,Bell Gardens,bakeaholics-anonymous-bell-gardens,['bakeries']
+kDA2lea_NS11Qbkc3gawVA,34.04749,-118.34694,$$,120.0,3.5,90019,Los Angeles,wise-barbecue-los-angeles,"['foodtrucks', 'bbq']"
+ur39kGOmI7jH7dB0nnlIug,34.03367,-118.26145,$$,37.0,4.5,90015,Los Angeles,the-holy-grill-770-los-angeles,"['foodtrucks', 'kosher', 'mediterranean']"
+jd2OB12hLOWTWghh1MrlbA,33.9802498,-118.1874517,$$,117.0,2.0,90201,Bell,hometown-buffet-bell,"['buffets', 'breakfast_brunch', 'tradamerican']"
+C935cIQRhis-iFkTjgKeVQ,33.98736,-118.18476,$,47.0,2.5,90270,Maywood,la-costa-del-sol-maywood,['latin']
+V7pDYGmM-QhAqTBNn4VAug,33.9521149023016,-118.184021022476,$,51.0,3.0,90280,South Gate,ono-hawaiian-bbq-south-gate-2,"['bbq', 'hawaiian']"
+qu8yFETeo4J8fMbf_7XV_Q,34.03983,-118.26855,$,29.0,4.5,90015,Los Angeles,urban-espresso-los-angeles-6,"['foodtrucks', 'coffee', 'breakfast_brunch']"
+4x2nIXBpOBSiJLClgdbGkA,33.98729,-118.18973,$,7.0,4.5,90270,Maywood,ramirez-restaurant-maywood,['newamerican']
+,,,,,,,,,"['chicken_wings', 'catering', 'foodtrucks']"
+xb3vZdQN_tR3JxjVOl1Afw,33.9891720127817,-118.185135126114,$$,74.0,2.5,90270,Maywood,la-tequila-restaurant-maywood,['mexican']
+,,,,,,,,,"['foodtrucks', 'dimsum']"
+j1DonjohEVrhodg2H5xIkA,33.9714546203613,-118.188529968262,$,49.0,2.5,90201,Bell,dominos-pizza-bell,"['pizza', 'chicken_wings', 'sandwiches']"
+7tIK40ZvTu8vuhBnR6g3wg,34.0664817,-118.3520389,$,117.0,4.0,90036,Los Angeles,yalla-truck-los-angeles,"['mediterranean', 'foodtrucks']"
+IwHLvSRB4VedCNNP938O1A,33.969443,-118.164245,$,11.0,3.5,92602,Bell Gardens,little-caesars-pizza-bell-gardens,"['pizza', 'hotdogs']"
+DlLqBxthuCeZoYLoq0H0KQ,33.9648185,-118.1511551,$$,16.0,3.5,90201,Bell Gardens,joes-pizza-and-restaurant-bell-gardens,"['pizza', 'chicken_wings']"
+Bqq5gfW2LcUF-qtLyXJ9-Q,33.96317,-118.14757,$,12.0,4.0,90201,Bell Gardens,lunas-sports-bar-bell-gardens,['sportsbars']
+,,,,,,,,,"['bubbletea', 'coffee', 'juicebars']"
+5u75jW9d4ntwUqbqi_HWhA,33.9482784,-118.165037,$$,42.0,2.5,90280,South Gate,panera-bread-south-gate-4,"['salad', 'soup', 'sandwiches']"
+bw92XKUbwwz9JRPsUL5UNA,33.96967,-118.16403,$,31.0,2.0,90201,Bell Gardens,panda-express-bell-gardens,"['chinese', 'hotdogs']"
+gdicCVYom7uf1s_GfXgfAQ,33.9735309,-118.1753716,$,13.0,3.0,90201,Bell,el-zunzal-pupuseria-bell-2,['salvadoran']
+,,,,,,,,,"['mexican', 'hotdogs']"
+ccnx9LeZ48NbfqYb5HspiA,33.96619683,-118.1655521,$,5.0,4.0,90201,Bell Gardens,starbucks-bell-gardens-5,['coffee']
+,,,,,,,,,"['foodtrucks', 'mexican']"
+keoFVtDv1lUe5uPNxwMA-A,33.9459721,-118.1437454,$,53.0,3.0,90241,Downey,the-stardust-club-downey,"['bars', 'musicvenues']"
+GyKe-hv1XZLI51n6sbj2-A,33.9873009,-118.1858902,$,14.0,3.5,90270,Maywood,azucenas-tacos-maywood-3,['mexican']
+Qp3nrRxq_E9HUyIo-xxHpQ,33.9679567544771,-118.163412234922,$,35.0,2.0,90201,Bell Gardens,kfc-bell-gardens,"['hotdogs', 'chicken_wings', 'chickenshop']"
+cBiPgYpz7yDVGnrO8ITqeQ,33.9868563,-118.1853708,$$,120.0,2.0,90270,Maywood,dennys-maywood,"['diners', 'breakfast_brunch', 'tradamerican']"
+_plGLIIrol2vGWFzr3D21w,33.974243,-118.18827,$$,34.0,2.5,90201,Bell,northgate-market-bell,"['grocery', 'bakeries', 'mexican']"
+KMjjtNt45-ecqbL17l7UCg,33.96884,-118.17833,$,43.0,2.0,90201,Bell,carls-jr-bell,"['hotdogs', 'burgers']"
+fgEqKoapQRZZfC7xcuYeNw,33.94466,-118.19827,$,17.0,4.0,90280,South Gate,cafe-china-south-gate,"['chinese', 'hotdogs']"
+T5Qv6Xsb0LT7s48dnO3iKA,34.05349,-118.24532,$$,46.0,4.0,,Los Angeles,achara-food-truck-los-angeles,"['foodtrucks', 'filipino', 'bbq']"
+VkB0Cau98NFR75muz-uv5Q,33.7523035,-118.1298234,$,41.0,4.5,90031,Los Angeles,frijolitos-mobile-coffee-los-angeles-4,"['coffee', 'foodtrucks']"
+LliuZ6da9mC8y91ndWzmfw,33.957764,-118.159302,$,12.0,3.5,90201,Bell Gardens,yaqui-bell-gardens,['mexican']
+geUJK3pAys0idBgD4uYuEQ,33.9494543315692,-118.164653633194,$$,173.0,1.5,90280,South Gate,dennys-south-gate,"['diners', 'breakfast_brunch', 'tradamerican']"
+xZbX6QhqyA3brRFbLfRqdg,34.2569465637207,-118.419013977051,$$,169.0,5.0,91331,Los Angeles,maravilla-latin-cuisine-los-angeles-3,"['foodtrucks', 'latin']"
+w1Fsyx1cEfHwTTKRMdu5Lw,34.046234,-118.266871,$$,71.0,3.5,90015,Los Angeles,super-smash-buns-los-angeles,"['foodtrucks', 'burgers', 'asianfusion']"
+TAWFz4rTxBYjnOckSEiEGA,33.9521033117536,-118.163579284992,$,37.0,2.5,90280,South Gate,panda-express-south-gate,"['chinese', 'hotdogs']"
+,,,,,,,,,"['foodtrucks', 'tacos', 'vegan']"
+M0JcJIr7zSOSHqfpfENeCQ,34.0334815979004,-118.473663330078,$,32.0,5.0,90404,Santa Monica,pop-candy-santa-monica,"['foodstands', 'candy']"
+bJIA0taMCroD9j2rFVBPgA,33.9786186218262,-118.195320129395,$,14.0,3.5,90201,Bell,los-reyes-bakery-bell,['bakeries']
+eupO7y2zYzwgAeyPw7fWyA,33.9680697518608,-118.163810144188,$,58.0,1.5,90201,Bell Gardens,mcdonalds-bell-gardens,"['burgers', 'hotdogs', 'coffee']"
+sRwq5F9E_YXmJXpqqKOGSg,33.9692182639493,-118.186605825011,$,9.0,3.5,90201,Cudahy,panda-bowl-cudahy,"['chinese', 'hotdogs']"
+G2VoiIK5_X3EtDQ89UFgaQ,33.9828842,-118.1860695,$,9.0,4.0,90270,Maywood,atlantic-bakery-maywood,['bakeries']
+Ntmb_x9OIkdF0577bdAPsA,33.89344,-118.35287,$,20.0,5.0,90260,Lawndale,amals-baklava-and-more-lawndale-2,"['bakeries', 'desserts', 'catering']"
+r-txQrzVNpzwEa2cZFUC2A,33.9684372,-118.1644211,$,7.0,3.5,90201,Bell Gardens,reynas-bakery-bell-gardens,['bakeries']
+jbcaXYLh8E8m-D15_dRYyg,33.96754,-118.15797,$,4.0,4.5,90201,Bell Gardens,new-donut-bell-gardens,"['donuts', 'bakeries']"
+,,,,,,,,,['parks']
+,,,,,,,,,['mexican']
+6nCvODBDTLzMQVU07ym3Tw,33.969962,-118.165951,$,36.0,2.0,90201,Bell Gardens,subway-restaurants-bell-gardens,['sandwiches']
+,,,,,,,,,"['foodtrucks', 'mexican']"
+,,,,,,,,,"['sportsbars', 'chicken_wings', 'pizza']"
+UCT670-KBEG36VM0R_C-oQ,33.96255,-118.16207,$,14.0,3.0,90201,Bell Gardens,el-jalisciense-bell-gardens-3,['mexican']
+9ysJ0lY63CGqm5jqTlv-ZA,33.9475227,-118.1543323,$,54.0,2.5,90241,Downey,carls-jr-downey,"['hotdogs', 'burgers']"
+8L_0PnjU6-6avRmZuRBePQ,33.9714098,-118.1646561,$,51.0,1.5,90201,Bell Gardens,jack-in-the-box-bell-gardens-4,"['hotdogs', 'burgers', 'breakfast_brunch']"
+riCDPFsnk0wvhSEn-WLn0w,33.968137,-118.186566,$,29.0,2.5,90201,Cudahy,taco-bell-cudahy,['hotdogs']
+HZSgIrhP1ehTx7SnsyZrqw,33.98645,-118.18605,$,13.0,3.5,90270,Maywood,yum-yum-donuts-maywood-5,"['donuts', 'coffee', 'sandwiches']"
+PH3sasg6P3PzBqNbXh8XuQ,33.74901,-117.89935,$,94.0,4.5,92703,Santa Ana,tortas-ahogadas-los-primos-santa-ana,"['mexican', 'foodtrucks']"
+v-hfspFQSAIZLok45pUBAA,34.0751451,-118.3853175,$,31.0,4.5,90048,Los Angeles,gyromania-los-angeles-2,"['greek', 'foodtrucks']"
+YEPtydfDiDyFDW6jJVxuxQ,33.9741387963295,-118.163764625788,$,5.0,4.0,90201,Bell Gardens,taqueria-el-guero-bell-gardens,['mexican']
+mvV-XgNchXTi3hepiLUmTQ,33.995865794864,-118.141287714243,$,111.0,2.5,90040,City Of Commerce,mcdonalds-city-of-commerce,"['hotdogs', 'burgers', 'coffee']"
+,,,,,,,,,['bakeries']
+n4ozeF2yZ0uTY6HMEAv-Ng,33.9706926,-118.1883219,$,41.0,2.0,90201,Bell Gardens,panda-express-bell-gardens-2,"['chinese', 'hotdogs']"
+cKMTa-uuQJjaCvCv7X7DTA,33.9815712,-118.1864395,$$,22.0,3.0,90720,Maywood,mariscos-mi-lindo-sinaloa-2-maywood,"['seafood', 'mexican']"
+fv5M19-7YerFFXQxkPc0ig,34.0053558349609,-118.479789733887,$,111.0,4.0,90405,Santa Monica,pinch-of-flavor-santa-monica,"['foodtrucks', 'seafood', 'catering']"
+yvZhdhMtzkM3hZG5ZJHm9g,33.8341771453,-118.384204297,$$,48.0,4.5,90277,Redondo Beach,recess-truck-redondo-beach,"['desserts', 'foodtrucks', 'icecream']"
+3gsQRrF1OI1g4dksHJ2gvQ,33.970633,-118.193207,$,74.0,2.0,90201,Bell,las-palmitas-fruit-bell-2,"['burgers', 'icecream']"
+6U6NLuOVRTq5bYOPjDjXDQ,34.019532,-118.151826,$,75.0,2.5,90022,East Los Angeles,tacos-cuernavaca-east-los-angeles,"['foodtrucks', 'seafood', 'tacos']"
+be_D6z3oa1ddbHGHaWOu5A,34.1259460449219,-118.291015625,$$,89.0,3.5,90027,Los Angeles,the-tropic-truck-los-angeles-5,"['foodtrucks', 'caribbean']"
+6XKAzQIdgGqHXt4rDtwnjg,34.03313,-118.43872,$$,33.0,4.5,90064,Los Angeles,merguez-et-al-los-angeles-5,"['foodtrucks', 'african']"
+,,,,,,,,,"['bakeries', 'mexican']"
+plRPfjydJv51SqzxZNpdiQ,33.9488413868801,-118.165761530399,$,45.0,2.5,90280,South Gate,mcdonalds-south-gate-4,"['hotdogs', 'burgers', 'coffee']"
+4wFLXMb73ALoLXdqwcJ_rw,33.952375,-118.184853,$,48.0,2.5,90280,South Gate,panda-express-south-gate-2,"['chinese', 'hotdogs']"
+,,,,,,,,,"['foodtrucks', 'tacos']"
+uJUVrZGEZ-mPudAFLzeCjg,33.91285,-118.35251,$$,57.0,4.0,90250,Hawthorne,chef-cs-smhokin-pot-hawthorne-20,"['cajun', 'foodtrucks', 'southern']"
+sqyZEXyBGhHJYuooyT5_AA,33.96581,-118.15173,$,31.0,2.5,90201,Bell Gardens,winchells-donuts-bell-gardens,"['donuts', 'coffee', 'sandwiches']"
+,,,,,,,,,"['german', 'foodtrucks', 'catering']"
+,,,,,,,,,"['foodtrucks', 'thai']"
+tFD9LwJd9HszMpPM_GpGHQ,34.0690002441406,-118.350242614746,$,53.0,4.0,90036,Los Angeles,the-falafel-factory-los-angeles,"['falafel', 'foodtrucks']"
+-sy4iddjw7jeBGFB892_TQ,33.988227,-118.185014,$,49.0,2.0,90270,Maywood,starbucks-maywood,['coffee']
+ls9YvfUCBusDVo7syIJzfQ,34.22366,-118.36829,$$,89.0,4.5,91352,Los Angeles,bird-coma-los-angeles-3,"['foodtrucks', 'catering', 'burgers']"
+6E8GqhKYrhax5OCW28Emng,33.9481062,-118.1655663,$,30.0,2.5,90280,South Gate,ono-hawaiian-bbq-south-gate,"['bbq', 'hawaiian', 'seafood']"
+0mxhEaGmy8Xz_4YRRW5Wfw,33.98759,-118.18694,$,38.0,2.5,90270,Maywood,yoshinoya-maywood-maywood-3,['japanese']
+OJjBOI38E4inW5MH2QRZug,37.6842841330075,-97.3484556824132,$,44.0,2.0,90201,Bell,pizza-hut-bell-9,"['pizza', 'italian', 'chicken_wings']"
+LeBAMmvA4_nwTxfnKLp14Q,33.9870298,-118.1859054,$,30.0,2.5,90270,Maywood,china-gate-maywood,"['chinese', 'hotdogs']"
+,,,,,,,,,"['shavedice', 'juicebars', 'icecream']"
+ExkYx-EPG20eap-BuLeuBQ,33.94352,-118.19743,$$,36.0,3.0,90280,South Gate,lulus-bakery-no-3-south-gate,['bakeries']
+,,,,,,,,,"['mexican', 'streetvendors']"
+INU2x0b0IaQLs4Z1efcQOA,33.9912132,-118.4675316,$,80.0,4.0,90746,Carson,wicked-fish-tacos-carson-9,"['foodtrucks', 'tacos']"
+,,,,,,,,,"['coffee', 'foodtrucks']"
+,,,,,,,,,"['bartenders', 'djs', 'cocktailbars']"
+vaQIs3ZNFTAfc2Sox6nzzA,33.9751711,-118.162417,$,34.0,1.5,90201,Bell Gardens,pizza-hut-bell-gardens-5,"['pizza', 'italian', 'chicken_wings']"
+i-J7GFoQIDKBhsu8o73vsA,33.94317,-118.19858,$,48.0,2.5,90280,South Gate,mr-petes-burgers-south-gate,['burgers']
+,,,,,,,,,"['coffee', 'foodtrucks', 'bakeries']"
+gHrprJokGBst5XgJcnLZFw,33.9841487831435,-118.185846815616,$$,4.0,4.5,90270,Maywood,taqueria-noa-noa-maywood,['mexican']
+,,,,,,,,,"['eventservices', 'cigarbars']"
+5W0LsQ_ZFjwtEW1OQ1BUsA,33.9648515,-118.1512104,$,4.0,4.5,90201,Bell Gardens,china-wok-express-bell-gardens,['chinese']
+ofLksFGNf18napxayUjFmw,33.9789279486927,-118.187130689621,$,19.0,3.0,90201,Bell,golden-panda-bell,['chinese']
+tV4wBzkJuB38U7sYLcx3Zg,33.9704772,-118.1873733,$,24.0,2.5,90201,Bell,jack-in-the-box-bell-2,"['hotdogs', 'breakfast_brunch', 'burgers']"
+qHM0UIcbhgRuZlDkLxymng,33.9661,-118.19487,$,6.0,4.0,90201,Cudahy,anahis-bionicos-cudahy,"['icecream', 'juicebars', 'sandwiches']"
+,,,,,,,,,"['hotdog', 'foodtrucks', 'tacos']"
+q2DNPqd5m57acbVCbbDyRQ,33.9676787,-118.1877057,$,54.0,1.5,90201,Cudahy,el-pollo-loco-cudahy-2,"['hotdogs', 'mexican']"
+_wMSgG16gU4NaoD0XD3VeA,33.9868685,-118.185949,$,108.0,1.5,90270,Maywood,mcdonalds-maywood-2,"['hotdogs', 'burgers', 'coffee']"
+DQq4-s1nLT5ywISHt8QQhg,33.9875077,-118.1853623,$,26.0,2.5,90270,Maywood,little-caesars-pizza-maywood,"['pizza', 'hotdogs']"
+,,,,,,,,,"['japanese', 'foodtrucks']"
+,,,,,,,,,['mexican']
+,,,,,,,,,['parks']
+,,,,,,,,,"['foodtrucks', 'korean']"
+,,,,,,,,,['golf']
+O_trywKNTZe3L2UnbqZXxg,33.8683632868948,-118.236840043507,$$,26.0,4.0,90220,Rancho Dominguez,green-olive-truck-rancho-dominguez-3,"['foodtrucks', 'falafel']"
+,,,,,,,,,"['foodtrucks', 'bbq', 'japanese']"
+,,,,,,,,,['mexican']
+ihCSkXnstPwbU_7mIzFqjw,33.9600503867791,-118.165603108625,$,12.0,3.0,90201,Bell Gardens,tommys-burgers-bell-gardens,['burgers']
+,,,,,,,,,"['foodtrucks', 'waffles', 'sandwiches']"
+q1AlnPOIwf3QIU-CdIaTfA,33.9687280654114,-118.187631643556,$$,15.0,2.5,90201,Cudahy,la-michoacana-premium-cudahy,"['shavedice', 'icecream']"
+5P8eeoGsVVH9dihEUFE6eg,33.9432100580884,-118.181001771885,$$,6.0,4.0,90280,South Gate,eastern-fish-market-and-restaurant-south-gate,"['seafood', 'mexican']"
+GaIx1zuCdXySaUd_gwSmcQ,33.967745,-118.156962,$,11.0,2.5,90201,Bell Gardens,pizzaroni-bell-gardens-bell-gardens-2,"['pizza', 'chicken_wings']"
+iU4bRSX63JLnzat1V_IBgA,33.9630600742122,-118.186707567473,$,28.0,2.0,90201,Cudahy,little-caesars-pizza-cudahy,"['pizza', 'hotdogs']"
+EGz4toczaB2njcFcqGzsxA,33.7332038879395,-118.294395446777,$$,24.0,5.0,90731,San Pedro,fiyahnesian-cuisine-no-title,"['catering', 'foodstands', 'mexican']"
+Xi0kNpWlXQFeR59gq-BWrw,33.98628,-118.18039,$,24.0,2.5,90270,Maywood,apollo-burgers-maywood,['burgers']
+,,,,,,,,,"['foodtrucks', 'spanish', 'seafood']"
+XVeTRdjVWJdcXN6ZBGmaOg,33.9956245422363,-118.147560119629,$,33.0,2.5,90040,Commerce,subway-restaurants-commerce-5,"['sandwiches', 'hotdogs']"
+rx9Gqc_j5qXq44nJ58OAhg,33.9520886983851,-118.182796239853,$,7.0,3.5,90280,South Gate,7-eleven-south-gate-3,"['convenience', 'coffee']"
+F6kiGZY0OtsGs4BJ9iVG8g,33.987929,-118.186041,$,26.0,2.5,90270,Maywood,subway-restaurants-maywood,['sandwiches']
+,,,,,,,,,['mexican']
+NQCzhARzBViCW1GYTHIRkA,33.961232,-118.18629,$,49.0,1.5,90201,Cudahy,mcdonalds-cudahy,"['hotdogs', 'burgers', 'coffee']"
+,,,,,,,,,['mexican']
+9NYAMW8j2vfmJuIzi_9Ncg,34.035101,-118.2913288,$,33.0,3.5,90007,Los Angeles,celaya-bakery-los-angeles-3,"['bakeries', 'customcakes']"
+,,,,,,,,,"['foodtrucks', 'seafood']"
+,,,,,,,,,['taiwanese']
+,,,,,,,,,['mexican']
+PGdhlhpo36EqMW2KIg654A,34.182541,-118.305763,$$,30.0,4.5,91502,Burbank,bouvardia-restaurant-burbank-6,"['venues', 'armenian', 'musicians']"
+,,,,,,,,,"['reiki', 'spiritual_shop', 'coffee']"
+Wdt129tU0Vn3mMr_761z8g,33.9895544,-118.1612475,$,9.0,3.5,90040,Commerce,samba-fajitas-commerce-2,"['mexican', 'brazilian']"
+xSoIMortNzykYHzWGyMOtw,33.7099418640137,-117.99047088623,$$,85.0,4.0,92647,Huntington Beach,phenomnom-truck-huntington-beach-3,"['foodtrucks', 'southern']"
+wS3zCJLnAyWIyKiKNtVE6Q,33.9519221084241,-118.184847123921,$,13.0,3.0,90280,South Gate,rc-burgers-south-gate,"['tradamerican', 'mexican', 'burgers']"
+,,,,,,,,,['landmarks']
+,,,,,,,,,"['creperies', 'foodtrucks']"
+5-gwilgEoSTz-QXGqza7Rw,33.96422,-118.15081,$,13.0,2.5,90201,Bell Gardens,super-a-foods-bell-gardens,"['grocery', 'bakeries']"
+,,,,,,,,,"['bbq', 'foodtrucks', 'desserts']"
+4Vt-_pOpIMLHj4Pa1eM-qg,34.047822479906,-118.241345734439,$,7.0,5.0,78704,Los Angeles,pop-art-los-angeles-4,"['desserts', 'foodtrucks', 'icecream']"
+oNB7XgMPTysY9ah2nLgREA,33.9787964522839,-118.186751827598,$,5.0,3.5,90201,Bell,la-corona-bakery-no-2-bell,['bakeries']
+81pKBcOeJIc2VufIEGunYg,33.952072,-118.1868,$$,41.0,2.0,90280,South Gate,starbucks-south-gate-9,['coffee']
+,,,,,,,,,"['foodtrucks', 'mexican']"
+,,,,,,,,,['golf']
+jWHkyruIrYdXAsbXrghQ3g,34.0162709608561,-118.490619000437,$$,41.0,4.5,90272,Santa Monica,acai-dream-bowl-truck-santa-monica,"['foodtrucks', 'vegan', 'acaibowls']"
+KX3i7NoZFch3p4Ok1jpMZQ,33.9718392708891,-118.187567240382,$,6.0,3.0,90201,Bell,pizza-hut-bell-3,"['chicken_wings', 'pizza']"
+gQ6VVWyZ0FFDFts0MQ4vPw,33.9492874145508,-118.163475036621,$,6.0,3.5,90280,South Gate,grannys-donuts-no-28-south-gate,"['bakeries', 'donuts']"
+sMz8IJ0l1BEMxzfwwBDyhA,34.09398,-118.36042,$$,15.0,5.0,90046,West Hollywood,les-délices-du-four-french-bakery-west-hollywood,['bakeries']
+,,,,,,,,,"['delis', 'hotdogs', 'sandwiches']"
+,,,,,,,,,"['museums', 'historicaltours']"
+,,,,,,,,,"['desserts', 'cupcakes']"
+,,,,,,,,,"['burgers', 'foodstands', 'catering']"
+cEgzwacFIS0pfc8HfZ_2OQ,33.94466,-118.19827,$,16.0,3.0,90280,South Gate,lucky-boba-south-gate,['bubbletea']
+aQAlv569mDCICqy1pBU8Eg,33.9435419536702,-118.198070718284,$$,33.0,2.5,90280,South Gate,waba-grill-south-gate,"['hotdogs', 'asianfusion']"
+mzlrOPYPxoWs-tl-MKxgVQ,33.9872402,-118.1853161,$,51.0,1.5,90270,Maywood,el-pollo-loco-maywood-3,"['hotdogs', 'mexican']"
+a4u76f1DYtXTDQMSKYM2jA,33.9630010754891,-118.185936513489,$,34.0,1.5,90201,Cudahy,burger-king-cudahy,"['burgers', 'hotdogs']"
+,,,,,,,,,"['foodtrucks', 'mexican']"
+BTmvsmEHuvcql8bnT-9lnQ,33.9648318165962,-118.15132856369,$,24.0,2.0,90201,Bell Gardens,jack-in-the-box-bell-gardens,"['burgers', 'hotdogs', 'breakfast_brunch']"
+tpnB-EXcuaISrwhaBxR7xQ,33.94482,-118.14267,$,121.0,1.5,90241,Downey,mcdonalds-downey-13,"['coffee', 'burgers', 'hotdogs']"
+xOYjHmazeteBLYyu6H1Epw,34.230985,-118.535684,$,106.0,4.5,91324,Los Angeles,taqueria-la-plebe-and-more-los-angeles,"['foodtrucks', 'mexican']"
+,,,,,,,,,"['pubs', 'mexican']"
+OYOKKvfuj9nnDURdW1P4tg,33.98818,-118.19845,$,23.0,2.5,90270,Maywood,jack-in-the-box-maywood,"['burgers', 'hotdogs', 'breakfast_brunch']"
+VG07PYuoQOC64q6ZdZzrPA,33.9535516,-118.1971654,$,31.0,2.5,90280,South Gate,mcdonalds-south-gate-2,"['hotdogs', 'burgers', 'coffee']"
+tEtUn9H4DBaFL3p2YpoBAQ,33.9707035571337,-118.187956809998,$,26.0,2.0,90201,Bell,subway-restaurants-bell,['sandwiches']
+,,,,,,,,,['bars']
+,,,,,,,,,"['foodtrucks', 'chickenshop', 'hotdogs']"
+qvpOo92JGzsu4VBV8xP6og,33.97167,-118.20097,$,2.0,4.0,90201,Bell,7-eleven-bell-3,"['convenience', 'coffee', 'servicestations']"
+d8mEwab4WfHnKTrJE1pcEA,33.9668296450557,-118.157236129045,$,8.0,2.5,90201,Bell Gardens,7-eleven-bell-gardens-2,"['convenience', 'coffee']"
+Ox6KEoJNpShHZdVhuLwRLg,33.7482208,-117.863545,$,82.0,4.0,92701,Santa Ana,chiva-torta-santa-ana,"['mexican', 'foodtrucks']"
+,,,,,,,,,['icecream']
+RgUq2nW9aUrQJFaYA5-QLw,33.6623991876128,-117.750723548234,$$,182.0,4.5,92807,Anaheim,burning-buns-anaheim-4,"['foodtrucks', 'burgers', 'sandwiches']"
+,,,,,,,,,"['desserts', 'coffee', 'customcakes']"
+lM9oO0-RM2eVf8fzOgUC8A,33.9482406932627,-118.167344121014,$$,14.0,2.5,90280,South Gate,starbucks-south-gate-7,['coffee']
+,,,,,,,,,['tacos']
+,,,,,,,,,"['cupcakes', 'desserts', 'bakeries']"
+,,,,,,,,,['mexican']
+qcGWUEt1U3BkQ7TzXVdWGg,33.954815,-118.187613,$,16.0,2.5,90280,South Gate,subway-restaurants-south-gate,['sandwiches']
+,,,,,,,,,"['bakeries', 'desserts', 'catering']"
+KrivJ1coTLmgpGvGGC2Ayw,34.0837472012297,-118.331095576286,$$,17.0,4.0,93010,Camarillo,matts-coffee-express-camarillo-6,"['juicebars', 'coffee', 'foodtrucks']"
+1StuymR_aV7xU6yKdpk_aA,33.9196596,-118.273849942022,$$,6.0,5.0,90061,Los Angeles,mariscos-los-tres-animales-los-angeles-2,"['mexican', 'foodtrucks']"
+,,,,,,,,,"['tacos', 'foodtrucks']"
+eJbS4OZhIoP-d5uoZ6tPeQ,33.94928,-118.16347,$,23.0,2.0,90280,South Gate,subway-restaurants-south-gate-3,"['sandwiches', 'hotdogs']"
+,,,,,,,,,"['atvrentals', 'rvrental', 'hiking']"
+FkTe7INYgB6tbAxK9y7JLg,33.973572,-118.146421,$,19.0,2.0,90201,Bell Gardens,subway-restaurants-bell-gardens-2,['sandwiches']
+BdMGcCmhBsjsivdixQHWmw,34.1580543518066,-118.512672424316,$,120.0,4.0,91316,Los Angeles,the-triple-threat-truck-los-angeles,"['foodtrucks', 'puertorican']"
+,,,,,,,,,['parks']
+a1r64e8D93Ij4L8w58WOUg,33.9455185,-118.182457,$,9.0,3.5,90280,South Gate,nanos-cafe-south-gate,"['pizza', 'cafes']"
+1CCQ5CGNBk4eGrQu8F8DNg,33.9817095,-118.1413714,$,2.0,5.0,90040,Commerce,7-eleven-commerce-5,"['convenience', 'coffee']"
+4pOj1CvVoNglBOwuhLnkLA,33.98684,-118.16297,$$$,14.0,2.0,90040,Los Angeles,kellys-coffee-and-fudge-factory-los-angeles,['coffee']
+,,,,,,,,,['streetvendors']
+6PxWjI9chAcLJkIj_MnfYg,34.0616798400879,-118.445449829102,$,13.0,5.0,90024,Westwood,the-roast-truck-westwood,"['coffee', 'foodtrucks']"
+N2b3jR34MO9UrSekVz_f6w,33.96893,-118.18714,$,16.0,1.5,90201,Cudahy,superior-grocers-cudahy,"['grocery', 'bakeries', 'meats']"
+,,,,,,,,,"['skate_parks', 'playgrounds']"
+,,,,,,,,,"['foodtrucks', 'sushi']"
+,,,,,,,,,['mexican']
+KqOXJDR2YiTVic5bVbdnAw,34.0513187,-118.3649663,$,9.0,4.5,90019,Los Angeles,whammy-bar-los-angeles,"['musicinstrumentservices', 'coffee']"
+yQXLREny5_aI_vKflOEF8A,33.9692239,-118.256724,$$,3.0,5.0,90001,Los Angeles,mariscos-el-peri-los-angeles,"['seafood', 'foodtrucks']"
+PCk4LYRGxNGQ58jU56cC1Q,33.956764,-118.160552,$,10.0,2.5,90201,Bell Gardens,primo-burger-3-bell-gardens,['burgers']
+xwBOjpmNrqjNx7CbtNNNSw,33.95138,-118.1825479,$,32.0,1.5,90280,South Gate,jack-in-the-box-south-gate-3,"['hotdogs', 'breakfast_brunch', 'burgers']"
+,,,,,,,,,['thai']
+,,,,,,,,,"['mexican', 'icecream']"
+WDUCgK09vS5o5u64joNfLw,33.9851226806641,-118.185516357422,$,16.0,2.0,90270,Maywood,amapola-mexican-deli-maywood,['mexican']
+,,,,,,,,,"['painters', 'publicart']"
+,,,,,,,,,['chicken_wings']
+hw6LVLn0W2_fZrcXsIwvKQ,33.9634394090067,-118.166067302227,$,6.0,2.0,90201,Bell Gardens,7-eleven-bell-gardens,"['convenience', 'coffee']"
+5Yxn-RykBnhOu0YpA4I_eQ,33.9705075869179,-118.187615364823,$,6.0,2.5,90201,Bell,7-eleven-bell,"['convenience', 'coffee']"
+,,,,,,,,,"['foodtrucks', 'pizza']"
+,,,,,,,,,"['latin', 'mexican']"
+VosxX-lFf2TCZFbydqjufg,34.0284004211426,-118.354179382324,$$,11.0,4.5,90016,Los Angeles,mexican-chuckwagon-fusion-los-angeles,"['foodtrucks', 'mexican']"
+,,,,,,,,,['parks']
+,,,,,,,,,"['korean', 'foodtrucks']"
+wgtKqTxfoprlR_EwNzlIhQ,34.2724002,-118.4647573,$,32.0,5.0,91345,Los Angeles,cítrico-ceviche-bar-los-angeles,"['seafood', 'mexican', 'foodtrucks']"
+,,,,,,,,,"['haitian', 'foodtrucks', 'fooddeliveryservices']"
+O0ZvH4mIR2BfAY2q098ynQ,33.96959,-118.16686,$$,1.0,5.0,90201,Bell Gardens,organic-delight-bell-gardens-2,['cafes']
+,,,,,,,,,['golf']
+iBatTYD8_FGcu1w4NYkvzw,33.9763,-118.1877,$,1.0,5.0,90201,Bell,la-casa-del-ceviche-bell,['mexican']
+,,,,,,,,,['parks']
+PhLKdaPcU9IR7IE40niJ0w,34.0583969,-118.1912081,$$,30.0,2.5,90063,Los Angeles,hungry-belly-los-angeles-4,"['foodtrucks', 'thai']"
+jsZtqYmcowMgipMGVljJ6g,33.9433135986328,-118.19482421875,$,15.0,2.5,90280,South Gate,7-eleven-south-gate-2,"['convenience', 'coffee']"
+,,,,,,,,,"['cupcakes', 'customcakes', 'foodtrucks']"
+eC6LKNPIDWHFj4KgDZgpJQ,34.23356533,-118.58883683,$$,50.0,5.0,91304,Canoga Park,uncle-johnnys-burgers-canoga-park,"['foodstands', 'burgers']"
+8Ly43G1Sa6SiPReEacNb7Q,33.9877809297655,-118.18500302732,$,7.0,2.5,90270,Maywood,little-caesars-maywood-2,['pizza']
+,,,,,,,,,['mexican']
+fLtjISLQBrahVZAT3CFXtA,34.2310853582468,-118.36753200608,$,13.0,5.0,91352,Los Angeles,tacos-eronga-1-los-angeles,"['mexican', 'foodtrucks']"
+xXgVIlgBrpxdrEEjHbmuqA,33.9522174522222,-118.184324108838,$,15.0,2.0,90280,South Gate,subway-restaurants-south-gate-2,['sandwiches']
+_ERog4x7lidySOXAM1lJkA,33.98436,-118.186356,$,2.0,4.0,90270,Maywood,la-metapaneca-maywood,['salvadoran']
+,,,,,,,,,['mexican']
+nrEaaxzKwna2e2S2qelp6w,34.052187,-118.243425,$$,11.0,3.5,,Los Angeles,mad-kebob-los-angeles,"['foodtrucks', 'mediterranean']"
+9rYd1a3moPB01YP1YehB5w,33.9859427971375,-118.174878358841,$,3.0,3.0,90270,Maywood,merendero-tropical-maywood,"['juicebars', 'coffee', 'desserts']"
+,,,,,,,,,['restaurants']
+GWTGgw3gENX9fyuzbuwzdA,33.9828449,-118.1860753,$,1.0,5.0,90270,Maywood,pupuseria-express-maywood,['salvadoran']
+Ftn8OZEqwT952zi67CAYLg,34.0202102567218,-118.451902270317,$,10.0,4.5,90404,Santa Monica,backpackers-truck-santa-monica-8,"['korean', 'foodtrucks']"
+,,,,,,,,,['salvadoran']
+lBiAhk7Bugtm5_qg8HL2ug,33.9754350605033,-118.195717926635,$,2.0,4.5,90201,Bell Gardens,ali-harbs-sahra-bell-gardens,['hookah_bars']
+lkYF49T_tDdVf7VbjXHxBw,34.1016299248973,-118.333691404536,$,8.0,4.5,90028,Los Angeles,ice-cream-roll-los-angeles-6,"['desserts', 'icecream', 'foodtrucks']"
+VEpcsV5CadDMUVO6CE2o9g,33.9882930200474,-118.193389,$,12.0,2.5,90270,Maywood,kfc-maywood,"['hotdogs', 'chicken_wings', 'chickenshop']"
+,,,,,,,,,"['golf', 'venues', 'wedding_planning']"
+kw-BgvuBrcPPLz24EztnAw,33.9847368746996,-118.185904249549,$,4.0,3.0,90270,Maywood,winchells-donuts-maywood,"['donuts', 'coffee', 'sandwiches']"
+,,,,,,,,,"['desserts', 'foodtrucks', 'creperies']"
+d-TU4s5B-jay32xvKj9_jg,33.988112,-118.197089,$,12.0,2.0,90270,Maywood,burger-king-maywood,"['burgers', 'hotdogs']"
+rCxsm2NAgIyQxVRTmuSMwg,33.9432103336569,-118.196028845872,$,3.0,4.0,90280,South Gate,candy-pop-south-gate,"['icecream', 'juicebars', 'acaibowls']"
+,,,,,,,,,"['mexican', 'foodtrucks']"
+,,,,,,,,,"['foodtrucks', 'mexican']"
+UqA5EO5eTUl3GKYYg3WhNA,33.9805335998535,-118.179580688477,$,1.0,4.0,90201,Bell,ricos-tacos-bell,['mexican']
+,,,,,,,,,['bakeries']
+WUxJX7QptQqH7tgCyGclpQ,34.15788,-118.46105,$$,273.0,2.0,91403,Los Angeles,rice-balls-of-fire-los-angeles,"['foodtrucks', 'asianfusion', 'catering']"
+,,,,,,,,,"['foodtrucks', 'seafood', 'mexican']"
+,,,,,,,,,"['foodtrucks', 'tacos', 'catering']"
+,,,,,,,,,"['foodtrucks', 'burgers']"
+,,,,,,,,,['mexican']
+vssiduYOd8CnlO1uYlribg,33.960832683857,-118.165538236499,$$,4.0,2.0,90201,Bell Gardens,la-ceiba-2-bell-gardens,['salvadoran']
+esEFM18aHAgmgLQ1E4WxuQ,34.1040382385254,-117.670036315918,$$,36.0,5.0,91786,Upland,pellegrinos-authentic-italian-food-upland,"['foodtrucks', 'catering', 'italian']"
+tXNMbIRv_M6lQiW_cY4jhQ,33.9431010641681,-118.180893937458,$,4.0,3.0,90280,South Gate,pescaderia-y-restaurante-eastern-south-gate-2,['seafood']
+PDBsbA45BK8pj5iaKOVDsg,33.7132431,-117.8718243,$,49.0,4.0,92707,Santa Ana,broken-rice-truck-santa-ana-2,"['foodtrucks', 'cajun']"
+jVfV1Uq_C-M6vFRFztdu2A,33.9720571063991,-118.187516927719,$,4.0,2.5,60545,Bell,pizza-hut-bell-8,"['pizza', 'italian', 'chicken_wings']"
+PnX7iaxwN7eo9kQ5hHyvKA,34.2676,-118.42227,$,15.0,5.0,91342,Pacoima,el-rey-del-cocktel-pacoima,"['seafood', 'foodtrucks']"
+,,,,,,,,,"['desserts', 'icecream']"
+,,,,,,,,,"['argentine', 'mexican']"
+,,,,,,,,,['hotdogs']
+kXhG3-4AQFpyfBlpH16V2g,34.2647775,-118.520314,$,102.0,3.5,91344,Los Angeles,belly-bombz-wings-truck-and-catering-los-angeles,"['foodtrucks', 'korean']"
+,,,,,,,,,"['cafes', 'mexican']"
+,,,,,,,,,"['parks', 'amateursportsteams', 'swimmingpools']"
+lYZ8jH3S2lGVGVEvxSzA6g,33.987843,-118.185242,$,9.0,2.0,90270,Maywood,7-eleven-maywood,"['convenience', 'coffee']"
+CYvO5HAebhHhanbmqmx51g,34.1888656316672,-118.626026421951,$,21.0,5.0,91307,West Hills,daniels-food-west-hills,"['foodtrucks', 'burgers', 'hotdogs']"
+-efACZXjjng8u_zKze_NHQ,33.54461,-117.78529,$$,63.0,4.5,92651,Orange County,drizzle-orange-county-2,"['desserts', 'foodtrucks']"
+,,,,,,,,,"['parks', 'football']"
+AKyqB9K5aUO12z_Cmd8ifQ,34.0369708,-118.2782814,$$,12.0,3.0,90250,Los Angeles,big-bali-truck-los-angeles,"['foodtrucks', 'coffee']"
+9bwjRfAJexB0So47YnWHow,34.2856864929199,-118.604530334473,$,19.0,5.0,91311,Los Angeles,mama-minas-sweets-and-treats-los-angeles,"['bakeries', 'vegan', 'gluten_free']"
+,,,,,,,,,"['mexican', 'vegan', 'foodtrucks']"
+lNnmA8gz8_5GPCgnBqsUpg,33.6775207519531,-117.921119689941,$$$,66.0,3.5,92626,Costa Mesa,salt-n-pepper-truck-costa-mesa,"['foodtrucks', 'steak', 'hotdog']"
+RQCBx320qie7lUHfQuq60A,33.9878616333008,-118.153121948242,$$,4.0,2.0,90040,Commerce,sizzling-fresh-fajitas-commerce,['mexican']
+,,,,,,,,,['salvadoran']
+,,,,,,,,,"['bbq', 'foodtrucks', 'catering']"
+DJqaSrXzZyIcvPV9EJZ12w,34.4468803405762,-118.510902404785,$$,36.0,5.0,91350,Santa Clarita,madison-rose-bakery-santa-clarita-2,['bakeries']
+,,,,,,,,,['parks']
+tjE3ENRZCq0_0MGW7g8ynA,34.00737,-118.08235,$,4.0,4.0,90660,Pico Rivera,pico-liquor-and-deli-pico-rivera-2,"['beer_and_wine', 'delis', 'grocery']"
+,,,,,,,,,"['foodtrucks', 'beerbar']"
+,,,,,,,,,"['streetvendors', 'mexican']"
+,,,,,,,,,"['foodtrucks', 'catering', 'tradamerican']"
+5wv45x9oyB3Zi0HNPKseMA,34.06484,-118.34989,$,3.0,5.0,90036,Los Angeles,tropical-sno-los-angeles,"['foodtrucks', 'shavedice', 'hawaiian']"
+Tub-psQGYAjbtny6MnfQmg,34.0770492553711,-118.25887298584,$,2.0,5.0,90026,Los Angeles,yum-yum-shave-ice-los-angeles-2,"['shavedice', 'foodstands']"
+YqJ28PXLbTkm1pQbHW4Q6w,33.9410297,-118.1813684,$,11.0,1.0,90280,South Gate,winchells-donuts-south-gate-4,"['donuts', 'coffee', 'sandwiches']"
+2acU7KU1EgPNWQt8MFLOyQ,33.8224529102469,-118.301476356315,$$$,3.0,5.0,90501,Los Angeles,antojitos-el-buen-gusto-los-angeles,"['tacos', 'foodtrucks', 'fooddeliveryservices']"
+,,,,,,,,,"['hiking', 'walkingtours', 'historicaltours']"
+,,,,,,,,,"['foodtrucks', 'chickenshop']"
+,,,,,,,,,"['foodtrucks', 'mexican']"
+RbbPE7YHC1Gyu9ynitzjVw,34.2809205918312,-118.401948474348,$,6.0,5.0,91342,Los Angeles,tacos-el-pimi-los-angeles,"['foodtrucks', 'mexican']"
+,,,,,,,,,"['desserts', 'foodstands', 'catering']"
+,,,,,,,,,['restaurants']
+,,,,,,,,,['mexican']
+geGRPNvHqt-O7YD-EFJE9w,34.15697,-117.48216,$$,45.0,4.5,92336,Fontana,the-cake-factory-and-more-fontana,"['desserts', 'bakeries', 'customcakes']"
+Zh83pNfw_CS0cjnJ0Nuv5w,33.89644,-118.17608,$,4.0,2.5,90723,Los Angeles,dogfather-truck-los-angeles-4,"['foodtrucks', 'hotdog']"
+MaMcWQp1PjAgW_bXjViSVg,33.73095,-117.81275,$,7.0,5.0,92780,Tustin,the-feeding-frenzy-tustin-2,"['foodtrucks', 'desserts', 'catering']"
+,,,,,,,,,"['tacos', 'foodtrucks']"
+,,,,,,,,,['museums']
+fhfBuOOP98j5PWl_lJn-aw,33.98729,-118.18973,$,4.0,1.5,90270,Maywood,superior-grocers-maywood-2,"['grocery', 'bakeries', 'meats']"
+hRPGWX4Pdd4FgQe3j-uJtA,33.7624390089761,-118.197011612356,$,3.0,5.0,90801,Long Beach,mustache-mikes-365-long-beach,"['icecream', 'foodstands', 'italian']"
