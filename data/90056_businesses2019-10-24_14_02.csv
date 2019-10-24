@@ -1,0 +1,528 @@
+id,latitude,longitude,price,review_count,rating,zip_code,city,alias,category
+1xNQduoGeXOwp-06VneKeA,33.9762855538483,-118.363437652588,$$,1820.0,4.5,90302,Inglewood,the-serving-spoon-inglewood,"['breakfast_brunch', 'soulfood']"
+KOeuULPL0ZrIqfVU_Zcyhw,33.9880055506272,-118.362671546638,$$,737.0,4.5,90056,Los Angeles,mikes-deli-los-angeles,"['delis', 'salad', 'sandwiches']"
+PFi2KCQzPNqWMdw8HXcdAA,33.97795,-118.37064,$$,1180.0,4.0,90045,Los Angeles,panns-restaurant-los-angeles,"['diners', 'breakfast_brunch', 'tradamerican']"
+WBZTSRrLka7HtjN2cR7cBw,33.97664,-118.36552,$$,410.0,4.5,90302,Inglewood,harriets-cheesecakes-unlimited-inglewood,"['bakeries', 'desserts']"
+oVEwUNzCot1zKrt9EmsyEQ,33.96185,-118.37045,$,2380.0,4.0,90301,Inglewood,randys-donuts-inglewood,"['donuts', 'bakeries']"
+zt5MFq6w5_Zj7vYUpRjigg,33.980146,-118.357847,$$,865.0,4.0,90302,Inglewood,fiesta-martin-mexican-grill-inglewood-3,"['mexican', 'latin', 'breakfast_brunch']"
+IbSO3urVCNUsis_yKNYvUQ,33.988497,-118.3537791,$$,674.0,4.0,90043,Los Angeles,orleans-and-york-deli-los-angeles,"['cajun', 'tradamerican', 'sandwiches']"
+3YYDCmLuk4cVhKwWirn-7Q,33.963434,-118.3518651,$$,1270.0,4.5,90301,Inglewood,stuff-i-eat-inglewood,"['vegan', 'vegetarian', 'gluten_free']"
+3h2iPFqxDyKsBQVsh6aVOw,33.97689,-118.36175,$$,170.0,5.0,90302,Inglewood,karubas-yardy-kitchen-inglewood-2,['caribbean']
+6DEuqc82zAMe-C4MOLqHcQ,33.9886372,-118.354468,$$,723.0,4.0,90043,Los Angeles,simply-wholesome-los-angeles,"['soulfood', 'caribbean', 'vegetarian']"
+hNcjsM8KkQOw4PFciqkS-w,33.9608934,-118.3761448,$$,784.0,4.0,90301,Inglewood,equelecuá-cuban-cafe-inglewood-2,"['cuban', 'vegan']"
+_yn6N01yKtIvCzY4bRYrtQ,33.99277,-118.3951651,$,456.0,4.5,90230,Culver City,sorrento-italian-market-culver-city,"['grocery', 'italian', 'delis']"
+,,,,,,,,,['coffee']
+-RdSyuRT4vi2kqNQoxkSjg,33.9886474609375,-118.353790283203,$,194.0,4.5,90043,Los Angeles,new-orleans-snoballs-los-angeles,"['icecream', 'shavedice']"
+M2mLuHbmDzwR8QMGqdLjrQ,33.959442,-118.393598,$$,1378.0,4.0,90045,Los Angeles,truxtons-american-bistro-los-angeles,['newamerican']
+cAnHOEuT0MkiribpjnFVRg,33.95878,-118.39451,$$,1994.0,4.0,90045,Los Angeles,ayara-thai-cuisine-los-angeles,['thai']
+BelnU5BqqHHhN_3o_v4eyQ,34.0007478,-118.3949193,$$,276.0,4.5,90230,Culver City,joy-and-sweets-culver-city,"['cupcakes', 'macarons', 'customcakes']"
+KHZGqHz9fS4crUo_rLEOlg,33.96199,-118.36702,$,666.0,4.0,90301,Inglewood,marias-ricos-tacos-inglewood-3,"['breakfast_brunch', 'tacos', 'sandwiches']"
+C474KMUOoEvtL3j3u4KauA,33.9769652,-118.3759127,$$,240.0,4.0,90045,Los Angeles,comparis-los-angeles,['italian']
+p_Qx3ISMiE9OrCm6iV0aYQ,33.9891395785573,-118.353775573552,$,279.0,4.0,90043,Los Angeles,sachi-teriyaki-house-los-angeles,"['japanese', 'sushi']"
+,,,,,,,,,['parks']
+w2GujMgLyd25SVTnCV7_Gw,33.95991,-118.3517951,$$,709.0,4.0,90301,Inglewood,rusty-pot-cafe-inglewood,['breakfast_brunch']
+iGuRzOYDp1VdHxT-krFc-g,33.9860876692437,-118.393136504446,$$,303.0,4.0,90230,Culver City,azabu-sabo-culver-city,['japanese']
+nm2gCvczcnaUn4xdRWeDQA,33.98662,-118.36492,$$,31.0,5.0,90056,Los Angeles,culinary-delight-catering-los-angeles-2,"['desserts', 'catering']"
+,,,,,,,,,"['bakeries', 'desserts']"
+Nme8fXJnebhjV_tmi76Hxw,33.9877354,-118.3657001,$$,107.0,4.0,90056,Los Angeles,simply-salad-los-angeles-5,"['salad', 'wraps', 'seafood']"
+7OLtBz1kZ7eUn7emCGIlgw,33.9771147,-118.3665458,$$,158.0,4.0,90302,Inglewood,fresh-ethiopian-restaurant-inglewood,['ethiopian']
+Yf4lciWF90LPKIykRD-B9g,33.9615531980178,-118.353024311364,$$,876.0,4.0,90301,Inglewood,dulans-soul-food-kitchen-inglewood-2,"['soulfood', 'southern', 'comfortfood']"
+krc-Rd7VgkqutJx2_6OU8A,33.962028,-118.367368,$$,1636.0,3.5,90301,Inglewood,roscoes-house-of-chicken-and-waffles-inglewood,"['soulfood', 'breakfast_brunch', 'waffles']"
+,,,,,,,,,"['desserts', 'bakeries', 'comfortfood']"
+Uciy4a2wODubfq24noRRag,33.9880618,-118.359215752949,$$,250.0,4.0,90056,Los Angeles,little-kingston-jamaican-restaurant-los-angeles,['caribbean']
+yDGL1V1t-Fwn9KJIVcP7GQ,33.985354,-118.395087,$$,838.0,3.5,90230,Culver City,lucilles-smokehouse-bar-b-que-culver-city,"['bbq', 'smokehouse', 'southern']"
+QjhDHm8-oiFxpZUe4kwfEw,33.9619049,-118.3528045,$,219.0,4.5,90301,Inglewood,jamz-creamery-inglewood,['icecream']
+dcEY7sEa1ALOCaX8TQoNAg,33.9619452005574,-118.36017960308,$,199.0,4.5,90301,Inglewood,la-michoacana-ricas-nieves-inglewood-2,['icecream']
+12l72TSd1kQUVyT94yOnMQ,33.9910275,-118.3953749,$$,232.0,4.0,90230,Culver City,chargha-house-culver-city,"['indpak', 'halal', 'pakistani']"
+9LntXhQyHeWh4DVuK8JFwg,33.9782560266118,-118.393067110451,$$,788.0,3.5,90045,Los Angeles,kabuki-japanese-restaurant-los-angeles-2,"['japanese', 'sushi', 'asianfusion']"
+DnVyBXyfuDSecq9q3Lg65g,33.9670954750967,-118.350255408564,$$,433.0,4.0,90301,Inglewood,orleans-and-york-deli-inglewood,"['delis', 'cajun', 'salad']"
+GBbbu-rQgybRSNlZGU4tRQ,33.9757972,-118.3577898,$$,344.0,4.0,90302,Inglewood,wok-on-the-wild-side-inglewood,['chinese']
+HTNNFcsoLa6Kz1_TWJnFEw,33.985636,-118.395087,$,175.0,4.5,90230,Culver City,hold-for-tea-culver-city,"['bubbletea', 'coffee', 'juicebars']"
+rVAsm6nKvD9CVsUhiW32ZA,33.977868449741,-118.357142099388,$$,182.0,4.0,90302,Inglewood,hungry-joes-burgers-and-jamaican-restaurant-inglewood-2,"['burgers', 'caribbean', 'tradamerican']"
+b-aLCjiF1QT2l7o9Dus2yw,33.9803,-118.394892,$$,1133.0,3.0,90045,Los Angeles,dinahs-family-restaurant-los-angeles,"['diners', 'tradamerican', 'breakfast_brunch']"
+mWgaBWCd7kOBLyJ9jyk7ZQ,34.01625,-118.40009,$$,873.0,4.0,90232,Culver City,backstage-bar-and-grill-culver-city,"['karaoke', 'cocktailbars', 'tradamerican']"
+nkCmaZyWERlUY7BQlY1zGg,33.9769733,-118.3618315,$,200.0,4.0,90302,Inglewood,family-fish-market-inglewood,"['seafood', 'fishnchips']"
+wEhXHMhq7NpPlqx68dMT3w,33.98036,-118.35785,$$,270.0,3.5,90302,Inglewood,bayou-grille-inglewood,"['cajun', 'catering']"
+xFfesHtX-QXc1-ZF4px-mw,33.9890149,-118.3533883,$,158.0,4.0,90043,Los Angeles,puerto-nuevo-restaurant-los-angeles-3,"['mexican', 'tex-mex', 'seafood']"
+zFaOwOIpnv-FhVnZ93TYYg,33.9596851,-118.3843376,$$,513.0,4.0,90045,Los Angeles,jinos-pars-los-angeles,"['persian', 'italian']"
+VpmMh3NLzIjuSMSgnuLW7Q,33.9803443,-118.3948047,$,352.0,4.0,90045,Los Angeles,viva-fresh-mexican-grill-los-angeles-2,['mexican']
+RI4tS3ZCNAKKubTphnKOJA,33.988114,-118.393099,$$,461.0,3.5,90230,Culver City,california-fish-grill-culver-city,"['seafood', 'tacos', 'fishnchips']"
+RA0AB7i8PXZslM6LmQ0F5A,33.9798199,-118.35771,$$,111.0,4.0,90302,Inglewood,fiesta-martin-tacos-inglewood-5,['tacos']
+6pE_mCteXQ0VkMP0Zv2V_g,33.9600850707484,-118.375004384668,$,436.0,4.0,90301,Inglewood,tumbys-pizza-inglewood,"['pizza', 'italian', 'chicken_wings']"
+8yO7p874kAgLLr49KFW2aw,33.9931565619737,-118.395664722229,$,319.0,3.5,90230,Culver City,capriottis-sandwich-shop-culver-city-3,['sandwiches']
+i4i6sma-X0GehEiiGHR9lQ,33.994924180828,-118.3945887844,$,192.0,4.0,90230,Culver City,menchies-frozen-yogurt-culver-city,"['icecream', 'customcakes']"
+xwY6l9g3p-3mqyX3H3oClQ,33.9947182,-118.3958467,$,633.0,3.0,90230,Culver City,5i-pho-culver-city-2,"['asianfusion', 'vietnamese', 'indonesian']"
+z3mpVlEPfq9Ur49vL1uoog,33.9665499112054,-118.351272828877,$$,445.0,4.0,90301,Inglewood,fiesta-martin-bar-and-grill-inglewood-2,"['mexican', 'bars']"
+sYZ-QjJ0BI1qV1aTRbXUJQ,33.95804,-118.3898,$,199.0,4.5,90045,Los Angeles,cafe-vietnam-truck-los-angeles-30,"['vietnamese', 'sandwiches', 'foodtrucks']"
+x88-aa_8pHxnfjj7fk7bHQ,33.960161,-118.351087,$,115.0,4.5,90301,Inglewood,the-good-cake-company-inglewood,"['bakeries', 'desserts']"
+GVt0MwAoQcuM06V_-fHkug,34.0583969,-118.1912081,$,1176.0,4.5,90063,Los Angeles,the-lobos-truck-los-angeles,"['foodtrucks', 'tradamerican', 'comfortfood']"
+YcxM_18HlBhdmpguV6Gm8g,33.99495,-118.39577,$,205.0,4.0,90230,Culver City,tattle-tale-room-culver-city,"['bars', 'karaoke']"
+VXlEkqpUVWrQ6avlUVHI6Q,33.9619049,-118.3570355,$,234.0,4.0,90301,Inglewood,tortuga-bay-inglewood-3,"['mexican', 'sandwiches']"
+2AknIJW625ExOSJgz8Tr4A,33.9790993,-118.3575211,$,82.0,4.0,90302,Inglewood,puerto-nuevo-coffee-and-tacos-inglewood,"['tradamerican', 'mexican', 'juicebars']"
+TNgiNWWnDgVirmwRZdPC8A,33.9782363500889,-118.373545,$,103.0,4.0,90045,Los Angeles,yogurtland-los-angeles-los-angeles-4,['icecream']
+-5_bR1uMpkTYOA17_6f1Lw,33.9587096,-118.394182,$,213.0,4.5,90045,Los Angeles,olive-it-los-angeles,"['delis', 'salad', 'sandwiches']"
+UNhsuZmtqGA5X5_3_pGYUw,34.02252,-118.21658,$,354.0,4.5,90023,Los Angeles,tacos-y-birria-la-unica-los-angeles,"['tacos', 'foodtrucks']"
+1WkYibAohA05AjfX7mfXGw,33.9767641,-118.3655114,$$,185.0,3.5,90302,Inglewood,phillips-bar-b-que-inglewood-5,['bbq']
+EcdzecfmG2shR_Ug4d-_Dg,33.9600249,-118.3781916,$$,306.0,4.0,90045,Los Angeles,sushi-kura-los-angeles-2,"['sushi', 'japanese', 'soup']"
+PMmxE1TI6dWGvln6DnIcQg,33.97566,-118.35206,$$,80.0,4.5,90302,Inglewood,wingopolis-inglewood,['chicken_wings']
+CEjEDjQpSZ5WxWRrIaaAuA,33.98604,-118.393168,$$,1118.0,2.5,90230,Culver City,bjs-restaurant-and-brewhouse-culver-city-2,"['newamerican', 'breweries', 'pizza']"
+0Q41c5yP3NuCFkb-y6c6_Q,33.9862819803511,-118.393279957989,$,233.0,3.5,90230,Culver City,dot-saigon-culver-city,"['vietnamese', 'salad', 'asianfusion']"
+gJ-ZOu6nlpK1OSeGLGYvww,33.9595108032227,-118.394073486328,$$,725.0,3.5,90045,Los Angeles,pacos-tacos-los-angeles-4,['mexican']
+2qxHsZ0fOF_9eXgPBHZjkg,33.985862,-118.394788,$$,344.0,3.5,90230,Culver City,five-guys-culver-city,"['burgers', 'hotdogs']"
+D4fU1G0SnelKsMqYZNMvIg,33.9603982692096,-118.384316749418,$,225.0,4.0,90045,Los Angeles,westchester-bakery-los-angeles,"['bakeries', 'desserts', 'customcakes']"
+,,,,,,,,,['coffee']
+VcWtA6r5j2Qf7FtvpfyCSA,33.9612556,-118.3534649,$,148.0,4.5,90301,Inglewood,mutiara-food-and-market-inglewood-4,"['burmese', 'malaysian', 'halal']"
+EnEPdz4fkFPFOz3ySK2GjQ,33.98941,-118.39577,$$,305.0,3.5,90230,Culver City,george-petrelli-steak-house-culver-city,"['steak', 'venues']"
+Fp1MXQ47IqqDAb2G-akGwQ,33.9595,-118.39456,$$,343.0,4.0,90045,Los Angeles,café-solar-los-angeles-2,"['coffee', 'breakfast_brunch', 'newamerican']"
+7vRPO5gjGp7LSQuSTQoqpA,33.9782828721845,-118.392733,$$,312.0,3.5,90045,Los Angeles,islands-restaurant-los-angeles-3,"['burgers', 'sportsbars', 'tradamerican']"
+IAzVa3gaOGeIKttZqphD2g,33.9894829,-118.262014,$,683.0,4.0,90011,Los Angeles,teddys-red-tacos-los-angeles,"['foodtrucks', 'tacos']"
+cb6TE24hBiUtRpD2ScFrYg,33.96671,-118.35087,$,104.0,4.5,90301,Inglewood,antojitos-martin-inglewood,"['mexican', 'desserts', 'juicebars']"
+qayOCq3qqU8kTKfX5T3I8A,33.960773,-118.351608,$,113.0,4.5,90301,Inglewood,market-street-bar-and-grill-inglewood,"['bars', 'tradamerican']"
+NTcTIKNJlWEvhfb3L4bBTw,33.985874,-118.393508,$,174.0,3.5,90230,Culver City,stone-oven-culver-city,"['salad', 'sandwiches']"
+yIJaCh7pvcbbjGkhYyhPKA,33.9825637,-118.3914922,$,207.0,3.5,90230,Culver City,mandarin-dish-culver-city,['chinese']
+HJPKtBsegasQ7bL_abfDnQ,33.961594,-118.3520949,$,67.0,5.0,90301,Inglewood,emmas-snack-shop-inglewood,"['sandwiches', 'coffee', 'breakfast_brunch']"
+lSwU6XYoIjfWmxxgNrYOsA,33.9614199,-118.36425,$,165.0,4.0,90301,Inglewood,bravos-charburgers-inglewood,['burgers']
+EF7_oq8XUJHSmhJHRykfTw,33.96213383,-118.34940383,$,126.0,4.5,90301,Inglewood,american-deli-inglewood,"['chicken_wings', 'hotdogs', 'burgers']"
+R-FKCZNy7APGShU2EZm1xw,33.95944,-118.37918,$,183.0,4.0,90045,Los Angeles,miyako-express-los-angeles,['japanese']
+cU13hUN-g34f6eO7I8x7jg,33.9850365250133,-118.395060944775,$$,594.0,3.0,90230,Culver City,olive-garden-italian-restaurant-culver-city-2,"['italian', 'salad', 'soup']"
+C-4pBx861b7pAmliTKIBQA,34.1598963,-118.2666852,$$,403.0,4.5,91202,Glendale,roobinas-cake-glendale,"['bakeries', 'desserts', 'customcakes']"
+vqXfFRSvAGdsJ4lHPndpYA,33.95944,-118.37957,$$,414.0,3.5,90045,Los Angeles,game-sports-bar-restaurant-and-lounge-los-angeles,"['sportsbars', 'newamerican']"
+Zctx20huk8izNKc5VgJGZw,33.97745,-118.36849,$,42.0,4.5,90302,Inglewood,the-green-horse-nightclub-inglewood,"['danceclubs', 'cocktailbars']"
+o3R9p641M3Tj6tMUlWtdQw,33.9646666,-118.3538384,$,133.0,4.0,90301,Inglewood,mango-tango-juicebar-and-grill-inglewood,"['sandwiches', 'juicebars', 'salad']"
+nuL1VCQMEBqUoKFmfV3LeA,33.9740899,-118.35727,$$,35.0,4.5,90302,Inglewood,gwens-specialty-cakes-inglewood-2,"['catering', 'bakeries']"
+JmhgWZKBbIAouQo2U2H5ug,33.9949451,-118.3965198,$,189.0,3.5,90230,Culver City,kings-kabob-culver-city,"['greek', 'mediterranean', 'egyptian']"
+6XFmYp9e-N_MzNR8bqQ1lw,34.0094104,-118.3984514,$,196.0,4.0,90230,Culver City,the-spot-cafe-and-lounge-culver-city,"['lounges', 'cafes']"
+w_2hX6nBiwaDrZKBmtwYWw,33.9866808730386,-118.392581029083,$,122.0,3.5,90230,Culver City,qdoba-mexican-eats-culver-city-2,"['mexican', 'hotdogs']"
+Mwczwk6AmkGzSHcyg4303g,33.97845,-118.3926,$$,144.0,3.5,90045,Los Angeles,the-hummus-factory-los-angeles,['mediterranean']
+XC8jbjBln9rSUIiAF55MGg,33.9591064453125,-118.39575958252,$$,372.0,3.5,90045,Westchester,el-tarasco-westchester,['mexican']
+5mQu4hOjbkxN06nISQQDEg,33.9616551,-118.3501717,$,94.0,4.5,90301,Inglewood,ms-rubys-bakery-inglewood,"['bakeries', 'hotdogs', 'cupcakes']"
+FWBeF6g78wwphRkG64ngvA,34.08841,-118.37783,$$,693.0,4.0,90069,Los Angeles,babys-badass-burgers-los-angeles,"['burgers', 'foodtrucks']"
+YaxJvS4QzAlijheVdM6d2g,33.9945497479109,-118.395728982803,$,108.0,4.0,90230,Culver City,scarlet-lady-saloon-culver-city,"['karaoke', 'sportsbars', 'poolhalls']"
+,,,,,,,,,['ethiopian']
+DP4zQ8Y8MxIjPA7N5Okzkg,33.9776216086911,-118.391490553827,$$,1008.0,2.5,90045,Los Angeles,dave-and-busters-los-angeles,"['bars', 'arcades', 'tradamerican']"
+BM45jS_AaVBv8gWEWMG3vQ,34.0021593463731,-118.39258217099,$$,140.0,4.0,90230,Culver City,sushi-mashiko-culver-city,"['sushi', 'japanese']"
+ozAZ8Wq7MPK1QamtRj7ZSQ,34.0023636518243,-118.392548337579,$$,199.0,3.5,90230,Culver City,shalimar-cuisine-of-india-culver-city-2,"['indpak', 'himalayan']"
+X2TMRORGEX2-JMqE-KnE6A,33.96044,-118.37579,$,181.0,3.5,90301,Inglewood,chana-thai-cuisine-inglewood,['thai']
+3cVXqb-P0S_fGorOdPbA4Q,33.98682,-118.39594,$$,212.0,3.5,90230,Culver City,sizzler-culver-city-2,"['seafood', 'steak', 'salad']"
+M-sMyNjDh337ZH5zXOgO1g,33.979039,-118.370668,$$,34.0,4.0,90045,Los Angeles,smo-kings-fine-cigars-los-angeles,"['cigarbars', 'lounges']"
+4zU-v2OxDSosvNpFb37whw,33.9767818448418,-118.37640853015,$$,66.0,4.0,90044,Los Angeles,the-court-cafe-los-angeles,"['breakfast_brunch', 'desserts', 'waffles']"
+,,,,,,,,,['dog_parks']
+ttetpLBOtWPaMA9LKmUipg,33.985584,-118.393569,$,198.0,3.0,90230,Culver City,101-noodle-express-culver-city,"['chinese', 'noodles']"
+c0Pv3rXvRvJp6Wu63fgi4w,33.9615507256153,-118.362668718697,$,84.0,4.5,90301,Inglewood,charlys-restaurant-inglewood-3,['mexican']
+JwOmKAfCpzJ3N14SPEw5UA,33.9596651,-118.388929,$,58.0,4.5,90045,Los Angeles,mariscos-el-guero-taco-truck-and-seafood-los-angeles-6,"['foodtrucks', 'mexican', 'seafood']"
+WEy4_RGoivCOIbu-7M4x2Q,33.95954,-118.38004,$$,161.0,4.0,90045,Los Angeles,pita-café-los-angeles-9,['mediterranean']
+YMPTHgqoAF3LH0SejZPIog,33.9646303156702,-118.350973923943,$,96.0,4.5,90301,Inglewood,randys-donuts-and-chinese-food-inglewood-6,"['donuts', 'chinese']"
+HkALPbZX4BVzVoS2yiH5kg,33.985664,-118.394983,$$,260.0,3.0,90230,Culver City,wokcano-culver-city,"['chinese', 'japanese', 'seafood']"
+PyivZWrHyYv4JQd9qGGrjw,33.9788284301758,-118.249931335449,$$,180.0,4.5,90001,Los Angeles,tokyo-doggie-style-los-angeles-6,"['foodtrucks', 'japanese', 'hotdog']"
+,,,,,,,,,"['sandwiches', 'soup', 'salad']"
+eY4AevP-0Am5nS_VVkbHsA,33.9606049,-118.3530446,$$,145.0,4.0,90301,Inglewood,little-belize-restaurant-inglewood-2,['caribbean']
+,,,,,,,,,['parks']
+VLzWbQcCZ6ZXEdQb2g9EUQ,33.9597551,-118.3790799,$$,190.0,3.5,90045,Los Angeles,three-flames-mongolian-bar-b-q-los-angeles,"['bbq', 'mongolian']"
+,,,,,,,,,['parks']
+JWpK0iuk9Cf2Vxvt5keVWQ,33.9878859,-118.3645205,$,43.0,3.5,90056,Los Angeles,mr-fish-and-mex-grill-los-angeles-2,['mexican']
+9R58GXe8RI_OeohMNQcNfg,33.9901,-118.39472,$$,211.0,3.0,90230,Culver City,shakeys-pizza-parlor-culver-city-2,"['pizza', 'buffets']"
+o9v7QpQcBwdvFIPdUJxkOA,33.9612,-118.34977,$$,172.0,4.0,90301,Inglewood,veronicas-kitchen-inglewood,['african']
+_CsAkbq5UTLzACQNKnWUiQ,33.9611341059208,-118.37592869997,$,85.0,4.0,90301,Inglewood,los-taquitos-inglewood,['mexican']
+teDU6dto_GTP_HZS65tT_w,33.9779242643014,-118.371666403703,$$,581.0,2.0,90045,Los Angeles,tgi-fridays-los-angeles-2,['tradamerican']
+V5MqD-ib3QDCVP4NkxVhyA,33.959682,-118.394717,$$,464.0,3.0,90045,Los Angeles,thai-dishes-los-angeles,['thai']
+l92A7oRzMZiSw5DQd0Umsg,33.9772506,-118.3663419,$,53.0,3.5,90302,Inglewood,louisiana-famous-fried-chicken-inglewood,"['southern', 'chicken_wings']"
+wt2KkurQF6nGv-KPdYjYmA,33.9005754171619,-118.326611867643,$,168.0,4.5,90249,Gardena,dotys-tacos-gardena,"['mexican', 'foodtrucks']"
+,,,,,,,,,"['poutineries', 'foodtrucks']"
+B75TN0bTBFsYioQQ1JdKEQ,33.960445,-118.375801,$$,221.0,3.5,90312,Inglewood,bilal-tandoori-inglewood-2,"['indpak', 'pakistani']"
+ElFcUSTDsDKn0UImjmHLmw,33.9747995533041,-118.357446589214,$$,53.0,4.0,90302,Inglewood,comfort-la-inglewood,"['chicken_wings', 'comfortfood']"
+BLFxZfAJZDDBl2Y5lv2jrw,33.97133,-118.35687,$$,39.0,4.5,90302,Inglewood,queen-of-sheba-ethiopian-restaurant-inglewood,['ethiopian']
+rz6C4g3iiaiwjJt3uPzEnQ,33.9763499,-118.36193,$,64.0,3.5,90302,Inglewood,fabulous-burgers-inglewood-2,"['burgers', 'breakfast_brunch']"
+ZTz2BY9zFqWYohxXI7kAbA,33.9611082,-118.3721886,$,104.0,4.0,90301,Inglewood,cafe-cancun-mexican-food-inglewood,"['mexican', 'diners', 'breakfast_brunch']"
+rHtkn_2g7dKnJ55V_ZWp5Q,33.978009,-118.392188251019,$$,563.0,2.5,90045,Los Angeles,buffalo-wild-wings-temp-closed-los-angeles-2,"['chicken_wings', 'sportsbars', 'tradamerican']"
+d7ylcyNfECArg4zgBw8YqQ,33.95874,-118.39575,$$,275.0,3.5,90045,Los Angeles,noodle-world-jr-los-angeles-2,"['thai', 'chinese', 'noodles']"
+4SFq-pewD-ra2fid7886cw,33.990188,-118.3964,$$,101.0,3.5,90230,Culver City,honey-baked-ham-company-culver-city,"['delis', 'sandwiches', 'meats']"
+LghoaB1B8wMzBh6I-qZi1Q,33.9616551,-118.34979,$,75.0,4.0,90301,Inglewood,e-and-j-seafood-inglewood-2,"['seafood', 'soulfood']"
+Jl16ewcyIqvu5iTtDlxyXw,33.959388,-118.3794633,$,42.0,4.5,90045,Los Angeles,lei-aloha-los-angeles,"['sportsbars', 'lounges']"
+Oq95feRHXF76UJy9iFadgg,34.000969,-118.394503,$,184.0,3.0,90230,Culver City,ono-hawaiian-bbq-culver-city,"['hawaiian', 'bbq']"
+g1K4Nr5zrIYxWu57Uq3bog,33.982834269309,-118.39243250591,$$,142.0,3.0,90232,Culver City,california-roll-and-sushi-culver-city,"['sushi', 'japanese', 'soup']"
+uO0ann74VEhkLD2TyIZ9RQ,33.97621,-118.37375,$$,221.0,2.5,90045,Los Angeles,wingstop-los-angeles-25,['chicken_wings']
+0_1vtw3zAdFgBIY6Q426xQ,33.9949451,-118.3964931,$,65.0,4.0,90230,Culver City,kings-cafe-culver-city,"['coffee', 'sandwiches']"
+7KM2S-wfDesQObILU0I3bA,33.99272,-118.39574,$,144.0,3.0,90230,Culver City,el-pollo-loco-culver-city-4,"['hotdogs', 'mexican']"
+XwZ5L-SNfkXD_u1Rz22Zog,33.9856578914366,-118.393590327369,$,96.0,3.5,90230,Culver City,bibigo-culver-city-4,['korean']
+l8EXUZDsG6m3q7x3E3WM9A,33.985506,-118.394292,$,77.0,3.5,90230,Culver City,potato-corner-culver-city-2,"['gourmet', 'hotdogs', 'chicken_wings']"
+3vgNw2PEIM8GE5ltbRiyow,33.98825,-118.35385,$$,292.0,2.5,90043,Los Angeles,la-louisanne-los-angeles-3,['cajun']
+bcwhlJEJS_NdV3ribNDF-A,33.98849,-118.35365,$,103.0,3.5,90043,View Park-Windsor Hills,halls-krispy-krunchy-chicken-view-park-windsor-hills,"['chicken_wings', 'newamerican', 'cajun']"
+t3j1DCHK_Twkln_vceTAcQ,33.96652,-118.35077,$$,63.0,4.0,90301,Inglewood,reds-flavor-table-breakfast-take-out-inglewood,"['cajun', 'breakfast_brunch']"
+Ud0s3Ms7eVLVidoedb0Wxg,34.1211685401886,-118.205555453897,$,116.0,5.0,90042,Los Angeles,tacos-la-tehuanita-los-angeles,"['tacos', 'foodtrucks', 'vegan']"
+pA3LxK10efxdRvMQZW9JiA,33.96652,-118.35077,$,106.0,3.5,90301,Inglewood,house-of-tacos-inglewood-2,['mexican']
+cdpHz7SJYmoVZo37pd-3LA,33.9603265,-118.3529278,$$,54.0,4.5,90301,Inglewood,big-daddys-kickin-chicken-inglewood,['chickenshop']
+9AkVE56yOa5OgRXbvEp4TA,33.960922,-118.377912,$$,69.0,4.0,90045,Los Angeles,kabab-house-los-angeles-2,"['mideastern', 'persian']"
+WTMpdx9VYHy4p1wofgKFMQ,33.9615525305271,-118.362510949373,$,80.0,4.0,90301,Inglewood,canton-kitchen-inglewood,['chinese']
+i098qix7Jrt8TX_9wOYOvA,33.989301,-118.39754,$,96.0,3.5,90230,Culver City,royal-chinese-food-culver-city,"['chinese', 'juicebars']"
+U_bkhjdpVB79pPCfcYPYfA,34.003607,-118.39346033,$$,331.0,3.0,90230,Culver City,dennys-culver-city-2,"['diners', 'tradamerican', 'breakfast_brunch']"
+IxqfRUOL3A5rUaAyPZc23g,33.994079,-118.395812,$,54.0,4.0,90230,Culver City,big-tomys-culver-city,"['burgers', 'breakfast_brunch', 'sandwiches']"
+ZT9jUkPHwUYCNtiSukdisA,33.97133,-118.35687,$,83.0,3.5,90302,Inglewood,da-thai-food-and-bbq-inglewood-2,"['thai', 'bbq']"
+DVmG0XLWdVCAcQHdJEQB6Q,33.9618645955734,-118.348888077854,$$,166.0,3.5,90302,Inglewood,flip-it-café-inglewood,"['breakfast_brunch', 'tradamerican']"
+,,,,,,,,,"['museums', 'arttours', 'kids_activities']"
+SLWvw5bAzVCIqXwB2jq65Q,33.9891994,-118.397831,$,140.0,3.0,90230,Culver City,el-super-taco-culver-city,['mexican']
+tHv19f6xvz_99F7kXwPUWQ,33.9854088,-118.393309,$$,22.0,4.5,90230,Culver City,davidstea-culver-city,"['coffee', 'tea']"
+,,,,,,,,,"['groomer', 'pet_sitting', 'dog_parks']"
+a2BcQFoEuSUhDJVlCDwPXQ,34.000949261322,-118.39462209002,$,129.0,3.0,90230,Culver City,campos-tacos-ferman-culver-city-2,['mexican']
+jljq3PO3l-0zEdCDirweQA,34.00455,-118.26009,$$,48.0,5.0,90011,Los Angeles,stopbye-café-los-angeles-3,"['asianfusion', 'foodtrucks', 'indonesian']"
+1ON2XXttBB7k5Z5LvZrVlw,33.8893305,-118.2074657,$$,186.0,4.5,90221,Compton,billionaire-burger-boyz-compton,"['foodtrucks', 'burgers']"
+dvRoSS5y3-zuNsnQdRf49w,34.0387725830078,-118.26114654541,$$,123.0,4.5,90015,Los Angeles,postcards-central-american-soul-food-los-angeles,"['foodtrucks', 'soulfood']"
+WvPxM9Zy2bqdUdn_fzhFVw,33.9600249,-118.3781833,$,60.0,4.0,90045,Los Angeles,1st-wok-los-angeles,['chinese']
+1gC8p8ZEKQD1InSMQnRt5w,33.9858972255611,-118.392695236423,$$,104.0,3.0,90230,Culver City,massis-kabob-the-original-kabobery-culver-city,"['mediterranean', 'mideastern', 'persian']"
+Fu4ZG19uf4O9HM31Bglb7g,33.9771156,-118.3665466,$,101.0,3.0,90302,Inglewood,phat-and-juicy-burgers-inglewood,['burgers']
+,,,,,,,,,"['foodtrucks', 'mexican']"
+-bMqMv4rM7urOYgIVnXRqg,33.9854413,-118.395128,$$,117.0,3.0,90230,Culver City,barber-lounge-culver-city-3,"['barbers', 'lounges']"
+ga1GBiOnCTgRAYwx1j3dyQ,34.151939,-118.361105,$,120.0,4.5,91602,Los Angeles,tacos-palacios-los-angeles-4,"['tacos', 'foodtrucks']"
+az6r7NVOz9vQSb4pg7zwWA,33.9858625017134,-118.393139716255,$$,59.0,3.5,90230,Culver City,pinkberry-culver-city,['icecream']
+,,,,,,,,,"['mexican', 'southern']"
+3QRRptCEfjUtnDnZ4jTzMA,34.0039082,-118.2818791,$,132.0,4.0,90037,Los Angeles,tacos-los-carnalillos-taco-truck-los-angeles-2,"['mexican', 'foodtrucks']"
+ThZ1F53TME_5kSxqXdRcAw,33.97375,-118.3565,$$,12.0,5.0,90302,Inglewood,lady-jays-cupcakes-inglewood,['cupcakes']
+pKGSYYij_CO-LWowNbafIQ,34.00566,-118.25849,$,46.0,5.0,90011,Los Angeles,tumaca-truck-los-angeles,"['foodtrucks', 'sandwiches', 'catering']"
+-dVulxoRfm9Gj93DBHdWsg,33.99678,-118.39602,$$,204.0,3.0,90230,Culver City,cocos-bakery-restaurant-culver-city-2,"['tradamerican', 'bakeries']"
+ST5Tywv-cVpPDpAd12eKmg,34.09996,-118.32698,$$,91.0,4.5,90028,Los Angeles,kings-wings-los-angeles-2,"['foodtrucks', 'chicken_wings']"
+xZbX6QhqyA3brRFbLfRqdg,34.2569465637207,-118.419013977051,$$,169.0,5.0,91331,Los Angeles,maravilla-latin-cuisine-los-angeles-3,"['foodtrucks', 'latin']"
+LYYOmE94DmK_D24MJdxknA,33.9758675,-118.3577882,$,40.0,3.5,90302,Inglewood,la-brea-seafood-inglewood-2,"['seafood', 'seafoodmarkets']"
+aomcY2w6QrsH4KEFl4HvHA,33.96884,-118.35605,$,158.0,3.0,90302,Inglewood,astro-burgers-inglewood,"['burgers', 'breakfast_brunch', 'sandwiches']"
+CQjMMmIokl6OnfWyVenykg,33.9780825,-118.3577756,$,88.0,3.0,90302,Inglewood,tottinos-pizza-inglewood,"['pizza', 'italian']"
+,,,,,,,,,"['parks', 'playgrounds']"
+XMiH8iMF6so7gugBV1LCQw,34.000994,-118.39452,$$,217.0,2.5,90230,Culver City,dragon-restaurant-culver-city-2,['chinese']
+pzCx9Xhp5ZixgG79JtX8lA,33.987414,-118.3629713,$,27.0,3.5,90056,Los Angeles,mandarin-express-restaurant-los-angeles,"['asianfusion', 'szechuan']"
+M0JcJIr7zSOSHqfpfENeCQ,34.0334815979004,-118.473663330078,$,32.0,5.0,90404,Santa Monica,pop-candy-santa-monica,"['foodstands', 'candy']"
+CcRDgs2bDuJKqUkthmaFBg,33.9978649318242,-118.394822180271,$$,224.0,2.5,90230,Culver City,panera-bread-culver-city-2,"['sandwiches', 'salad', 'soup']"
+ia8hVvEjZjOk6eMi6I_K-A,33.97643,-118.3735,$$,134.0,2.5,90045,Los Angeles,chuck-e-cheese-los-angeles-3,"['pizza', 'arcades', 'kids_activities']"
+GQWy0jqLm3jSMGmyw26OWw,33.977731,-118.39187,$,83.0,3.0,90045,Los Angeles,starbucks-los-angeles-51,['coffee']
+7lhZv_79QeSLdxKFHHhckQ,34.05513,-118.38404,$$,87.0,4.0,90035,Los Angeles,the-rooster-los-angeles-3,"['foodtrucks', 'breakfast_brunch']"
+Zv6pQP12TsaqfQfLBHhOiQ,34.0928916931152,-118.360679626465,$,56.0,4.5,90046,Los Angeles,happy-ice-los-angeles,"['foodtrucks', 'shavedice', 'icecream']"
+2iPhFzexAGdGJ4nxNfTwsg,34.00234767,-118.3924995,$$,37.0,4.0,90230,Culver City,taproom-pizza-culver-city-3,"['pizza', 'beerbar', 'sandwiches']"
+6W4Y9tIVzFuExFUGibpP7w,33.9610557,-118.3722361,$,49.0,3.5,90301,Inglewood,arbys-inglewood,"['hotdogs', 'sandwiches']"
+,,,,,,,,,['desserts']
+xtdOf-aejiiz4eP92MJ62g,33.95953,-118.38472,$$,102.0,3.5,90045,Los Angeles,sizzler-los-angeles-2,"['seafood', 'steak', 'salad']"
+L_C-71kmVQdRdkBRcCRNFQ,33.9600249,-118.3782496,$$,111.0,3.0,90045,Los Angeles,j-spot-comedy-club-los-angeles,"['comedyclubs', 'bars', 'southern']"
+fv5M19-7YerFFXQxkPc0ig,34.0053558349609,-118.479789733887,$,111.0,4.0,90405,Santa Monica,pinch-of-flavor-santa-monica,"['foodtrucks', 'seafood', 'catering']"
+x7VU9pYA0K8jEyQ52QlWMQ,33.985805,-118.393453,$,41.0,3.5,90230,Culver City,wafflejack-culver-city,['waffles']
+S8A4xHxDFiklFowZzukKlw,33.985973,-118.3932,$,73.0,3.0,90230,Culver City,ono-hawaiian-bbq-culver-city-2,"['hawaiian', 'bbq']"
+lODhPh-DENNbIvqCSdN_Iw,33.9600099,-118.34514,$$,228.0,3.0,90301,Inglewood,ms-bs-m-and-ms-soulfood-inglewood-2,['soulfood']
+A8u1P4p29eYwtVYbjQuRkw,34.05814,-118.24666,$$,217.0,3.5,90012,Los Angeles,brewwings-los-angeles,"['chicken_wings', 'catering', 'foodtrucks']"
+IJFA4bC0DqDaYcjyIUlkWA,33.98654,-118.392504,$,28.0,3.5,90230,Culver City,mrs-fields-westfield-culver-city-culver-city,"['bakeries', 'desserts']"
+2KJXiZ-psFTLa_hrWs48Tw,33.988173,-118.392747,$$,77.0,3.0,90230,Culver City,starbucks-culver-city-13,['coffee']
+VIQblmB_MvMnRWfQlsl2ZQ,33.9600249,-118.3781999,$,125.0,3.0,90045,Los Angeles,classic-grill-los-angeles,"['tradamerican', 'burgers']"
+dqk0QwIwlYXpG4XSyJv1sQ,33.95968,-118.39589,$$,309.0,2.5,90045,Los Angeles,ihop-los-angeles-17,"['breakfast_brunch', 'tradamerican', 'burgers']"
+,,,,,,,,,['landmarks']
+q0BxCHip4dgYVCFoaUM7dA,33.978037,-118.391286,$,56.0,3.0,90045,Los Angeles,ben-and-jerrys-los-angeles-7,"['icecream', 'customcakes']"
+,,,,,,,,,['parks']
+KMhMCFBL3M2F11rz_Kqk6A,33.9862108119664,-118.39338456414,$$,29.0,3.5,90230,Culver City,prinkipia-coffee-and-tea-room-culver-city,"['coffee', 'tea']"
+DFAtaOjN8SjNr2uy0zoKgw,34.0391055850598,-118.169239805088,$,59.0,4.5,90022,Los Angeles,east-los-tacos-los-angeles,"['foodtrucks', 'tacos']"
+E2C6JDEON-NnVstd5AECeg,33.986131,-118.3849623,$,22.0,3.5,90230,Culver City,patio-cafe-culver-city,['cafes']
+gGAm_V9JizaxKzuQgbziow,33.9807315,-118.3949029,$,48.0,3.5,90045,Los Angeles,martinis-pizzeria-los-angeles-2,"['pizza', 'burgers', 'sandwiches']"
+mRgTl_4hA6Kq5jHbc4ZUXw,33.96765,-118.35416,$,39.0,3.5,90302,Inglewood,el-oaxaco-taqueria-inglewood,['mexican']
+INYzXAO7RXvPNvoauZZgBg,33.9759448,-118.3735776,$,78.0,2.5,90045,Los Angeles,chile-verde-los-angeles,['mexican']
+INU2x0b0IaQLs4Z1efcQOA,33.9912132,-118.4675316,$,80.0,4.0,90746,Carson,wicked-fish-tacos-carson-9,"['foodtrucks', 'tacos']"
+7tIK40ZvTu8vuhBnR6g3wg,34.0664817,-118.3520389,$,117.0,4.0,90036,Los Angeles,yalla-truck-los-angeles,"['mediterranean', 'foodtrucks']"
+6XKAzQIdgGqHXt4rDtwnjg,34.03313,-118.43872,$$,33.0,4.5,90064,Los Angeles,merguez-et-al-los-angeles-5,"['foodtrucks', 'african']"
+yXH3fON2Bs_3wbuHaS_8Dg,33.9862775323288,-118.393239724854,$,90.0,2.5,90230,Culver City,mongrill-gourmet-mongolian-bbq-culver-city,['mongolian']
+7wQbRIVcT94b1Kbks4d-oQ,33.975528,-118.357941,$,130.0,2.5,90302,Inglewood,starbucks-inglewood-3,['coffee']
+kDA2lea_NS11Qbkc3gawVA,34.04749,-118.34694,$$,120.0,3.5,90019,Los Angeles,wise-barbecue-los-angeles,"['foodtrucks', 'bbq']"
+ALDGWbz07FIg3kcM_4lqIg,33.9769668579102,-118.369834899902,$,86.0,2.5,90302,Inglewood,panda-express-inglewood-2,"['chinese', 'hotdogs']"
+pGL6kuRypgWyoefot85Jfg,33.98796,-118.38291,$,28.0,3.0,90230,Culver City,trimana-culver-city,['delis']
+r3TJyxRBX_cPbrnGsbhgjw,33.92754,-118.37807,$,45.0,4.5,90304,Inglewood,wacky-shrimp-inglewood-3,"['foodtrucks', 'tacos', 'seafood']"
+GSx-ZXooipk6ypCvIWoPgQ,33.9780315555278,-118.373532468648,$,50.0,2.5,90045,Los Angeles,the-flame-broiler-los-angeles-12,"['korean', 'asianfusion', 'hotdogs']"
+v-hfspFQSAIZLok45pUBAA,34.0751451,-118.3853175,$,31.0,4.5,90048,Los Angeles,gyromania-los-angeles-2,"['greek', 'foodtrucks']"
+xOYjHmazeteBLYyu6H1Epw,34.230985,-118.535684,$,106.0,4.5,91324,Los Angeles,taqueria-la-plebe-and-more-los-angeles,"['foodtrucks', 'mexican']"
+abv-O81T4lmr5aRd9lNmjw,34.049423190418,-118.239630887237,$,32.0,4.5,90001,Los Angeles,merci-clement-truck-los-angeles,"['foodtrucks', 'gelato']"
+ukDSCMJdIOYEwMTczJbUWA,34.05843,-118.3057,$$,210.0,3.5,90005,Los Angeles,richeeze-los-angeles-3,"['foodtrucks', 'sandwiches']"
+a4hL7yJs6tD8XSqlGf6Lag,33.9757445,-118.357791,$,20.0,4.0,90302,Inglewood,rose-donuts-and-ice-cream-inglewood,"['donuts', 'icecream', 'coffee']"
+Fn2C6Wcpk0UCsGRcff1Aow,33.985785,-118.395022,$,21.0,4.0,90230,Culver City,jimmy-johns-culver-city,"['sandwiches', 'hotdogs', 'delis']"
+um9TOcMWtC7d0hpDEInRMw,33.97117,-118.37818,$,66.0,2.5,90045,Los Angeles,wendys-los-angeles-2,"['hotdogs', 'burgers']"
+yvZhdhMtzkM3hZG5ZJHm9g,33.8341771453,-118.384204297,$$,48.0,4.5,90277,Redondo Beach,recess-truck-redondo-beach,"['desserts', 'foodtrucks', 'icecream']"
+6zwcWcFhO4z2i3YmaUHWog,33.9932432,-118.3958401,$,69.0,3.0,90230,Culver City,yoshinoya-culver-city-culver-city,['japanese']
+bjUC8q7Bc8YgoPMxPKh2eg,33.9596719507961,-118.380758687854,$,146.0,2.5,90045,Los Angeles,dennys-los-angeles-12,"['diners', 'breakfast_brunch', 'tradamerican']"
+gcI5QSFr9kPUT6sSEXENtA,33.9609771,-118.3758925,$$,45.0,3.5,90301,Inglewood,dirdawa-cafe-inglewood-2,"['ethiopian', 'mediterranean']"
+IBTtDVw0b5vhrjSOqaSFaQ,34.0028165,-118.3938736,$,58.0,3.0,90230,Culver City,flame-broiler-culver-city,['hotdogs']
+,,,,,,,,,['parks']
+lTvljqNnRyZI_gHcHeFVdg,33.9853071896067,-118.394200578332,$,30.0,3.5,90230,Culver City,cinnabon-culver-city,['desserts']
+qO3jSn18vzfOyzieqFpYyg,34.0309258,-118.2380432,$,46.0,4.0,90021,Los Angeles,sus-arepas-los-angeles,"['foodtrucks', 'latin', 'sandwiches']"
+OdayqtN5nMKwAyXoZwaMIQ,33.9600027,-118.3442614,$$,84.0,3.5,90301,Inglewood,sizzler-inglewood,"['seafood', 'steak', 'salad']"
+sqd5hhK6J1d_s4Y61F70jg,33.986641,-118.392468,$,28.0,3.5,90230,Culver City,subway-restaurants-culver-city-5,"['hotdogs', 'sandwiches']"
+,,,,,,,,,"['foodtrucks', 'bbq', 'japanese']"
+,,,,,,,,,['landmarks']
+P07aq3mEBU1w6oGSVAVkew,33.987885456379,-118.365218639374,$,52.0,2.0,90056,Los Angeles,mcdonalds-los-angeles-149,"['burgers', 'hotdogs', 'coffee']"
+f_JRJ_-OYDtUHI7VcN1gJg,33.9636701873141,-118.352189880951,$$,102.0,4.5,90301,Inglewood,middlebar-inglewood-2,"['breakfast_brunch', 'cocktailbars', 'coffee']"
+ZJyrm7HkU0_F9W_DfqnRbA,34.0236705,-118.2180793,$$,66.0,4.0,90023,Los Angeles,bison-burger-los-angeles,"['foodtrucks', 'burgers', 'sandwiches']"
+ls9YvfUCBusDVo7syIJzfQ,34.22366,-118.36829,$$,89.0,4.5,91352,Los Angeles,bird-coma-los-angeles-3,"['foodtrucks', 'catering', 'burgers']"
+,,,,,,,,,"['foodtrucks', 'seafood']"
+5VF2XOFarOE3Q9z8T-nrxQ,33.97695,-118.37115,$,39.0,2.5,90045,Los Angeles,kfc-los-angeles-68,"['hotdogs', 'chickenshop', 'chicken_wings']"
+,,,,,,,,,['parks']
+,,,,,,,,,['caribbean']
+Ntmb_x9OIkdF0577bdAPsA,33.89344,-118.35287,$,20.0,5.0,90260,Lawndale,amals-baklava-and-more-lawndale-2,"['bakeries', 'desserts', 'catering']"
+ViiySTGcTywPaVKXizRU4Q,33.9603118,-118.3725684,$,49.0,3.5,90301,Inglewood,tottinos-pizza-inglewood-2,['pizza']
+jWHkyruIrYdXAsbXrghQ3g,34.0162709608561,-118.490619000437,$$,41.0,4.5,90272,Santa Monica,acai-dream-bowl-truck-santa-monica,"['foodtrucks', 'vegan', 'acaibowls']"
+,,,,,,,,,"['mexican', 'soulfood']"
+c-jNVq0I6kL1pYnjBszHeQ,33.9883244,-118.3594012,$,29.0,3.0,90056,Los Angeles,wienerschnitzel-los-angeles-3,"['hotdogs', 'hotdog', 'sandwiches']"
+,,,,,,,,,"['foodtrucks', 'vegan']"
+CWVdh2mSQf95k-SmGdbg4g,33.9776,-118.34473,$,15.0,4.5,90302,Inglewood,carniceria-la-tapatia-inglewood,"['meats', 'grocery', 'mexican']"
+,,,,,,,,,"['german', 'foodtrucks', 'catering']"
+JTOZ9P4va2MoNLDooi_EgA,33.9822154973262,-118.396283333868,$$,18.0,3.5,90230,Culver City,share-wine-lounge-and-small-plate-bistro-culver-city,"['newamerican', 'lounges']"
+k9KXhQQIC423pX2e3wxqiw,33.9897909,-118.3961644,$,52.0,3.0,90230,Culver City,winchells-donuts-culver-city-2,"['donuts', 'coffee', 'sandwiches']"
+tFD9LwJd9HszMpPM_GpGHQ,34.0690002441406,-118.350242614746,$,53.0,4.0,90036,Los Angeles,the-falafel-factory-los-angeles,"['falafel', 'foodtrucks']"
+qu8yFETeo4J8fMbf_7XV_Q,34.03983,-118.26855,$,29.0,4.5,90015,Los Angeles,urban-espresso-los-angeles-6,"['foodtrucks', 'coffee', 'breakfast_brunch']"
+XF4-cSrbsKao_dyQHh8S-Q,33.9694064343767,-118.355743736029,$,10.0,4.5,90302,Inglewood,joses-the-juice-bar-mex-grill-inglewood,"['mexican', 'juicebars']"
+,,,,,,,,,['pizza']
+ur39kGOmI7jH7dB0nnlIug,34.03367,-118.26145,$$,37.0,4.5,90015,Los Angeles,the-holy-grill-770-los-angeles,"['foodtrucks', 'kosher', 'mediterranean']"
+zjRA08jFTGyjgxaCDtx8sA,33.98854,-118.38454,$,21.0,3.0,90230,Culver City,trimana-grill-culver-city,"['tradamerican', 'salad']"
+eC6LKNPIDWHFj4KgDZgpJQ,34.23356533,-118.58883683,$$,50.0,5.0,91304,Canoga Park,uncle-johnnys-burgers-canoga-park,"['foodstands', 'burgers']"
+LAc_ch9Q3JU1KIc59gGuhA,33.9858014880016,-118.393310869893,$,90.0,2.0,90230,Culver City,sarku-japan-culver-city-2,"['sushi', 'japanese']"
+S_CXsRoyzAbokej1Pvu0FA,33.95878,-118.39312,$,84.0,3.0,90045,Los Angeles,del-taco-los-angeles-7,['mexican']
+RhvNO1kURDRW3OBeOGjRIQ,33.9826403,-118.3914606,$,29.0,3.0,90230,Culver City,quiznos-culver-city-5,"['sandwiches', 'delis']"
+Dn54FKXMnFR4rCIJCUKZag,33.9760029191729,-118.358008560009,$,109.0,2.0,90302,Inglewood,popeyes-louisiana-kitchen-inglewood,"['hotdogs', 'chicken_wings']"
+BAWrw48x54DSnZN1dleqbA,33.9878693,-118.388906,$,14.0,3.5,90230,Culver City,symantec-dining-services-culver-city,['sandwiches']
+_BBv-e1z_TFEqmheuSJMIw,33.9890785217285,-118.396446228027,$,114.0,2.0,90230,Culver City,del-taco-culver-city,"['tex-mex', 'hotdogs']"
+,,,,,,,,,"['coffee', 'foodtrucks', 'bakeries']"
+uJUVrZGEZ-mPudAFLzeCjg,33.91285,-118.35251,$$,57.0,4.0,90250,Hawthorne,chef-cs-smhokin-pot-hawthorne-20,"['cajun', 'foodtrucks', 'southern']"
+Zwp01D6iI75eikt2Gd6u9A,33.9679422,-118.3620777,$$$,8.0,4.5,90405,Santa Monica,ca-d-oro-bakery-santa-monica-4,"['bakeries', 'pretzels']"
+YrRPYMYMfiIBGr1eR86peQ,33.9856872473856,-118.39326925743,$,67.0,2.5,90230,Culver City,chipotle-mexican-grill-culver-city-6,"['hotdogs', 'mexican']"
+xHTxxqm7XqWYx1dMqDEKmA,33.97752,-118.36993,$,45.0,2.5,90302,Inglewood,starbucks-inglewood-10,['coffee']
+snqqFAIFh3aXnN7Ge4WguQ,33.9858152235522,-118.393344581579,$,33.0,3.0,90230,Culver City,the-coffee-bean-and-tea-leaf-culver-city-2,['coffee']
+67OXAo8h_hn2_qGeNthsjg,33.985379,-118.394231,$,46.0,2.5,90230,Culver City,hot-dog-on-a-stick-culver-city,"['hotdogs', 'hotdog']"
+,,,,,,,,,"['foodtrucks', 'african']"
+JqERGAguN9CnGLTcUOWniw,33.9597551,-118.37906,$,30.0,3.5,90045,Los Angeles,marias-tortillas-los-angeles,['mexican']
+,,,,,,,,,"['foodtrucks', 'tacos', 'vegan']"
+cYKNT-Qq-lKX7BZ19ZpoYg,34.000924,-118.394634,$,42.0,3.0,90230,Culver City,subway-restaurants-culver-city,['sandwiches']
+,,,,,,,,,"['burgers', 'foodstands', 'catering']"
+w1Fsyx1cEfHwTTKRMdu5Lw,34.046234,-118.266871,$$,71.0,3.5,90015,Los Angeles,super-smash-buns-los-angeles,"['foodtrucks', 'burgers', 'asianfusion']"
+VknHnpc5RS2Rcg5SV0BEgw,33.95954,-118.38004,$,59.0,3.0,90045,Westchester,yoshinoya-westchester-2,['japanese']
+,,,,,,,,,['parks']
+cI3SK6ndG0rjzxDCs44BvA,33.985926,-118.392803,$,45.0,2.5,90230,Culver City,panda-express-culver-city,"['chinese', 'hotdogs']"
+IGlcMqJolKNCMrvV_EXA7w,33.97845,-118.3926,$,35.0,2.5,90045,Los Angeles,mrs-fields-howard-hughes-center-los-angeles,"['bakeries', 'desserts']"
+XdmIReKx6_VPJuwIQTQR7Q,33.994926,-118.395076990128,$,66.0,2.5,90230,Culver City,jack-in-the-box-culver-city,"['hotdogs', 'burgers', 'breakfast_brunch']"
+,,,,,,,,,"['foodtrucks', 'dimsum']"
+wgtKqTxfoprlR_EwNzlIhQ,34.2724002,-118.4647573,$,32.0,5.0,91345,Los Angeles,cítrico-ceviche-bar-los-angeles,"['seafood', 'mexican', 'foodtrucks']"
+3j7zCBeBXsODLUbgHHlvrQ,33.9769921019716,-118.372987690352,$,50.0,2.0,90045,Los Angeles,el-pollo-loco-los-angeles-63,"['mexican', 'hotdogs']"
+YZPnfGY0eGY0zZmL4fBA5w,33.9616,-118.34936,$,42.0,3.0,90301,Inglewood,brunos-burgers-inglewood,"['sandwiches', 'burgers']"
+VkB0Cau98NFR75muz-uv5Q,33.7523035,-118.1298234,$,41.0,4.5,90031,Los Angeles,frijolitos-mobile-coffee-los-angeles-4,"['coffee', 'foodtrucks']"
+,,,,,,,,,"['icecream', 'foodtrucks']"
+FfFQm3rhgo3_fYjU1u8b6w,34.0403442382813,-118.143180847168,$$,30.0,4.5,91754,Monterey Park,tiffanys-catering-monterey-park-4,"['bakeries', 'catering']"
+Pnn5bvLgnNNWB6105QjZUA,33.961992,-118.366421,$$,119.0,2.0,90301,Inglewood,starbucks-inglewood-8,['coffee']
+h1LtwrmvCcfsnh68LOnbqQ,33.9968917760629,-118.39384,$,38.0,2.5,90230,Culver City,starbucks-culver-city-11,['coffee']
+,,,,,,,,,['parks']
+QQ95w0Cr94dwxv-yusUhYA,33.9596551,-118.3947024,$,29.0,3.5,90045,Los Angeles,subway-restaurants-los-angeles-69,"['sandwiches', 'hotdogs']"
+tmXax-BNAftiPcnc5IvggQ,33.985585,-118.393269,$,39.0,2.5,90230,Culver City,sbarro-culver-city-2,"['italian', 'pizza']"
+j9fFjOFQuuCnWYNym_z2ng,33.9769405,-118.3724545,$,28.0,2.5,90045,Los Angeles,el-pollo-loco-los-angeles-24,"['hotdogs', 'mexican']"
+,,,,,,,,,"['bbq', 'foodtrucks', 'desserts']"
+nWxbyyVtmMEFzSt7i0-3WQ,33.95953,-118.38425,$,39.0,3.0,90045,Los Angeles,yum-yum-donuts-los-angeles-16,"['donuts', 'sandwiches', 'coffee']"
+PGdhlhpo36EqMW2KIg654A,34.182541,-118.305763,$$,30.0,4.5,91502,Burbank,bouvardia-restaurant-burbank-6,"['venues', 'armenian', 'musicians']"
+AxVCz18jBVjPQY_tMUKMwQ,33.9767547,-118.3653703,$,10.0,3.5,90302,Inglewood,eees-n-cees-fish-market-inglewood,"['seafoodmarkets', 'fishnchips']"
+6PxWjI9chAcLJkIj_MnfYg,34.0616798400879,-118.445449829102,$,13.0,5.0,90024,Westwood,the-roast-truck-westwood,"['coffee', 'foodtrucks']"
+JiYslHHmxDRNtjDg_49fmQ,33.7885,-117.97395,$$,178.0,4.0,92841,Garden Grove,mess-hall-canteen-garden-grove-7,"['foodtrucks', 'sandwiches', 'salad']"
+,,,,,,,,,['mexican']
+G5Y-htmjLHHE_eORbBv_aw,33.97555,-118.373339,$,45.0,2.0,90045,Los Angeles,mcdonalds-los-angeles-119,"['burgers', 'hotdogs', 'coffee']"
+,,,,,,,,,"['foodtrucks', 'korean']"
+dZqX3MUge0H54Pzm1V3wnw,33.9757181,-118.3577916,$,18.0,3.0,90302,Inglewood,baskin-robbins-inglewood-4,"['icecream', 'desserts', 'customcakes']"
+,,,,,,,,,"['foodtrucks', 'thai']"
+,,,,,,,,,['parks']
+cGz79yNAqqmxEyLmHQytoQ,34.002818,-118.393742,$,79.0,2.0,90230,Culver City,pizza-hut-culver-city,"['pizza', 'italian', 'chicken_wings']"
+,,,,,,,,,"['chicken_wings', 'catering', 'foodtrucks']"
+,,,,,,,,,"['facepainting', 'magicians', 'pettingzoos']"
+21EL0GMApb3mGWjNz8O3LA,33.988158,-118.393011,$,43.0,2.0,90230,Culver City,chipotle-mexican-grill-culver-city-7,"['mexican', 'hotdogs']"
+EGz4toczaB2njcFcqGzsxA,33.7332038879395,-118.294395446777,$$,24.0,5.0,90731,San Pedro,fiyahnesian-cuisine-no-title,"['catering', 'foodstands', 'mexican']"
+,,,,,,,,,"['atvrentals', 'rvrental', 'hiking']"
+smVxoTfwDJu8UA40zZrfmw,33.98536,-118.394179,$,20.0,3.0,90230,Culver City,tutti-frutti-frozen-yogurt-culver-city-2,"['icecream', 'gluten_free']"
+,,,,,,,,,"['coffee', 'foodtrucks']"
+OUejyaZPnXy1WBkQgoNELA,34.000417,-118.394994,$,50.0,2.0,90230,Culver City,burger-king-culver-city,"['hotdogs', 'burgers']"
+NyZMvo6VPH6Brs2fOVfU9g,33.95958,-118.37745,$,104.0,2.0,90301,Inglewood,el-pollo-loco-inglewood-9,"['mexican', 'hotdogs']"
+g_llj-pWJ63-8tlEJwvAhQ,33.9596851,-118.3803302,$,27.0,3.0,90045,Los Angeles,papa-johns-pizza-los-angeles-27,['pizza']
+,,,,,,,,,"['hotdog', 'foodtrucks', 'tacos']"
+q_tTxEQxFfoo1IZOtm_IrA,33.98538694,-118.3949422,$,98.0,1.5,90230,Culver City,starbucks-culver-city-9,['coffee']
+nQfbf34SJrIXYs1zgSli2Q,33.9892780203527,-118.351324349751,$,13.0,3.0,90043,Los Angeles,7-eleven-los-angeles-22,"['convenience', 'coffee']"
+e412L4UrUdQYRXEHZ04h9Q,33.976101,-118.358474,$,90.0,1.5,90302,Inglewood,dominos-pizza-inglewood,"['pizza', 'chicken_wings', 'sandwiches']"
+,,,,,,,,,"['japanese', 'foodtrucks']"
+XjNSmeYINzmw64ufoaoxmQ,36.814718,-114.065976,$$,36.0,2.5,89027,Mesquite,starbucks-mesquite,['coffee']
+kXhG3-4AQFpyfBlpH16V2g,34.2647775,-118.520314,$,102.0,3.5,91344,Los Angeles,belly-bombz-wings-truck-and-catering-los-angeles,"['foodtrucks', 'korean']"
+,,,,,,,,,['parks']
+,,,,,,,,,"['haitian', 'foodtrucks', 'fooddeliveryservices']"
+gN9MX6HebjuXBkIcUy-uTA,33.959634,-118.386112,$,114.0,2.0,90045,Los Angeles,mcdonalds-los-angeles-139,"['hotdogs', 'burgers', 'coffee']"
+WWLkqNUa2jzA5DYwnNu-JQ,34.0155699,-118.34361,$,25.0,3.5,90008,Los Angeles,pizzarossa-los-angeles,"['pizza', 'chicken_wings', 'sandwiches']"
+9NYAMW8j2vfmJuIzi_9Ncg,34.035101,-118.2913288,$,33.0,3.5,90007,Los Angeles,celaya-bakery-los-angeles-3,"['bakeries', 'customcakes']"
+fgj_WMhMeU-kj1xug2b3cA,33.985441001152,-118.395127952099,$,13.0,3.0,90230,Culver City,which-wich-culver-city-3,['sandwiches']
+,,,,,,,,,"['tacos', 'foodtrucks']"
+bxg_7sRzdPz02IUaUFMKCw,33.987827,-118.364452,$,29.0,1.5,90065,Los Angeles,subway-restaurants-los-angeles-17,['sandwiches']
+bS6DDUr4q2tmXbgTcR1E_g,33.9788946,-118.370663140493,$,26.0,2.0,90045,Los Angeles,chipotle-mexican-grill-los-angeles-61,"['mexican', 'hotdogs']"
+hoqAzoayW0YdkDpTPff-dA,33.9687805175781,-118.354988098145,$,69.0,2.0,90302,Inglewood,el-pollo-loco-inglewood-10,"['hotdogs', 'mexican']"
+Ftn8OZEqwT952zi67CAYLg,34.0202102567218,-118.451902270317,$,10.0,4.5,90404,Santa Monica,backpackers-truck-santa-monica-8,"['korean', 'foodtrucks']"
+vJNJs4Y04JMhPbMu7bInxA,33.96129,-118.36135,$,57.0,2.0,90301,Inglewood,carls-jr-inglewood,"['hotdogs', 'burgers']"
+KrivJ1coTLmgpGvGGC2Ayw,34.0837472012297,-118.331095576286,$$,17.0,4.0,93010,Camarillo,matts-coffee-express-camarillo-6,"['juicebars', 'coffee', 'foodtrucks']"
+fiLLTpGviNWLv-IKtmIpag,33.966102,-118.354254,$,32.0,2.5,90301,Inglewood,little-caesars-pizza-inglewood,"['pizza', 'hotdogs']"
+,,,,,,,,,"['foodtrucks', 'waffles', 'sandwiches']"
+,,,,,,,,,['localflavor']
+,,,,,,,,,"['foodtrucks', 'spanish', 'seafood']"
+KqOXJDR2YiTVic5bVbdnAw,34.0513187,-118.3649663,$,9.0,4.5,90019,Los Angeles,whammy-bar-los-angeles,"['musicinstrumentservices', 'coffee']"
+PD6Bsijpel-Tbx7IKzqcUA,33.9773949,-118.3725375,$,21.0,2.0,90045,Los Angeles,subway-restaurants-los-angeles-119,"['hotdogs', 'sandwiches']"
+k4ydUawlt6tlKu68n-V3xw,33.96224,-118.35373,$,21.0,3.0,90301,Inglewood,cafetales-inglewood,['salvadoran']
+3S4h5FVxfqrnrIR-sjV9vA,33.9601713960955,-118.376398086548,$,62.0,2.0,90301,Inglewood,jack-in-the-box-inglewood,"['burgers', 'hotdogs', 'breakfast_brunch']"
+,,,,,,,,,"['creperies', 'foodtrucks']"
+9bwjRfAJexB0So47YnWHow,34.2856864929199,-118.604530334473,$,19.0,5.0,91311,Los Angeles,mama-minas-sweets-and-treats-los-angeles,"['bakeries', 'vegan', 'gluten_free']"
+PH3sasg6P3PzBqNbXh8XuQ,33.74901,-117.89935,$,94.0,4.5,92703,Santa Ana,tortas-ahogadas-los-primos-santa-ana,"['mexican', 'foodtrucks']"
+,,,,,,,,,"['foodtrucks', 'mexican']"
+WUxJX7QptQqH7tgCyGclpQ,34.15788,-118.46105,$$,273.0,2.0,91403,Los Angeles,rice-balls-of-fire-los-angeles,"['foodtrucks', 'asianfusion', 'catering']"
+,,,,,,,,,"['foodtrucks', 'tacos']"
+aPckMkzE6yUcx6ckSlNtNg,33.976995,-118.3715035,$,31.0,2.0,90045,Los Angeles,burger-king-los-angeles-25,"['burgers', 'hotdogs']"
+,,,,,,,,,"['foodtrucks', 'pizza']"
+,,,,,,,,,"['foodtrucks', 'mexican']"
+PnX7iaxwN7eo9kQ5hHyvKA,34.2676,-118.42227,$,15.0,5.0,91342,Pacoima,el-rey-del-cocktel-pacoima,"['seafood', 'foodtrucks']"
+,,,,,,,,,"['mexican', 'tradamerican', 'importedfood']"
+ImNFNRN-k85PdvBN8xuMEQ,33.9971649,-118.3939003,$,21.0,2.5,90230,Culver City,panda-express-culver-city-3,"['chinese', 'hotdogs']"
+fLtjISLQBrahVZAT3CFXtA,34.2310853582468,-118.36753200608,$,13.0,5.0,91352,Los Angeles,tacos-eronga-1-los-angeles,"['mexican', 'foodtrucks']"
+,,,,,,,,,"['bakeries', 'desserts', 'catering']"
+_Ycst2SdS6eiXuqMSTNoNQ,33.986405,-118.392199,$$,19.0,2.5,90230,Culver City,baskin-robbins-culver-city-2,"['icecream', 'desserts', 'customcakes']"
+EbwC5gObK5Yoz6od37uXUw,33.9765946,-118.357335627079,$,59.0,1.5,90302,Inglewood,pizza-hut-inglewood-2,"['pizza', 'italian', 'chicken_wings']"
+4Vt-_pOpIMLHj4Pa1eM-qg,34.047822479906,-118.241345734439,$,7.0,5.0,78704,Los Angeles,pop-art-los-angeles-4,"['desserts', 'foodtrucks', 'icecream']"
+,,,,,,,,,"['foodtrucks', 'chickenshop', 'hotdogs']"
+,,,,,,,,,['icecream']
+,,,,,,,,,['coffee']
+RgUq2nW9aUrQJFaYA5-QLw,33.6623991876128,-117.750723548234,$$,182.0,4.5,92807,Anaheim,burning-buns-anaheim-4,"['foodtrucks', 'burgers', 'sandwiches']"
+sLVJXAApFv2A6bH1RVVBLw,33.959497311102,-118.385180309414,$,23.0,3.0,90045,Los Angeles,7-eleven-los-angeles-117,"['convenience', 'coffee']"
+,,,,,,,,,"['reiki', 'spiritual_shop', 'coffee']"
+-sFESi1NPxhRp5ON_BoCVw,33.993271738909,-118.395543694496,$,15.0,2.5,90230,Culver City,7-eleven-culver-city-7,"['convenience', 'coffee']"
+,,,,,,,,,['tacos']
+,,,,,,,,,['parks']
+GuMIsPlOxtC5EOk1a-8mjw,33.9600249,-118.3780756,$,37.0,2.0,90045,Los Angeles,waba-grill-los-angeles-19,"['hotdogs', 'asianfusion']"
+GgoNnbHE8_g5Dq7-mJCnzw,33.9620335,-118.3615281,$,11.0,3.5,90301,Inglewood,7-eleven-inglewood-3,"['convenience', 'coffee']"
+fQWAPxHWkw3wFioNSJp4WA,33.9766963760088,-118.376590803282,$,8.0,3.0,90045,Los Angeles,7-eleven-los-angeles-42,"['convenience', 'coffee']"
+PiGg1cfvBHpzHMZHG35xfQ,33.9835416,-118.3943358,$$,12.0,2.5,90230,Culver City,marin-company-steak-and-spirits-culver-city,['tradamerican']
+rUWgZWhM97h9gfenIW9V9g,33.9742906,-118.3520389,$$,2.0,5.0,90302,Inglewood,sweets-by-monique-inglewood-3,"['desserts', 'cupcakes', 'customcakes']"
+,,,,,,,,,"['bartenders', 'djs', 'cocktailbars']"
+DJqaSrXzZyIcvPV9EJZ12w,34.4468803405762,-118.510902404785,$$,36.0,5.0,91350,Santa Clarita,madison-rose-bakery-santa-clarita-2,['bakeries']
+1StuymR_aV7xU6yKdpk_aA,33.9196596,-118.273849942022,$$,6.0,5.0,90061,Los Angeles,mariscos-los-tres-animales-los-angeles-2,"['mexican', 'foodtrucks']"
+7B9BB7I6KSVdCgJPGiomsw,33.961971282959,-118.396644592285,$,3.0,5.0,90006,Westchester,tacos-al-vapor-westchester,"['foodtrucks', 'mexican']"
+lkYF49T_tDdVf7VbjXHxBw,34.1016299248973,-118.333691404536,$,8.0,4.5,90028,Los Angeles,ice-cream-roll-los-angeles-6,"['desserts', 'icecream', 'foodtrucks']"
+x40xYyeHObYWfNLc_5NAkQ,33.9595413208008,-118.380043029785,$,40.0,2.0,90045,Los Angeles,burger-king-los-angeles-49,"['burgers', 'hotdogs']"
+HyJQ8eApHNysZNEQGzPVRw,33.9955215454102,-118.399909973145,$$,2.0,5.0,90230,Culver City,luna-patisserie-culver-city,"['bakeries', 'desserts', 'fooddeliveryservices']"
+z7S86ILdYhTir9LQV0W4GQ,33.962137,-118.350114,$,60.0,1.5,90301,Inglewood,mcdonalds-inglewood-3,"['hotdogs', 'burgers', 'coffee']"
+xSoIMortNzykYHzWGyMOtw,33.7099418640137,-117.99047088623,$$,85.0,4.0,92647,Huntington Beach,phenomnom-truck-huntington-beach-3,"['foodtrucks', 'southern']"
+,,,,,,,,,"['desserts', 'fooddeliveryservices']"
+6sp_sZTWEcscuzY4SYuKKw,33.9955215454102,-118.399909973145,$$,2.0,5.0,90230,Culver City,popshop-bakery-culver-city,"['catering', 'bakeries']"
+9pIFyJyzxonmuldL3wOS_w,34.000767,-118.39453,$$,19.0,2.0,90230,Culver City,starbucks-culver-city-8,['coffee']
+QXOd7Ol-9EcnOp4BeCERTA,33.96025,-118.349148,$$,16.0,3.0,90301,Inglewood,starbucks-inglewood-6,['coffee']
+X08Izt7_O0M7ujXAMZW0YA,33.966331,-118.344482,$$,6.0,3.5,90301,Inglewood,free-man-coffee-shop-inglewood,"['coffee', 'bagels']"
+,,,,,,,,,"['cupcakes', 'customcakes', 'foodtrucks']"
+,,,,,,,,,"['museums', 'historicaltours']"
+Ox6KEoJNpShHZdVhuLwRLg,33.7482208,-117.863545,$,82.0,4.0,92701,Santa Ana,chiva-torta-santa-ana,"['mexican', 'foodtrucks']"
+m_sE4JoROr6fwriy8m7Izw,33.9758763,-118.357788,$,14.0,1.5,90302,Inglewood,subway-restaurants-inglewood-5,"['sandwiches', 'hotdogs']"
+abOvDof2lqMXiz-_xCoyiA,33.985772,-118.393629,$,13.0,2.0,90230,Culver City,burger-king-culver-city-4,"['hotdogs', 'burgers']"
+5fDYUknkJuNWmmZHCl2l1g,33.9615,-118.35984,$,15.0,2.5,90301,Inglewood,subway-restaurants-inglewood-6,"['sandwiches', 'hotdogs']"
+,,,,,,,,,"['korean', 'foodtrucks']"
+,,,,,,,,,"['foodtrucks', 'mexican']"
+CM2hDVNI52YK6oCcX3A2Ag,34.0044958015758,-118.386790309296,$,8.0,2.5,90230,Culver City,cafe-west-culver-city,['newamerican']
+,,,,,,,,,"['foodtrucks', 'mexican']"
+9v9v1f52wKzQTpV7g01BdA,34.0146001718452,-118.352447122647,$,2.0,5.0,90008,Los Angeles,taco-trailer-los-angeles,['streetvendors']
+,,,,,,,,,['parks']
+z32h0XnJ3yw-fpouaXdvFQ,34.4627169,-118.5622893,$,35.0,4.5,91354,Santa Clarita,kona-ice-of-santa-clarita-santa-clarita-2,"['icecream', 'shavedice', 'foodtrucks']"
+W5WHvC2tQNQi_rPx-1eKSA,33.960203,-118.378127,$,9.0,3.0,90045,Los Angeles,subway-restaurants-los-angeles-93,"['sandwiches', 'hotdogs']"
+yJRXpJzFCELjayo5_OcMfg,33.978058,-118.391945,$,7.0,2.5,90045,Los Angeles,rave-burger-bar-los-angeles,['burgers']
+nrEaaxzKwna2e2S2qelp6w,34.052187,-118.243425,$$,11.0,3.5,,Los Angeles,mad-kebob-los-angeles,"['foodtrucks', 'mediterranean']"
+RbbPE7YHC1Gyu9ynitzjVw,34.2809205918312,-118.401948474348,$,6.0,5.0,91342,Los Angeles,tacos-el-pimi-los-angeles,"['foodtrucks', 'mexican']"
+,,,,,,,,,"['mexican', 'vegan', 'foodtrucks']"
+,,,,,,,,,['vegan']
+,,,,,,,,,"['mexican', 'foodtrucks']"
+,,,,,,,,,"['desserts', 'foodtrucks', 'creperies']"
+yQXLREny5_aI_vKflOEF8A,33.9692239,-118.256724,$$,3.0,5.0,90001,Los Angeles,mariscos-el-peri-los-angeles,"['seafood', 'foodtrucks']"
+-efACZXjjng8u_zKze_NHQ,33.54461,-117.78529,$$,63.0,4.5,92651,Orange County,drizzle-orange-county-2,"['desserts', 'foodtrucks']"
+PhLKdaPcU9IR7IE40niJ0w,34.0583969,-118.1912081,$$,30.0,2.5,90063,Los Angeles,hungry-belly-los-angeles-4,"['foodtrucks', 'thai']"
+,,,,,,,,,['ethiopian']
+,,,,,,,,,['skate_parks']
+Cx9j_o5m1xwAKPr4MwSUzQ,34.00083,-118.43176,$$,38.0,3.5,90066,Culver City,funky-chef-cafe-truck-culver-city-3,"['foodtrucks', 'italian', 'mexican']"
+z88t_leptZ9rB39mWnYM9g,33.9761009216309,-118.359748840332,$,5.0,2.5,90302,Inglewood,7-eleven-inglewood-5,"['convenience', 'coffee']"
+vyXObRh8suRjqXtP9LNtFw,33.9790993,-118.3575211,$$$,7.0,2.0,90302,Inglewood,mamas-deli-and-grill-inglewood,['delis']
+,,,,,,,,,['parks']
+esEFM18aHAgmgLQ1E4WxuQ,34.1040382385254,-117.670036315918,$$,36.0,5.0,91786,Upland,pellegrinos-authentic-italian-food-upland,"['foodtrucks', 'catering', 'italian']"
+,,,,,,,,,"['foodtrucks', 'seafood', 'mexican']"
+,,,,,,,,,"['localfishstores', 'aquariumservices', 'aquariums']"
+,,,,,,,,,"['foodtrucks', 'burgers']"
+mTWdsU7d9LJcWMo7Rf2kLA,34.0731048583984,-118.372779846191,$,5.0,2.0,90048,Los Angeles,the-hungry-inka-los-angeles,['latin']
+,,,,,,,,,['newamerican']
+,,,,,,,,,"['hiking', 'parks']"
+,,,,,,,,,"['pastashops', 'italian']"
+myW4G0FVfeUvXqefR57A6A,34.1831481,-119.1656806,$,66.0,4.5,93033,Oxnard,its-in-the-sauce-bbq-oxnard,"['bbq', 'catering', 'foodtrucks']"
+,,,,,,,,,['bakeries']
+Mqod938tyxvodMCTAtQFcA,33.9602766983099,-118.375855386475,$,7.0,2.5,90301,Inglewood,7-eleven-inglewood,"['convenience', 'coffee']"
+5LufHfYiHWE4sLloVp3-jg,34.010433,-118.33667,$,5.0,3.0,90008,Los Angeles,yakiniku-japanese-grill-los-angeles,['japanese']
+,,,,,,,,,"['foodtrucks', 'tacos', 'catering']"
+AKyqB9K5aUO12z_Cmd8ifQ,34.0369708,-118.2782814,$$,12.0,3.0,90250,Los Angeles,big-bali-truck-los-angeles,"['foodtrucks', 'coffee']"
+,,,,,,,,,"['hiking', 'walkingtours', 'historicaltours']"
+QONAiUnAuDZkKdpmYrajRg,34.010433,-118.33667,$$,7.0,2.5,90008,Los Angeles,chicken-now-los-angeles-3,['hotdogs']
+,,,,,,,,,"['foodtrucks', 'sushi']"
+,,,,,,,,,['mideastern']
+,,,,,,,,,"['desserts', 'shavedice', 'shavedsnow']"
+Ndh7-E6-84PcmP1adBI9ww,33.9866864,-118.3951677,$,1.0,4.0,90230,Culver City,california-chicken-roasters-culver-city,['tradamerican']
+NfwajGYL_CW5hvxj7yHW2A,33.96224,-118.35373,$,3.0,3.5,90301,Inglewood,ggs-restaurant-and-bakery-inglewood,"['bakeries', 'soulfood']"
+,,,,,,,,,['parks']
+,,,,,,,,,['mexican']
+,,,,,,,,,"['foodtrucks', 'chickenshop']"
+Xv8RbCNiqBo5Mm8HSbuEag,34.0119121087546,-118.345699261219,$,1.0,5.0,90008,Los Angeles,cupcake-playground-los-angeles,"['cupcakes', 'bakeries']"
+,,,,,,,,,['parks']
+,,,,,,,,,"['foodtrucks', 'beerbar']"
+,,,,,,,,,['parks']
+geGRPNvHqt-O7YD-EFJE9w,34.15697,-117.48216,$$,45.0,4.5,92336,Fontana,the-cake-factory-and-more-fontana,"['desserts', 'bakeries', 'customcakes']"
+,,,,,,,,,"['bbq', 'foodtrucks', 'catering']"
+i9s9fR_C0QwW21ZYpmNn6A,33.9683767656744,-118.355900085126,$,10.0,1.5,90302,Inglewood,7-eleven-inglewood-11,"['convenience', 'coffee']"
+,,,,,,,,,['delis']
+,,,,,,,,,"['wine_bars', 'winetastingroom', 'selfstorage']"
+Tub-psQGYAjbtny6MnfQmg,34.0770492553711,-118.25887298584,$,2.0,5.0,90026,Los Angeles,yum-yum-shave-ice-los-angeles-2,"['shavedice', 'foodstands']"
+,,,,,,,,,"['tacos', 'foodtrucks']"
+,,,,,,,,,"['southern', 'foodtrucks', 'catering']"
+,,,,,,,,,"['cafes', 'breakfast_brunch', 'sandwiches']"
+,,,,,,,,,['pizza']
+lNnmA8gz8_5GPCgnBqsUpg,33.6775207519531,-117.921119689941,$$$,66.0,3.5,92626,Costa Mesa,salt-n-pepper-truck-costa-mesa,"['foodtrucks', 'steak', 'hotdog']"
+,,,,,,,,,['landmarks']
+hEfkb8MeslxHAeDJWLLVYA,34.0216103,-118.3962097,$,1.0,4.0,,Los Angeles,culver-city-little-league-snack-bar-los-angeles,"['coffee', 'donuts']"
+,,,,,,,,,"['foodtrucks', 'catering', 'desserts']"
+,,,,,,,,,"['foodtrucks', 'latin', 'cafes']"
+,,,,,,,,,['bakeries']
+,,,,,,,,,['restaurants']
+,,,,,,,,,['bakeries']
+,,,,,,,,,"['mexican', 'breakfast_brunch', 'foodtrucks']"
+hRPGWX4Pdd4FgQe3j-uJtA,33.7624390089761,-118.197011612356,$,3.0,5.0,90801,Long Beach,mustache-mikes-365-long-beach,"['icecream', 'foodstands', 'italian']"
+,,,,,,,,,"['seafood', 'steak', 'tradamerican']"
+MaMcWQp1PjAgW_bXjViSVg,33.73095,-117.81275,$,7.0,5.0,92780,Tustin,the-feeding-frenzy-tustin-2,"['foodtrucks', 'desserts', 'catering']"
+,,,,,,,,,['restaurants']
+RTd8qW4O6vMbI14ofs9_Ag,34.18704,-118.13342,$$,2.0,5.0,91001,Pasadena,chili-chili-mango-pasadena-6,"['icecream', 'foodtrucks']"
+Hxgi_XZuDrMdBABHW0qC-A,33.9628264,-118.3709253,$,3.0,2.5,90301,Inglewood,7-eleven-inglewood-10,"['convenience', 'coffee']"
+,,,,,,,,,"['desserts', 'foodstands', 'catering']"
+,,,,,,,,,"['atvrentals', 'hiking', 'rvrental']"
+,,,,,,,,,"['restaurants', 'grocery']"
+jTjN--5yRHD2Aal0SDHiwA,33.9679018064277,-118.349999549697,$,1.0,5.0,90301,Inglewood,cuban-leaf-cigar-lounge-inglewood,['lounges']
+,,,,,,,,,"['coffee', 'foodtrucks', 'juicebars']"
+,,,,,,,,,['restaurants']
+,,,,,,,,,"['burgers', 'foodtrucks', 'streetvendors']"
+,,,,,,,,,"['bikerentals', 'hiking', 'tours']"
+BUCDxPtFg7xFfhGy_ik76w,34.006786,-118.3944445,$,2.0,1.0,90232,CULVER CITY,pizza-hut-culver-city-4,['pizza']
+,,,,,,,,,"['zoos', 'nonprofit']"
+,,,,,,,,,['foodstands']
+,,,,,,,,,['coffee']
+,,,,,,,,,"['cupcakes', 'customcakes']"
+,,,,,,,,,"['foodtrucks', 'icecream']"
+,,,,,,,,,"['specialtyschools', 'skate_parks']"
+Zh83pNfw_CS0cjnJ0Nuv5w,33.89644,-118.17608,$,4.0,2.5,90723,Los Angeles,dogfather-truck-los-angeles-4,"['foodtrucks', 'hotdog']"
+,,,,,,,,,"['painters', 'publicart']"
+,,,,,,,,,"['golf', 'venues', 'wedding_planning']"
+,,,,,,,,,"['theater', 'localflavor']"
+,,,,,,,,,"['streetvendors', 'tradamerican', 'lounges']"
+,,,,,,,,,"['italian', 'foodtrucks']"
+,,,,,,,,,"['tacos', 'foodstands']"
+,,,,,,,,,"['tacos', 'foodtrucks']"
+,,,,,,,,,"['indpak', 'foodtrucks', 'streetvendors']"
+,,,,,,,,,"['tacos', 'foodstands']"
+,,,,,,,,,['restaurants']
+,,,,,,,,,"['foodtrucks', 'tradamerican']"
+,,,,,,,,,"['catering', 'desserts', 'foodtrucks']"
+,,,,,,,,,"['coffee', 'foodstands']"
+,,,,,,,,,"['foodtrucks', 'halal', 'mediterranean']"
+,,,,,,,,,"['galleries', 'painters', 'museums']"
+,,,,,,,,,"['hiking', 'walkingtours', 'nonprofit']"
+,,,,,,,,,"['foodtrucks', 'caribbean']"
+p80H4LNPVe3rUB7YBjH4bg,34.21332,-118.35861,$,1.0,1.0,91352,Los Angeles,shawarma-and-falafel-palace-food-truck-los-angeles,"['foodtrucks', 'mideastern']"
+,,,,,,,,,"['aquariums', 'localfishstores', 'aquariumservices']"
+,,,,,,,,,"['foodtrucks', 'pizza']"
+,,,,,,,,,"['wedding_planning', 'bakeries']"
+,,,,,,,,,"['wedding_planning', 'desserts']"
+,,,,,,,,,"['waterdelivery', 'coffee']"
+,,,,,,,,,"['pettingzoos', 'kids_activities', 'facepainting']"
+,,,,,,,,,"['foodtrucks', 'sandwiches', 'puertorican']"

@@ -1,0 +1,680 @@
+id,latitude,longitude,price,review_count,rating,zip_code,city,alias,category
+5xFBQiB4Jcy9sI2fUHfcpg,34.021171,-118.21276,$,838.0,4.5,90023,Los Angeles,mariscos-jalisco-los-angeles-3,"['mexican', 'seafood', 'foodtrucks']"
+Elf0H4l_3qp-g_Dh63IQLw,33.9836076530163,-118.185687519908,$$,1316.0,4.5,90270,Maywood,big-als-pizzeria-maywood-3,"['pizza', 'halal', 'chicken_wings']"
+spKUIFIABLaU63Ex4PEYvQ,33.986598,-118.229803,$$,736.0,4.5,90255,Huntington Park,rays-texas-bbq-huntington-park,"['bbq', 'smokehouse', 'salad']"
+g1qqGhzvCzxek2l0DewpPQ,33.98179,-118.21985,$$,452.0,4.5,90255,Huntington Park,ninas-cafe-huntington-park-2,"['french', 'breakfast_brunch', 'sandwiches']"
+UNhsuZmtqGA5X5_3_pGYUw,34.02252,-118.21658,$,354.0,4.5,90023,Los Angeles,tacos-y-birria-la-unica-los-angeles,"['tacos', 'foodtrucks']"
+PV2Oorb3B-q9KuUOINXEDQ,33.9816589,-118.2024231,$$,290.0,4.5,90201,Bell,restaurant-mole-de-los-reyes-bell,"['mexican', 'breakfast_brunch', 'gourmet']"
+im2Dqafry4edoq2DKsAcnQ,34.02141,-118.21404,$,609.0,4.0,90023,Los Angeles,mariscos-4-vientos-los-angeles,"['mexican', 'foodstands', 'seafood']"
+Uy0H_qq1NCpc9ULe5IdIPg,33.9877931616085,-118.213132023811,$,265.0,4.5,90255,Huntington Park,taste-of-india-huntington-park,['indpak']
+OrAmsVf-5ELQu7gxoilMTQ,33.9915383018662,-118.224742852699,$,206.0,4.5,90255,Huntington Park,thirty5-degrees-huntington-park,"['cafes', 'breakfast_brunch', 'tradamerican']"
+_Gzb8oDw4QNbAVIqW9Kanw,33.9786,-118.19515,$$,1025.0,4.0,90201,Bell,la-casita-mexicana-bell,['mexican']
+dXmtaoS7aBic0rFD2F7Q-Q,33.97791,-118.18331,$,356.0,4.5,90201,Bell,gorditas-bell,['mexican']
+RYpJyi1RhScLZAYrqPMLKQ,33.978496,-118.230545,$$,576.0,4.5,90255,Huntington Park,avilas-el-ranchito-mexican-restaurant-huntington-park,['mexican']
+spFCDmXLUehiQALiXH1NqQ,33.9935221334472,-118.225381050213,$$,167.0,4.5,90255,Huntington Park,little-trattoria-25-huntington-park-2,['italian']
+B1J8NLowOuyaf-miTkx1rg,33.97883,-118.24993,$,198.0,4.0,90101,Los Angeles,pattywagon-los-angeles-2,"['burgers', 'foodtrucks']"
+HYhYc92rD7O7iIs7TmXvlg,33.9733796,-118.2098306,$,240.0,4.5,90255,Huntington Park,cruzitas-deli-and-cafe-huntington-park,"['cafes', 'delis']"
+GVt0MwAoQcuM06V_-fHkug,34.0583969,-118.1912081,$,1176.0,4.5,90063,Los Angeles,the-lobos-truck-los-angeles,"['foodtrucks', 'tradamerican', 'comfortfood']"
+PlkeN0jX-uVm1wfPdeeCyg,33.981824,-118.224245,$,157.0,4.5,90255,Huntington Park,las-molenderas-restaurant-huntington-park,['mexican']
+PKsmTE-W39qhcfM7cy8A3w,33.9899891,-118.2301951,$$,259.0,4.5,90058,Los Angeles,novacane-sports-bar-and-grill-los-angeles,"['sportsbars', 'mexican', 'cocktailbars']"
+iKn3cdBPI9o2KNAJ4OHvLQ,33.9746224,-118.2280264,$,209.0,5.0,90255,Huntington Park,the-los-angeles-banh-mi-company-huntington-park,"['vietnamese', 'sandwiches', 'coffee']"
+lnMxfF4u2UrDfw9dJE58wQ,33.97724,-118.182035,$,356.0,4.5,90201,Bell,te-amo-pizza-bell,"['pizza', 'hotdogs']"
+hJB2jzfi83qnBYvx-ryXIw,33.988776,-118.225647,$$,378.0,4.0,90255,Huntington Park,jade-siam-restaurants-huntington-park,"['thai', 'noodles']"
+HrjyZ_oVUTpjtHKBxYD_1A,34.01905,-118.19805,$$,155.0,4.5,90023,Los Angeles,mariscos-linda-los-angeles,['mexican']
+bL8wefVLL027MviC17G9TA,34.0264617,-118.230446,$,162.0,4.5,90021,Los Angeles,the-porter-junction-cafe-los-angeles,"['breakfast_brunch', 'coffee', 'juicebars']"
+IAzVa3gaOGeIKttZqphD2g,33.9894829,-118.262014,$,683.0,4.0,90011,Los Angeles,teddys-red-tacos-los-angeles,"['foodtrucks', 'tacos']"
+gxxrdaT2_7Jz3DH4WQiZmA,34.0020840615034,-118.230310901999,$,64.0,4.5,90058,Vernon,mariscos-el-hermano-vernon,"['streetvendors', 'foodtrucks']"
+2OTBRblmsfRGyPyFdOiY2g,34.007817,-118.2198791,$$,87.0,4.0,90058,Vernon,zs-place-vernon,['tradamerican']
+U6ax3p65i8GmCtcagEkOsQ,33.9879812,-118.1925218,$,70.0,4.5,90270,Maywood,lucero-bakery-maywood,"['bakeries', 'customcakes']"
+6cKGU1MYWYP5aM66_nL3Vg,34.009073,-118.219472,$,113.0,4.0,90058,Vernon,rae-g-cafe-vernon,"['coffee', 'breakfast_brunch', 'cafes']"
+MotOCPI6JR9Q-ZaCIWKK9A,34.0095132,-118.2195837,$$,68.0,4.5,90058,Los Angeles,whats-sub-los-angeles,"['salad', 'sandwiches', 'poke']"
+r_o3jhOoXSp33fvb8cXJ5g,34.01821,-118.20681,$,153.0,4.0,90023,Los Angeles,mariscos-4-vientos-los-angeles-8,"['seafood', 'mexican', 'beerbar']"
+qWJW3S3RUXyw2RVmGuZOAw,33.9882661666591,-118.224768614841,$,94.0,4.5,90255,Huntington Park,twinkle-brown-sugar-huntington-park-2,"['coffee', 'juicebars']"
+_vVQjfThhJUZz7wdh_GOyw,33.9885128590499,-118.199956067472,$$,39.0,5.0,90270,Maywood,rajas-con-crema-maywood,['newmexican']
+5LVFlQIOcX9T26NeIKdPUA,34.019054,-118.201236,$,99.0,4.0,90023,Los Angeles,los-originales-tacos-arabes-de-puebla-los-angeles,"['mexican', 'hotdogs']"
+4fjCNwFoUFZqBqwBCbRoXg,34.014241,-118.2305961,$$,236.0,4.0,90058,Vernon,trattoria-25-restaurant-vernon,"['italian', 'venues']"
+Sv_BwToAp0Hc4X-URskYIw,33.979548,-118.197578,$,136.0,4.0,90201,Bell,el-pollero-95-bell,"['mexican', 'seafood']"
+1daEnLjQwZoIFhUXP9r3Tw,33.9785846902465,-118.224875176929,$,257.0,4.0,90255,Huntington Park,tierra-mia-coffee-huntington-park,"['coffee', 'latin']"
+lwBbzIzX1q7MavJOR7Tzyg,33.97908,-118.25009,$,1580.0,3.5,90001,Los Angeles,the-grilled-cheese-truck-los-angeles,"['foodtrucks', 'tradamerican']"
+_0yhEPWiDAJQs_rb4MpwRw,33.9883203,-118.1958934,$,113.0,4.0,90270,Maywood,little-mexico-chiquito-maywood,['mexican']
+z2ZfkpMKkRHusTVVDn4BYA,33.9961999182784,-118.197736219002,$,40.0,4.5,90058,Vernon,tacos-la-korita-vernon,"['foodtrucks', 'mexican']"
+PyivZWrHyYv4JQd9qGGrjw,33.9788284301758,-118.249931335449,$$,180.0,4.5,90001,Los Angeles,tokyo-doggie-style-los-angeles-6,"['foodtrucks', 'japanese', 'hotdog']"
+FThWfcPyTtR84LeZj3Qj1w,34.0278451315218,-118.232479611501,$$,83.0,5.0,90021,Los Angeles,stevens-deli-los-angeles-2,"['burgers', 'vegetarian', 'sandwiches']"
+cRopGTEtNi0MkfJ3IIKtoQ,33.987996,-118.2131827,$,40.0,4.5,90255,Huntington Park,asian-table-huntington-park,"['ramen', 'asianfusion']"
+b9bwa_CECZdAqqig7eSuDw,33.9787582,-118.1927202,$$,92.0,4.5,90201,Bell,riccos-pizza-bell,['pizza']
+eypZYK6k9vDN6KwgNOvvyA,33.9814275,-118.226377,$,48.0,5.0,90255,Huntington Park,los-alpes-ice-cream-parlor-huntington-park,['icecream']
+0bUrlp_srgIl5oP0zZZpug,34.0095132,-118.2195837,$$,26.0,4.5,90058,Vernon,whats-sub-and-poke-vernon,"['poke', 'asianfusion', 'sandwiches']"
+JygF0NubMn4XU_1BiD01xQ,33.9870194939862,-118.224874734879,$,184.0,4.0,90255,Huntington Park,in-n-out-burger-huntington-park-2,"['burgers', 'hotdogs']"
+JbODievonk51C8_W5F0zmQ,33.9815356,-118.2260583,$$,185.0,4.0,90255,Huntington Park,ariya-thai-kitchen-huntington-park,['thai']
+LtJRhQJfGKrSzVmZ5hDoBg,33.9914785954827,-118.184265183685,$,431.0,3.0,90270,Maywood,tacos-los-desvelados-maywood,['mexican']
+0CCBFL74LoxPLy-VH2HI8Q,34.02173,-118.23266,$$,159.0,4.0,90021,Los Angeles,the-blue-star-los-angeles,"['newamerican', 'breakfast_brunch', 'salad']"
+6rCY1MjoIvTiv2cD5M96Yw,34.0095276,-118.2195839,$$,62.0,4.0,90058,Los Angeles,the-green-olive-los-angeles-3,['mediterranean']
+ZbBCuc6xB6UgA3i1YxjT7Q,33.98834,-118.18571,$,366.0,3.0,90270,Maywood,king-taco-maywood,['mexican']
+JbzFqP-7acIFd5MGVrDQvQ,34.0266375,-118.2190822,$$,116.0,4.0,90023,Los Angeles,samurai-sushi-and-teriyaki-los-angeles-5,"['sushi', 'japanese', 'asianfusion']"
+nMEh6boQ7v_q03qcFZZ79Q,34.0569114685059,-118.243949890137,$,624.0,3.5,90012,Los Angeles,white-rabbit-truck-los-angeles-4,"['filipino', 'foodtrucks', 'catering']"
+C-4pBx861b7pAmliTKIBQA,34.1598963,-118.2666852,$$,403.0,4.5,91202,Glendale,roobinas-cake-glendale,"['bakeries', 'desserts', 'customcakes']"
+EkEtBXAZJpfpMp2iQGiVAA,34.0264167,-118.2016247,$,166.0,4.0,90023,Los Angeles,la-estrella-restaurant-los-angeles-2,['mexican']
+y86XqxYxzGdhqan4rtUMQA,33.9832877375256,-118.185955510334,$,77.0,4.5,90270,Maywood,paleteria-limon-maywood-2,"['icecream', 'desserts']"
+,,,,,,,,,"['poutineries', 'foodtrucks']"
+PP-BN8-8j35zScu9Hfxmiw,33.9873046875,-118.184196472168,$,51.0,4.5,90270,Maywood,the-redwood-room-maywood-2,['divebars']
+_-c9BiP_P6jASrqXtDTftA,33.980243,-118.210273,$,97.0,4.0,90255,Huntington Park,yayas-burgers-no-2-huntington-park,['mexican']
+S9atsN7yo_pu8eJWkIlVxw,34.02629,-118.21921,$,142.0,4.0,90023,Los Angeles,thai-silk-express-los-angeles,['thai']
+56uyPTemfFwfHADkrJmagA,34.0166931152344,-118.209434509277,$$,30.0,4.5,90023,Los Angeles,lorena-kabob-corner-los-angeles-3,"['mediterranean', 'greek']"
+,,,,,,,,,['parks']
+_MpYpq7c-YyTfs0vj351OQ,34.0294851,-118.22972,$$,69.0,4.5,90021,Los Angeles,rvcc-intersect-los-angeles,['coffee']
+n3IKF3Eb8TXZeElbJU67UA,34.0185503,-118.192465,$,132.0,3.5,90023,Los Angeles,tacos-super-gallito-los-angeles-6,['tacos']
+vrUgDkt71DugSpsYWmDDFw,33.97527,-118.1869,$$,757.0,3.0,90201,Bell,culichi-town-bell-bell,"['sushi', 'mexican', 'seafood']"
+yle9paPfR7meCqonKtBw9w,33.988899,-118.219047,$,131.0,3.5,90255,Huntington Park,tams-burgers-no-27-huntington-park,['burgers']
+4ak0aDauUemwuCREnykTYQ,33.9843597412109,-118.18635559082,$$,354.0,3.0,90270,Maywood,krazy-cup-maywood,"['candy', 'icecream']"
+NKnhXJm4NOCyNJP_2ztzkg,33.977306,-118.183349,$,142.0,4.0,90201,Bell,jims-burgers-bell,['burgers']
+zmNWy6B9EcY5yscpee56oQ,34.0186999460514,-118.206979142039,$,34.0,4.5,90023,Los Angeles,mariscos-4-vientos-los-angeles-7,"['seafood', 'mexican']"
+LjEKG-2uUSGdzwOEarR5Kw,34.03043,-118.19886,$$,217.0,3.5,90023,Los Angeles,king-cole-pizza-los-angeles,"['pizza', 'italian']"
+qYwjaent-Q8WcH--E4ob8Q,33.9844501,-118.2253449,$,194.0,3.5,90255,Huntington Park,dinos-chicken-and-burgers-huntington-park,"['mexican', 'burgers', 'chicken_wings']"
+HgO37Kca69Pm1C_K5slQ_w,34.0187096355305,-118.199443034828,$,35.0,4.5,90023,Los Angeles,tacos-los-gueros-los-angeles,"['mexican', 'foodtrucks']"
+n0_7JPPaSx7bkOO52LrOng,33.9815051,-118.221135,$,66.0,4.0,90255,Huntington Park,apaches-carnes-al-carbon-huntington-park,['mexican']
+lleW6GpfElpW6OrftSkzJQ,34.0254872668937,-118.196503417203,$,187.0,3.5,90023,Los Angeles,cemitas-la-china-poblana-los-angeles,['mexican']
+jljq3PO3l-0zEdCDirweQA,34.00455,-118.26009,$$,48.0,5.0,90011,Los Angeles,stopbye-café-los-angeles-3,"['asianfusion', 'foodtrucks', 'indonesian']"
+DxojnjveCx1-ap4PgnOH7w,33.9878685400376,-118.190175824876,$,46.0,4.0,90270,Maywood,el-indio-azteca-maywood,['mexican']
+eqOMmzNv3RA8qig4uUB2Mg,33.9866559,-118.2301851,$,159.0,3.5,90255,Huntington Park,tortas-ahogadas-guadalajara-huntington-park,['mexican']
+,,,,,,,,,"['beerbar', 'breweries']"
+P05ygzW1owjj5ku_JX8ZaQ,33.9767417907715,-118.226165771484,$,47.0,4.5,90255,Huntington Park,cafeteria-america-huntington-park,['korean']
+MUcA8HZNolgOlgMr-1iRQg,33.9810712,-118.2301651,$,29.0,5.0,90255,Huntington Park,amigos-donuts-huntington-park-3,"['donuts', 'icecream', 'sandwiches']"
+Drk3ZmZQi_7FQRWBIZPZiw,33.9818458557129,-118.221076965332,$$,128.0,3.5,90255,Huntington Park,marys-cake-shop-huntington-park,['bakeries']
+b3aXPJympqG6UCEfqwtOPQ,34.018925,-118.183711,$,46.0,4.5,90006,Los Angeles,tacos-el-korita-los-angeles,"['foodtrucks', 'mexican']"
+lGIWx5YbQOcTbhRMKExeKg,34.0237951,-118.1821852,$,35.0,4.5,90023,Los Angeles,la-canasta-tortilleria-los-angeles,['mexican']
+pKGSYYij_CO-LWowNbafIQ,34.00566,-118.25849,$,46.0,5.0,90011,Los Angeles,tumaca-truck-los-angeles,"['foodtrucks', 'sandwiches', 'catering']"
+biN_dspK6MG2GWkycRZi0w,34.0142409,-118.2200618,$$,81.0,3.5,90058,Vernon,joe-ks-deli-vernon,"['tradamerican', 'delis', 'venues']"
+dvRoSS5y3-zuNsnQdRf49w,34.0387725830078,-118.26114654541,$$,123.0,4.5,90015,Los Angeles,postcards-central-american-soul-food-los-angeles,"['foodtrucks', 'soulfood']"
+vA53t_N31ykuMlF7Wcjmpw,34.01864,-118.17971,$,295.0,3.0,90023,Los Angeles,king-taco-los-angeles-5,['mexican']
+ZJyrm7HkU0_F9W_DfqnRbA,34.0236705,-118.2180793,$$,66.0,4.0,90023,Los Angeles,bison-burger-los-angeles,"['foodtrucks', 'burgers', 'sandwiches']"
+6lL15v2PGXoAl2RBTdbDUw,34.0177066,-118.1997047,$,22.0,4.5,90023,Los Angeles,el-ruso-los-angeles,"['tacos', 'breakfast_brunch']"
+tfrRl3r_VDoNPCOORiaE_A,33.9893249,-118.2196099,$,136.0,3.0,90255,Huntington Park,porto-village-pizza-huntington-park,"['pizza', 'desserts', 'salad']"
+bIiwxicFQmbPsfanmnokhw,33.9911996453473,-118.184544694443,$$,72.0,4.0,90270,Maywood,mariscos-el-chavalon-maywood,"['mexican', 'seafood']"
+PlFqlLis5Z_V7Kd6wvalpQ,33.97718,-118.22281,$$,67.0,4.0,90255,Huntington Park,el-granero-restaurant-huntington-park,['mexican']
+_o12I4SdwIlxw61yQqVNSQ,33.9926414489746,-118.183349609375,$,44.0,4.0,90270,Maywood,douglas-drive-in-maywood,"['burgers', 'hotdogs']"
+-z4-5PrUvtYF9m1k0mp8YQ,33.9817649,-118.2248716,$,90.0,4.0,90255,Huntington Park,tasty-thai-huntington-park,['thai']
+91AKskGqoBa8e_uHjFdTaQ,33.9734679,-118.215621,$$,70.0,4.0,90255,Huntington Park,casa-luz-huntington-park-5,['mexican']
+ZDBUSVK5eiozv2axmCVjnA,33.996191,-118.222948,$$,12.0,5.0,90058,Vernon,gavina-gourmet-coffee-vernon,"['coffee', 'wholesale_stores']"
+Ud0s3Ms7eVLVidoedb0Wxg,34.1211685401886,-118.205555453897,$,116.0,5.0,90042,Los Angeles,tacos-la-tehuanita-los-angeles,"['tacos', 'foodtrucks', 'vegan']"
+Qh-R8EGDLQZFwwdApN0Kvw,34.02911,-118.28306,$$,74.0,4.5,90007,Los Angeles,the-fix-on-wheels-los-angeles,"['foodtrucks', 'burgers']"
+mEDWwyKMz9e4QJ02T3xB0w,33.98810333,-118.21310333,$,47.0,4.0,90255,Huntington Park,waba-grill-huntington-park,"['hotdogs', 'asianfusion']"
+sYZ-QjJ0BI1qV1aTRbXUJQ,33.95804,-118.3898,$,199.0,4.5,90045,Los Angeles,cafe-vietnam-truck-los-angeles-30,"['vietnamese', 'sandwiches', 'foodtrucks']"
+WdkvucAHW99Yb225d6p_dg,33.9877305,-118.2129154,$,50.0,3.5,90255,Huntington Park,panda-garden-huntington-park,['chinese']
+L5Yanav8if-cRyXtSd-YoA,34.00926,-118.21915,$,98.0,3.0,90058,Vernon,salad-farm-vernon-3,"['salad', 'hotdogs', 'sandwiches']"
+DFAtaOjN8SjNr2uy0zoKgw,34.0391055850598,-118.169239805088,$,59.0,4.5,90022,Los Angeles,east-los-tacos-los-angeles,"['foodtrucks', 'tacos']"
+3QRRptCEfjUtnDnZ4jTzMA,34.0039082,-118.2818791,$,132.0,4.0,90037,Los Angeles,tacos-los-carnalillos-taco-truck-los-angeles-2,"['mexican', 'foodtrucks']"
+UXCbanlTDr3548fpDpTlGg,33.9878582226173,-118.1851378943,$,19.0,5.0,90270,Maywood,delicias-la-michoacana-maywood,['icecream']
+x0cEWLnL0iQWe6lvTwjSAQ,33.97543,-118.22472,$,90.0,4.0,90255,Huntington Park,casa-de-cafe-huntington-park-2,['cafes']
+TFj6wpybgQdAgoGPl6rKlg,33.99491,-118.22566,$,31.0,4.0,90255,Huntington Park,golden-burger-huntington-park,"['burgers', 'asianfusion']"
+CWUQ8sOmrapZ7Yw7BrMRQw,33.9805497999999,-118.2300473,$$,59.0,4.0,90255,Huntington Park,guajillo-restaurant-huntington-park,['mexican']
+4_AMfMMXspP17EiP2CZKAg,33.98821,-118.19312,$,36.0,4.0,90270,Maywood,pronto-pizza-maywood,['pizza']
+FWBeF6g78wwphRkG64ngvA,34.08841,-118.37783,$$,693.0,4.0,90069,Los Angeles,babys-badass-burgers-los-angeles,"['burgers', 'foodtrucks']"
+FAHQHUkBXcCVBtXHgv1sVQ,33.9814437831478,-118.219456,$,17.0,5.0,90255,Huntington Park,moyas-bakery-huntington-park,['bakeries']
+FMC0oEiVDOpZLg8nmfKn-Q,33.983341217041,-118.186508178711,$,39.0,4.5,90270,Maywood,mariscos-bahia-restaurant-maywood-4,"['seafood', 'tacos']"
+vq3ip2wmCRNVCC9-5-NSXg,34.0280266,-118.2011863,$,36.0,4.5,90023,Los Angeles,super-pollos-rostizados-los-angeles,['mexican']
+We5aj9pZlhtLHbGmACDKXg,33.989074,-118.227431,$$,371.0,2.5,90255,Huntington Park,norms-restaurant-huntington-park,"['tradamerican', 'diners', 'breakfast_brunch']"
+xuphJLtRPNT9vysFFC0Myg,33.9730588654201,-118.209768143432,$$,114.0,3.5,90255,Huntington Park,blue-fish-sushi-and-teriyaki-huntington-park,"['sushi', 'japanese']"
+D60IHYnEJv7NaEZOMw46MA,33.9797402,-118.1869049,$,38.0,4.5,90201,Bell,di-pietro-pizzeria-bell,"['pizza', 'italian']"
+YfRKWRl0rUgSUbuTHAhIcg,33.98635717,-118.1868835,$,30.0,4.5,90270,Maywood,waba-grill-maywood,"['hotdogs', 'asianfusion']"
+k72KLnH0oaEi-r0kiMeFLQ,34.02672,-118.19854,$,17.0,5.0,90023,Los Angeles,cemitas-tepeaca-los-angeles-2,"['mexican', 'foodstands']"
+OwZ_K4c0HHGSLTrNkm335g,33.98266,-118.22474,$,27.0,4.5,90255,Huntington Park,bionicos-marisol-huntington-park,['mexican']
+HtCIf9pWU4HlCp4ktf6ThQ,34.0240649,-118.18334,$,51.0,4.0,90023,Los Angeles,tacos-virginia-los-angeles,['mexican']
+wt2KkurQF6nGv-KPdYjYmA,33.9005754171619,-118.326611867643,$,168.0,4.5,90249,Gardena,dotys-tacos-gardena,"['mexican', 'foodtrucks']"
+ubVYIy62ZEnFGVasmY6Pcg,33.9872912,-118.1845955,$,21.0,4.5,90270,Maywood,marys-bakery-maywood,['bakeries']
+1ON2XXttBB7k5Z5LvZrVlw,33.8893305,-118.2074657,$$,186.0,4.5,90221,Compton,billionaire-burger-boyz-compton,"['foodtrucks', 'burgers']"
+lGUShSOZqaLtnhpecJMm1w,33.987936,-118.185702,$,63.0,3.5,90270,Maywood,ohana-hawaiian-bbq-maywood,['hawaiian']
+Nrf9Ju_TG6hVwTutpJX4gw,34.02623,-118.22954,$,26.0,4.5,90021,Los Angeles,tacos-tamix-los-angeles-5,"['mexican', 'foodstands']"
+3RxuPKZYdihrrmd0DmHlhw,33.983819,-118.212769,$$,74.0,3.5,90255,Huntington Park,carrion-bakery-and-pastery-shop-huntington-park,['bakeries']
+A8u1P4p29eYwtVYbjQuRkw,34.05814,-118.24666,$$,217.0,3.5,90012,Los Angeles,brewwings-los-angeles,"['chicken_wings', 'catering', 'foodtrucks']"
+nz9KqsFgohueQEY_fFdKYg,33.99802,-118.22437,$$,44.0,3.5,90058,Vernon,birrieria-gonzalez-vernon-2,['mexican']
+7plJ-DrATdHWzieJ7pW0vg,33.97445,-118.22335,$$,63.0,4.0,90255,Huntington Park,hot-mariscos-huntington-park-3,"['seafood', 'cajun']"
+nVztiKf81L6dERdOlkuKog,33.9949618299737,-118.229855580826,$,27.0,4.0,90058,Vernon,bens-general-store-and-deli-vernon-8,"['delis', 'convenience', 'beer_and_wine']"
+2n1-Q7P7mZLe1fbBbjd3NA,33.97494,-118.22933,$,130.0,3.5,90255,Huntington Park,tacos-gavilan-huntington-park,['mexican']
+_QPgq0sWoD5mBMaX-i8Ntg,33.989193,-118.203216,$,74.0,3.0,90270,Maywood,primo-burgers-maywood,['burgers']
+KWKkQHHwVBPS_4abj-DaYw,34.0607156,-118.3449314,$,101.0,4.5,90017,Los Angeles,huitlacoche-los-angeles-18,"['foodtrucks', 'mexican']"
+dPgVG1nGSUONC0IViu5Phg,34.08928,-118.16793,$,71.0,4.5,90032,Los Angeles,mariscos-los-lechugas-los-angeles,"['seafood', 'foodtrucks', 'cocktailbars']"
+VOfIHXsdPmzIf4JKT6sxXA,34.02865,-118.19251,$,52.0,4.0,90063,Los Angeles,tacos-el-veneno-los-angeles,['tacos']
+HnKXIW-HRWRnpcR6qJj7Ow,34.0192527770996,-118.198776245117,$,26.0,4.0,90023,Los Angeles,lupes-lunch-room-los-angeles,['mexican']
+zlQP7EpFMjEtw-kvup6QGg,33.98893,-118.21977,$,79.0,3.0,90255,Huntington Park,andys-huntington-park-2,"['mexican', 'burgers', 'tradamerican']"
+VzDjEycs-rSXcCfR9gmqqA,33.9782196,-118.1889871,$,62.0,4.0,90201,Bell,el-nuevo-mundo-market-and-cafe-bell-3,"['grocery', 'cuban', 'cafes']"
+U26db4HG0wWw1sT9mQhwoQ,33.9817352,-118.2254242,$,82.0,3.5,90255,Huntington Park,la-monarca-bakery-huntington-park-2,"['bakeries', 'coffee', 'desserts']"
+Wj6s8MfFLgMqNs1Gs5fh0g,33.9792823791504,-118.225189208984,$,41.0,4.0,90255,Huntington Park,corner-kitchen-huntington-park,"['coffee', 'chinese', 'icecream']"
+HVg0ZTcPClwrXLQreEKcsw,33.981206,-118.186857,$,88.0,3.5,90201,Bell,los-pollos-bell,['mexican']
+89Vn_v0nKrsehjki-VUWtQ,34.0240449,-118.187232,$,60.0,4.0,90023,Los Angeles,jims-burgers-los-angeles,"['burgers', 'breakfast_brunch', 'mexican']"
+VtXX32KqO_VEzEzNcULwgw,33.9787727,-118.1928874,$$,31.0,4.0,90201,Bell,la-costa-restaurant-bell,"['mexican', 'seafood']"
+Te302ycaEsmrGS8fmUEE4A,33.99221,-118.1836,$$,37.0,4.0,90270,Maywood,guatemalteca-bakery-and-restaurant-maywood,"['bakeries', 'latin']"
+fPpAP6LJ599svpS2g5CBMA,33.98736,-118.18476,$,50.0,3.5,90270,Maywood,taco-boy-maywood,['mexican']
+2bC64B5-yUBo9n0taX64Jw,34.0217918383831,-118.204398076686,$,22.0,4.0,90029,Los Angeles,restaurante-el-gordo-los-angeles-2,"['mexican', 'coffee', 'breakfast_brunch']"
+abv-O81T4lmr5aRd9lNmjw,34.049423190418,-118.239630887237,$,32.0,4.5,90001,Los Angeles,merci-clement-truck-los-angeles,"['foodtrucks', 'gelato']"
+l9g8tt3NXCN3vJFlR_MV7g,34.0480743054621,-118.351336928125,$,179.0,4.0,90019,Los Angeles,ta-bom-truck-los-angeles-2,"['brazilian', 'foodtrucks']"
+qO3jSn18vzfOyzieqFpYyg,34.0309258,-118.2380432,$,46.0,4.0,90021,Los Angeles,sus-arepas-los-angeles,"['foodtrucks', 'latin', 'sandwiches']"
+WNta0SZc6Myloty0YBB4Bg,33.988943,-118.213779,$,74.0,3.0,90255,Huntington Park,starbucks-huntington-park,['coffee']
+UqZ75r7yE3hfX1-MQdsEMw,33.9917,-118.184767,$$,65.0,3.5,90270,Maywood,las-trancas-maywood-3,"['mexican', 'seafood']"
+4EDjlSBlthypr9X5JNkLVg,33.973743,-118.217804,$,29.0,4.5,90255,Huntington Park,los-angelitos-bakery-huntington-park,"['bakeries', 'cupcakes', 'customcakes']"
+,,,,,,,,,"['museums', 'arttours', 'kids_activities']"
+YLzM7Bw1PzFDz1y01fODMA,33.9799154893203,-118.206160627306,$,47.0,3.5,90255,Huntington Park,las-coronas-grill-huntington-park,['mexican']
+flkb-qZ8cAt4ZWfZvGjYig,33.97882,-118.23054,$,49.0,4.0,90255,Huntington Park,johns-drive-in-hamburgers-huntington-park,['burgers']
+zL8oJ5LlBrJJKMnflfxkrw,33.9789699,-118.18715,$,65.0,4.0,90201,Bell,taqueria-jalisco-bell-2,['mexican']
+9SuZd_KL61JAnnpjU7mARQ,33.9876444,-118.1905192,$,23.0,4.0,90270,Maywood,fiesta-del-mar-restaurant-maywood-2,"['mexican', 'seafood', 'breakfast_brunch']"
+T2bHsjeMaasHDX5ObgFmsQ,34.0076446,-118.2198714,$$,39.0,3.0,90058,Vernon,greenwich-village-cafe-vernon,['italian']
+g1-YZS21tChN1uIS0IjvuA,34.0269908779538,-118.201303161344,$,39.0,4.0,90023,Boyle Heights,lorena-street-churros-boyle-heights,['streetvendors']
+,,,,,,,,,['mexican']
+TnYe0dkLk9-HvwiNvZN8VQ,33.9878158569336,-118.19482421875,$,82.0,3.0,90270,Maywood,chriss-hamburgers-maywood,"['burgers', 'hotdogs']"
+JLLpPrZLyKfte5QFAz47Iw,34.02686333,-118.21947167,$,49.0,4.0,90023,Los Angeles,the-original-shrimp-place-los-angeles,['seafood']
+i4EqaeoL_j0ca0IpJYQRmQ,33.98407,-118.18567,$,26.0,4.0,90270,Maywood,birreria-estilo-la-barca-jalisco-maywood,['mexican']
+imNa61gwcBWMcsa-q5qWOA,34.0205955505371,-118.192573547363,$,20.0,4.5,90023,Los Angeles,tacos-los-de-la-indiana-st-los-angeles,"['streetvendors', 'mexican']"
+,,,,,,,,,"['groomer', 'pet_sitting', 'dog_parks']"
+PpIarPzYC-d4hYmtxTAvmQ,33.9741693,-118.2271238,$$,80.0,3.5,90255,Huntington Park,shakeys-pizza-parlor-huntington-park-3,"['pizza', 'buffets']"
+ST5Tywv-cVpPDpAd12eKmg,34.09996,-118.32698,$$,91.0,4.5,90028,Los Angeles,kings-wings-los-angeles-2,"['foodtrucks', 'chicken_wings']"
+B0JI15jZEME2ktkEeLWyyg,33.9743842661583,-118.224911153495,$,165.0,3.0,90255,Huntington Park,el-gallo-giro-huntington-park-2,['mexican']
+9IQWc55hqrOrQ-rPF-UJgQ,33.9752,-118.22561,$$,136.0,3.0,90255,Huntington Park,el-chamizal-huntington-park,['mexican']
+321X8A--y2ce41dPCfP8fQ,33.9795507233967,-118.225346803665,$,44.0,3.5,90255,Huntington Park,tortas-ahogadas-el-rey-huntington-park,['mexican']
+UkYmiRjft5Np6ByflqR48g,34.0193297,-118.1999938,$,22.0,4.0,90023,Los Angeles,tio-pepe-los-angeles,['mexican']
+Ox4-1_u4v4HiZzcxa3o4XA,33.974446,-118.223348,$,28.0,4.5,90255,Huntington Park,los-pochos-huntington-park,"['mexican', 'salvadoran', 'newamerican']"
+b5oc2ewFNaoDBKroN0Tijw,33.9766367,-118.2304249,$$,70.0,3.5,90255,Huntington Park,mariscos-las-islas-marias-al-estilo-nayarit-huntington-park,['seafood']
+uVVjfDCDOMg1ve76k3W3gA,34.0526698567151,-118.318055927413,$,47.0,4.5,90019,Los Angeles,smaffee-cafe-los-angeles-3,"['electronicsrepair', 'mobilephonerepair', 'coffee']"
+d1lnHc_rc4-4ShLI8AmZag,34.023757367419,-118.182556536844,$,22.0,4.5,90023,Los Angeles,tacos-oaxaca-los-angeles,"['mexican', 'foodtrucks']"
+Bgs-_j_3ZJrtRA3f6w1_-Q,34.0190849304199,-118.188972473145,$,26.0,4.0,90023,Los Angeles,antojitos-df-los-angeles,['mexican']
+Sq65_WmoZbKRuVMkhDuVSw,33.977825,-118.187507,$$,45.0,3.5,90201,Bell,guadalajara-inn-no-2-bell,"['mexican', 'salad', 'steak']"
+peyjjqMr0B8K-fEFNj5Dyg,34.0187127460382,-118.187078831175,$,18.0,4.5,90023,Los Angeles,la-palapa-sinaloense-los-angeles,['seafood']
+RfcsRI1TMZ74QMEL-TfSGw,34.0242,-118.19358,$$,22.0,4.0,90023,Los Angeles,boca-del-rio-los-angeles-5,['mexican']
+,,,,,,,,,['popuprestaurants']
+PnpyTOoB_e49BWiNiIERyA,33.9737624,-118.2222579,$,91.0,3.5,90255,Huntington Park,tommys-original-world-famous-hamburgers-huntington-park,"['burgers', 'breakfast_brunch', 'hotdog']"
+,,,,,,,,,['tacos']
+je1VQSkG1AUNIwHvv51zWQ,33.978664,-118.187786,$,47.0,3.5,90201,Bell,ramen-table-bell-2,"['ramen', 'asianfusion']"
+YQcgqKUZS94UD6k9ks02KA,33.9789048506982,-118.195699207909,$,27.0,4.0,90201,Bell,jims-burgers-bell-3,['burgers']
+Zv6pQP12TsaqfQfLBHhOiQ,34.0928916931152,-118.360679626465,$,56.0,4.5,90046,Los Angeles,happy-ice-los-angeles,"['foodtrucks', 'shavedice', 'icecream']"
+WiTMRukKmLARoEoKdrV6Qg,34.1463062227897,-118.425396788406,$$,296.0,4.0,91423,Los Angeles,okamoto-kitchen-los-angeles-2,"['foodtrucks', 'japanese', 'catering']"
+khBy0Cm4fDcAn0VunKgOjw,33.974676,-118.224763,$,70.0,3.5,90255,Huntington Park,la-michoacana-plus-ice-cream-parlor-huntington-park,"['icecream', 'desserts', 'juicebars']"
+FfFQm3rhgo3_fYjU1u8b6w,34.0403442382813,-118.143180847168,$$,30.0,4.5,91754,Monterey Park,tiffanys-catering-monterey-park-4,"['bakeries', 'catering']"
+CL50Xjsw93oEKofa_JWxmQ,34.024741,-118.2201906,$,159.0,2.5,90023,Los Angeles,starbucks-los-angeles-298,['coffee']
+ur39kGOmI7jH7dB0nnlIug,34.03367,-118.26145,$$,37.0,4.5,90015,Los Angeles,the-holy-grill-770-los-angeles,"['foodtrucks', 'kosher', 'mediterranean']"
+ga1GBiOnCTgRAYwx1j3dyQ,34.151939,-118.361105,$,120.0,4.5,91602,Los Angeles,tacos-palacios-los-angeles-4,"['tacos', 'foodtrucks']"
+qu8yFETeo4J8fMbf_7XV_Q,34.03983,-118.26855,$,29.0,4.5,90015,Los Angeles,urban-espresso-los-angeles-6,"['foodtrucks', 'coffee', 'breakfast_brunch']"
+jHNQ9lEP5XKmdvxmH7BsuA,34.03007,-118.20607,$$$$,12.0,5.0,90023,Los Angeles,tacos-el-morro-los-angeles,['tacos']
+G9YJ9uVTzn1YmJpTFs6_Sw,33.9881806,-118.2250751,$,22.0,4.0,90255,Huntington Park,tokyo-bowl-huntington-park,['japanese']
+HuFun3RDBH3qaLnNx5_Png,33.9764206098834,-118.230533562129,$,71.0,3.5,90255,Huntington Park,alberts-mexican-food-huntington-park,['mexican']
+EMigUD_PUAsuRlm2Cc5fUA,33.9755542,-118.1870151,$$,231.0,4.0,90201,Bell,tacos-and-mezcal-bell,"['cocktailbars', 'tacos']"
+,,,,,,,,,"['foodtrucks', 'african']"
+GbZiisv1M6UyaiIGg1_P4g,34.023609161377,-118.188613891602,$$,36.0,3.5,90023,Los Angeles,el-7-mares-restaurant-los-angeles,['mexican']
+UoHjnUE7hX_65T7e0Jwx5A,33.9893449,-118.230047,$$,104.0,2.5,90255,Huntington Park,honduras-kitchen-huntington-park-2,"['latin', 'honduran']"
+vc7anOhyHC_y8nJuCfx67g,34.0209628442408,-118.220447170418,$,12.0,4.5,90023,Los Angeles,tacos-el-escondido-los-angeles,['mexican']
+l9f5e0NEDY6mfoQsT-xtoQ,33.9814951,-118.2274269,$$,35.0,3.5,90255,Huntington Park,cojutepeque-restaurant-huntington-park,['latin']
+7lhZv_79QeSLdxKFHHhckQ,34.05513,-118.38404,$$,87.0,4.0,90035,Los Angeles,the-rooster-los-angeles-3,"['foodtrucks', 'breakfast_brunch']"
+WVssijviafp2okIWdBkrDQ,33.97998,-118.20787,$$,17.0,4.0,90255,Huntington Park,mexico-86-huntington-park,['mexican']
+3v9q3catYMbJFLckwTq4Uw,33.991317,-118.224769,$,31.0,3.5,90255,Huntington Park,toms-express-restaurant-huntington-park,"['burgers', 'mexican', 'breakfast_brunch']"
+F9ykPtjdPzhHvo9JoVjb4Q,33.9745951,-118.2332399,$$,96.0,3.0,90255,Walnut Park,wingstop-walnut-park,['chicken_wings']
+v_LHhSdYdCUe7-uC7_5KTw,33.973049,-118.224937,$,40.0,3.5,90255,Walnut Park,bobos-hamburgers-walnut-park-2,"['burgers', 'breakfast_brunch']"
+LDeQ33Opcm1wAFg8XJHYEA,33.9873884,-118.224671,$,64.0,4.5,90255,Huntington Park,iceland-huntington-park,"['shavedice', 'bubbletea', 'juicebars']"
+GJ9hPHZSTWofW8gBIU3u_Q,34.0189,-118.18373,$,13.0,4.5,90023,Los Angeles,el-manglar-los-angeles,['mexican']
+,,,,,,,,,"['foodtrucks', 'vegan']"
+qMKFJ_bydDLo5kTuTfIYsA,33.98899,-118.22653,$,45.0,3.0,90255,Huntington Park,huli-huli-hawaiian-grill-huntington-park,['hawaiian']
+cHSZUcXHJrC4GBPY1C8dSw,33.9804125,-118.2253349,$,13.0,4.5,90255,Huntington Park,rincon-del-ceviche-acapulco-huntington-park-2,"['seafood', 'mexican']"
+T5Qv6Xsb0LT7s48dnO3iKA,34.05349,-118.24532,$$,46.0,4.0,,Los Angeles,achara-food-truck-los-angeles,"['foodtrucks', 'filipino', 'bbq']"
+VSpezPM3r7GykITuTIpUYg,34.0171451,-118.2197601,$$,27.0,3.5,90023,Los Angeles,el-borrego-de-oro-los-angeles-3,"['mexican', 'coffee', 'juicebars']"
+S0x72gw_3ukfT0526HSdog,33.9861118842228,-118.18688994248,$$,83.0,2.5,90270,Maywood,las-islas-marias-maywood,"['seafood', 'mexican']"
+zCB16NUvTQJkxyZzXmmPFw,34.0264247,-118.199104,$,9.0,5.0,90023,Boyle Heights,yogurtland-boyle-heights-boyle-heights,"['desserts', 'icecream']"
+Mlfpyd0xqtEvYQ4TlIwZ8A,34.0234298706055,-118.219627380371,$$,69.0,3.0,90023,Los Angeles,el-tejado-los-angeles,['mexican']
+vVPqSt2i2pVX3jW7Kbry9g,34.01856,-118.19191,$,65.0,3.0,90023,Los Angeles,jims-burgers-8-los-angeles-2,['burgers']
+xfOnRmuaXhROWxifwi1-8Q,33.9844667860716,-118.186239570392,$,24.0,4.0,90270,Maywood,los-cabos-the-pupusa-house-maywood-3,['salvadoran']
+,,,,,,,,,"['icecream', 'foodtrucks']"
+z4faRcfnr2KrOQ5EfSZLJA,33.974447,-118.232703,$$,227.0,2.5,90255,Huntington Park,don-chente-bar-and-grill-huntington-park,"['mexican', 'lounges']"
+w1Fsyx1cEfHwTTKRMdu5Lw,34.046234,-118.266871,$$,71.0,3.5,90015,Los Angeles,super-smash-buns-los-angeles,"['foodtrucks', 'burgers', 'asianfusion']"
+Wz4asUZLlfrGx6QGzsinbg,34.0187651,-118.1827062,$$,34.0,3.5,90023,Los Angeles,la-sirena-restaurant-los-angeles,['mexican']
+ukDSCMJdIOYEwMTczJbUWA,34.05843,-118.3057,$$,210.0,3.5,90005,Los Angeles,richeeze-los-angeles-3,"['foodtrucks', 'sandwiches']"
+7tIK40ZvTu8vuhBnR6g3wg,34.0664817,-118.3520389,$,117.0,4.0,90036,Los Angeles,yalla-truck-los-angeles,"['mediterranean', 'foodtrucks']"
+N0p2aiJ429dHrbZxF4pPMA,33.999635288122,-118.203557531391,$$,4.0,5.0,27200,Vernon,le-nouveau-siecle-vernon,['chinese']
+SpjDA9cepYauUpPPGDvtJA,33.9735145568848,-118.18726348877,$,40.0,3.5,90201,Bell,tacos-el-unico-bell-3,['mexican']
+0nz6yWSflUf7DpqMlMG5ig,33.9809736352661,-118.230165056884,$$,32.0,3.5,90255,Huntington Park,birrieria-el-guero-huntington-park,['mexican']
+iwgY_MmieO5rFj-kHRpArA,34.035275,-118.222621,$,10.0,5.0,90023,Los Angeles,tacos-la-restirada-los-angeles,"['foodtrucks', 'mexican']"
+wW1ft0BhYP_TeBzyIEMo5g,33.9795518354917,-118.224888816476,$,13.0,4.5,90255,Huntington Park,tacos-al-vapor-huntington-park,['tacos']
+xZbX6QhqyA3brRFbLfRqdg,34.2569465637207,-118.419013977051,$$,169.0,5.0,91331,Los Angeles,maravilla-latin-cuisine-los-angeles-3,"['foodtrucks', 'latin']"
+kDA2lea_NS11Qbkc3gawVA,34.04749,-118.34694,$$,120.0,3.5,90019,Los Angeles,wise-barbecue-los-angeles,"['foodtrucks', 'bbq']"
+,,,,,,,,,"['foodtrucks', 'mexican']"
+T9VttMhe5gzFcgpnSM-WfQ,34.0276855,-118.2196688,$,19.0,4.5,90023,Los Angeles,china-garden-los-angeles-4,['chinese']
+IdvKPkAnraeMMj3q17yUbA,34.07663,-118.26483,$,25.0,4.5,90026,Los Angeles,los-angeles-shave-ice-truck-los-angeles,"['icecream', 'shavedice', 'foodtrucks']"
+,,,,,,,,,"['personalchefs', 'catering', 'mexican']"
+xI2OCS9cDuRoPlFw5K_YGA,33.9815199403531,-118.226402923465,$$,6.0,5.0,90255,Huntington Park,haz2lokillo-huntington-park,"['desserts', 'gourmet']"
+,,,,,,,,,"['foodtrucks', 'dimsum']"
+hQHhx41q2YGlnj3MkRkf7w,34.0254288771816,-118.219537809491,$,6.0,5.0,90023,Los Angeles,paraiso-tropical-los-angeles,"['juicebars', 'icecream']"
+,,,,,,,,,['mexican']
+Ul9x0Phk9I2W9vbvhFIgJw,33.98677,-118.225906,$,94.0,2.5,90255,Huntington Park,starbucks-huntington-park-2,['coffee']
+gkVE4e2bT4jLr9ENOYwvFg,34.0282785636183,-118.201132699825,$$,37.0,3.5,90023,Los Angeles,el-nuevo-mariscos-tampico-los-angeles-2,"['mexican', 'seafood']"
+ajWChCqU7-8K3lWk9usgxA,33.9806099,-118.2089081,$,24.0,3.5,90255,Huntington Park,conchitas-restaurant-number-3-huntington-park,"['salvadoran', 'importedfood']"
+mIUCqht_aHUieOTCG8UBmw,34.0029438,-118.2050102,$,5.0,4.0,90058,Los Angeles,san-antonio-rose-los-angeles,['divebars']
+lJaM9x_t1ZTHvg-wbky7hw,33.9899,-118.2196,$$,17.0,3.5,90255,Huntington Park,millans-ranchito-restaurant-huntington-park-2,['mexican']
+hnzdcTQmqPiifPgvrASwcg,33.97422,-118.18707,$,13.0,4.5,90201,Bell,bionicos-y-cafe-bell-bell,"['juicebars', 'breakfast_brunch', 'sandwiches']"
+4x2nIXBpOBSiJLClgdbGkA,33.98729,-118.18973,$,7.0,4.5,90270,Maywood,ramirez-restaurant-maywood,['newamerican']
+,,,,,,,,,"['chicken_wings', 'catering', 'foodtrucks']"
+,,,,,,,,,['mexican']
+A6_y3VDR_wU3y7m1sK7NoA,33.9731537202773,-118.188107013702,$,25.0,4.0,90201,Bell,baskin-robbins-bell,"['desserts', 'icecream', 'customcakes']"
+m2wP6udF3bQcpiFpDg9A7A,33.9731226,-118.2136648,$,69.0,3.0,90255,Huntington Park,tacos-don-chente-huntington-park,"['mexican', 'seafood', 'breakfast_brunch']"
+wnkPeIIUbZdOxZerWFsz_g,33.9888916015625,-118.213813781738,$,23.0,3.0,90255,Huntington Park,subway-restaurants-huntington-park-2,"['hotdogs', 'sandwiches']"
+7-Uf3XaOg7cMAui8KfCdLg,34.0237751,-118.1872066,$,29.0,3.5,90023,East Los Angeles,el-zarape-mexican-flavor-east-los-angeles,['mexican']
+EXr_ip2lTvY50A9BsCT5zQ,33.986202,-118.225639,$$,71.0,2.5,90255,Huntington Park,dianas-restaurant-huntington-park,['mexican']
+g6CS7StnTrFeWyvjJ3XdTw,33.99215,-118.22564,$$,105.0,2.0,90255,Huntington Park,mariscos-mi-lindo-sinaloa-huntington-park,['seafood']
+4iLviwoGLl4HXkSVm5QLAA,33.9796058,-118.2032965,$,33.0,3.0,90201,Bell,toms-famous-family-restaurant-14-bell,['burgers']
+,,,,,,,,,"['foodtrucks', 'tacos']"
+M0JcJIr7zSOSHqfpfENeCQ,34.0334815979004,-118.473663330078,$,32.0,5.0,90404,Santa Monica,pop-candy-santa-monica,"['foodstands', 'candy']"
+,,,,,,,,,"['foodtrucks', 'thai']"
+xb3vZdQN_tR3JxjVOl1Afw,33.9891720127817,-118.185135126114,$$,74.0,2.5,90270,Maywood,la-tequila-restaurant-maywood,['mexican']
+v-hfspFQSAIZLok45pUBAA,34.0751451,-118.3853175,$,31.0,4.5,90048,Los Angeles,gyromania-los-angeles-2,"['greek', 'foodtrucks']"
+_WHaiir4xXnBuv6PmbWuKA,33.9808758,-118.2301651,$,14.0,4.0,90255,Huntington Park,piara-pizza-huntington-park,['pizza']
+,,,,,,,,,"['salvadoran', 'mexican']"
+,,,,,,,,,"['coffee', 'foodtrucks']"
+GTR_kyT34s5LNtTTTkpX3w,33.9790733,-118.2250551,$$,17.0,4.0,90255,Huntington Park,el-pastor-bar-and-grill-huntington-park-2,"['mexican', 'bars']"
+,,,,,,,,,"['foodtrucks', 'tacos', 'vegan']"
+hbTIIohFv9l5HYPFcvnVrQ,33.97408,-118.2226978,$,12.0,4.5,90255,Huntington Park,taco-safary-mexican-food-huntington-park,['mexican']
+be_D6z3oa1ddbHGHaWOu5A,34.1259460449219,-118.291015625,$$,89.0,3.5,90027,Los Angeles,the-tropic-truck-los-angeles-5,"['foodtrucks', 'caribbean']"
+Q1IDgXTBfFyDTXqi_iKORA,33.9728317,-118.2149963,$,26.0,3.5,90255,Huntington Park,pizza-mia-huntington-park-3,"['italian', 'pizza', 'sportsbars']"
+CK9cQBfLa9sAyky717tCTA,33.9795835301533,-118.222730979323,$$,7.0,4.5,90255,Huntington Park,lomelis-restaurant-huntington-park,"['breakfast_brunch', 'mexican', 'hotdogs']"
+D_fdU__0QaAAieT2QvjAZw,33.9817649,-118.2243966,$,16.0,4.0,90255,Huntington Park,j-mendoza-bakery-huntington-park,['bakeries']
+GyKe-hv1XZLI51n6sbj2-A,33.9873009,-118.1858902,$,14.0,3.5,90270,Maywood,azucenas-tacos-maywood-3,['mexican']
+C935cIQRhis-iFkTjgKeVQ,33.98736,-118.18476,$,47.0,2.5,90270,Maywood,la-costa-del-sol-maywood,['latin']
+,,,,,,,,,"['facepainting', 'magicians', 'pettingzoos']"
+I5Del99DIDN0cgEATHEQcQ,33.97266,-118.23463,$,47.0,3.0,90001,Los Angeles,el-taco-rapido-los-angeles,['mexican']
+,,,,,,,,,"['hotdog', 'foodtrucks', 'tacos']"
+P9tyWufE76NaIadFATnUIQ,33.9770455,-118.224297,$,10.0,4.5,90255,Huntington Park,restaurante-y-pupuseria-azucena-huntington-park,['salvadoran']
+VYRFH8xYLBC2MXUPF716mA,33.9747335,-118.187696,$,24.0,3.5,90201,Bell,tacos-mexico-bell,['mexican']
+Zm17CeMAbwKlzznuKvmpIQ,33.97485,-118.2235,$,10.0,4.5,90255,Huntington Park,pamore-pizza-huntington-park,"['pizza', 'bbq', 'chicken_wings']"
+6XKAzQIdgGqHXt4rDtwnjg,34.03313,-118.43872,$$,33.0,4.5,90064,Los Angeles,merguez-et-al-los-angeles-5,"['foodtrucks', 'african']"
+,,,,,,,,,"['german', 'foodtrucks', 'catering']"
+BqebDeFsrSkh8BCqnJe_2g,33.9748061216318,-118.225543275476,$$,113.0,2.5,90255,Huntington Park,the-20-20-bar-and-grill-huntington-park,['sportsbars']
+,,,,,,,,,"['tacos', 'streetvendors', 'burgers']"
+fv5M19-7YerFFXQxkPc0ig,34.0053558349609,-118.479789733887,$,111.0,4.0,90405,Santa Monica,pinch-of-flavor-santa-monica,"['foodtrucks', 'seafood', 'catering']"
+,,,,,,,,,"['japanese', 'foodtrucks']"
+tFD9LwJd9HszMpPM_GpGHQ,34.0690002441406,-118.350242614746,$,53.0,4.0,90036,Los Angeles,the-falafel-factory-los-angeles,"['falafel', 'foodtrucks']"
+T1db9-9wbjg_weo_UTJRgg,33.97468,-118.22685,$,8.0,5.0,90255,Huntington Park,bionicos-guadalajara-huntington-park,"['juicebars', 'mexican']"
+3jVbUxJMgk92i1WUuBcr2A,33.98313,-118.22984,$$,120.0,2.0,90255,Huntington Park,ihop-huntington-park-2,"['breakfast_brunch', 'burgers', 'tradamerican']"
+,,,,,,,,,['bakeries']
+jkpfw3Qa3yRibEwi5yQaQA,34.026673156516,-118.235937192128,$,6.0,5.0,90021,Los Angeles,juanitos-tacos-los-angeles-3,['mexican']
+oREG38Ofi8P4NtrFD0Yrkw,33.97482,-118.22417,$,21.0,3.5,90255,Huntington Park,tumbys-pizza-huntington-park,['pizza']
+JiYslHHmxDRNtjDg_49fmQ,33.7885,-117.97395,$$,178.0,4.0,92841,Garden Grove,mess-hall-canteen-garden-grove-7,"['foodtrucks', 'sandwiches', 'salad']"
+Ntmb_x9OIkdF0577bdAPsA,33.89344,-118.35287,$,20.0,5.0,90260,Lawndale,amals-baklava-and-more-lawndale-2,"['bakeries', 'desserts', 'catering']"
+,,,,,,,,,"['mexican', 'seafood']"
+eyVvODlQI6wg8a9_DWgAQA,34.0173062289599,-118.205795882137,$,7.0,4.0,90023,Los Angeles,king-taco-los-angeles-6,['mexican']
+,,,,,,,,,"['foodtrucks', 'waffles', 'sandwiches']"
+,,,,,,,,,"['sportsbars', 'chicken_wings', 'pizza']"
+cXGa7GdyfiO1mgR91EieBQ,33.9794034,-118.1869863,$,29.0,3.0,90201,Bell,el-zunzal-bell,['salvadoran']
+ls9YvfUCBusDVo7syIJzfQ,34.22366,-118.36829,$$,89.0,4.5,91352,Los Angeles,bird-coma-los-angeles-3,"['foodtrucks', 'catering', 'burgers']"
+,,,,,,,,,['publicart']
+cBiPgYpz7yDVGnrO8ITqeQ,33.9868563,-118.1853708,$$,120.0,2.0,90270,Maywood,dennys-maywood,"['diners', 'breakfast_brunch', 'tradamerican']"
+,,,,,,,,,"['coffee', 'foodtrucks', 'bakeries']"
+,,,,,,,,,"['foodtrucks', 'spanish', 'seafood']"
+e3EtPTtKAwdc-mvIVhLS6g,33.9815051,-118.22122,$,10.0,4.0,90255,Huntington Park,brisas-del-pacifico-huntington-park,"['mexican', 'seafood', 'breakfast_brunch']"
+,,,,,,,,,"['foodtrucks', 'mexican']"
+fy2cNdQpMvW5yRLVc-iiVw,33.986621,-118.225476,$,14.0,3.5,90255,Huntington Park,yogurtland-huntington-park-huntington-park,['icecream']
+gWXIo0jJOdAaPalJLfs9pQ,33.9744245678239,-118.233457471144,$$,47.0,3.0,90255,Walnut Park,cold-stone-creamery-walnut-park,"['icecream', 'customcakes', 'cupcakes']"
+INU2x0b0IaQLs4Z1efcQOA,33.9912132,-118.4675316,$,80.0,4.0,90746,Carson,wicked-fish-tacos-carson-9,"['foodtrucks', 'tacos']"
+np3EGMSm0ttUXOGvXZygZA,34.00843,-118.220183,$,27.0,2.5,90058,Vernon,mcdonalds-vernon-2,"['hotdogs', 'burgers', 'coffee']"
+sS4JkaDRkvwNOtrbhM__iw,33.9744,-118.23409,$,89.0,2.5,90255,Walnut Park,chipotle-mexican-grill-walnut-park,"['mexican', 'hotdogs']"
+uJUVrZGEZ-mPudAFLzeCjg,33.91285,-118.35251,$$,57.0,4.0,90250,Hawthorne,chef-cs-smhokin-pot-hawthorne-20,"['cajun', 'foodtrucks', 'southern']"
+1mIBI29dZaX9UZdDFYiaJQ,34.0262018789515,-118.197726500729,$,4.0,5.0,90023,Los Angeles,cemitas-tepeyac-los-angeles,"['mexican', 'foodstands']"
+bJIA0taMCroD9j2rFVBPgA,33.9786186218262,-118.195320129395,$,14.0,3.5,90201,Bell,los-reyes-bakery-bell,['bakeries']
+,,,,,,,,,"['mexican', 'seafood', 'beer_and_wine']"
+sO8fz1VhoXIUiue56YTj3A,34.02424,-118.18303,$,5.0,5.0,90023,Los Angeles,la-morena-bionicos-los-angeles,"['markets', 'juicebars', 'desserts']"
+BluyFRvqUrQvcII_hDshWQ,34.0242848652171,-118.219857662916,$$,7.0,4.5,90023,Los Angeles,tortas-gigantes-el-monje-loco-los-angeles-2,"['mexican', 'foodtrucks']"
+,,,,,,,,,['mexican']
+,,,,,,,,,['seafood']
+,,,,,,,,,"['fooddeliveryservices', 'vegan']"
+yvZhdhMtzkM3hZG5ZJHm9g,33.8341771453,-118.384204297,$$,48.0,4.5,90277,Redondo Beach,recess-truck-redondo-beach,"['desserts', 'foodtrucks', 'icecream']"
+jd2OB12hLOWTWghh1MrlbA,33.9802498,-118.1874517,$$,117.0,2.0,90201,Bell,hometown-buffet-bell,"['buffets', 'breakfast_brunch', 'tradamerican']"
+,,,,,,,,,"['foodstands', 'mexican']"
+4Vt-_pOpIMLHj4Pa1eM-qg,34.047822479906,-118.241345734439,$,7.0,5.0,78704,Los Angeles,pop-art-los-angeles-4,"['desserts', 'foodtrucks', 'icecream']"
+,,,,,,,,,"['indpak', 'chinese', 'foodtrucks']"
+,,,,,,,,,"['foodtrucks', 'bbq', 'japanese']"
+HZSgIrhP1ehTx7SnsyZrqw,33.98645,-118.18605,$,13.0,3.5,90270,Maywood,yum-yum-donuts-maywood-5,"['donuts', 'coffee', 'sandwiches']"
+VkB0Cau98NFR75muz-uv5Q,33.7523035,-118.1298234,$,41.0,4.5,90031,Los Angeles,frijolitos-mobile-coffee-los-angeles-4,"['coffee', 'foodtrucks']"
+,,,,,,,,,"['creperies', 'foodtrucks']"
+gBfaaFFWowEzJWEyFi3_ew,33.989232,-118.226443,$,41.0,2.5,90255,Huntington Park,taco-bell-huntington-park,"['hotdogs', 'mexican', 'tex-mex']"
+fTkbJEBeAp3ZOynBPpAcSw,33.98266,-118.22474,$$,8.0,4.0,90255,Huntington Park,conchagua-restaurant-and-pupuseria-huntington-park,"['salvadoran', 'burgers', 'mexican']"
+OYOKKvfuj9nnDURdW1P4tg,33.98818,-118.19845,$,23.0,2.5,90270,Maywood,jack-in-the-box-maywood,"['burgers', 'hotdogs', 'breakfast_brunch']"
+0mxhEaGmy8Xz_4YRRW5Wfw,33.98759,-118.18694,$,38.0,2.5,90270,Maywood,yoshinoya-maywood-maywood-3,['japanese']
+WTPLs4D0uVSVJ5YP9q41ZQ,33.9893449,-118.2301049,$,7.0,4.0,90255,Huntington Park,flor-blanca-4-huntington-park,['latin']
+VMB9FF4C6dyKLpAaMziMyA,33.989469,-118.227516,$,88.0,1.5,90255,Huntington Park,el-pollo-loco-huntington-park-3,"['mexican', 'hotdogs']"
+u-FjTrgEGkQpTSH6dX9Wbg,34.0272148641054,-118.219013388761,$,16.0,3.5,90023,Los Angeles,sabor-de-mi-tierra-los-angeles,['mexican']
+,,,,,,,,,"['icecream', 'juicebars']"
+fro7gKnyvMOmPCdpM24szA,34.02381,-118.1927,$$,66.0,2.0,90023,Los Angeles,mariscos-puerto-escondido-los-angeles,"['mexican', 'seafood', 'comedyclubs']"
+,,,,,,,,,"['foodtrucks', 'korean']"
+fV7AMFEpvPLgNKXw4xzZDw,34.024216,-118.190399,$,8.0,4.0,90023,Los Angeles,el-paraiso-bakery-los-angeles,"['bakeries', 'mexican']"
+,,,,,,,,,"['mexican', 'venues']"
+,,,,,,,,,['salvadoran']
+-sy4iddjw7jeBGFB892_TQ,33.988227,-118.185014,$,49.0,2.0,90270,Maywood,starbucks-maywood,['coffee']
+cKMTa-uuQJjaCvCv7X7DTA,33.9815712,-118.1864395,$$,22.0,3.0,90720,Maywood,mariscos-mi-lindo-sinaloa-2-maywood,"['seafood', 'mexican']"
+-0IXlNLopf4lRvP-5PU2fg,33.97485,-118.2235,$$,126.0,2.0,90255,Huntington Park,kings-buffet-huntington-park,['buffets']
+OWfJILhE7uNXlVzY74jdAw,34.0240449,-118.18899,$$,26.0,3.0,90023,Los Angeles,tilas-kitchen-los-angeles,['mexican']
+OKnbXuURumolCnDvJQi_pg,33.9748649,-118.235326,$,14.0,4.0,90255,Huntington Park,juans-rotissiere-chicken-huntington-park,['mexican']
+G2VoiIK5_X3EtDQ89UFgaQ,33.9828842,-118.1860695,$,9.0,4.0,90270,Maywood,atlantic-bakery-maywood,['bakeries']
+PGdhlhpo36EqMW2KIg654A,34.182541,-118.305763,$$,30.0,4.5,91502,Burbank,bouvardia-restaurant-burbank-6,"['venues', 'armenian', 'musicians']"
+LeBAMmvA4_nwTxfnKLp14Q,33.9870298,-118.1859054,$,30.0,2.5,90270,Maywood,china-gate-maywood,"['chinese', 'hotdogs']"
+,,,,,,,,,"['bartenders', 'djs', 'cocktailbars']"
+YIOl_B3U50Vd6QdYNzmCsA,34.02499,-118.21843,$,14.0,3.5,90023,Los Angeles,silvias-catering-truck-los-angeles,"['mexican', 'seafood', 'foodtrucks']"
+_48WWcm_8Qb2vHpBcHYjPw,33.98933,-118.22216,$,28.0,2.5,90255,Huntington Park,dominos-pizza-huntington-park-3,['pizza']
+kFbib6zEemZHAoP-u26GFg,33.987716,-118.213142,$,7.0,3.5,90255,Huntington Park,sparkles-huntington-park,"['icecream', 'mexican']"
+,,,,,,,,,"['foodtrucks', 'seafood']"
+hM0rhyDBL3QjXJWHBRjLkw,33.9894355487269,-118.22480365634,$,42.0,2.0,90255,Huntington Park,jack-in-the-box-huntington-park,"['hotdogs', 'breakfast_brunch', 'burgers']"
+bFL5IV1xOYb7WHhwLiuaMg,33.9748100141766,-118.222850002348,$,19.0,3.0,90255,Huntington Park,glorias-pupuseria-huntington-park,"['mexican', 'salvadoran']"
+rJ_fi7Iiq52pBKNmVSSiBw,33.9734462224029,-118.219423145056,$,4.0,5.0,90255,Huntington Park,birrieria-el-pariente-huntington-park,['foodstands']
+gyrEW7jSf4jHmj5T4e5wUA,33.98945,-118.23062,$,27.0,2.5,90058,Vernon,andys-vernon,"['burgers', 'mexican']"
+9NYAMW8j2vfmJuIzi_9Ncg,34.035101,-118.2913288,$,33.0,3.5,90007,Los Angeles,celaya-bakery-los-angeles-3,"['bakeries', 'customcakes']"
+sMz8IJ0l1BEMxzfwwBDyhA,34.09398,-118.36042,$$,15.0,5.0,90046,West Hollywood,les-délices-du-four-french-bakery-west-hollywood,['bakeries']
+Mkf5ZbGbxkD0jKK2I8uqRA,33.973474,-118.2169262,$,29.0,2.5,90255,Huntington Park,papa-johns-pizza-huntington-park,['pizza']
+,,,,,,,,,['teppanyaki']
+xOYjHmazeteBLYyu6H1Epw,34.230985,-118.535684,$,106.0,4.5,91324,Los Angeles,taqueria-la-plebe-and-more-los-angeles,"['foodtrucks', 'mexican']"
+xpr-5bMRNqLs323iansjLQ,33.975004,-118.232957,$,81.0,2.0,90255,Walnut Park,panda-express-walnut-park,"['chinese', 'hotdogs']"
+,,,,,,,,,['tacos']
+,,,,,,,,,"['desserts', 'coffee', 'customcakes']"
+aspviS5rL8ot-gSTvh7Zmg,34.0186851,-118.1982266,$,16.0,3.0,90023,Los Angeles,hong-kong-express-los-angeles-8,['chinese']
+TPsjQKW1rSMiN662WJm7FA,33.97502533,-118.23509533,$,17.0,3.5,90001,Los Angeles,burger-king-los-angeles-31,"['burgers', 'hotdogs']"
+DQq4-s1nLT5ywISHt8QQhg,33.9875077,-118.1853623,$,26.0,2.5,90270,Maywood,little-caesars-pizza-maywood,"['pizza', 'hotdogs']"
+_wMSgG16gU4NaoD0XD3VeA,33.9868685,-118.185949,$,108.0,1.5,90270,Maywood,mcdonalds-maywood-2,"['hotdogs', 'burgers', 'coffee']"
+,,,,,,,,,"['burgers', 'foodstands', 'catering']"
+XTZyJwC2mCyUiL1cvI3r5w,33.974842,-118.182029,$$,15.0,5.0,90201,Bell,type-2-treats-bell-2,"['bakeries', 'cupcakes']"
+TJEnDvOIJ0YLUBdVTGKmcg,34.09996,-118.32625,$,50.0,3.5,90028,Hollywood,chez-salim-chicken-and-rice-food-truck-hollywood,"['foodtrucks', 'halal', 'mediterranean']"
+jWHkyruIrYdXAsbXrghQ3g,34.0162709608561,-118.490619000437,$$,41.0,4.5,90272,Santa Monica,acai-dream-bowl-truck-santa-monica,"['foodtrucks', 'vegan', 'acaibowls']"
+jx2pQlOlbcFybb12oHDhLQ,34.0282363891602,-118.20108795166,$,18.0,3.0,90023,Los Angeles,yum-yum-donuts-los-angeles-28,"['donuts', 'coffee', 'sandwiches']"
+,,,,,,,,,"['foodtrucks', 'tacos']"
+O_trywKNTZe3L2UnbqZXxg,33.8683632868948,-118.236840043507,$$,26.0,4.0,90220,Rancho Dominguez,green-olive-truck-rancho-dominguez-3,"['foodtrucks', 'falafel']"
+,,,,,,,,,"['foodstands', 'hotdog']"
+,,,,,,,,,"['bbq', 'foodtrucks', 'desserts']"
+LMrttDcXx3XywdwF7JOf9Q,33.97445,-118.22335,$,31.0,2.5,90255,Huntington Park,yoshinoya-huntington-park-huntington-park-2,['japanese']
+PH3sasg6P3PzBqNbXh8XuQ,33.74901,-117.89935,$,94.0,4.5,92703,Santa Ana,tortas-ahogadas-los-primos-santa-ana,"['mexican', 'foodtrucks']"
+wLxwEB0Y73fT4pzS7Lq2xA,33.9883606,-118.1989835,$,2.0,5.0,90270,Maywood,c-and-c-restaurant-bakery-maywood,"['bakeries', 'breakfast_brunch', 'juicebars']"
+F6kiGZY0OtsGs4BJ9iVG8g,33.987929,-118.186041,$,26.0,2.5,90270,Maywood,subway-restaurants-maywood,['sandwiches']
+,,,,,,,,,"['foodtrucks', 'chickenshop', 'hotdogs']"
+,,,,,,,,,['mexican']
+,,,,,,,,,"['cupcakes', 'desserts', 'bakeries']"
+e6sz8SHupGLbTKq39kHP4Q,34.02125,-118.20478,$,23.0,2.5,90023,Los Angeles,delicias-de-el-salvador-los-angeles,['latin']
+BFs9_ecxn-zahE7C5Jm0iA,34.01864,-118.18459,$,4.0,5.0,90023,Los Angeles,la-azteca-los-angeles,['bakeries']
+gHrprJokGBst5XgJcnLZFw,33.9841487831435,-118.185846815616,$$,4.0,4.5,90270,Maywood,taqueria-noa-noa-maywood,['mexican']
+,,,,,,,,,"['donuts', 'juicebars', 'sandwiches']"
+Srd-APntAwgNL-YhBYjusw,33.9793216318053,-118.202440738678,$,41.0,2.0,90201,Bell Gardens,mcdonalds-bell-gardens-3,"['coffee', 'burgers', 'hotdogs']"
+,,,,,,,,,"['bakeries', 'desserts', 'catering']"
+tsJ5KxruWUDFBdfXYGvomQ,33.9746852964163,-118.233785033226,$,46.0,2.5,90255,Walnut Park,ono-hawaiian-bbq-walnut-park,"['hawaiian', 'gourmet']"
+_plGLIIrol2vGWFzr3D21w,33.974243,-118.18827,$$,34.0,2.5,90201,Bell,northgate-market-bell,"['grocery', 'bakeries', 'mexican']"
+,,,,,,,,,"['tacos', 'foodtrucks']"
+KrivJ1coTLmgpGvGGC2Ayw,34.0837472012297,-118.331095576286,$$,17.0,4.0,93010,Camarillo,matts-coffee-express-camarillo-6,"['juicebars', 'coffee', 'foodtrucks']"
+0kiKzXxZXoOC1QnpTcyTpw,33.9803968,-118.2093903,$$,8.0,3.5,90255,Huntington Park,reynas-bakery-3-huntington-park,"['mexican', 'bakeries']"
+iZwN3N0tlK6YouueJNi8hg,33.974002,-118.234889,$,31.0,2.5,90001,Los Angeles,tams-burgers-no-15-los-angeles,"['burgers', 'hotdogs', 'food']"
+BdMGcCmhBsjsivdixQHWmw,34.1580543518066,-118.512672424316,$,120.0,4.0,91316,Los Angeles,the-triple-threat-truck-los-angeles,"['foodtrucks', 'puertorican']"
+,,,,,,,,,['mexican']
+,,,,,,,,,"['atvrentals', 'rvrental', 'hiking']"
+vWVRdFdj6LIC6JjtgbYnXA,34.0238080269179,-118.181512467563,$,4.0,5.0,90023,Los Angeles,fashion-fruit-yogurt-los-angeles,['icecream']
+EGz4toczaB2njcFcqGzsxA,33.7332038879395,-118.294395446777,$$,24.0,5.0,90731,San Pedro,fiyahnesian-cuisine-no-title,"['catering', 'foodstands', 'mexican']"
+VAYyY43WaVPGudj9DLwTGw,33.9885757,-118.2010757,$,6.0,3.5,90270,Maywood,the-sabrosa-grill-maywood,['mexican']
+,,,,,,,,,"['foodtrucks', 'mexican']"
+Trx5IRW1u1OtlVhZxGhTqA,33.988081,-118.223837,$,39.0,2.0,90255,Huntington Park,pollo-campero-huntington-park,['latin']
+HFHsqCkdzvoR0ANirfDf2A,34.0303,-118.199,$,14.0,3.0,90023,Los Angeles,kfc-los-angeles-27,"['hotdogs', 'chicken_wings', 'chickenshop']"
+XVnXPYP0WuCeMbr8axLgrQ,34.02059,-118.19257,$,5.0,4.0,90023,Los Angeles,smiling-boy-tacos-los-angeles,['mexican']
+jjVu1vYEHEYbA8u8Iq41dA,33.97407,-118.22998,$,14.0,3.5,90255,Huntington Park,spartan-burgers-no-7-huntington-park,"['breakfast_brunch', 'burgers']"
+6vUo3y3T7eEpjNmfs_4x7Q,33.985524169067,-118.213068644267,$,5.0,3.5,90255,Huntington Park,la-quesadilla-loca-huntington-park,['mexican']
+6PxWjI9chAcLJkIj_MnfYg,34.0616798400879,-118.445449829102,$,13.0,5.0,90024,Westwood,the-roast-truck-westwood,"['coffee', 'foodtrucks']"
+,,,,,,,,,"['salvadoran', 'beer_and_wine', 'bars']"
+KqOXJDR2YiTVic5bVbdnAw,34.0513187,-118.3649663,$,9.0,4.5,90019,Los Angeles,whammy-bar-los-angeles,"['musicinstrumentservices', 'coffee']"
+5vMREPKwyCOR6phUj3XJtQ,33.9851129556366,-118.225563056767,$,19.0,2.5,90255,Huntington Park,winchells-donuts-huntington-park,"['donuts', 'coffee', 'sandwiches']"
+eJ7g8XFOcn0ZmtFzMFh-YQ,33.9891999,-118.22533,$,8.0,2.5,90255,Huntington Park,china-wok-huntington-park,['chinese']
+,,,,,,,,,"['food_court', 'breakfast_brunch', 'salad']"
+wgtKqTxfoprlR_EwNzlIhQ,34.2724002,-118.4647573,$,32.0,5.0,91345,Los Angeles,cítrico-ceviche-bar-los-angeles,"['seafood', 'mexican', 'foodtrucks']"
+L8fnxZXjfXLXeAvTuivDMA,34.02629,-118.21921,$,3.0,4.5,90023,Los Angeles,new-donut-los-angeles-2,"['donuts', 'coffee', 'breakfast_brunch']"
+ofLksFGNf18napxayUjFmw,33.9789279486927,-118.187130689621,$,19.0,3.0,90201,Bell,golden-panda-bell,['chinese']
+,,,,,,,,,"['foodtrucks', 'seafood', 'mexican']"
+mo7ustDSs6gjgtdx26s6Sg,34.0187833628727,-118.18826785528,$,2.0,5.0,90023,Los Angeles,tacos-angelon-los-angeles,['streetvendors']
+mzlrOPYPxoWs-tl-MKxgVQ,33.9872402,-118.1853161,$,51.0,1.5,90270,Maywood,el-pollo-loco-maywood-3,"['hotdogs', 'mexican']"
+,,,,,,,,,"['museums', 'historicaltours']"
+,,,,,,,,,"['reiki', 'spiritual_shop', 'coffee']"
+,,,,,,,,,"['foodtrucks', 'pizza']"
+PhLKdaPcU9IR7IE40niJ0w,34.0583969,-118.1912081,$$,30.0,2.5,90063,Los Angeles,hungry-belly-los-angeles-4,"['foodtrucks', 'thai']"
+,,,,,,,,,"['hotdogs', 'mexican']"
+xwRSnM64o3lldY164zxniA,33.988495,-118.22475,$,13.0,2.5,90255,Huntington Park,shan-hai-chinese-food-huntington-park-2,['chinese']
+nrEaaxzKwna2e2S2qelp6w,34.052187,-118.243425,$$,11.0,3.5,,Los Angeles,mad-kebob-los-angeles,"['foodtrucks', 'mediterranean']"
+,,,,,,,,,"['foodtrucks', 'mexican']"
+Xi0kNpWlXQFeR59gq-BWrw,33.98628,-118.18039,$,24.0,2.5,90270,Maywood,apollo-burgers-maywood,['burgers']
+,,,,,,,,,['parks']
+EfeAve2yreyYnTXXAO7hew,33.9969292,-118.2183533,$,3.0,3.5,90058,Vernon,juns-cafe-vernon,['cafes']
+,,,,,,,,,"['tea', 'herbsandspices']"
+xSoIMortNzykYHzWGyMOtw,33.7099418640137,-117.99047088623,$$,85.0,4.0,92647,Huntington Beach,phenomnom-truck-huntington-beach-3,"['foodtrucks', 'southern']"
+dl1UfIVXzlC0xJ_F_YVPLQ,34.0302700549364,-118.192360326648,$,4.0,4.5,90063,Los Angeles,dos-hombres-solitarios-tacos-los-angeles,"['streetvendors', 'mexican']"
+1StuymR_aV7xU6yKdpk_aA,33.9196596,-118.273849942022,$$,6.0,5.0,90061,Los Angeles,mariscos-los-tres-animales-los-angeles-2,"['mexican', 'foodtrucks']"
+R8GtIT1uDQ4DPE-FfCTrTA,33.9962584632187,-118.198726654697,$,1.0,5.0,90058,Vernon,taqueria-los-dos-gallos-vernon-2,"['foodtrucks', 'mexican']"
+lCfO2gGl1DnGsd5eartU5w,33.9794797906187,-118.198898635582,$,10.0,2.5,90201,Bell,super-bionicos-bell-5,"['juicebars', 'shavedice', 'sandwiches']"
+,,,,,,,,,"['seafood', 'mexican']"
+Jl4chWdIOqOERtqw0MqWYA,33.9890187855304,-118.225738406181,$,42.0,1.5,90255,Huntington Park,mcdonalds-huntington-park-6,"['hotdogs', 'coffee', 'burgers']"
+,,,,,,,,,['mexican']
+DG5rkS1r9-0WvHVqyqrRiw,34.0171259,-118.2202016,$,23.0,1.5,90023,Los Angeles,carls-jr-los-angeles-38,"['hotdogs', 'burgers']"
+d-TU4s5B-jay32xvKj9_jg,33.988112,-118.197089,$,12.0,2.0,90270,Maywood,burger-king-maywood,"['burgers', 'hotdogs']"
+eC6LKNPIDWHFj4KgDZgpJQ,34.23356533,-118.58883683,$$,50.0,5.0,91304,Canoga Park,uncle-johnnys-burgers-canoga-park,"['foodstands', 'burgers']"
+IktJl9Q7sKEZClqvIyri7Q,34.027844,-118.219921,$,13.0,3.0,90023,Los Angeles,subway-restaurants-los-angeles-34,['sandwiches']
+yQXLREny5_aI_vKflOEF8A,33.9692239,-118.256724,$$,3.0,5.0,90001,Los Angeles,mariscos-el-peri-los-angeles,"['seafood', 'foodtrucks']"
+VkO1K4DXBHDCRj3iLwKCfg,33.9867554,-118.2301865,$$,14.0,2.5,90255,Huntington Park,copan-sula-huntington-park,"['sportsbars', 'latin', 'danceclubs']"
+,,,,,,,,,"['mexican', 'foodstands']"
+,,,,,,,,,"['haitian', 'foodtrucks', 'fooddeliveryservices']"
+VosxX-lFf2TCZFbydqjufg,34.0284004211426,-118.354179382324,$$,11.0,4.5,90016,Los Angeles,mexican-chuckwagon-fusion-los-angeles,"['foodtrucks', 'mexican']"
+RlIkOG3cCiW0bKaMjT4Fcw,34.026677,-118.199277,$,55.0,1.5,90023,Los Angeles,mcdonalds-los-angeles-122,"['burgers', 'hotdogs', 'coffee']"
+mA2IQ0SL9XUgsucBpRC_pg,33.985945,-118.2250751,$,11.0,2.5,90255,Huntington Park,subway-restaurants-huntington-park,"['hotdogs', 'sandwiches']"
+6_8cketPxH0WZ6daqE4Kgw,33.99215,-118.22564,$$,10.0,2.5,90255,Huntington Park,mariscos-lindas-restaurant-huntington-park,"['seafood', 'mexican']"
+,,,,,,,,,"['mexican', 'foodtrucks']"
+,,,,,,,,,['taiwanese']
+,,,,,,,,,"['juicebars', 'icecream']"
+ZXeprubwruQvBruypvPeEA,34.0264167,-118.2016247,$,8.0,3.0,90023,Los Angeles,la-estrella-in-boyle-heights-los-angeles,['mexican']
+,,,,,,,,,"['foodtrucks', 'sushi']"
+3kAx7hXk6CU8e85Mowt6nw,33.983333,-118.224746,$$,7.0,3.0,90255,Huntington Park,hola-pollo-huntington-park,"['japanese', 'mexican', 'hotdogs']"
+,,,,,,,,,"['korean', 'foodtrucks']"
+,,,,,,,,,['landmarks']
+VEpcsV5CadDMUVO6CE2o9g,33.9882930200474,-118.193389,$,12.0,2.5,90270,Maywood,kfc-maywood,"['hotdogs', 'chicken_wings', 'chickenshop']"
+4VCa8m_ASouh0I55tvSI1g,33.9804971599235,-118.212262199834,$,33.0,1.5,90255,Huntington Park,kfc-huntington-park,"['hotdogs', 'chicken_wings', 'chickenshop']"
+_kQ3z5VQBg2G-Y_4uHibrg,33.9751534,-118.2304932,$,7.0,3.5,90255,Huntington Park,7-eleven-huntington-park-2,"['convenience', 'coffee']"
+,,,,,,,,,"['foodtrucks', 'seafood', 'mexican']"
+QkqPSQcL7WhhzbD5FV2i5g,34.0169182,-118.2197495,$,9.0,2.5,90023,Los Angeles,subway-restaurants-los-angeles-107,"['sandwiches', 'hotdogs']"
+2zuddEyZnov4yXI6OyaM9A,33.975006,-118.23117,$,61.0,1.5,90255,Huntington Park,mcdonalds-huntington-park-2,"['hotdogs', 'burgers', 'coffee']"
+lkYF49T_tDdVf7VbjXHxBw,34.1016299248973,-118.333691404536,$,8.0,4.5,90028,Los Angeles,ice-cream-roll-los-angeles-6,"['desserts', 'icecream', 'foodtrucks']"
+fLtjISLQBrahVZAT3CFXtA,34.2310853582468,-118.36753200608,$,13.0,5.0,91352,Los Angeles,tacos-eronga-1-los-angeles,"['mexican', 'foodtrucks']"
+AbsIa_hhPmDbs8LwA5qWig,34.0223695013621,-118.206833388264,$,3.0,3.5,90023,Los Angeles,commitment-to-excellence-tacos-los-angeles,"['streetvendors', 'mexican']"
+rvRJcBHY67ALvArB4-bgmw,34.01864,-118.1804,$,19.0,2.0,90023,Los Angeles,jack-in-the-box-los-angeles-70,"['breakfast_brunch', 'burgers', 'hotdogs']"
+,,,,,,,,,"['golf', 'venues', 'wedding_planning']"
+pM5-AoUFnmjJJNsnUGmEYw,33.982318,-118.225631,$$,22.0,2.0,90255,Huntington Park,margarita-jones-huntington-park,['mexican']
+RgUq2nW9aUrQJFaYA5-QLw,33.6623991876128,-117.750723548234,$$,182.0,4.5,92807,Anaheim,burning-buns-anaheim-4,"['foodtrucks', 'burgers', 'sandwiches']"
+,,,,,,,,,['bakeries']
+RT6kbXUy4BIRdRoEomX78Q,33.9767651,-118.2244947,$,16.0,2.5,90255,Huntington Park,rio-lempa-restaurant-huntington-park,['latin']
+Ftn8OZEqwT952zi67CAYLg,34.0202102567218,-118.451902270317,$,10.0,4.5,90404,Santa Monica,backpackers-truck-santa-monica-8,"['korean', 'foodtrucks']"
+,,,,,,,,,"['streetvendors', 'tacos']"
+oNB7XgMPTysY9ah2nLgREA,33.9787964522839,-118.186751827598,$,5.0,3.5,90201,Bell,la-corona-bakery-no-2-bell,['bakeries']
+,,,,,,,,,['mexican']
+,,,,,,,,,['chicken_wings']
+Z4kznYrJVRPYT8ht3slg8w,33.9750099182129,-118.229850769043,$,27.0,2.0,90255,Huntington Park,carls-jr-huntington-park,"['hotdogs', 'burgers']"
+,,,,,,,,,"['seafood', 'seafoodmarkets']"
+,,,,,,,,,"['desserts', 'foodtrucks', 'creperies']"
+PnX7iaxwN7eo9kQ5hHyvKA,34.2676,-118.42227,$,15.0,5.0,91342,Pacoima,el-rey-del-cocktel-pacoima,"['seafood', 'foodtrucks']"
+Ox6KEoJNpShHZdVhuLwRLg,33.7482208,-117.863545,$,82.0,4.0,92701,Santa Ana,chiva-torta-santa-ana,"['mexican', 'foodtrucks']"
+2O3qoRkjuoKj8e0-Jytswg,34.01693,-118.21946,$,4.0,3.0,90023,Los Angeles,honey-donuts-los-angeles-3,"['donuts', 'juicebars', 'sandwiches']"
+,,,,,,,,,['dog_parks']
+IzGBSvgkjRqZnqoU1YvswQ,33.98671,-118.202293,$,1.0,5.0,90255,Huntington Park,hermanas-torres-huntington-park,['streetvendors']
+,,,,,,,,,['landmarks']
+,,,,,,,,,"['juicebars', 'coffee']"
+56xgAoxKXZ_q-PGOclb0rw,33.9748649,-118.2353248,$,68.0,1.5,90001,Los Angeles,dominos-pizza-los-angeles-6,"['pizza', 'chicken_wings', 'sandwiches']"
+pZJgaW745HOewk8Gn1x0Qg,33.9736252821422,-118.216673880815,$,48.0,1.5,90255,Huntington Park,mcdonalds-huntington-park,"['hotdogs', 'burgers', 'coffee']"
+c-K45wIer2V50t7PXHUGtw,33.9890421348495,-118.20051102341,$,5.0,2.5,90270,Maywood,7-eleven-maywood-2,"['convenience', 'coffee']"
+svFlPVvdO1kPOxyf3WCpFw,34.02753,-118.19953,$,5.0,3.0,90023,Los Angeles,chinese-kitchen-los-angeles,['chinese']
+JuDq9kEwXLQmZqK1O8Ei8w,34.02529,-118.22012,$,19.0,1.5,90023,Los Angeles,jack-in-the-box-los-angeles-42,"['hotdogs', 'burgers', 'breakfast_brunch']"
+WDUCgK09vS5o5u64joNfLw,33.9851226806641,-118.185516357422,$,16.0,2.0,90270,Maywood,amapola-mexican-deli-maywood,['mexican']
+WUxJX7QptQqH7tgCyGclpQ,34.15788,-118.46105,$$,273.0,2.0,91403,Los Angeles,rice-balls-of-fire-los-angeles,"['foodtrucks', 'asianfusion', 'catering']"
+,,,,,,,,,['parks']
+,,,,,,,,,"['foodtrucks', 'mexican']"
+eZHj1iwZ_nQvbG4OBtHdWg,33.97544,-118.22945,$,14.0,2.5,90255,Huntington Park,little-caesars-pizza-huntington-park-2,"['pizza', 'hotdogs']"
+P4KShh94GLiwlXGWNtTXEg,34.0275718087847,-118.219226002693,$,30.0,1.5,90023,Los Angeles,mcdonalds-los-angeles-161,"['hotdogs', 'coffee', 'burgers']"
+C9SIH28c2mqTbhJ4LCGnDA,34.026355,-118.19833,$,7.0,3.0,90603,Los Angeles,cemitas-los-poblanos-los-angeles,['mexican']
+,,,,,,,,,"['painters', 'publicart']"
+LYdSiD4pcKX5ZDSZeXqXbQ,33.9763093461917,-118.226682502272,$,4.0,4.0,90255,Huntington Park,corner-kitchen-huntington-park-2,"['chinese', 'juicebars', 'icecream']"
+8Ly43G1Sa6SiPReEacNb7Q,33.9877809297655,-118.18500302732,$,7.0,2.5,90270,Maywood,little-caesars-maywood-2,['pizza']
+kXhG3-4AQFpyfBlpH16V2g,34.2647775,-118.520314,$,102.0,3.5,91344,Los Angeles,belly-bombz-wings-truck-and-catering-los-angeles,"['foodtrucks', 'korean']"
+,,,,,,,,,"['desserts', 'icecream']"
+9guYt5ZHQ6s7MZtQqJpIzA,48.37101,-114.1901,$,9.0,3.0,59912,Columbia Falls,pizza-hut-columbia-falls-4,"['pizza', 'italian', 'chicken_wings']"
+UdqEUubLC_fnls8gtH1dgA,34.0164251,-118.1787213,$,4.0,4.0,90023,Los Angeles,miramar-tortilleria-los-angeles,"['grocery', 'mexican']"
+,,,,,,,,,"['cupcakes', 'customcakes', 'foodtrucks']"
+oEVmPscSMFC57G5Ro1PRQg,34.018412,-118.206563,$,6.0,2.0,90023,Los Angeles,el-pavo-bakeries-los-angeles-4,"['bakeries', 'mexican']"
+YR0jz9qzPKFfFEDUIgA1GA,34.0263433219699,-118.198879919103,$,12.0,2.0,90033,Los Angeles,little-caesars-pizza-los-angeles-53,"['pizza', 'hotdogs']"
+swgShJ8uF37PON90anhKvA,33.9859238,-118.2250671,$,8.0,2.0,90255,Huntington Park,china-express-huntington-park-2,['chinese']
+AKyqB9K5aUO12z_Cmd8ifQ,34.0369708,-118.2782814,$$,12.0,3.0,90250,Los Angeles,big-bali-truck-los-angeles,"['foodtrucks', 'coffee']"
+JxWj9i5MoJGZv1BHF24nfw,33.99033,-118.22994,$,4.0,3.0,90058,Vernon,kitty-kat-vernon,['divebars']
+509r8zYTcuVvVaWOzd6u7w,33.9804066223759,-118.225016909063,$$,4.0,3.5,90255,Huntington Park,tacos-mexico-huntington-park,['mexican']
+,,,,,,,,,"['grocery', 'butcher', 'delis']"
+,,,,,,,,,"['shavedice', 'juicebars', 'icecream']"
+pDxrrfQ6Kid0z0riJQqADA,33.98252,-118.22987,$,8.0,2.5,90255,Huntington Park,la-ramada-huntington-park,['latin']
+,,,,,,,,,['mexican']
+,,,,,,,,,"['burgers', 'tradamerican', 'mexican']"
+,,,,,,,,,['bakeries']
+W7-OJ2Kf2rm-8no748RJTQ,33.97485,-118.2235,$,6.0,3.0,90255,Huntington Park,baskin-robbins-huntington-park-3,"['icecream', 'desserts', 'customcakes']"
+dFK5LCaPCV5MIiVCHdhAuQ,33.9815933257341,-118.220884948969,$,1.0,5.0,90255,Huntington Park,la-reyna-de-michoacan-huntington-park,['icecream']
+_ERog4x7lidySOXAM1lJkA,33.98436,-118.186356,$,2.0,4.0,90270,Maywood,la-metapaneca-maywood,['salvadoran']
+yhkvMNZ5PJvKwZ1XV8BRgA,34.0187349239963,-118.185243755579,$,1.0,5.0,90023,Los Angeles,cocina-los-velasquez-los-angeles,"['tacos', 'foodstands']"
+CYvO5HAebhHhanbmqmx51g,34.1888656316672,-118.626026421951,$,21.0,5.0,91307,West Hills,daniels-food-west-hills,"['foodtrucks', 'burgers', 'hotdogs']"
+,,,,,,,,,"['coffee', 'juicebars', 'foodtrucks']"
+,,,,,,,,,['salvadoran']
+qBOX0kh_k3CuYsTndSoZiQ,33.9890112,-118.2026118,$$,9.0,1.5,90270,Maywood,winchells-donuts-maywood-2,"['donuts', 'coffee', 'sandwiches']"
+,,,,,,,,,['hotdogs']
+lKjyCzmB4v4dlQrBp4cpvQ,34.0264058739745,-118.198964595795,$,13.0,2.0,90023,Los Angeles,subway-restaurants-los-angeles-109,"['sandwiches', 'hotdogs']"
+,,,,,,,,,"['foodtrucks', 'burgers']"
+dWB9-xQNLzig5ljxP2OydQ,33.9796368,-118.2250651,$,2.0,4.0,90255,Huntington Park,juice-and-pops-huntington-park,['icecream']
+sNMl8Pubvi4ii7V56d_7fg,34.024285,-118.186598,$,4.0,3.0,90023,Los Angeles,7-eleven-los-angeles-194,"['convenience', 'coffee']"
+,,,,,,,,,"['foodtrucks', 'tacos']"
+wY7PkHUL7Wsf585b0xkg_A,34.0268584973962,-118.198178253061,$,16.0,1.5,90023,Los Angeles,burger-king-los-angeles-50,"['burgers', 'hotdogs']"
+,,,,,,,,,['pizza']
+,,,,,,,,,['mexican']
+lBiAhk7Bugtm5_qg8HL2ug,33.9754350605033,-118.195717926635,$,2.0,4.5,90201,Bell Gardens,ali-harbs-sahra-bell-gardens,['hookah_bars']
+kw-BgvuBrcPPLz24EztnAw,33.9847368746996,-118.185904249549,$,4.0,3.0,90270,Maywood,winchells-donuts-maywood,"['donuts', 'coffee', 'sandwiches']"
+,,,,,,,,,"['mexican', 'salvadoran', 'catering']"
+GWTGgw3gENX9fyuzbuwzdA,33.9828449,-118.1860753,$,1.0,5.0,90270,Maywood,pupuseria-express-maywood,['salvadoran']
+,,,,,,,,,['mexican']
+,,,,,,,,,"['cafes', 'mexican']"
+,,,,,,,,,"['latin', 'foodstands', 'mexican']"
+6IXnju2B9c0QtKCOQPV7Xw,34.02781,-118.21985,$,4.0,3.0,90023,Los Angeles,winchells-donuts-los-angeles-18,"['donuts', 'coffee', 'sandwiches']"
+1rHnpxbZi2o-f-Jp8G5wLg,33.9768652617931,-118.224520012736,$,3.0,3.5,90255,Huntington Park,el-machin-no-4-huntington-park,['icecream']
+C0hgzivk5JnRBxJpdBIeYQ,33.97721,-118.22473,$,7.0,2.5,90255,Huntington Park,paleteria-y-neveria-la-michoacana-huntington-park,['icecream']
+,,,,,,,,,['localflavor']
+,,,,,,,,,['restaurants']
+,,,,,,,,,"['mexican', 'vegan', 'foodtrucks']"
+,,,,,,,,,['streetvendors']
+esEFM18aHAgmgLQ1E4WxuQ,34.1040382385254,-117.670036315918,$$,36.0,5.0,91786,Upland,pellegrinos-authentic-italian-food-upland,"['foodtrucks', 'catering', 'italian']"
+,,,,,,,,,['chinese']
+9bwjRfAJexB0So47YnWHow,34.2856864929199,-118.604530334473,$,19.0,5.0,91311,Los Angeles,mama-minas-sweets-and-treats-los-angeles,"['bakeries', 'vegan', 'gluten_free']"
+,,,,,,,,,['parks']
+,,,,,,,,,"['foodtrucks', 'catering', 'tradamerican']"
+,,,,,,,,,['parks']
+erYoc05f6zf85qbNpG-qZA,33.9745445,-118.2272734,$,4.0,3.0,90255,Huntington Park,la-mano-tortilleria-huntington-park,['restaurants']
+iBatTYD8_FGcu1w4NYkvzw,33.9763,-118.1877,$,1.0,5.0,90201,Bell,la-casa-del-ceviche-bell,['mexican']
+LUbPYfFdlVSV2VnkSivQoA,34.023273,-118.218436,$$,8.0,2.0,90023,Los Angeles,ampm-los-angeles-25,"['servicestations', 'carwash', 'coffee']"
+DJqaSrXzZyIcvPV9EJZ12w,34.4468803405762,-118.510902404785,$$,36.0,5.0,91350,Santa Clarita,madison-rose-bakery-santa-clarita-2,['bakeries']
+,,,,,,,,,['pizza']
+lYZ8jH3S2lGVGVEvxSzA6g,33.987843,-118.185242,$,9.0,2.0,90270,Maywood,7-eleven-maywood,"['convenience', 'coffee']"
+As_9WvR9WrZV-Djt9c_kjQ,34.0211150629009,-118.22048664093,$,1.0,4.0,90023,Los Angeles,tacos-en-la-sombra-de-los-torres-los-angeles,"['streetvendors', 'mexican']"
+,,,,,,,,,['latin']
+,,,,,,,,,['chinese']
+5wv45x9oyB3Zi0HNPKseMA,34.06484,-118.34989,$,3.0,5.0,90036,Los Angeles,tropical-sno-los-angeles,"['foodtrucks', 'shavedice', 'hawaiian']"
+,,,,,,,,,['bars']
+,,,,,,,,,"['foodtrucks', 'tacos', 'catering']"
+e68CzpWzqCvv_o6mqoR7Jw,33.9749302,-118.2253149,$,9.0,2.0,90255,Huntington Park,taqueria-el-sombrero-huntington-park,['mexican']
+,,,,,,,,,"['argentine', 'mexican']"
+RbbPE7YHC1Gyu9ynitzjVw,34.2809205918312,-118.401948474348,$,6.0,5.0,91342,Los Angeles,tacos-el-pimi-los-angeles,"['foodtrucks', 'mexican']"
+,,,,,,,,,"['foodtrucks', 'mexican']"
+bfvGPsNu6K0HnhQbrU1oJw,34.02797,-118.21984,$,9.0,2.0,90023,Los Angeles,yoshinoya-soto-los-angeles-2,['japanese']
+,,,,,,,,,"['hiking', 'walkingtours', 'historicaltours']"
+,,,,,,,,,"['foodtrucks', 'beerbar']"
+PDBsbA45BK8pj5iaKOVDsg,33.7132431,-117.8718243,$,49.0,4.0,92707,Santa Ana,broken-rice-truck-santa-ana-2,"['foodtrucks', 'cajun']"
+B5DK6am0aAEn32fH8dze6A,33.9797439575195,-118.206039428711,$,3.0,2.5,90255,Huntington Park,taqueria-estrella-huntington-park,['mexican']
+I99spdiPXPXwbr6o6mpxyg,33.985965,-118.22498267,$,12.0,1.5,90255,Huntington Park,pizza-hut-huntington-park-8,"['pizza', 'italian', 'chicken_wings']"
+akIIsDdQtwJMzZ4OFfdL3Q,33.98673,-118.22366,$,4.0,2.0,90255,Huntington Park,superior-grocers-huntington-park,"['grocery', 'bakeries', 'meats']"
+Tub-psQGYAjbtny6MnfQmg,34.0770492553711,-118.25887298584,$,2.0,5.0,90026,Los Angeles,yum-yum-shave-ice-los-angeles-2,"['shavedice', 'foodstands']"
+Ff0Z_1cLHkMdqFB1f4nCnw,34.0250854492188,-118.192558288574,$,1.0,4.0,90023,Los Angeles,tacos-al-carnal-los-angeles,"['foodtrucks', 'mexican']"
+-efACZXjjng8u_zKze_NHQ,33.54461,-117.78529,$$,63.0,4.5,92651,Orange County,drizzle-orange-county-2,"['desserts', 'foodtrucks']"
+,,,,,,,,,['parks']
+,,,,,,,,,"['foodtrucks', 'chickenshop']"
+,,,,,,,,,['bakeries']
+,,,,,,,,,['mexican']
+,,,,,,,,,"['localfishstores', 'aquariumservices', 'aquariums']"
+,,,,,,,,,"['noodles', 'korean']"
+,,,,,,,,,"['southern', 'foodtrucks', 'catering']"
+,,,,,,,,,"['bbq', 'foodtrucks', 'catering']"
+GdklPN_T7zSCKxLdGVW02g,33.9837098517575,-118.224933743477,$,3.0,2.5,90255,Huntington Park,7-eleven-huntington-park,"['convenience', 'coffee']"
+UqA5EO5eTUl3GKYYg3WhNA,33.9805335998535,-118.179580688477,$,1.0,4.0,90201,Bell,ricos-tacos-bell,['mexican']
+q6KW-4AJTBXhZlf_XMIrqQ,34.029765,-118.1924849,$$,1.0,4.0,90063,Los Angeles,cinco-de-mayo-bakery-los-angeles,['bakeries']
+,,,,,,,,,"['tacos', 'foodtrucks']"
+4iB7LRwHXEu8AaBvVokBlg,33.9751372,-118.2301551,$,7.0,1.5,90255,Huntington Park,new-hong-kong-combo-huntington-park,['restaurants']
+,,,,,,,,,['mexican']
+_p5zfO66mRInoPtLtuthCg,34.0205997465556,-118.192283950092,$,1.0,3.0,90023,Los Angeles,taco-truck-los-angeles-13,['mexican']
+2AjO0fqRYE4xtC2aMp6nwQ,34.0205997465556,-118.192283950092,$,1.0,3.0,90023,Los Angeles,tacos-magolon-los-angeles,['foodstands']
+,,,,,,,,,['tacos']
+2acU7KU1EgPNWQt8MFLOyQ,33.8224529102469,-118.301476356315,$$$,3.0,5.0,90501,Los Angeles,antojitos-el-buen-gusto-los-angeles,"['tacos', 'foodtrucks', 'fooddeliveryservices']"
+fhfBuOOP98j5PWl_lJn-aw,33.98729,-118.18973,$,4.0,1.5,90270,Maywood,superior-grocers-maywood-2,"['grocery', 'bakeries', 'meats']"
+z32h0XnJ3yw-fpouaXdvFQ,34.4627169,-118.5622893,$,35.0,4.5,91354,Santa Clarita,kona-ice-of-santa-clarita-santa-clarita-2,"['icecream', 'shavedice', 'foodtrucks']"
+VxR96cOuKfo7J0f5HjcrTg,34.43553,-118.54703,$$,71.0,4.0,91354,Los Angeles,sugo-italian-food-truck-los-angeles-13,"['foodtrucks', 'italian']"
+BH_HKhJcoCg7hsL8ezCYxA,33.9887405682081,-118.225529193878,$,2.0,1.5,90255,Huntington Park,7-eleven-huntington-park-4,"['convenience', 'coffee']"
+,,,,,,,,,"['tacos', 'foodtrucks']"
+jaWshFCEmjgUWxraLWC8HQ,34.024143,-118.190994,$,1.0,3.0,90023,Los Angeles,calif-tiki-club-los-angeles,['tikibars']
+lNnmA8gz8_5GPCgnBqsUpg,33.6775207519531,-117.921119689941,$$$,66.0,3.5,92626,Costa Mesa,salt-n-pepper-truck-costa-mesa,"['foodtrucks', 'steak', 'hotdog']"
+,,,,,,,,,['parks']
+8kz5b6eCAcY2uIPA2opaxA,33.973020204831,-118.217376540424,$,5.0,1.5,90255,Huntington Park,7-eleven-huntington-park-3,"['convenience', 'coffee']"
+dFXMXSJf-66wFO6rGIs3yw,33.974942,-118.227585,$,10.0,1.0,90255,Huntington Park,subway-restaurants-huntington-park-4,"['sandwiches', 'hotdogs']"
+,,,,,,,,,['mexican']
+hnve4ELPsf6Giu4pKXG6Mg,33.9804125,-118.2253349,$,1.0,3.0,90255,Huntington Park,panda-enterprises-huntington-park,['restaurants']
+,,,,,,,,,"['burgers', 'foodtrucks', 'streetvendors']"
+,,,,,,,,,['bakeries']
+ArNn_z5JniFVTMveESejOw,34.01821,-118.20681,$$,1.0,5.0,90023,Los Angeles,ostioneria-colima-los-angeles-2,['restaurants']
+,,,,,,,,,"['mexican', 'breakfast_brunch', 'foodtrucks']"
+geGRPNvHqt-O7YD-EFJE9w,34.15697,-117.48216,$$,45.0,4.5,92336,Fontana,the-cake-factory-and-more-fontana,"['desserts', 'bakeries', 'customcakes']"
+,,,,,,,,,['localflavor']
+,,,,,,,,,['restaurants']
+pQaitU78SDz_boon5aBaAQ,34.030262,-118.199028,$,2.0,2.0,90023,Los Angeles,kfc-los-angeles-59,"['chicken_wings', 'chickenshop', 'hotdogs']"
+,,,,,,,,,['icecream']
+RTd8qW4O6vMbI14ofs9_Ag,34.18704,-118.13342,$$,2.0,5.0,91001,Pasadena,chili-chili-mango-pasadena-6,"['icecream', 'foodtrucks']"
+hefmETkxYEJ9rgvIS6DA9w,33.9872922,-118.1858328,$$,1.0,2.0,90270,Maywood,tammys-bakery-maywood,['bakeries']
+,,,,,,,,,"['foodtrucks', 'cuban']"
+,,,,,,,,,"['desserts', 'foodstands', 'catering']"
+QFhduBVmwdjJeFZ8LE9wOw,33.9727861448897,-118.225462473929,$,1.0,3.0,90255,Huntington Park,la-cocina-huntington-park,"['salvadoran', 'mexican']"
+,,,,,,,,,"['foodtrucks', 'catering', 'desserts']"
+hRPGWX4Pdd4FgQe3j-uJtA,33.7624390089761,-118.197011612356,$,3.0,5.0,90801,Long Beach,mustache-mikes-365-long-beach,"['icecream', 'foodstands', 'italian']"
+,,,,,,,,,['mexican']
+,,,,,,,,,"['streetvendors', 'tacos']"
+,,,,,,,,,"['wine_bars', 'winetastingroom', 'selfstorage']"
+,,,,,,,,,['foodstands']
+,,,,,,,,,"['foodtrucks', 'latin', 'cafes']"
+,,,,,,,,,"['foodtrucks', 'tradamerican', 'mexican']"
+MaMcWQp1PjAgW_bXjViSVg,33.73095,-117.81275,$,7.0,5.0,92780,Tustin,the-feeding-frenzy-tustin-2,"['foodtrucks', 'desserts', 'catering']"
+,,,,,,,,,"['painters', 'publicart']"
+1q5q7-2HfY-JikZlIQAPoQ,34.0272119,-118.2193912,$$,1.0,2.0,90023,Los Angeles,seafood-bay-los-angeles,['seafood']
+,,,,,,,,,['salvadoran']
+Zh83pNfw_CS0cjnJ0Nuv5w,33.89644,-118.17608,$,4.0,2.5,90723,Los Angeles,dogfather-truck-los-angeles-4,"['foodtrucks', 'hotdog']"
+,,,,,,,,,"['tacos', 'foodtrucks']"
+,,,,,,,,,"['tacos', 'foodstands']"
+3oW5g7dcMj71slaNKmgq1w,34.030686467886,-118.207575157285,$,1.0,5.0,90023,Los Angeles,armandos-bakery-los-angeles,['bakeries']
+,,,,,,,,,['streetvendors']
+,,,,,,,,,['seafood']
+,,,,,,,,,"['coffee', 'foodtrucks', 'juicebars']"
+,,,,,,,,,['desserts']
+,,,,,,,,,"['foodtrucks', 'mexican']"
+,,,,,,,,,"['foodtrucks', 'tradamerican']"
+,,,,,,,,,"['catering', 'desserts', 'foodtrucks']"
+,,,,,,,,,"['coffee', 'foodstands']"
+,,,,,,,,,"['foodtrucks', 'halal', 'mediterranean']"
+,,,,,,,,,['coffee']
+,,,,,,,,,"['foodtrucks', 'mexican', 'seafood']"
+,,,,,,,,,"['foodtrucks', 'icecream']"
+,,,,,,,,,"['foodtrucks', 'caribbean']"
+QIBNrvbykGPb7uuAIaO5Kg,33.97821,-118.18607,$$,1.0,1.0,90201,Bell,tarasco-bar-bell,['bars']
+myW4G0FVfeUvXqefR57A6A,34.1831481,-119.1656806,$,66.0,4.5,93033,Oxnard,its-in-the-sauce-bbq-oxnard,"['bbq', 'catering', 'foodtrucks']"
+,,,,,,,,,"['tacos', 'foodstands']"
+,,,,,,,,,['bakeries']
+,,,,,,,,,"['italian', 'foodtrucks']"
+,,,,,,,,,"['golf', 'venues', 'wedding_planning']"
+,,,,,,,,,"['hiking', 'walkingtours', 'nonprofit']"
+,,,,,,,,,"['indpak', 'foodtrucks', 'streetvendors']"
+,,,,,,,,,"['zoos', 'nonprofit']"
+,,,,,,,,,"['galleries', 'painters', 'museums']"
+,,,,,,,,,"['atvrentals', 'hiking', 'rvrental']"
+,,,,,,,,,"['bikerentals', 'hiking', 'tours']"
+p80H4LNPVe3rUB7YBjH4bg,34.21332,-118.35861,$,1.0,1.0,91352,Los Angeles,shawarma-and-falafel-palace-food-truck-los-angeles,"['foodtrucks', 'mideastern']"
+,,,,,,,,,"['wedding_planning', 'bakeries']"
+,,,,,,,,,"['aquariums', 'localfishstores', 'aquariumservices']"
+,,,,,,,,,"['waterdelivery', 'coffee']"
+,,,,,,,,,"['wedding_planning', 'desserts']"
+,,,,,,,,,"['foodtrucks', 'pizza']"
+,,,,,,,,,"['pettingzoos', 'kids_activities', 'facepainting']"
+,,,,,,,,,"['foodtrucks', 'sandwiches', 'puertorican']"

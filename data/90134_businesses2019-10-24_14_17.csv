@@ -1,0 +1,376 @@
+id,latitude,longitude,price,review_count,rating,zip_code,city,alias,category
+3mARGORt-0RzpwCkvmWw9g,38.1171265,13.3588565,€€,32.0,4.5,90134,Palermo,frida-pizzeria-palermo-2,['pizza']
+,,,,,,,,,"['churches', 'landmarks', 'museums']"
+vQdpcGiNnPH4T9HEpcyDWQ,38.1151166153566,13.3564124967013,€€,13.0,5.0,90134,Palermo,la-galleria-palermo,"['mediterranean', 'italian']"
+TZQME-euBDH9UKtz5q-6hQ,38.1149949535903,13.3606369793415,€€,19.0,4.5,90134,Palermo,primi-piatti-palermo,"['sicilian', 'pizza']"
+q4ZY6dUfWhyYzmrU6ppEaA,38.1171787369423,13.3630945909621,€€,42.0,4.0,90133,Palermo,ferro-di-cavallo-palermo,['italian']
+ecyQopUKjIsqySFOAi1oJQ,38.11473,13.36035,€€,23.0,4.0,90134,Palermo,i-cucci-palermo,['italian']
+UhqcS4s0NDwBZ1D373dMng,38.1200901,13.3587183,€€,19.0,4.5,90133,Palermo,da-bacco-palermo,"['pizza', 'sicilian', 'seafood']"
+dm_qU8CRnapIpTS7cLd02g,38.1151067999102,13.3617753570099,€€,22.0,4.0,90133,Palermo,bisso-palermo,"['bistros', 'vegan', 'vegetarian']"
+QJDRMeqKpWM9tnANjF-_Jw,38.11641,13.36615,€€,43.0,4.0,90133,Palermo,antica-focacceria-san-francesco-palermo,['italian']
+huhLcUmTbYwCy35s8Aey7A,38.1172108,13.3650371,€€€,14.0,4.5,90133,Palermo,casa-del-brodo-palermo,['italian']
+01EXcBNCsy7FePq3Cf8BeQ,38.1177380165884,13.3601199835539,€,15.0,4.0,90133,Palermo,arancina-d-autore-palermo,"['hotdogs', 'italian', 'rotisserie_chicken']"
+Jipxh_1Nq9mVR8eCUGEzmg,38.122133173328,13.3558396280942,€,10.0,4.0,90141,Palermo,brioscià-palermo,"['gelato', 'desserts', 'icecream']"
+fPXLPO9Y6zMg0K-gHhhuQQ,38.11217,13.3503,€€,7.0,4.5,90134,Palermo,cappello-salvatore-palermo,"['bars', 'desserts', 'gelato']"
+,,,,,,,,,['landmarks']
+NEq2A_z_bTEwsDm8-Xz3Sg,38.1203864277288,13.3601566162924,€€,10.0,4.0,90133,Palermo,fud-palermo,"['burgers', 'italian']"
+_pfWEHeCefN8WK__rJiRgw,38.12718,13.3487,€€€,13.0,4.5,90141,Palermo,la-corte-dei-mangioni-palermo-2,"['pizza', 'steak', 'burgers']"
+Ck1Bb1uACHnQ1vAth2vRcg,38.115912,13.365586,€€€,15.0,4.0,90133,Palermo,osteria-ballaro-palermo,['italian']
+opWrtKtCMZK1B9GcXzbNIg,38.1237799,13.35668,€€,27.0,3.5,90139,Palermo,caffè-pasticceria-spinnato-palermo-2,"['cafes', 'coffee', 'desserts']"
+,,,,,,,,,"['landmarks', 'churches', 'funeralservices']"
+0o6Ei_F2BKZk6roFXr3ELg,38.11323263,13.37199349,€,18.0,4.0,90123,Palermo,bar-touring-palermo-4,"['bars', 'desserts']"
+rxIfd7L97ETxorpQGroPDA,38.1186485,13.3682299,€,8.0,5.0,90133,Palermo,pani-ca-meusa-palermo,"['italian', 'foodtrucks']"
+sxF5HprphYwaHDIC3ZvP5A,38.12108,13.35509,€€€,6.0,4.5,90138,Palermo,osteria-proseccheria-mercede-palermo,"['italian', 'seafood', 'mediterranean']"
+6sbAJ3Xl2Jdh7myk0cza7g,38.1179307016579,13.3670563388646,€,15.0,4.0,90133,Palermo,nni-franco-u-vastiddaru-palermo,"['sandwiches', 'sicilian']"
+,,,,,,,,,"['italian', 'pizza']"
+4B_PK6DI-b4twEmqZCJQUg,38.11731,13.35842,€€,4.0,5.0,90134,Palermo,osteria-pane-e-alivi-palermo,"['italian', 'seafood']"
+M95rI91Wmyl6_lBqShrmLg,38.1170649994855,13.3651388937511,€€,18.0,3.5,90133,Palermo,buatta-palermo,['sicilian']
+EJQUU_3HJU_Z17NanYOqJQ,38.1256,13.3590199,€,12.0,4.0,90139,Palermo,osteria-lo-bianco-palermo-5,"['vegetarian', 'sicilian']"
+oZcKC1hxinZSJdknyhryUA,38.123257,13.358386,€€€,7.0,4.5,,Palermo,tribeca-palermo,"['bars', 'japanese']"
+JFrvEcL6fiXoq5gT9P-L0w,38.1103068,13.35485,€,9.0,3.5,90134,Palermo,villa-san-giovanni-degli-eremiti-palermo,['sicilian']
+uXljKeJaTj2YKkXQvvTuGw,38.113438,13.3560704,€,4.0,4.5,90134,Palermo,bar-marocco-di-valdina-elena-palermo,"['bars', 'cafes', 'coffee']"
+ua4VshQ6ltihK-guhSRhSg,38.1149018721661,13.3604276178494,€€,11.0,3.5,90134,Palermo,carlo-v-palermo,['italian']
+,,,,,,,,,"['icecream', 'juicebars', 'cakeshop']"
+DwXZJREY2owc6tkPOVTI4g,38.1146407555037,13.3591112618869,€,4.0,5.0,90134,Palermo,caffetteria-del-corso-palermo,"['bars', 'cafeteria']"
+OBUifbk3kjXU8TjTUSQWbA,38.1148819154237,13.3658182592067,€€€,7.0,4.5,90133,Palermo,osteria-dei-vespri-palermo,['restaurants']
+bNb9oh60WJMwdUgchBmurw,38.12491,13.3533,€€€,8.0,4.5,90141,Palermo,trattoria-biondo-palermo,['italian']
+,,,,,,,,,['landmarks']
+,,,,,,,,,"['sicilian', 'bars']"
+,,,,,,,,,['mediterranean']
+qstXiG3-fviZrQUeBCGYuQ,38.1276964817515,13.3494126051664,€€€,5.0,4.5,90141,Palermo,sal-capone-sushiclub-palermo-2,"['sushi', 'japanese']"
+y4nxuRHaDXa4vptznd1tfQ,38.1097056155072,13.3658663784102,€€,4.0,5.0,90127,Palermo,antica-trattoria-pizzeria-enzo-palermo,"['pizza', 'italian', 'trattorie']"
+tuAWau7yN7hQJpg1hUkHUA,38.124649,13.3594999,€€,7.0,4.0,90139,Palermo,giada-palermo,"['sicilian', 'cafeteria']"
+0uO9eLSVT8Vyph_q-ENfWg,38.11686,13.3516999,€€,2.0,5.0,90134,Palermo,barresi-carni-e-salumi-palermo,"['grocery', 'bbq']"
+A3Imsuj0kLEc6CQFw0e1nA,38.109680483606,13.3586836661568,€€€,6.0,3.5,90134,Palermo,al-vicolo-palermo,['italian']
+,,,,,,,,,"['italian', 'vegetarian', 'seafood']"
+xOnVex0wPCRI_JQXPOI2sA,38.1168084,13.3561722,€€,4.0,4.0,90134,Palermo,acuncuma-palermo,['italian']
+1jfUuZtF15DEvHB1b7WYgw,38.1212502,13.3594198,€€,7.0,4.0,90133,Palermo,champagneria-palermo,"['pubs', 'champagne_bars']"
+,,,,,,,,,['parks']
+r2L_6u-dHhKtv55gMYvfVA,38.11054,13.33077,€€,9.0,4.0,90135,Palermo,la-cubana-palermo,"['bakeries', 'cakeshop', 'icecream']"
+mOM4ala5-dWdpcNMi7lJdg,38.1183694,13.3660597,€€€€,5.0,4.5,90133,Palermo,gagini-palermo,['italian']
+OL4-QqX5ePe9y-RetftV4Q,38.1173477172851,13.3698644638062,€€,4.0,5.0,90133,Palermo,cioccolateria-lorenzo-palermo,"['bakeries', 'coffee', 'internetcafe']"
+L-rxY4TxMH_SJu70rRaTdA,38.1174029,13.3657635,€€,9.0,3.5,90133,Palermo,le-delizie-di-cagliostro-palermo,['sicilian']
+,,,,,,,,,"['pizza', 'italian']"
+,,,,,,,,,['sicilian']
+,,,,,,,,,"['coffee', 'delicatessen']"
+PIkYJJpYNNAKycP6haydDw,38.1244275557364,13.36,€€,8.0,3.5,90139,Palermo,tondo-palermo,['italian']
+,,,,,,,,,['italian']
+,,,,,,,,,"['italian', 'mediterranean', 'pizza']"
+,,,,,,,,,"['wine_bars', 'italian']"
+H98m9EH0CacDv8uW00w4LQ,38.12435991,13.35836201,€€,11.0,3.0,90139,Palermo,vino-e-pomodoro-palermo,"['italian', 'pizza', 'lounges']"
+,,,,,,,,,['sicilian']
+cY3XMvL6POOYc9NMumeJ1Q,38.123214,13.3565588,€€,3.0,4.5,90139,Palermo,i-cuochini-palermo,"['hotdogs', 'rotisserie_chicken']"
+,,,,,,,,,"['italian', 'trattorie']"
+X5MuExjAqKS6e55hWF8g8Q,38.1184822,13.36268,€€,7.0,3.5,90139,Palermo,il-mirto-e-la-rosa-palermo-2,"['italian', 'vegetarian']"
+pht97vg-wXk4eqBPe2APAA,38.1070324056878,13.3540943638021,€€,2.0,5.0,90128,Palermo,pasticceria-massaro-palermo-2,"['cafes', 'desserts', 'cakeshop']"
+8hyl3bh1wK4rCSra7uEb-A,38.11511895,13.36000559,€€,3.0,4.0,90134,Palermo,riso-museo-d-arte-contemporanea-della-sicilia-palermo,"['landmarks', 'bookstores', 'museums']"
+,,,,,,,,,"['wine_bars', 'italian']"
+,,,,,,,,,['landmarks']
+wjbBfEAaRPBTBfstgeRGpw,38.1270956,13.3544209,€€,6.0,4.0,90139,Palermo,bar-aluia-palermo-5,['cafes']
+IBlqeULOca94uV0HuA5N-Q,38.12747,13.35867,€€,6.0,3.5,90139,Palermo,piccolo-napoli-palermo,"['seafood', 'trattorie']"
+,,,,,,,,,"['trattorie', 'pizza']"
+jIgPT_ctS0GPYDllhXE1qw,38.1176172081959,13.3634695997596,€,3.0,4.5,90133,Palermo,taverna-azzura-palermo,['wine_bars']
+,,,,,,,,,['museums']
+F3ctnmc92qUPCLnRW96mqw,38.1108738353657,13.3546436710591,€€,2.0,4.0,90134,Palermo,al-casato-dei-ventimiglia-palermo,['italian']
+,,,,,,,,,"['pizza', 'italian']"
+QdMtPQs8A_WEHNdD1eZviQ,38.1176285149783,13.3675367282018,€€,4.0,4.0,90133,Palermo,palazzo-trabucco-palermo-3,"['seafood', 'sicilian', 'wine_bars']"
+,,,,,,,,,"['kebab', 'pizza', 'sandwiches']"
+,,,,,,,,,['italian']
+V99TFokeDTsmQv9NNFgg4Q,38.1176682,13.3643303,€,3.0,4.5,90133,Palermo,piazza-garraffaello-palermo,['bars']
+,,,,,,,,,['italian']
+,,,,,,,,,"['italian', 'pizza']"
+,,,,,,,,,['lumbard']
+hjIJe9Bu-WVR3UiNoXNRNA,38.1094971,13.3617897,€€,3.0,3.5,90134,Palermo,porta-agata-palermo,['italian']
+,,,,,,,,,['pizza']
+Vcshi7GOnMvTXVQb1YUJuQ,38.11880673,13.3673776,€,2.0,5.0,90133,Palermo,porta-carbone-palermo,['sicilian']
+,,,,,,,,,"['beverage_stores', 'icecream']"
+,,,,,,,,,"['landmarks', 'museums', 'religiousorgs']"
+,,,,,,,,,['italian']
+-LDBo4JV4Ehkc4vtsr33Hw,38.1109,13.3570499,€€€,2.0,4.5,90134,Palermo,la-cueva-palermo,['italian']
+,,,,,,,,,['italian']
+y4eDPsAiJsVyoAk4kwC6Eg,38.13124,13.35791,€€,3.0,4.5,90139,Palermo,mudù-palermo-2,['pizza']
+,,,,,,,,,['seafood']
+,,,,,,,,,['italian']
+,,,,,,,,,"['landmarks', 'vacation_rentals']"
+DXJnewWWzpbSw_QLOq2DBg,38.1157684326172,13.3590326309204,€€,2.0,4.0,90134,Palermo,malox-palermo,['pubs']
+IJiNhxHWORoMR5to2Xu5aw,38.1112513,13.3494634,€€,3.0,4.0,90129,Palermo,trattoria-family-palermo,['italian']
+,,,,,,,,,"['cocktailbars', 'sicilian', 'wine_bars']"
+Bn9IN8bqZtafNNZtnN6gng,38.1172178556152,13.369403644608,€€€,7.0,3.5,90133,Palermo,al-covo-dei-beati-paoli-palermo-2,['pizza']
+KZcVnBnp3W3SlenPwMvEJg,38.12242,13.34545,€,4.0,4.0,90100,Palermo,pizzeria-sciuscià-di-todaro-manuela-palermo-2,"['pizza', 'italian']"
+,,,,,,,,,"['gourmet', 'hotdogs']"
+1r6kbIcJzNbGEbvR1sYPeQ,38.11499,13.36259,€€,7.0,2.5,90133,Palermo,pizzeria-bellini-di-salvatore-e-michele-militello-palermo,"['pizza', 'italian']"
+,,,,,,,,,"['cafes', 'icecream']"
+,,,,,,,,,"['cafes', 'cakeshop', 'icecream']"
+OPwRyHQOOe-0Xf_UWdc3qA,38.10776,13.36225,€,2.0,5.0,90127,Palermo,zummo-palermo,['pizza']
+BCcJPM65cVBfZY2R22Yl_g,38.12093441,13.35713889,€€,9.0,2.0,90138,Palermo,al-59-palermo,['italian']
+x7yabaGNiOHFejOyBhNYZA,38.1222305,13.3542204,€€,2.0,4.0,90141,Palermo,cha-centro-del-palermo,"['coffee', 'pubs']"
+,,,,,,,,,['bars']
+,,,,,,,,,"['landmarks', 'collegeuniv', 'religiousorgs']"
+,,,,,,,,,"['cakeshop', 'icecream']"
+TqZ4MpxaO59bjUQ7Yb19_A,38.1155295,13.3640377,€€,3.0,4.0,90133,Palermo,da-ciccio-palermo,['italian']
+vhIiYKfUghhfAdUeUGrD4w,38.1220703,13.3534327,€€,2.0,4.5,90141,PA,basquiat-cafè-pa,['bars']
+qqPi4E-20N5WuLdW5cjMTg,38.1135269505493,13.3626403910156,€,2.0,4.5,90100,Palermo,bar-due-torri-palermo,"['beer_and_wine', 'bakeries', 'breweries']"
+,,,,,,,,,"['landmarks', 'churches']"
+,,,,,,,,,"['bistros', 'cocktailbars']"
+,,,,,,,,,"['pizza', 'sicilian']"
+,,,,,,,,,"['landmarks', 'churches']"
+,,,,,,,,,"['italian', 'seafood']"
+,,,,,,,,,['bars']
+,,,,,,,,,"['italian', 'importedfood']"
+,,,,,,,,,['restaurants']
+,,,,,,,,,"['landmarks', 'churches']"
+,,,,,,,,,"['cocktailbars', 'italian']"
+,,,,,,,,,['italian']
+,,,,,,,,,"['streetvendors', 'friterie']"
+,,,,,,,,,"['bars', 'italian']"
+9_6V2bF21F3TkNa8xwml1Q,38.1180777598877,13.3673143386841,€€,2.0,4.5,90133,Palermo,garraffo-palermo,"['wine_bars', 'mediterranean', 'sicilian']"
+30IpmIaC3WrUHo8RemVx9w,38.1209183,13.3583698,€€,1.0,5.0,90133,Palermo,drinkeria-cavour-palermo,"['bars', 'italian']"
+,,,,,,,,,"['landmarks', 'churches']"
+,,,,,,,,,"['breakfast_brunch', 'bakeries']"
+,,,,,,,,,['restaurants']
+,,,,,,,,,"['turkish', 'hotdogs', 'egyptian']"
+,,,,,,,,,['pubs']
+boenMeBXgrlk1TEtQzwwzQ,38.117821,13.363228,€€,5.0,3.0,90133,Palermo,lucchese-giuseppe-palermo,"['cafes', 'icecream']"
+,,,,,,,,,"['gardens', 'parks']"
+,,,,,,,,,"['seafood', 'bistros', 'pizza']"
+,,,,,,,,,"['diners', 'seafood', 'trattorie']"
+H15ru1m79kim7CXSuIOPgQ,38.1273804,13.3522501,€€,3.0,4.0,90141,Palermo,pipi-room-palermo,"['pizza', 'sicilian']"
+SORrOMHmfTXCLCj4BtB03Q,38.1201693023716,13.3589614422932,€€,2.0,4.0,90133,Palermo,vespa-cafè-palermo,"['cocktailbars', 'lounges', 'cafes']"
+,,,,,,,,,"['pizza', 'sicilian']"
+,,,,,,,,,['italian']
+Mg7Md6pzfLtC2YqX2r_t7A,38.1218796,13.3405104,€€€,2.0,4.5,90145,Palermo,corona-vini-del-paradiso-palermo,['restaurants']
+xRUI2E9pIqXF54DEBU6JmA,38.12601,13.35442,€€€€,2.0,4.5,90141,Palermo,pizzo-gaetano-palermo,['italian']
+,,,,,,,,,"['pizza', 'diners', 'trattorie']"
+,,,,,,,,,['cafes']
+,,,,,,,,,['cocktailbars']
+,,,,,,,,,['italian']
+PBda4Rk97kElCVSEP3ZKqQ,38.1311899,13.34408,€,6.0,3.5,90141,Palermo,ke-palle-palermo,"['italian', 'hotdogs']"
+wuhXqLEjaKH6gCR9CUIGvQ,38.11582,13.35116,€,1.0,4.0,90138,Palermo,caffetteria-degli-antiquari-di-vitale-maria-palermo,['bars']
+OkUKUPswqFrwP-moibpiCA,38.13106,13.35757,€€€,2.0,5.0,90139,Palermo,quattro-venti-comfort-food-palermo,"['mediterranean', 'sicilian', 'wine_bars']"
+,,,,,,,,,['italian']
+,,,,,,,,,"['theater', 'landmarks']"
+Vej5fdWVrgG7OS1qOcqgtg,38.11788689,13.36665335,€,3.0,4.0,90133,Palermo,voglia-di-pizza-palermo,['pizza']
+,,,,,,,,,['italian']
+,,,,,,,,,"['landmarks', 'castles']"
+,,,,,,,,,"['pubs', 'breweries', 'cocktailbars']"
+,,,,,,,,,['museums']
+,,,,,,,,,['italian']
+BZjQutH2A7VIMD9lTVIeTw,38.12425,13.3289,€€€,5.0,3.5,90135,Palermo,lo-strascino-palermo,['italian']
+,,,,,,,,,"['friterie', 'hotdogs', 'sandwiches']"
+E2IwkkM-mTEuPFEdVLX_ww,38.1281864,13.332162,€€€€,4.0,4.0,90145,Palermo,pasticceria-oscar-palermo,"['icecream', 'bars', 'chocolate', 'coffee']"
+,,,,,,,,,"['shavedice', 'icecream']"
+rWeTN6LKwgTpjKUrUN9s5Q,38.1256290630225,13.3495953271922,€€,4.0,3.5,90141,Palermo,trattoria-altri-tempi-palermo,"['seafood', 'sardinian', 'trattorie']"
+,,,,,,,,,"['bars', 'cafes', 'coffee']"
+,,,,,,,,,"['bars', 'cafeteria', 'senegalese']"
+,,,,,,,,,"['seafood', 'pizza']"
+,,,,,,,,,"['sushi', 'japanese', 'cocktailbars']"
+,,,,,,,,,"['icecream', 'cafeteria']"
+,,,,,,,,,"['cafes', 'bakeries', 'icecream']"
+,,,,,,,,,"['italian', 'hotdogs']"
+,,,,,,,,,"['pizza', 'napoletana', 'cucinacampana']"
+,,,,,,,,,['museums']
+,,,,,,,,,['pizza']
+,,,,,,,,,"['jazzandblues', 'italian']"
+zs5bJXnVWQk8fvl5bTF0hA,38.11689,13.36401,€€,1.0,5.0,90133,Palermo,arusa-alessandro-palermo,['sicilian']
+,,,,,,,,,"['italian', 'hotdogs']"
+,,,,,,,,,"['mediterranean', 'pizza', 'seafood']"
+Gkzvz8pAkMUXKRExLLvKSA,38.11431,13.36672,€€,2.0,4.5,90133,Palermo,qvivi-palermo,['bars']
+,,,,,,,,,"['wine_bars', 'italian', 'pizza']"
+AXPP8krX-QLOUaQ3pGUC3w,38.1179369177749,13.3669020000124,€,2.0,4.0,90133,Palermo,ai-bottai-palermo,['bars']
+XvKL0hfQqUrtPfTy8nBK5g,38.12489,13.35789,€€€,2.0,4.0,90139,Palermo,il-cancelletto-verde-palermo,['italian']
+RutitJK1uHKNnxJMQIIY4Q,38.1248283,13.3619804,€,2.0,4.0,90139,Palermo,moon-indian-palermo,['indpak']
+,,,,,,,,,"['pizza', 'italian']"
+,,,,,,,,,"['bars', 'cafeteria', 'icecream']"
+,,,,,,,,,"['desserts', 'icecream']"
+I9FUWudYGc9EoFkYUd5tXw,38.120468,13.3507818,€€,2.0,3.5,90138,Palermo,pizzeria-e-trattoria-goethe-di-sardina-salvatore-e-c-palermo,"['pizza', 'italian']"
+,,,,,,,,,"['seafood', 'fishnchips']"
+scKEIrls47bFVafx4rk64g,38.1159088812028,13.3663385356994,€,1.0,5.0,90133,Palermo,bar-garibaldi-palermo,['bars']
+,,,,,,,,,['beerbar']
+,,,,,,,,,"['cafes', 'mediterranean', 'trattorie']"
+,,,,,,,,,"['desserts', 'wine_bars']"
+,,,,,,,,,['italian']
+,,,,,,,,,"['sicilian', 'bistros', 'wine_bars']"
+,,,,,,,,,"['burgers', 'italian']"
+,,,,,,,,,"['desserts', 'gelato', 'bakeries']"
+IVW4DgLVWnAB5qMSxLGTCQ,38.1202541,13.3641217,€€€€,1.0,5.0,90133,Palermo,nabucco-di-guzzo-costantino-palermo,['italian']
+,,,,,,,,,['wine_bars']
+,,,,,,,,,"['landmarks', 'museums', 'religiousorgs']"
+,,,,,,,,,['cafes']
+,,,,,,,,,['italian']
+pB5GBuGoKyPTOQgU8AMX5A,38.116777,13.363037,€€,1.0,4.0,90133,Palermo,il-pipino-rosso-palermo,"['pizza', 'italian']"
+,,,,,,,,,"['desserts', 'icecream']"
+,,,,,,,,,"['lounges', 'cocktailbars']"
+,,,,,,,,,"['icecream', 'chocolate', 'cakeshop']"
+,,,,,,,,,"['pizza', 'italian']"
+dP4HO7cIPhSF-UwZ4QXOiA,38.1199417,13.3595695,€€,1.0,4.0,90133,Palermo,il-desiderio-palermo,"['pubs', 'kebab', 'sandwiches']"
+ZtcE9DsRl2uAI-OjLtPvjg,38.131926,13.338769,€€,2.0,4.5,90144,Palermo,bar-san-michele-palermo,['cafes']
+,,,,,,,,,"['italian', 'pizza']"
+q-tWstpBG_mD3oACTUVYBQ,38.11787289,13.3666874,€€,1.0,5.0,90133,Palermo,bodeguita-del-mojito-palermo,"['cocktailbars', 'pubs']"
+spV4IEc9Mri4rvAhNYvElA,38.1116229,13.3543969,€€,2.0,3.5,90134,Palermo,al-manar-e-c-palermo,"['mediterranean', 'pizza']"
+,,,,,,,,,"['cocktailbars', 'beerbar']"
+,,,,,,,,,['sicilian']
+dywBZhfWA2KqklUH006U4g,38.12661,13.36147,€€,2.0,4.0,90139,Palermo,antica-pasticceria-bristol-palermo,"['chocolate', 'desserts']"
+2uSymGQDcSEplwimCvMw3w,38.1152437,13.3699941,€,2.0,4.5,90133,Palermo,drunks-palermo,['wine_bars']
+W7-2hJoeebwTQH05UhLlSw,38.12039,13.35978,€,1.0,4.0,90133,Palermo,caffetteria-il-rintocco-di-saputo-giovanna-palermo,['bars']
+,,,,,,,,,"['cafes', 'sicilian']"
+,,,,,,,,,"['seafood', 'raw_food']"
+,,,,,,,,,['italian']
+,,,,,,,,,"['sicilian', 'pizza']"
+,,,,,,,,,"['parks', 'landmarks']"
+,,,,,,,,,['pizza']
+,,,,,,,,,"['pizza', 'italian']"
+,,,,,,,,,['parks']
+,,,,,,,,,['restaurants']
+,,,,,,,,,"['gelato', 'icecream']"
+zHm60x0iNft88uJE1wqDNg,38.1246,13.35302,€,2.0,3.5,90141,Palermo,cappello-palermo-2,"['desserts', 'cakeshop', 'chocolate']"
+,,,,,,,,,"['bars', 'cafes']"
+iYwfOwPPDk8TtGt0P5ke4A,38.1264899,13.3558299,€€€,2.0,3.5,90139,Palermo,acanto-palermo,"['sushi', 'mediterranean', 'cocktailbars']"
+MPeJ4gFyUJxRi7A7p6LIXA,38.111184575246,13.3508984870566,€,2.0,3.0,90129,Palermo,bar-santoro-palermo-2,['bars']
+dRaCCVIkOQzr9h-TYdpQ8w,38.117956,13.368168,€,2.0,4.0,90133,Palermo,pelledoca-palermo,['italian']
+mnFvct9DxqdDkbyifVBfbg,38.1190605,13.3414402,€€,2.0,3.5,90138,Palermo,lo-scrigno-dei-sapori-palermo,['italian']
+mMyoOTehT8Tjul4Ydrkv1Q,38.1246693,13.3599481,€,4.0,3.0,90139,Palermo,hong-kong-palermo,['restaurants']
+4ctjHXOm0Kq0gOExcoTEPw,38.12815,13.35531,€€,2.0,4.0,90139,Palermo,unto-palermo,"['hotdogs', 'burgers', 'seafood']"
+,,,,,,,,,"['italian', 'mediterranean']"
+,,,,,,,,,"['coffee', 'juicebars']"
+,,,,,,,,,"['seafood', 'italian']"
+M419C5aVakCOG_pFvElR2g,38.14116,13.33496,€€,2.0,5.0,90144,Palermo,pasticceria-mokador-f-lli-sclafani-palermo,"['cafes', 'bars', 'cakeshop']"
+mUoUJ0OuKH3W5RKZn56xmQ,38.1232414,13.3557196,€€,1.0,4.0,90141,Palermo,bolazzi-palermo,['cocktailbars']
+v3rHHvN2ooYVnmtd9LKabw,38.1197139393703,13.3693357184529,€€,2.0,3.5,90133,Palermo,acala-palermo,['lounges']
+Dact1cqhPo0fmrj2HsnjCA,38.1254737,13.3587455,€,2.0,3.0,90139,Palermo,dimas-pizza-palermo,['pizza']
+,,,,,,,,,['italian']
+,,,,,,,,,"['cafes', 'seafood', 'sicilian']"
+,,,,,,,,,
+,,,,,,,,,"['pizza', 'bistros', 'sicilian']"
+,,,,,,,,,"['cafes', 'icecream']"
+,,,,,,,,,"['creperies', 'kebab', 'burgers']"
+,,,,,,,,,"['italian', 'hotdogs']"
+,,,,,,,,,['museums']
+,,,,,,,,,['italian']
+,,,,,,,,,['seafood']
+iyIB_eITbVuuQGAOi_Ytdw,38.1268661,13.3436098,€,3.0,3.0,90145,Palermo,ganci-e-figli-palermo,"['hotdogs', 'rotisserie_chicken']"
+,,,,,,,,,"['italian', 'hotdogs', 'tradamerican']"
+4Dazy7oosLUMGCJAEuqjFQ,38.1099,13.364,€,1.0,4.0,90134,Palermo,bar-gelateria-al-negretto-palermo,"['cafes', 'coffee']"
+9DGyc2iWQ28PtHNrtKAhIg,38.1303406,13.3550196,€€€,5.0,3.0,90139,Palermo,reloj-palermo,"['danceclubs', 'wine_bars', 'italian']"
+ZWf08YAYg8-nRA10XYRYyw,38.1202102737774,13.3403207353445,€,1.0,4.0,90138,Palermo,bar-pasticceria-airone-palermo,['bars']
+,,,,,,,,,"['icecream', 'cakeshop', 'cafeteria']"
+,,,,,,,,,['pizza']
+,,,,,,,,,['italian']
+,,,,,,,,,['trattorie']
+,,,,,,,,,"['pizza', 'fooddeliveryservices']"
+nYmH28kCP7jzu7uEOqS1IA,38.1211980168306,13.3585110000001,€,1.0,3.0,90133,Palermo,burger-king-palermo,['burgers']
+k-wkv0UbHTFFRigQL_CZmA,38.120623730808,13.3599381663289,€€,1.0,3.0,90133,Palermo,ego-palermo,"['breweries', 'italian']"
+d71gGT5r9VtL27psulNmKQ,38.1353756,13.3412663,€€,2.0,4.0,90144,Palermo,chan-sushi-bar-palermo,"['chinese', 'sushi', 'japanese']"
+o-ilXjXiIrNKxkLghE7RLw,38.1251513597034,13.3602591864043,€€,1.0,4.0,90139,Palermo,barrel-44-palermo,['bars']
+Mc5zNJJqc3fwnbqbxhxwXQ,38.129,13.33962,€€,2.0,3.5,90145,Palermo,pasticceria-recupero-palermo-2,"['desserts', 'bakeries']"
+,,,,,,,,,['italian']
+H2DeyefjmF9_xh0tvvLPtw,38.1252401,13.354938,€€,2.0,3.5,90141,Palermo,kovacs-pub-birreria-palermo,['pubs']
+jcDuRnHBjnqB32fQpxnIUA,38.12448,13.35985,€€€,3.0,2.5,90139,Palermo,ristorante-a-cuccagna-palermo,"['venues', 'italian']"
+,,,,,,,,,['beer_and_wine']
+,,,,,,,,,['lounges']
+,,,,,,,,,['lounges']
+,,,,,,,,,['restaurants']
+MXeFXN18SrrutRDz5DkWDA,38.1272316,13.3561096,€€,1.0,4.0,90139,Palermo,berlin-palermo,['lounges']
+,,,,,,,,,"['italian', 'pizza']"
+,,,,,,,,,['italian']
+,,,,,,,,,['pubs']
+,,,,,,,,,"['cakeshop', 'icecream']"
+X85jqeXIUw7s5guIvT56wA,38.1268667,13.3572848,€€,1.0,4.0,90139,Palermo,di-martino-drinks-e-brunch-palermo,['sandwiches']
+,,,,,,,,,['italian']
+,,,,,,,,,['sicilian']
+,,,,,,,,,['italian']
+5DgF98KNIqtXgRSkYisytA,38.1158266,13.3528845,€€,1.0,5.0,90134,Palermo,da-massimo-di-pizzimenti-calogero-palermo,['bistros']
+,,,,,,,,,"['seafood', 'steak', 'trattorie']"
+THSQcC2vke1yvYwMUx_3Gg,38.12386,13.35507,€,3.0,2.5,90141,Palermo,spinnato-i-p-a-s-palermo,['bakeries']
+,,,,,,,,,['italian']
+jaP_iEpRo5kLw8Jit3BGCA,38.105597607305,13.3709281647901,€€,1.0,4.0,90141,Palermo,le-volte-palermo,"['pizza', 'italian']"
+,,,,,,,,,"['pizza', 'cafes', 'gelato']"
+Gqharvs9vGcSklquv42JQQ,38.1175262,13.3682811,€€,4.0,2.0,90133,Palermo,gulu-ristorante-palermo,['sicilian']
+,,,,,,,,,['bars']
+IC4ywwPSVcWEjq4GuKEOUQ,38.1255684,13.33708,€,1.0,4.0,90145,Palermo,pizzeria-la-ruota-palermo,['pizza']
+,,,,,,,,,"['wine_bars', 'danceclubs']"
+,,,,,,,,,['parks']
+kXGnxTygQHUFfiiVG4HMQg,38.1419668,13.3601256,€€,1.0,5.0,90142,Palermo,polizzi-vincenzo-palermo-2,['bakeries']
+JNcTh8Wj433pXWXpIpUykg,38.1235558831195,13.3549355998984,€,1.0,3.0,90141,Palermo,mcdonalds-palermo,"['hotdogs', 'burgers']"
+mp327nY58E5o62FuDrJRxg,38.1304634,13.3545432,€€,2.0,3.5,90139,Palermo,joes-cantina-palermo-2,['italian']
+ANgicE6-JY6VAh_1k9t9LA,38.1253,13.3607,€€€,2.0,2.5,90100,Palermo,la-medina-palermo,['restaurants']
+tpUrNJfkFPkxh8w4h_ZLsQ,38.1185799,13.36555,€€,3.0,2.5,90133,Palermo,calamuri-palermo,['lounges']
+,,,,,,,,,['landmarks']
+,,,,,,,,,"['castles', 'museums']"
+,,,,,,,,,['restaurants']
+,,,,,,,,,['bistros']
+,,,,,,,,,['wine_bars']
+LO5YAZ8g4em7E7vEM7AkiQ,38.08951,13.37306,€€,3.0,3.5,90125,Palermo,mangia-che-è-buono-palermo-2,"['pizza', 'italian', 'seafood']"
+iJxheqtuKr8sJHuuVHph8A,38.11543635,13.34984194,€€€,1.0,4.0,90138,Palermo,ai-cascinari-palermo-2,['italian']
+sghbkNwLI_JQqNvGLwfQ_g,38.11076999,13.36898103,€€,2.0,2.5,90123,Palermo,la-grotta-palermo,['italian']
+,,,,,,,,,"['japanese', 'sushi', 'wine_bars']"
+,,,,,,,,,"['museums', 'churches']"
+mLPCAyJ-UcWmuAlWlPuiNw,38.1342149406661,13.3487269567205,€€,1.0,4.0,90143,Palermo,villa-zito-palermo,['wine_bars']
+,,,,,,,,,['italian']
+o9_qbONiS6eRDA1-Nwb4vQ,38.1270218,13.33076,€,1.0,4.0,90145,Palermo,il-gelatiere-palermo,"['desserts', 'gelato', 'icecream']"
+HHUDjzXqezD7iMpzujcvkQ,38.1177711,13.366559,€,1.0,3.0,90133,Palermo,ai-chiavettieri-palermo,['bars']
+,,,,,,,,,
+,,,,,,,,,['icecream']
+5Cwsz-spbf3u4PLsJdog3Q,38.12623,13.35698,€€€,1.0,3.0,90139,Palermo,capricci-palermo,"['catering', 'venues', 'italian']"
+WiOXWvRcCl3hcBV4_NbiXg,38.1281480428547,13.3288717463899,€€,2.0,3.0,90145,Palermo,mcdonalds-palermo-2,"['hotdogs', 'tradamerican']"
+Jc6DSdzx5q286i_Ll5qILQ,38.1246796,13.3619003,€€,1.0,3.0,90139,Palermo,lo-scugnizzo-palermo,['sicilian']
+GXYo87oUco2c1cGaZJqbyQ,38.1308802875374,13.3305871859193,€,3.0,2.5,90145,Palermo,luxury-palermo,['coffee']
+,,,,,,,,,"['sicilian', 'bars', 'icecream']"
+q2DFhVp04Nn7LuO1h0-7eQ,38.12883,13.3592244,€,1.0,3.0,90139,Palermo,trattoria-i-compari-palermo,['sicilian']
+,,,,,,,,,"['hotdogs', 'pubs']"
+,,,,,,,,,"['cocktailbars', 'sicilian', 'asianfusion']"
+,,,,,,,,,"['italian', 'soup', 'pizza']"
+7j_6K3fThYHDSS0QBmZTNQ,38.11591,13.3613,€,1.0,1.0,90100,Palermo,cafferuvolo-di-ruvolo-onofrio-palermo,['bars']
+,,,,,,,,,['restaurants']
+,,,,,,,,,['italian']
+,,,,,,,,,['coffee']
+,,,,,,,,,"['cakeshop', 'hotdogs', 'pizza']"
+,,,,,,,,,"['pizza', 'italian', 'gastropubs']"
+,,,,,,,,,['italian']
+JUFa-Ec4DntrUaDtqO2JMg,38.1423211,13.3545156,€€,3.0,3.5,90143,Palermo,al-gelatone-palermo,['icecream']
+fd2He_QoXPvxJfaBhTm2iQ,38.1175519,13.367541,€€,2.0,2.0,90133,Palermo,palazzo-trabucco-palermo-2,['italian']
+,,,,,,,,,"['pizza', 'italian', 'breweries']"
+kckgweMZgJjhOqrf6yXaHQ,38.1167491,13.3560452,€€€,1.0,3.0,90134,Palermo,al-desco-palermo,['italian']
+zMuQZ7vbsXIfielrzRc7kA,38.1286215057364,13.3365990313523,€€,1.0,3.0,90145,Palermo,taco-loco-palermo,"['sportsbars', 'pubs', 'italian']"
+,,,,,,,,,['sicilian']
+,,,,,,,,,['parks']
+,,,,,,,,,['pizza']
+LZKO76pOxVl84vi_saRWng,38.130112304682,13.3350768685341,€€,2.0,2.5,,Palermo,caflish-palermo,['bars']
+,,,,,,,,,"['cafes', 'coffee']"
+,,,,,,,,,['steak']
+,,,,,,,,,['italian']
+,,,,,,,,,['italian']
+,,,,,,,,,"['hotdogs', 'beer_and_wine']"
+hw1sPcDT_-q5ZFckr4aiqw,38.1266913,13.3552271,€€€,2.0,4.0,90139,Palermo,salumeria-antchi-sapori-di-passalacqua-giuseppe-c-palermo,['delicatessen']
+,,,,,,,,,"['italian', 'mediterranean']"
+,,,,,,,,,['italian']
+,,,,,,,,,"['desserts', 'pizza', 'sicilian']"
+twxJTUs_OIO9BVXZXfUslQ,38.1074905,13.3596897,€,1.0,3.0,90127,Palermo,filiciuzza-palermo,['pizza']
+,,,,,,,,,"['cakeshop', 'cafeteria', 'icecream']"
+CJI8Df5fsCDrHKL5wSzOqw,38.1355510422026,13.3363492414355,€€,1.0,3.0,90144,Palermo,bar-sicilia-2-palermo,"['bars', 'cakeshop', 'icecream']"
+,,,,,,,,,"['sicilian', 'bistros']"
+k4Z90u4mdZLEnD_jJOOfBg,38.1398950425214,13.3491219207644,€€,1.0,3.0,90143,Palermo,orocolato-palermo,"['beer_and_wine', 'wine_bars']"
+2lhNS07YXBNX9gJXRLUioA,38.1382484,13.3450899,€€€,4.0,1.5,,Palermo,fratelli-la-bufala-via-d-annunzio-palermo,['restaurants']
+,,,,,,,,,"['pizza', 'italian', 'mediterranean']"
+5cJiBzxWtC4gmhsSj2E_Fg,38.1158850717546,13.3650125697057,€,1.0,4.0,90133,Palermo,talé-palermo,"['italian', 'wine_bars', 'gastropubs']"
+,,,,,,,,,"['gelato', 'icecream']"
+,,,,,,,,,"['cafes', 'coffee']"
+_8QOiyKGf8hEObgV2sOduw,38.1284485,13.3328199,€€,1.0,2.0,90145,Palermo,new-paradise-palermo-2,"['bakeries', 'bars', 'desserts']"
+,,,,,,,,,"['italian', 'mediterranean', 'pizza']"
+,,,,,,,,,['italian']
+,,,,,,,,,['sandwiches']
+v6yDOK-2hD4PeClYA6m9wA,38.13831,13.34486,€€€,1.0,2.0,90144,Palermo,costa-palermo,['bars']
+,,,,,,,,,"['italian', 'cafeteria', 'pizza']"
+vsB22ThR1pofI5xbVq-UnA,38.13819051,13.34197283,€€€,1.0,2.0,90144,Palermo,la-cuba-palermo,"['lounges', 'italian']"
+,,,,,,,,,['restaurants']
+Pz7QAepD7WgEoLIYMok7vA,38.1272246201587,13.3547673952991,€€,1.0,3.0,90139,Palermo,special-sandiwich-palermo,
+VKrB5ePvFj50EDB9geKc_g,38.1284797,13.354021,€€€,1.0,3.0,90139,Palermo,carillon-di-pellitteri-santina-c-palermo,['pizza']
+,,,,,,,,,['hotdogs']
+,,,,,,,,,['pizza']
+MJadNpwXy5HOwnvMT57LOw,38.1314536,13.329756,€,1.0,4.0,90145,Palermo,bar-tabacchi-di-maggi-valentino-palermo,"['cafes', 'coffee']"
+,,,,,,,,,"['cafes', 'coffee']"
+GOqsCK09YgsDbzLLWNTkGQ,38.12954,13.36077,€,1.0,2.0,90100,Palermo,bar-lucy-palermo,"['bakeries', 'bars', 'importedfood']"
+,,,,,,,,,['restaurants']
+nq8XuF3paasOPsLFfm72RQ,38.138065,13.3512893,€,1.0,3.0,90143,Palermo,puccio-francesco-c-fornaria-palermo,"['bakeries', 'icecream']"
+LJLyoV-YMafnTEgnIFfojg,38.1375224,13.3602021,€€,1.0,3.0,90142,Palermo,spinnato-matteo-e-c-palermo,['delicatessen']
+w8BDbrdiF6vuxnFgTg4ozg,38.1380531322156,13.3422675629865,€€€,1.0,3.0,90144,Palermo,boldrini-s-palermo-3,['italian']
+,,,,,,,,,"['german', 'pizza', 'sandwiches']"

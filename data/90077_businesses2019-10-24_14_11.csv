@@ -1,0 +1,46 @@
+category,id,latitude,longitude,price,review_count,rating,zip_code,city,alias
+['artmuseums'],,,,,,,,,
+"['bakeries', 'cupcakes', 'customcakes']",8Q6YXYleR-8AjMLEh_EaWw,34.1052774243575,-118.433814347266,$$,130.0,5.0,90210,Los Angeles,baby-beas-bakeshop-los-angeles-2
+"['newamerican', 'salad', 'jazzandblues']",p4P3RDJRD1zBQiZ5InM5aw,34.1273687,-118.4443859,$$$,669.0,4.0,90077,Los Angeles,vibrato-grill-jazz-los-angeles
+"['museums', 'venues']",,,,,,,,,
+"['museums', 'nonprofit']",,,,,,,,,
+"['newamerican', 'breakfast_brunch', 'cocktailbars']",Rdiby-zkTfRXBowShTO44Q,34.0866502,-118.4467947,$$$$,316.0,3.5,90077,Los Angeles,wolfgang-puck-at-hotel-bel-air-los-angeles-3
+"['newamerican', 'cafes']",u-b74zN5hyFfIcRZqfx-Tg,34.0778099237411,-118.475537524606,$$$,578.0,4.0,90049,Los Angeles,the-restaurant-at-the-getty-center-los-angeles
+['sushi'],_22qBbYQFdL7nCTnTSY6Rg,34.1273967,-118.4443909,$$$,192.0,4.0,90077,Los Angeles,shu-sushi-house-unico-los-angeles
+"['desserts', 'bakeries', 'cupcakes']",hgQNMUywDpEesN6674ev6g,34.1161626,-118.4642623,$$,36.0,4.5,90077,Bel Air,joanie-and-leighs-cakes-bel-air
+"['italian', 'pizza']",2OXJUpu3tZPrpiuSVXeBqw,34.1278636,-118.4446024,$$,195.0,4.0,90077,Los Angeles,fabrocinis-beverly-glen-los-angeles-3
+"['newamerican', 'seafood', 'cocktailbars']",7s0s_rBFKPxt2B9xBMmQsw,34.0773694,-118.4687328,$$$,196.0,4.0,90049,Los Angeles,the-bel-air-los-angeles-10
+"['aquariums', 'localfishstores', 'aquariumservices']",,,,,,,,,
+"['french', 'bars', 'mediterranean']",3vTElTlRFg1J3sWSr4mlrg,34.1269252576843,-118.444350067696,$$$,64.0,4.5,90077,Los Angeles,bistro-jolie-los-angeles-2
+['italian'],0yXVWg9lJM38XS2Y8yo40g,34.1273967,-118.4443909,$$$,89.0,4.0,90077,Los Angeles,il-segreto-ristorante-belair-los-angeles
+"['pizza', 'italian', 'desserts']",lXGM91VTUcJ3K7SCjob97g,34.07714,-118.46918,$$,184.0,4.0,90049,Los Angeles,mannys-pizzeria-los-angeles-3
+['localflavor'],,,,,,,,,
+['coffee'],_VFRQGIzB87R2OHR5sIOEA,34.127808,-118.444005,$,60.0,4.0,90077,Los Angeles,starbucks-los-angeles-26
+"['grocery', 'cafes', 'delis']",QThXF4ayfSXshKIXeGX6eQ,34.127896,-118.44447,$$,57.0,4.0,90077,Los Angeles,jaydes-market-los-angeles
+"['coffee', 'bagels', 'sandwiches']",CYdNDYe3fFbHbrh88ZoNvA,34.0776094459912,-118.468632978521,$$,58.0,4.0,90049,Los Angeles,the-shack-in-the-back-los-angeles
+"['foodtrucks', 'bbq', 'salad']",MkIjTdpUqb_gQOGADMuCdA,34.1311801224947,-118.43711592257,$,20.0,5.0,91403,Los Angeles,flaming-lava-grill-los-angeles
+"['delis', 'sandwiches', 'breakfast_brunch']",dy7tKbR9BqcFICI03jKMeQ,34.1276203,-118.4444309,$$,148.0,3.5,90077,Los Angeles,beverly-glen-deli-los-angeles
+"['localflavor', 'galleries']",KXjkZVuH001Fo2FYXmjGfw,34.0750658562523,-118.440073728561,$,22.0,4.5,90095,Los Angeles,ucla-franklin-d-murphy-sculpture-garden-los-angeles
+['lounges'],X2rXvM1mkOCIkLWlADIPsg,34.08659,-118.446365,$$$,11.0,4.0,90077,Los Angeles,bar-and-lounge-los-angeles
+"['chinese', 'asianfusion', 'organic_stores']",v5WPe-lJOLTTUpxIzkRMmQ,34.1279952,-118.4441461,$$,43.0,3.5,90077,Los Angeles,wokshop-by-xian-los-angeles
+['kosher'],,,,,,,,,
+['cafes'],zm3vq1SwB2UNKCu28-SRTA,34.0778130264411,-118.475676509679,$$,68.0,3.0,90049,Los Angeles,cafe-at-the-getty-center-los-angeles-2
+['parks'],,,,,,,,,
+['cafes'],BLZ5kHDNVf8nnIRaiSJ3Xg,34.0743573096961,-118.44234011164,$,46.0,3.0,90095,Los Angeles,northern-lights-cafe-los-angeles
+"['museums', 'localflavor']",,,,,,,,,
+"['foodtrucks', 'bbq']",3BuLiSNw-1P4AdsTlRi93Q,34.1300239,-118.4695226,$$,9.0,4.0,90077,Los Angeles,arturos-bbq-los-angeles
+['parks'],,,,,,,,,
+['hiking'],,,,,,,,,
+"['coffee', 'cafes']",qCj9vRr90rAlm44bEPV8iA,34.075246,-118.441449,$,11.0,3.0,90095,Los Angeles,café-451-los-angeles-2
+['museums'],,,,,,,,,
+"['mexican', 'foodtrucks']",mrqOjbeadCyDbYETkTspxQ,34.0966339,-118.4301224,$$,2.0,5.0,90210,Beverly Hills,los-jardineros-beverly-hills
+['parks'],,,,,,,,,
+['newamerican'],WQtL2HsEh9urRNyjD8BroQ,34.12486,-118.47923,$$,29.0,3.5,90049,Los Angeles,zeidlers-café-los-angeles-2
+['parks'],,,,,,,,,
+['gardens'],,,,,,,,,
+['coffee'],vUi8hk78zNOVaMQ-JKq2Wg,34.0760433920515,-118.440889120102,$$,6.0,3.0,90095,Los Angeles,untitled-broad-arts-café-los-angeles
+['cafes'],XD8cQgPT24xpjdI0uV6ETg,34.1274369867705,-118.470329046249,$,1.0,5.0,90077,Los Angeles,communitea-and-coffee-cafe-los-angeles
+['parks'],,,,,,,,,
+['parks'],,,,,,,,,
+"['pizza', 'hotdogs']",mlmuJYQFmut53WI3ytRXPQ,34.0743993481015,-118.442047834396,$,3.0,3.0,90095,Los Angeles,pizza-fresca-los-angeles
+['museums'],,,,,,,,,

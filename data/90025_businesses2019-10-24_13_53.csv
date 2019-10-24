@@ -1,0 +1,1001 @@
+id,latitude,longitude,price,review_count,rating,zip_code,city,alias,category
+l5AhBWCPmPk4EKq1bu04EQ,34.0553693,-118.441979,$,2154.0,4.5,90024,Los Angeles,saffron-and-rose-ice-cream-los-angeles,['icecream']
+piXuRfZ81xFGA64WFJrKkQ,34.0631288784817,-118.446878719117,$,5128.0,4.5,90024,Los Angeles,diddy-riese-cookies-los-angeles-2,"['desserts', 'bakeries', 'icecream']"
+FoEMpu0X_bGCb7yRreMxMQ,34.0395785158514,-118.442669604805,$$,3836.0,4.0,90025,Los Angeles,tsujita-la-artisan-noodle-los-angeles-2,"['ramen', 'noodles']"
+ftZ8gChDLZYJtXHWoxFi-g,34.04382,-118.44589,$$,2584.0,4.0,90025,Los Angeles,plan-check-kitchen-bar-sawtelle-los-angeles,"['gastropubs', 'tradamerican']"
+jsR3g1GMz-S-tOqQVmiReQ,34.045551,-118.452777,$,1827.0,4.0,90025,Los Angeles,churros-calientes-los-angeles,"['cafes', 'desserts', 'sandwiches']"
+uYKC0m3IddA8GCbjWJCI7g,34.0406502357722,-118.443594703041,$,1600.0,4.0,90025,Los Angeles,b-sweet-dessert-los-angeles-2,"['desserts', 'bakeries', 'coffee']"
+udINVeecZdXtmCgbBIZi7A,34.0389276051363,-118.442340393371,$$,3132.0,4.0,90025,Los Angeles,tatsu-ramen-los-angeles,['ramen']
+umwJ_sHGuSU2p-CK3rQ8uA,34.04683,-118.44912,$$,1136.0,4.0,90025,Los Angeles,shin-sen-gumi-hakata-ramen-west-l-a-los-angeles-5,"['ramen', 'tapasmallplates']"
+c6-7m0hafQmFyBgWU2XtIg,34.04002,-118.44326,$,1266.0,4.0,90025,Los Angeles,marugame-udon-los-angeles-6,"['japanese', 'noodles']"
+2cS_ncmV3amHvbFYMImKFA,34.038112,-118.441865,$$,890.0,4.5,90064,Los Angeles,balconi-coffee-company-los-angeles,['coffee']
+jaSU9mfMdZ5ejcbk_lMvSw,34.040285,-118.442672,$$,1596.0,4.0,90025,Los Angeles,hide-sushi-japanese-restaurant-los-angeles,"['japanese', 'sushi']"
+lAmpZfYijXT5fcc1Zqy4Nw,34.04713,-118.44348,$$,1337.0,4.0,90025,Los Angeles,zankou-chicken-los-angeles-2,"['mediterranean', 'armenian', 'lebanese']"
+HMZkNopx2zDg21tNVVDpiw,34.0401532,-118.4424537,$$,1707.0,4.0,90025,Los Angeles,tsujita-la-artisan-noodle-annex-los-angeles-3,"['ramen', 'noodles']"
+UlOdAUpnTWYbg5KJhKVdpg,34.0379018,-118.4408416,$$,1467.0,4.0,90064,Los Angeles,daikokuya-sawtelle-los-angeles,"['ramen', 'noodles']"
+IOFO6zPVVCDLaCI5bcU6Yw,34.0460491,-118.4494206,$$,747.0,4.0,90025,Los Angeles,nanban-kan-restaurant-los-angeles-3,"['japanese', 'bbq']"
+CiOuPxuFKEMD2nJaifUWjg,34.05029,-118.46053,$$,1146.0,4.5,90025,Los Angeles,indias-oven-los-angeles-2,['indpak']
+5JSRwc90j0V226stp1zWDA,34.0554157,-118.4420081,$$,905.0,4.5,90024,Los Angeles,pomodoro-trattoria-los-angeles-2,['italian']
+l2TpbvvizsNl-GBCRb8I1A,34.04764,-118.43542,$$,863.0,4.5,90025,Los Angeles,taste-of-tehran-los-angeles,"['persian', 'mideastern', 'halal']"
+mhV6ajue2eUPVWMULH9Jxg,34.047,-118.44783,$$,530.0,4.5,90025,Los Angeles,the-bombay-frankie-company-los-angeles,['indpak']
+gcf4bQVbiOqglEmYBfbpwQ,34.0599747,-118.4460684,$$,1390.0,4.0,90024,Los Angeles,native-foods-los-angeles-3,"['vegan', 'vegetarian', 'newamerican']"
+7SWBMtx0xU2-ewRP8sECnw,34.0604028405844,-118.445061835982,$$,1206.0,4.0,90024,Los Angeles,tlt-food-los-angeles,"['newamerican', 'mexican']"
+VQz6yZBj3l_T2XX-4mLV-Q,34.0573488345909,-118.443115899059,$$,1996.0,4.0,90024,Los Angeles,emporium-thai-los-angeles-5,"['gluten_free', 'vegan', 'catering']"
+P4V8V0W-EFb2EBAbbsu9vQ,34.03956,-118.44285,$$,1657.0,3.5,90025,Los Angeles,roc-sawtelle-los-angeles-5,"['chinese', 'taiwanese', 'noodles']"
+PEBwHTrSJxJDnLMuo3hziQ,34.0600346,-118.4461173,$$,772.0,4.5,90024,Los Angeles,kazunori-the-original-hand-roll-bar-los-angeles-2,['sushi']
+hiagfbPISp5nQ97lGzeLUw,34.04683,-118.46468,$$$$,1004.0,4.5,90049,Los Angeles,sushi-sasabune-los-angeles-2,"['sushi', 'japanese']"
+odzvOMZgp0OVYGp9sDS3qQ,34.04074,-118.42786,$$,2808.0,3.5,90064,Los Angeles,the-apple-pan-los-angeles,"['burgers', 'sandwiches', 'coffee']"
+jGuzp8hsKy27ZmK1jsvgYw,34.059930827289,-118.44431695965,$$,2342.0,3.5,90024,Los Angeles,800-degrees-woodfired-kitchen-los-angeles,"['pizza', 'salad', 'sandwiches']"
+qzU47stEMPSAALcewOf9kg,34.0401001,-118.4431229,$$,1348.0,3.5,90025,Los Angeles,nong-la-cafe-los-angeles,"['vietnamese', 'soup']"
+I5uyLiZRtgdu9H3OY8i3AQ,34.039477,-118.4428942,$$,843.0,4.0,90025,Los Angeles,coffee-tomo-los-angeles,"['coffee', 'pretzels']"
+Lke7X_Yug8ZB8M8mf5vSVw,34.03886,-118.44226,$$,499.0,4.5,90025,Los Angeles,chinchikurin-los-angeles-5,['japanese']
+xkQ5s7bqKbRTU9yjPHGt9g,34.05057,-118.43726,$$,1072.0,4.0,90024,Los Angeles,sunnin-lebanese-cafe-los-angeles,"['lebanese', 'mediterranean', 'wraps']"
+nPDut-XU5H-Qb6P2OvdPJA,34.0460437,-118.4504593,$$,587.0,4.0,90025,Los Angeles,the-nickel-mine-los-angeles,"['gastropubs', 'sportsbars', 'venues']"
+52QPoJFEObNp6f6rv8XthQ,34.0481,-118.46312,$$,1061.0,4.5,90025,Los Angeles,indias-tandoori-los-angeles,['indpak']
+7qFVS738P_VjjSRPV_t1ew,34.0388040048905,-118.442234554705,$$,1465.0,3.5,90025,Los Angeles,hurry-curry-of-tokyo-los-angeles,"['japacurry', 'salad', 'soup']"
+lbjT60stjoDHM2riEHmnFg,34.0392504530964,-118.441652498013,$,824.0,4.0,90025,Los Angeles,beard-papas-los-angeles-6,"['desserts', 'bakeries', 'coffee']"
+nuO4n2zZI--XWH5xU5TLMg,34.0396499912173,-118.442763176959,$,1473.0,3.5,90025,Los Angeles,sushistop-los-angeles,"['sushi', 'japanese']"
+mt_UPHXz6QDj9escYg1TCA,34.027314,-118.455016,$$,1799.0,4.0,90405,Santa Monica,upper-west-santa-monica,['newamerican']
+IkBr4b8ktf9L5ksxo9vtng,34.0579568759648,-118.443140499293,$$,619.0,4.5,90024,Los Angeles,poke-me-los-angeles-2,"['hawaiian', 'poke', 'japanese']"
+G2q4Lqe7tEDjMGzazUXdVQ,34.0475905438149,-118.443221636117,$$,702.0,4.0,90025,Los Angeles,moon-house-chinese-cuisine-los-angeles,"['dimsum', 'cantonese']"
+O3HLK3ohwjlZZMtFnj84qQ,34.0405629405758,-118.443309106659,$,462.0,4.0,90025,Los Angeles,millet-crepe-los-angeles,"['creperies', 'macarons', 'chocolate']"
+9oQnnXSTo8i2TliFPktxLg,34.04093,-118.44328,$$,749.0,4.0,90025,Los Angeles,sonoritas-prime-tacos-los-angeles,['mexican']
+D6qvi6OTJpKHgjx7PQst-Q,34.048937,-118.460995,$$$,1091.0,4.0,90025,Los Angeles,bandera-los-angeles-6,"['newamerican', 'jazzandblues']"
+ix1vfX7-V4Ma6wzq_Dx98Q,34.03996,-118.42951,$$,617.0,4.5,90064,Los Angeles,atticus-creamery-and-pies-los-angeles-12,"['desserts', 'icecream', 'coffee']"
+Kcia8sHINWxqHjThJRAUkw,34.0410783,-118.4432467,$,208.0,4.5,90025,Los Angeles,anzu-japanese-gourmet-los-angeles-4,"['japanese', 'burgers', 'chickenshop']"
+6U55z4ejutsNYh7jAdWdwA,34.0394,-118.44317,$$,223.0,4.5,90025,Los Angeles,black-sheep-burgers-los-angeles,['burgers']
+lhjyWpMMbysXxS-6ZJ9QNg,34.04738,-118.435126,$,1104.0,3.5,90025,Los Angeles,tacos-tu-madre-los-angeles,"['tapasmallplates', 'mexican', 'breakfast_brunch']"
+4LptA7lZJLKMuEgT6ZzMxQ,34.039642,-118.428946,$$,1446.0,4.0,90064,Los Angeles,westside-tavern-los-angeles,"['newamerican', 'pubs', 'cocktailbars']"
+a7IPQrrkC26RW8Z00wGhxw,34.0386275971938,-118.44188314418,$,763.0,4.0,90064,Los Angeles,honeymee-sawtelle-los-angeles,['icecream']
+cJQfLysSaYhvv3yueXdqGQ,34.04016,-118.44338,$$,1081.0,3.5,90025,Los Angeles,tofu-ya-los-angeles,['korean']
+-kIcjMwm6NdMlUZNrUdtOA,34.04175,-118.4595,$,377.0,4.5,90025,Los Angeles,percolate-los-angeles-2,"['tea', 'coffee', 'bubbletea']"
+py2dW-WLfw8RfT4lkYX6pA,34.048303,-118.443351,$$$,516.0,4.0,90025,Los Angeles,hamasaku-los-angeles,"['japanese', 'sushi']"
+1HX-qdhio3A6sAPMuPDS7A,34.05351,-118.463083,$$$,1053.0,4.0,90049,Los Angeles,sugarfish-by-sushi-nozawa-los-angeles-9,"['sushi', 'japanese']"
+XqF37aLN9VNi4OTogEeQpA,34.0390896212559,-118.442532171657,$,1299.0,3.5,90025,Los Angeles,volcano-tea-house-los-angeles-2,"['taiwanese', 'tea', 'bubbletea']"
+aaTvCGpMSMv2ybbXF6Ci8A,34.0397362344934,-118.442404784548,$$,1087.0,3.5,90025,Los Angeles,furaibo-restaurant-los-angeles-2,['japanese']
+vqexea2w5XPf4N1AJ8YL0w,34.03957,-118.43053933,$$$,948.0,4.0,90064,Los Angeles,the-wellesbourne-los-angeles,['lounges']
+YUrZwn46B-t_NRL-_eW1oQ,34.0515924,-118.4383808,$$,1349.0,3.5,90024,Los Angeles,shamshiri-grill-los-angeles,"['mideastern', 'persian']"
+od-e09qz8bvZOtGuPTwHMg,34.059533,-118.420087,$$,2466.0,4.0,90067,Los Angeles,rocksugar-southeast-asian-kitchen-los-angeles,"['indonesian', 'vietnamese', 'malaysian']"
+zcZWzI0sE51fOV6Ao-c_TA,34.0609817504883,-118.446723937988,$,986.0,4.0,90024,Los Angeles,lamonicas-new-york-pizza-los-angeles,"['pizza', 'chicken_wings']"
+sEeKjiCBChIQVks-4XjTJA,34.04029,-118.44265,$$,684.0,4.0,90025,Los Angeles,killer-noodle-tsujita-los-angeles,"['ramen', 'noodles']"
+x4k-csqCwofptVyYSIxtXw,34.04627,-118.43423,$$,912.0,4.0,90025,Los Angeles,california-chicken-cafe-los-angeles-2,"['tradamerican', 'salad', 'wraps']"
+Ai2Sxk3NGbY2YKwN_swwYA,34.0554420600744,-118.441608186704,$$,628.0,4.0,90024,West Los Angeles,attari-sandwich-shop-west-los-angeles,"['sandwiches', 'persian']"
+O2xAWHtiz6T1B1kl34Uv9A,34.0385478953044,-118.441789914583,$,848.0,4.0,90064,Los Angeles,coco-fresh-tea-and-juice-los-angeles,"['bubbletea', 'coffee', 'juicebars']"
+jzMqnQLZqqboQparlgrrhA,34.0530658,-118.4400299,$$$,173.0,4.5,90024,Los Angeles,asuka-los-angeles-2,"['sushi', 'japanese']"
+cvER4PVKn_lYqlyWhP5rmg,34.062762,-118.4481571,$,783.0,4.0,90024,Los Angeles,bella-pita-los-angeles,"['mideastern', 'sandwiches', 'mediterranean']"
+mmFT0RqB9PDv8z9TVv9qWA,34.05157,-118.43192,$$,284.0,4.5,90025,Los Angeles,tuscan-son-los-angeles,"['breakfast_brunch', 'sandwiches', 'bakeries']"
+BgcShlZvxSrp2UYa75jwhg,34.053513,-118.465933,$$,797.0,4.0,90049,Los Angeles,susiecakes-los-angeles-2,"['bakeries', 'desserts']"
+7KbwC9uSMhrAvjT30qgCNQ,34.0431247761896,-118.468840770613,$$,1417.0,4.0,90025,Los Angeles,amandine-patisserie-cafe-brentwood-los-angeles,"['bakeries', 'breakfast_brunch', 'newamerican']"
+p_Pbh9N75HLztzlEbsAhbA,34.0436696,-118.446341,$$$,552.0,4.0,90025,Los Angeles,bar-hayama-los-angeles,"['sushi', 'japanese', 'desserts']"
+ajs7RHssyl-JWmnBmxkDAQ,34.0467665,-118.4431223,$$,121.0,4.5,90025,Los Angeles,catcafe-lounge-los-angeles-4,"['petadoption', 'themedcafes', 'coffee']"
+uBQXxgepdDfVYFj9JAEtrw,34.0408863,-118.4434155,$$$$,300.0,4.0,90025,Los Angeles,sushi-tsujita-los-angeles,"['sushi', 'japanese']"
+cqpvuNhVpzSn_ubVLpRPOQ,34.0485359,-118.4355715,$$,632.0,4.0,90025,Los Angeles,the-room-sushi-bar-los-angeles,"['sushi', 'japanese']"
+VRlrvtmKcpY86oyF93WVRQ,34.0576324462891,-118.442680358887,$$,589.0,4.0,90024,Los Angeles,fresh-corn-grill-los-angeles-3,"['newamerican', 'italian', 'mexican']"
+LoPRhufpKse8q9WoTSpBWA,34.0481,-118.46312,$$,883.0,4.0,90025,Los Angeles,mama-hongs-vietnamese-kitchen-los-angeles-8,['vietnamese']
+Vh-U7n5Gpv6DW239Mruujw,34.0332917,-118.442891,$$,548.0,4.5,90064,Los Angeles,top-tier-treats-los-angeles,"['bakeries', 'desserts', 'customcakes']"
+5GMLmeVr1ARHV6lygsFPzA,34.03876,-118.44218,$$,603.0,4.0,90025,Los Angeles,manpuku-tokyo-bbq-los-angeles-3,"['japanese', 'bbq']"
+g-B5qeJ0V9mTKrM9Ekr7BA,34.062301687413,-118.44798487715,$$,1077.0,4.0,90024,Los Angeles,gushi-los-angeles,['korean']
+skwycJSHgMmxRK8plNOiLQ,34.0437273767978,-118.431397761126,$,658.0,4.0,90064,Los Angeles,the-bigg-chill-frozen-yogurt-los-angeles,['icecream']
+kUx6ZHSJM863oMd3YhQLnQ,34.03822,-118.44166,$$,369.0,4.5,90064,Los Angeles,sea-salt-poke-los-angeles-3,"['seafood', 'hotdogs', 'poke']"
+-u2YinXU7-2rjr6F2m4Kqg,34.0443684,-118.455322,$$,698.0,4.0,90025,Los Angeles,en-sushi-los-angeles-4,"['japanese', 'sushi']"
+jetc2rZgRo_YBmxmOTNcEg,34.0392205951154,-118.442666190498,$$,852.0,3.5,90025,Los Angeles,seoul-house-of-tofu-los-angeles,"['korean', 'seafood', 'soup']"
+txH67ORSC9m_3F_ZVqoXwg,34.0624964899272,-118.4480291,$$,1180.0,4.0,90024,Los Angeles,fat-sals-deli-westwood-los-angeles,"['delis', 'newamerican', 'burgers']"
+alBO2iwK6ilrykLvtSlNtg,34.04828,-118.44338,$$,306.0,4.0,90025,Los Angeles,sichuan-impression-los-angeles-2,['chinese']
+B_gAphcftlAoLKNk3Epmaw,34.044514,-118.454965,$$,634.0,4.0,90025,Los Angeles,california-roll-factory-los-angeles,"['sushi', 'japanese']"
+LU5dD_e2My47t6tGwkG4qg,34.04462,-118.45474,$$,511.0,4.0,90025,Los Angeles,bad-sushi-los-angeles,"['japanese', 'sushi']"
+Aj_O-2Sf3Bqso3vGvvBDVg,34.0562934,-118.4425567,$$,308.0,4.5,90024,Los Angeles,maharaja-cuisine-of-india-los-angeles-2,['indpak']
+MOeohUxfAsjOSw4d_C15dg,34.05726,-118.44329,$$,524.0,4.0,90024,Los Angeles,naab-cafe-los-angeles-5,"['persian', 'hookah_bars', 'halal']"
+COWNd6DAq_5_-wpX0EbrtQ,34.050514,-118.4378443,$$,500.0,4.0,90024,Los Angeles,ramayani-los-angeles,['indonesian']
+rebOAJOKKS2c6bJdZ8GyEw,34.0446422,-118.4549451,$$,964.0,3.5,90025,Los Angeles,cafe-50s-los-angeles,"['diners', 'cafes']"
+zC1iJsl9VlIaRnEBm9yDKQ,34.03962,-118.4302,$$,857.0,4.0,90064,Los Angeles,the-backhouse-los-angeles,"['sushi', 'ramen', 'izakaya']"
+qPYRMRg1kHz3wek8hancrA,34.03915,-118.44167,$$,873.0,3.5,90025,Los Angeles,kura-revolving-sushi-bar-los-angeles-4,"['sushi', 'conveyorsushi']"
+d4MMhJy8Jh_SULv5fpsGhQ,34.046508826591,-118.433719711996,$$,783.0,4.0,90025,Los Angeles,pitfire-artisan-pizza-los-angeles-5,"['pizza', 'sandwiches', 'italian']"
+To5SXk6i3H2_Zm9B5ECIFg,34.03598,-118.44543,$$,203.0,4.5,90064,Los Angeles,mogumogu-los-angeles-3,['ramen']
+WHY7Ahj7MaOnQQtwyNwSBg,34.038288,-118.4319864,$$,1287.0,3.5,90064,Los Angeles,bossa-nova-brazilian-cuisine-los-angeles,"['brazilian', 'pizza']"
+rHFYoCqft0k1PcMlRZ_KWg,34.0316990017891,-118.462920114398,$$,647.0,4.5,90404,Santa Monica,bondi-harvest-santa-monica,"['breakfast_brunch', 'coffee', 'tradamerican']"
+9JQd6auyDCCIj1luDkPfTg,34.0425665998108,-118.445278345403,$$,88.0,5.0,90025,Los Angeles,la-prime-caffe-los-angeles,"['breakfast_brunch', 'sandwiches', 'coffee']"
+e4zVNW0kCz00Sth4FCAyfQ,34.0460491,-118.4494206,$$,416.0,4.0,90025,Los Angeles,flame-international-kabob-house-los-angeles-2,"['mediterranean', 'persian', 'venues']"
+rNIKiUYsFlBdQ7xoOmYj4Q,34.062451536207,-118.446849168505,$,783.0,4.0,90024,Los Angeles,stans-donuts-los-angeles,"['bakeries', 'donuts']"
+XDf5wMxXJD20GlAYhplzvg,34.04206,-118.46077,$$$$,243.0,4.5,90025,Los Angeles,yamakase-los-angeles,"['japanese', 'sushi']"
+nMCeecupa8jfOq7-Dcs6Dg,34.0417103431164,-118.461129722914,$$$$,270.0,4.5,90025,Los Angeles,kato-los-angeles,"['japanese', 'taiwanese', 'seafood']"
+tqSbtO_2ZYYB1-eORVwfzw,34.05444,-118.44139,$,303.0,4.0,90024,Los Angeles,cafe-glace-los-angeles-6,"['persian', 'pizza', 'sandwiches']"
+GPGSBlT_Qivav8vH_d2yOg,34.0581675839108,-118.417310318771,$$,1179.0,4.0,90067,Los Angeles,din-tai-fung-los-angeles,"['taiwanese', 'chinese']"
+-At_EBmKULg1Hi9bFqOh4g,34.044669,-118.454539,$$,473.0,4.0,90025,Los Angeles,izakaya-sasaya-居酒屋-楽楽家-los-angeles,['izakaya']
+JGbj4DrTudvVr7CPDuET-Q,34.04578,-118.44813,$,341.0,4.0,90025,Los Angeles,ninas-mexican-food-los-angeles,"['mexican', 'breakfast_brunch']"
+_yyj7uB8ykzvPetX4oaHIg,34.0394075,-118.4303465,$$,1015.0,3.5,90064,Los Angeles,gyu-kaku-japanese-bbq-los-angeles,"['japanese', 'bbq', 'asianfusion']"
+TtTWiAw6EZpUugHPibH7IA,34.0458337140894,-118.43364816159,$$,120.0,5.0,90025,Los Angeles,shekarchi-kabob-los-angeles-2,"['mediterranean', 'salad', 'wraps']"
+ksrxBKCPd5MJqy0nsMzIIQ,34.0388357,-118.4419926,$$,434.0,4.0,90025,Los Angeles,kitchen-story-los-angeles,"['korean', 'soup']"
+pzO0aSiIzI8BCzuaUIabmg,34.0479364,-118.4352082,$$,467.0,4.0,90025,Los Angeles,farsi-cafe-los-angeles-2,"['persian', 'mediterranean']"
+6trcFSyS5BVVWa672jOJCw,34.04302,-118.42214,$$$$,247.0,4.5,90064,Los Angeles,the-teriyaki-house-pico-los-angeles,['japanese']
+iQ3fajcAmbQrwPfg-AoJTA,34.0614599,-118.44661,$$,1364.0,3.5,90024,Los Angeles,ami-japanese-restaurant-los-angeles-3,"['japanese', 'sushi', 'asianfusion']"
+2OPF3gO2OQfCR8-r8UTozw,34.0608564,-118.4466571,$$,416.0,4.0,90024,Los Angeles,house-of-meatballs-los-angeles,"['italian', 'wine_bars']"
+,,,,,,,,,['museums']
+mmRhrZ2RG3GPJLSwfZTRwA,34.0311026,-118.4470842,$$,1197.0,3.5,90064,Los Angeles,don-antonios-los-angeles,['mexican']
+tIIof6-zqlgxImFNDEIj9g,34.0631012326944,-118.448130237507,$,765.0,4.0,90024,Los Angeles,in-n-out-burger-los-angeles-5,"['hotdogs', 'burgers']"
+rS2Ek2yNzD6NkNbGIzUlCQ,34.049139,-118.4356699,$,404.0,4.0,90025,Los Angeles,eduardos-border-grill-los-angeles,"['mexican', 'salad', 'southern']"
+z6JQcBzZmqqOtoacMpMmzw,34.04276,-118.4448,$,184.0,4.0,90025,Los Angeles,chitchat-coffee-matcha-los-angeles,"['coffee', 'cafes']"
+vlZaQFjJ3DtLJqyfCpi3mg,34.0419,-118.46117,$$,591.0,4.0,90025,Los Angeles,monte-alban-restaurant-los-angeles,"['mexican', 'breakfast_brunch']"
+SuOdhXSVJDWMI0F8L-lkPA,34.0480422973633,-118.444229125977,$,184.0,4.0,90025,Los Angeles,the-corner-deli-and-grill-los-angeles,"['burgers', 'mexican', 'delis']"
+rbc9eyODP68T_DFzIYuNNQ,34.0595321,-118.4456233,$$,639.0,4.0,90024,Los Angeles,le-pain-quotidien-los-angeles-24,"['bakeries', 'breakfast_brunch', 'coffee']"
+7MtJs6pZ4uQ4ZdVh4sJMsQ,34.0602340698242,-118.444206237793,$$,848.0,3.5,90024,Los Angeles,espresso-profeta-los-angeles,['coffee']
+rLFR5Ax1MV0ZmcLvQlf8Rg,34.052513,-118.4395503,$$$,232.0,4.5,90024,Los Angeles,la-bruschetta-ristorante-los-angeles,"['italian', 'desserts', 'breakfast_brunch']"
+08k0jjos42MrcMxtiOlPxA,34.06003,-118.44397,$$,663.0,4.0,90024,Los Angeles,skylight-gardens-los-angeles,"['italian', 'cocktailbars', 'breakfast_brunch']"
+NrX4H-BzOyQyVoDgsosBAQ,34.0397644042969,-118.438041687012,$$,199.0,4.5,90064,Los Angeles,kalbis-grill-los-angeles,"['bbq', 'asianfusion', 'korean']"
+SM-uEMxNLN8FbTF3T9G9UQ,34.0377236535455,-118.440473910941,$,932.0,3.5,90064,Los Angeles,sushi-stop-los-angeles-los-angeles,"['sushi', 'japanese']"
+NDzVg5_YHOF6ovJJ7zNcQQ,34.0481,-118.43494,$$,70.0,5.0,90025,Los Angeles,centerpiece-hookah-lounge-los-angeles-2,"['hookah_bars', 'lounges', 'coffee']"
+yZZOlnfE3w7G41WqRgeNiw,34.0609899,-118.44468,$$,785.0,3.5,90024,Los Angeles,the-boiling-crab-los-angeles-3,"['cajun', 'seafood']"
+0giDcyNWX-cYW9dsJc43uQ,34.0295863,-118.4495683,$$,748.0,4.0,90064,Los Angeles,the-arsenal-los-angeles-2,"['lounges', 'tradamerican', 'cocktailbars']"
+laFsjU9sjX4ikV_FK_Eh-g,34.019622968539,-118.454923254848,$$,1551.0,4.0,90405,Santa Monica,the-counter-santa-monica-santa-monica-2,"['burgers', 'newamerican']"
+I6kXGB5X21kTSbyyyrWbxg,34.0290333087607,-118.442714985434,$$,587.0,4.0,90064,Los Angeles,oops-sushi-and-sake-bar-los-angeles-2,"['sushi', 'japanese']"
+IJ_fimt6Qa6-1Y5_vrR3Kw,34.0622013,-118.4478673,$,421.0,4.0,90024,Los Angeles,sip-matcha-westwood-los-angeles,"['bubbletea', 'tea']"
+y12txkcqwXJn7IU4WX68-g,34.041611,-118.46155,$$,407.0,4.0,90025,Los Angeles,u-zen-japanese-los-angeles,"['japanese', 'sushi']"
+JT5YNSmSBbE_KggJJ4aOlw,34.0403521,-118.4638203,$$,505.0,4.0,90025,Los Angeles,all-india-cafe-west-la-los-angeles,"['indpak', 'vegetarian', 'vegan']"
+frW3mnSiB1MgY_ONdMHXEw,34.0473288,-118.4348881,$$,469.0,4.0,90025,Los Angeles,feast-from-the-east-los-angeles,"['chinese', 'asianfusion']"
+J-l4Semm7D0jomNbptmMUg,34.0400274,-118.4647971,$$$,458.0,4.0,90025,Los Angeles,echigo-los-angeles-2,"['sushi', 'japanese', 'seafood']"
+DCNr01KHmodlV3Kh2bOqkg,34.0534858703613,-118.468383789063,$$$,1025.0,4.0,90049,Los Angeles,katsuya-brentwood-los-angeles-2,"['sushi', 'japanese', 'venues']"
+MO26BhpPdonXahZTOsYFJQ,34.0452144812729,-118.453452587128,$$,385.0,4.0,90025,Los Angeles,naan-hut-los-angeles,"['persian', 'halal', 'mediterranean']"
+cYC1Yv_iRgfbD_6rSuLXCA,34.0389503400296,-118.4423394295,$$,453.0,3.5,90025,Los Angeles,kimukatsu-los-angeles-2,"['japanese', 'asianfusion']"
+t3MMLXxaC-ln2kW9RUyDLQ,34.0200778233065,-118.45426723799,$$,867.0,4.0,90405,Santa Monica,crimson-santa-monica,"['mediterranean', 'coffee', 'salad']"
+YSFXLYR25UXmohV-O1VC0Q,34.0498274515145,-118.460729846558,$$,368.0,4.0,90049,Brentwood,maradentro-brentwood-brentwood,"['seafood', 'bars', 'tacos']"
+AchWqHDx2zFyurLlGZun_A,34.038834,-118.441943,$$$,431.0,3.5,90064,Los Angeles,kiriko-los-angeles,"['japanese', 'sushi']"
+lkdJKRYmd_ZL9gHmHRpYxw,34.053392,-118.466013,$$,629.0,4.0,90049,Los Angeles,pizzana-los-angeles-3,"['pizza', 'italian']"
+4eE9a5Dne3HF_HBAxBiKUQ,34.0602536287503,-118.445386352211,$$,309.0,4.0,90024,Los Angeles,poke-bar-los-angeles-4,"['hawaiian', 'japanese', 'poke']"
+LNPgOKwyQr0aBpWVFjUUug,34.04414,-118.42143,$$,863.0,4.0,90064,Los Angeles,food-los-angeles-2,"['sandwiches', 'breakfast_brunch']"
+xvkQxQ8WoNoHwHw5rqxLuA,34.028883,-118.44268,$$,346.0,4.5,90064,Los Angeles,the-carving-board-los-angeles-2,['sandwiches']
+L6hOlEshyTLgPbgo6ntMJw,34.0398812,-118.4231609,$$,304.0,4.5,90064,Los Angeles,nishi-poke-and-ramen-bistro-los-angeles-3,"['poke', 'sushi', 'ramen']"
+R9J6w61WmtNNyEB_cQtwhA,34.05351,-118.46334,$$$,1162.0,3.5,90049,Los Angeles,tavern-los-angeles-2,"['newamerican', 'breakfast_brunch']"
+QvGHxxmbROFEZwkgBUA3IA,34.024822,-118.459926857672,$$,640.0,4.5,90405,Santa Monica,the-brixton-santa-monica,"['gastropubs', 'newamerican', 'sportsbars']"
+HsrBr49livt6XtKbEzuHnQ,34.0603866256743,-118.44353159259,$$,871.0,3.5,90024,Los Angeles,napa-valley-grille-los-angeles,"['newamerican', 'wine_bars', 'steak']"
+PMc5MEKcHAiZmBv6Mb1_yA,34.02704,-118.43147,$,489.0,4.5,90064,Los Angeles,primos-donuts-los-angeles,"['donuts', 'bakeries']"
+TByxBU8e5zK9jc9xuB_fjA,34.0467299,-118.43375,$,325.0,4.0,90025,Los Angeles,california-fresh-los-angeles,"['italian', 'pizza', 'mediterranean']"
+H1kT_CR6XBmvf3PXMuJPGg,34.039176940918,-118.429794311523,$$,610.0,4.0,90064,Los Angeles,jaipur-cuisine-of-india-los-angeles,['indpak']
+OR28UF7MuMxwenlpg9UF6w,34.05898,-118.44137,$$,345.0,4.0,90024,Los Angeles,the-tuck-room-tavern-los-angeles,"['cocktailbars', 'newamerican', 'breakfast_brunch']"
+FlPO6rsn_XoBN4YacOpKvw,34.0476396,-118.4346712,$$,363.0,4.0,90025,Los Angeles,muma-kitchen-los-angeles-3,"['turkish', 'salad', 'kebab']"
+eM74qtmgDvt25YyhOsZUhw,34.045584,-118.452551,$$,195.0,4.0,90025,Los Angeles,aki-restaurant-los-angeles,"['sushi', 'japanese']"
+2cNmmr9yzdnNPppwExt9SQ,34.059609,-118.419437,$$,1962.0,3.5,90067,Los Angeles,eataly-los-angeles-los-angeles,"['gourmet', 'italian', 'food_court']"
+gmnMLeZsJ9UH49Xgd5u2Rg,34.06191,-118.44764,$$,330.0,4.5,90024,Los Angeles,roccos-tavern-los-angeles-2,"['pizza', 'sportsbars', 'italian']"
+XjriQ5bVJIHbgasRDDAncA,34.0401269,-118.4431476,$$,383.0,3.5,90025,Los Angeles,big-boi-filipino-los-angeles-2,['filipino']
+O7sHgA_U-aBK_7LmQLq8Aw,34.0447430996505,-118.454529130269,$$,560.0,3.5,90025,Los Angeles,le-saigon-los-angeles,['vietnamese']
+PKwX5FuQg3neAEn81xDZbg,34.0611151,-118.4462877,$$,414.0,4.0,90024,Los Angeles,cava-los-angeles-5,['mediterranean']
+n_5wmb1fzqSIOMNU1CvwMQ,34.0542803,-118.4411766,$$,391.0,4.0,90024,Los Angeles,mary-and-robbs-westwood-cafe-los-angeles-2,"['tradamerican', 'breakfast_brunch']"
+A93FQwIJ2hVMRGdmXcyc4w,34.0447885,-118.4526242,$,661.0,3.5,90025,Los Angeles,siam-chan-los-angeles-5,"['thai', 'chinese']"
+_M-pCI3xd501eBhO1wu-5Q,34.0460166931152,-118.464599609375,$$,206.0,4.5,90025,Los Angeles,belle-vie-food-and-wine-los-angeles,"['wine_bars', 'french']"
+Hn91zaI07yBNJeByaGyEMQ,34.0541093,-118.4638472,$$$$,715.0,4.0,90049,Los Angeles,baltaire-los-angeles,"['steak', 'newamerican', 'bars']"
+2FyPXlPXz1yEbQWy-qJDUw,34.0603059013255,-118.420859099482,$$,1021.0,4.0,90024,Los Angeles,clementine-los-angeles-2,"['bakeries', 'breakfast_brunch', 'sandwiches']"
+Mhpdqef1fHyPgVHmj53pcw,34.0463257,-118.4480902,$$,330.0,3.5,90025,Los Angeles,cafe-dahab-los-angeles,"['mideastern', 'hookah_bars']"
+JG9WAefjwJLZo1BcB-M59w,34.04169,-118.46988,$$,668.0,4.0,90025,Los Angeles,blu-jam-café-los-angeles-7,"['breakfast_brunch', 'newamerican', 'cafes']"
+6GoklBhGvonSU_AJpTvexw,34.04197,-118.42398,$$,697.0,4.0,90064,Los Angeles,the-six-chow-house-los-angeles,"['gastropubs', 'breakfast_brunch', 'sportsbars']"
+MFI4Z-UJV3lKEnlTGKmzqw,34.03998,-118.46545,$$,378.0,4.0,90025,Los Angeles,rosemary-grill-los-angeles-3,"['mediterranean', 'mideastern', 'gourmet']"
+_STHImG2oki4l__TW-LqQw,34.0549969,-118.4413159,$$,543.0,3.5,90024,Los Angeles,shaherzad-los-angeles,"['mideastern', 'persian']"
+a1GWLGHyWr1d0Pac0QnUTg,34.0468708813829,-118.448308647162,$,538.0,3.5,90025,Los Angeles,new-japan-by-sushistop-los-angeles,"['japanese', 'sushi']"
+c9cIJKvxsKPw1qRx_-HM1w,34.04731,-118.43513,$,438.0,3.5,90025,Los Angeles,pink-orchid-los-angeles,"['bakeries', 'persian', 'breakfast_brunch']"
+rc0LnbBdOJhUJOGN6py-Fg,34.044579,-118.454736,$$,355.0,3.5,90025,Los Angeles,juquila-restaurant-los-angeles-2,"['latin', 'mexican']"
+_h_surKCJuTi84VoK8IIrQ,34.04067,-118.4639,$$,386.0,4.0,90025,Los Angeles,boba-bear-los-angeles-3,"['cafes', 'coffee', 'hookah_bars']"
+SIlnASjGDkBpdfJ9rzIxxg,34.04619,-118.46434,$$,282.0,4.5,90025,Los Angeles,marsa-mediterranean-cuisine-los-angeles,"['mediterranean', 'moroccan', 'halal']"
+VmRVcyhBv_WQChQ3_4xVxQ,34.045208,-118.453456,$$,227.0,4.0,90025,West Los Angeles,emils-bake-house-west-los-angeles,"['bakeries', 'desserts']"
+EJ7nrwVC0Li9QhQKh2urVw,34.0542204,-118.4637904,$$,1095.0,3.5,90049,Los Angeles,coral-tree-cafe-los-angeles-4,"['breakfast_brunch', 'sandwiches', 'cafes']"
+oTVEcJuw5cN7iGRhH1-dDg,34.0332107543945,-118.442161560059,$$$$,328.0,4.0,90064,Los Angeles,mori-sushi-los-angeles,"['sushi', 'japanese']"
+OpHC3mrACr17p4IfyDVAyw,34.02836,-118.45161,$$$$,315.0,4.0,90064,Los Angeles,shunji-japanese-cuisine-los-angeles,"['japanese', 'sushi']"
+vjw-LBFl4pYhukSJHZ-0KQ,34.03822,-118.44166,$$,365.0,3.5,90064,Los Angeles,butchers-dog-los-angeles,"['sportsbars', 'gastropubs', 'newamerican']"
+XhOEpZjSCs6uV7j8TBr3OQ,34.0530451,-118.46741,$$,549.0,4.0,90049,Los Angeles,pizzicotto-los-angeles,['italian']
+fkMkgUXTEiW4Bia_3Ko7zg,34.025019,-118.459366,$$,1129.0,4.0,90405,Santa Monica,lares-restaurant-santa-monica,['mexican']
+V1tUxof3A4HIHSgw4--T2A,34.0481546,-118.442942,$$,223.0,4.0,90025,Los Angeles,pita-cafe-los-angeles-4,"['mediterranean', 'halal']"
+m2QU0C0o7cbH1bG4QPrG9Q,34.0592711531248,-118.445270931856,$$,377.0,4.0,90024,Los Angeles,veggie-grill-los-angeles-5,"['vegan', 'vegetarian', 'tradamerican']"
+nBBOngh6Gqj6BNeIwzOaxw,34.0553016662598,-118.442123413086,$$,217.0,4.0,90024,Los Angeles,sprazzo-cucina-italiana-los-angeles,['italian']
+O55k9b-tWcNyaRQE9_XfJQ,34.0395979,-118.4650727,$,574.0,4.0,90025,Los Angeles,moms-bar-los-angeles,"['bars', 'danceclubs']"
+Gtyx0gYS4TNR5j0GOSRjWQ,34.04264,-118.46857,$$,1085.0,3.5,90025,Los Angeles,hara-sushi-los-angeles,"['sushi', 'japanese']"
+YISj-9Th8svObHMywuKg7w,34.0329017469862,-118.452893542606,$,427.0,4.0,90064,Los Angeles,tacos-por-favor-los-angeles-2,['mexican']
+Bm2ZygmqLbMoXRRTQnSqTA,34.044083,-118.454155,$,279.0,4.0,90025,Los Angeles,western-bagel-too-los-angeles,"['bakeries', 'breakfast_brunch', 'sandwiches']"
+KlELKhkxoL2ZZqsolXuEhg,34.04448,-118.46749,$$,1214.0,3.5,90025,Los Angeles,literati-cafe-los-angeles,"['coffee', 'tradamerican', 'cafes']"
+EcyjfiHLGYspEZeWW9YGow,34.06078,-118.44603,$$,334.0,4.0,90024,Los Angeles,kopan-ramen-ucla-los-angeles,['ramen']
+jEE5zJyuDslkPObn9Py2Gw,34.0397956,-118.465563,$$,311.0,4.0,90025,Los Angeles,toms-sushi-house-los-angeles,"['korean', 'sushi']"
+oPycUsAw1C_Ol0Zcd0c6LA,34.0290184,-118.4427032,$$,252.0,4.5,90064,Los Angeles,ramenya-los-angeles-4,"['ramen', 'asianfusion']"
+hdabpPPAaPp6Q3rQ47zZOw,34.0623435974121,-118.446647644043,$,628.0,3.5,90024,Los Angeles,enzos-pizzeria-los-angeles,['pizza']
+h-m8FLYONDcXS4r-qtse5A,34.0451973275032,-118.453250600267,$,87.0,4.5,90025,Los Angeles,mateos-ice-cream-and-fruit-bars-los-angeles-6,"['icecream', 'juicebars', 'sandwiches']"
+ZwR15di9uEs03euVPq1-pA,34.0545837,-118.4409359,$$,422.0,3.5,90024,Los Angeles,flame-persian-cuisine-los-angeles,"['mideastern', 'halal', 'persian']"
+__cvgBooF6k2Ra0nA14NGg,34.0540004,-118.4647585,$$$,248.0,4.5,90049,Los Angeles,bottlefish-los-angeles-2,"['bars', 'seafood']"
+CN9e7rwXBer8le3BPOl-Lg,34.0400798396539,-118.464546047343,$,276.0,4.0,90025,Los Angeles,quicksand-los-angeles,"['salad', 'sandwiches']"
+RfQ_AEWujA5VL22FMD7kiw,34.0407219,-118.443272,$$,190.0,4.0,90025,Los Angeles,menya-musashi-la-los-angeles,"['ramen', 'noodles']"
+7IviUAjyUZIEpZT0m6R5cQ,34.03026,-118.44774,$$,423.0,4.0,90064,Los Angeles,yabu-restaurant-los-angeles,"['sushi', 'japanese']"
+oHg_9YWAjke0jSkEnTYKGA,34.037634,-118.4405729,$,362.0,3.5,90064,Los Angeles,popcorn-chicken-los-angeles,"['taiwanese', 'bubbletea', 'coffee']"
+XrBZs76ktFG8LNWWh2dB7g,34.06305,-118.44096,$$$,507.0,4.0,90024,Los Angeles,stk-los-angeles-los-angeles-3,"['steak', 'newamerican']"
+gThKXrXmfbCu5G0G8WHDBw,34.0224259,-118.4637148,$$,573.0,4.0,90405,Santa Monica,lunetta-all-day-santa-monica,"['tradamerican', 'bars', 'breakfast_brunch']"
+ER7-CmCY2i1ZQWjJIbw-XQ,34.0209808349609,-118.452545166016,$$,791.0,4.0,90405,Santa Monica,the-op-cafe-santa-monica,"['breakfast_brunch', 'burgers']"
+mvARND_4hvK6kd-vWR9GWw,34.03822,-118.44166,$,227.0,4.0,90064,Los Angeles,matcha-cha-los-angeles-3,"['desserts', 'icecream', 'coffee']"
+1bs4xVpYgNrSjmbpwt3sGA,34.06116,-118.44464,$$,162.0,4.5,90024,Los Angeles,fellow-los-angeles,"['catering', 'newamerican', 'cocktailbars']"
+WVsHt9oPMX-UvJDLNRzElw,34.026523,-118.455459,$$,242.0,4.5,90405,Santa Monica,rejuice-santa-monica,"['juicebars', 'vegan', 'vegetarian']"
+,,,,,,,,,['vietnamese']
+EGurjnWLUvnWISF8e5vysg,34.0604,-118.4444,$$,261.0,4.0,90024,Westwood,tender-greens-westwood,"['newamerican', 'salad', 'sandwiches']"
+q9A_M140dH_M93jgjI1uvA,34.06098,-118.44672,$,434.0,3.5,90024,Los Angeles,northern-cafe-los-angeles,"['chinese', 'tapasmallplates']"
+hdpAY_Mf4ZJIun6PkKY2wQ,34.0229625,-118.4626961,$$,889.0,4.0,90405,Santa Monica,gilberts-el-indio-restaurant-santa-monica-2,"['mexican', 'breakfast_brunch']"
+d3b3w1zjoGrusx7bdDPT7w,34.037715243327,-118.440640250691,$,361.0,3.5,90064,Los Angeles,which-wich-superior-sandwiches-los-angeles-8,['sandwiches']
+kCe4El5UU8OFPTXLIKQ5hg,34.0545578,-118.4409339,$$,235.0,4.0,90024,Los Angeles,paris-bakery-los-angeles,['bakeries']
+XGZQz1ovpCzus8kPv0kdeQ,34.0547199,-118.4414944,$$,78.0,4.5,90024,Los Angeles,bloomfield-creamery-los-angeles-4,"['icecream', 'desserts']"
+Zzueg_h1VFtr-y0bGGBKCw,34.06513371655,-118.46948765075,$,371.0,4.5,90049,Los Angeles,belwood-bakery-cafe-los-angeles,"['bakeries', 'cafes', 'sandwiches']"
+SVM8b2lwtCb-HC4eK-DGlw,34.033323,-118.442942,$$,445.0,3.5,90064,Los Angeles,san-francisco-saloon-los-angeles,"['sportsbars', 'tradamerican']"
+AmtMwS2wCbr3l-_S0d9AoQ,34.0399268,-118.4233433,$$,307.0,4.0,90064,Los Angeles,aroma-cafe-los-angeles,"['mediterranean', 'cafes']"
+wziCOCpF-KP_Jm-ZsFV-2Q,34.0301026,-118.4490463,$$,188.0,4.5,90064,Los Angeles,habayit-los-angeles,"['kosher', 'mediterranean', 'breakfast_brunch']"
+yNaW8845RpdmURbIRBXiFw,34.0536751,-118.4640971,$$,413.0,4.0,90049,Los Angeles,barneys-gourmet-hamburgers-los-angeles-4,"['tradamerican', 'burgers', 'salad']"
+e_YoGG-3MFQpig1rJ54BjQ,34.0599599,-118.41982,$$,195.0,4.5,90067,Los Angeles,bacio-di-latte-los-angeles,"['icecream', 'desserts', 'gelato']"
+7YhR-qjMlpLKr_eZTUofFg,34.0610309618422,-118.447429216735,$$,312.0,4.0,90024,Los Angeles,kaido-los-angeles,"['sushi', 'japanese']"
+Djwp6tyJhBz-EOVoy8eOaw,34.0496742,-118.4367951,$,248.0,3.5,90025,Los Angeles,tacos-super-gallito-los-angeles-26,"['foodtrucks', 'tacos']"
+iybFLdY6_wxAZuUFPUnneQ,34.0362529770773,-118.442772811115,$$$,261.0,4.0,90064,Los Angeles,il-moro-restaurant-los-angeles,"['italian', 'pizza']"
+8zO-Lvbw5ogjs2HfoPQlDw,34.0221523,-118.4387735,$,296.0,4.5,90064,Los Angeles,new-york-bagel-and-deli-los-angeles,"['bagels', 'delis']"
+FLw0exlCg8ZIEnMZaL0crw,34.04611,-118.465584,$$,388.0,4.0,90025,Los Angeles,coco-ichibanya-los-angeles-6,['japacurry']
+k3cXVndN8bzFXR9Ip2SpeQ,34.0448213813804,-118.453941754997,$,377.0,3.5,90025,Los Angeles,honeyboba-los-angeles,"['coffee', 'bubbletea']"
+fm7a-Qy4U2iKOHD0kdxOlg,34.04777,-118.46354,$$,460.0,3.5,90025,Los Angeles,brü-haus-los-angeles-2,"['gastropubs', 'lounges', 'tradamerican']"
+CnET89syHJdBR_xtVUpO8g,34.0439758300781,-118.420486450195,$,286.0,4.0,90064,Los Angeles,martys-hamburger-stand-los-angeles,"['burgers', 'hotdog']"
+6zO7ihNqwMKyQDtgkyRbZg,34.03991,-118.42906,$$,352.0,4.0,90064,Los Angeles,nizam-of-india-los-angeles-6,['indpak']
+HHmcR9OVKpfeS3T6zzWckA,34.0536119788885,-118.464947864413,$$,268.0,4.0,90049,Los Angeles,juice-crafters-los-angeles-2,"['juicebars', 'vegan', 'breakfast_brunch']"
+5d7R2jwbm6ylP3GkLOWK2A,34.0446754102763,-118.454414384061,$$,122.0,4.0,90025,Los Angeles,good-people-coffee-los-angeles-4,['coffee']
+nu1Rz9qRLkmn22pUqkYR-g,34.0491453,-118.4361008,$,136.0,4.0,90025,Los Angeles,bon-bon-berry-acai-bowl-frozen-yogurt-los-angeles-7,"['icecream', 'juicebars', 'acaibowls']"
+2ubsbhU4y3KKZ1OuxO4ahQ,34.0432769872993,-118.431710784734,$,522.0,3.5,90025,Los Angeles,poquito-mas-los-angeles-4,['mexican']
+9Y8sGJmX1Uzaq9rYLPFkPA,34.0557242184877,-118.442083373666,$,432.0,3.5,90024,Los Angeles,westwood-thai-cafe-los-angeles,"['thai', 'chinese']"
+1c4j2NhUZsfA0gt6B6_cBA,34.0629355644099,-118.446870672485,$,722.0,3.5,90024,Los Angeles,mr-noodle-los-angeles,"['thai', 'asianfusion', 'noodles']"
+KWxhaheLoaIMYSg2cCIedQ,34.02041,-118.45251,$$,279.0,4.5,90405,Santa Monica,mrs-winstons-l-a-s-best-salad-bar-santa-monica-2,"['healthmarkets', 'juicebars', 'salad']"
+8fovKg_olYXxvwFzcWBv2w,34.0614576,-118.4464181,$,162.0,4.5,90024,Los Angeles,bibibop-asian-grill-los-angeles-5,"['korean', 'hotdogs', 'salad']"
+x7cN2viCydTW7U9srbP7kw,34.041045,-118.461769,$$,431.0,3.5,90025,Los Angeles,guidos-los-angeles,"['italian', 'venues']"
+ufLplIkqSw6RVuKvKJMclQ,34.0443683,-118.4542892,$,391.0,3.5,90025,Los Angeles,benitos-taco-shop-los-angeles-6,['mexican']
+qAPJdPqrZhUJMcMx9desNQ,34.0535049438477,-118.463813781738,$$$,242.0,4.0,90049,Los Angeles,palmeri-ristorante-los-angeles,['italian']
+7LtmQ2FcZzb_NppPcVff9A,34.0404575,-118.4635766,$$,492.0,3.5,90025,West Los Angeles,darya-restaurant-west-los-angeles,"['mideastern', 'persian']"
+0t16kNjrUmi82zI4anxlhg,34.0505784,-118.4378986,$,261.0,3.5,90024,Los Angeles,thai-fresh-cafe-los-angeles,"['thai', 'soup']"
+8SO1dPQWSP74mhSTN4FHQg,34.046215,-118.448895,$,247.0,3.5,90025,Los Angeles,talay-thai-los-angeles,['thai']
+kWoNJZq1Kx-J8sJTltriFw,34.04871,-118.43546,$,213.0,4.0,90025,Los Angeles,philly-west-bar-and-grill-los-angeles,"['tradamerican', 'divebars']"
+eE-blQvyD8SQiXlR7S0_sQ,34.04443,-118.454984,$,161.0,4.0,90025,Los Angeles,el-paladar-oaxaqueno-taco-truck-los-angeles,"['mexican', 'foodtrucks']"
+ir83yogKCv7Awv75utz_lw,34.05056,-118.43806,$$,234.0,3.5,90024,Los Angeles,qin-west-noodle-los-angeles-3,"['chinese', 'noodles', 'comfortfood']"
+zKnkaViDqtoN1uZ_rUVy8A,34.05287,-118.46695,$$,393.0,4.0,90049,Los Angeles,burger-lounge-los-angeles,['burgers']
+ad6240YOfd8wsYWbarGD5A,34.041824,-118.460985,$,232.0,4.0,90025,Los Angeles,tokyo-fast-food-los-angeles,['japanese']
+CXvR3yWimM2z7TP-ew5Rvw,34.05431,-118.46323,$$$,272.0,4.0,90049,Los Angeles,toscana-los-angeles,"['italian', 'pizza', 'wine_bars']"
+cWcZtmlgramNEO5vQv3Rag,34.048798,-118.4357681,$$,152.0,4.0,90025,Los Angeles,peets-coffee-los-angeles-6,['coffee']
+olom_vkNVhqxD4W9BkiUAw,34.04471,-118.42041,$$,281.0,4.0,90064,Los Angeles,the-stalking-horse-brewery-and-freehouse-los-angeles,"['breweries', 'breakfast_brunch', 'cocktailbars']"
+JuhviwUDIFWQSnyOqlwMTw,34.0537185,-118.4639284,$$$,248.0,4.0,90049,Los Angeles,takao-los-angeles,"['sushi', 'japanese']"
+iYOT4UMt8AWXH2EByN-9iA,34.0233439,-118.4618731,$$,669.0,4.0,90405,Santa Monica,tandoor-india-santa-monica,['indpak']
+8uUv-Pq_Gn1VRsgi6DqQLQ,34.0530846008977,-118.431062101818,$$,346.0,3.5,90025,Los Angeles,cafe-chez-marie-los-angeles,"['breakfast_brunch', 'french', 'moroccan']"
+VjKt68VqmFpH3cX7vF8R9Q,34.0446396,-118.4193268,$$,617.0,3.5,90064,Los Angeles,john-o-groats-los-angeles,"['sandwiches', 'breakfast_brunch', 'burgers']"
+ysC-nfz4xZd1HQAqdswj3w,34.03822,-118.44166,$$,115.0,4.0,90064,Los Angeles,red-rock-sawtelle-los-angeles-7,"['japanese', 'steak', 'gastropubs']"
+R7qMvTfHz6BasJhNUbvvEQ,34.0245094,-118.4603195,$,236.0,4.5,90405,Santa Monica,barkowski-santa-monica,['bars']
+dxnjy1CQm3mF2SVlTsx0pQ,34.019972013044,-118.454832452853,$$,434.0,4.0,90405,Santa Monica,il-forno-trattoria-santa-monica,"['italian', 'pizza']"
+cZ9QaqmOXoNttsLDAwK4nQ,34.032085,-118.4454654,$,368.0,4.0,90064,Los Angeles,that-pizza-place-los-angeles,"['italian', 'pizza', 'pastashops']"
+RdBU1PBsfad_c-ZC1W2sPw,34.0249379964285,-118.459592491837,$,583.0,4.0,90405,Santa Monica,raes-restaurant-santa-monica,"['diners', 'breakfast_brunch']"
+RUWzsN_1kuGXjbq0_suniQ,34.0327154,-118.4524833,$,143.0,4.5,90064,Los Angeles,good-stuff-burgers-los-angeles-2,"['salad', 'burgers', 'sandwiches']"
+iTOqdtAdSJy8ODW8W6cFbA,34.0431365966797,-118.430656433105,$$,251.0,4.0,90064,Los Angeles,pastina-los-angeles-2,['italian']
+UI58occqMW3wI-aUU0UQZQ,34.020131,-118.4546141,$$,419.0,4.0,90405,Santa Monica,society-kitchen-santa-monica,"['newamerican', 'cafes', 'breakfast_brunch']"
+HHV8-P27SfSyzoZLzytThQ,34.02995,-118.44972,$$,265.0,4.0,90064,Los Angeles,sushi-house-los-angeles,"['sushi', 'japanese']"
+X4VoBUeSyvlraAsKB4bNDg,34.0536145,-118.4645502,$$,195.0,4.0,90049,Los Angeles,winston-pies-los-angeles,"['desserts', 'coffee', 'icecream']"
+JqgpDCJblnuZqBC5QvgiPQ,34.02881,-118.45205,$$,133.0,4.5,90064,Los Angeles,kiff-kafe-los-angeles,['cafes']
+LfQPnEb3RIZqRs2HbYarIQ,34.0305786132812,-118.447105407715,$$,146.0,4.5,90064,Los Angeles,neat-los-angeles,"['cocktailbars', 'wine_bars', 'beerbar']"
+MDv7OdjUTOa0slgDF4g_aQ,34.0484263,-118.4354443,$$,226.0,3.5,90025,Los Angeles,indias-oven-los-angeles-4,['indpak']
+ukt7eHKntvaRLDZM59hgqw,34.037454453263,-118.435018902362,$,142.0,4.0,90064,Los Angeles,ritas-italian-ice-los-angeles-4,"['desserts', 'icecream', 'shavedice']"
+jGJ9moN5WNk19IoFIBVVPg,34.0399772,-118.4380223,$,204.0,4.0,90064,Los Angeles,pazzo-pizzeria-los-angeles,['pizza']
+c8_qeSeaWuN7gq8ILUM-vw,34.0297470092773,-118.450149536133,$,313.0,4.0,90064,Los Angeles,teddys-cafe-los-angeles,"['diners', 'tradamerican']"
+XHO6aQEhrfhkJ2kP93PT-Q,34.0599599,-118.41982,$$,322.0,4.5,90067,Los Angeles,panini-kabob-grill-los-angeles-3,"['mediterranean', 'breakfast_brunch']"
+ptmNNs5yxmyuckX-2E3enA,34.026682,-118.431138,$$$,374.0,4.0,90064,Los Angeles,hiko-sushi-los-angeles-2,"['sushi', 'japanese']"
+64A2TOfFpzEjadKng6-iqg,34.039,-118.43016,$$,439.0,3.5,90064,Los Angeles,la-serenata-de-garibaldi-los-angeles,['mexican']
+B1x_lUK_EpMmVmeWMZ9j9A,34.02676,-118.45615,$$,352.0,4.0,90405,Santa Monica,viet-noodle-bar-santa-monica-5,"['vietnamese', 'noodles']"
+,,,,,,,,,['localflavor']
+qBiQuYFNV2YZE2GsP7NxCA,34.0495526273446,-118.461515307427,$$,281.0,4.0,90025,Los Angeles,enzo-and-angela-los-angeles-2,['italian']
+r9Dk0l1p-mLM_j63ucmVEw,34.0606407763027,-118.444665333066,$$,253.0,4.0,90024,Los Angeles,simple-things-westwood-los-angeles,"['newamerican', 'desserts', 'sandwiches']"
+pu9FkuQGhhB8BgLd6Isxfw,34.04531,-118.44833,$,164.0,3.5,90025,Los Angeles,rubens-taco-truck-los-angeles,"['foodtrucks', 'tex-mex']"
+c0dfJ98u54abGtTaixVhlw,34.043296,-118.457954,$$,157.0,4.0,90025,Los Angeles,asakuma-sushi-and-poke-los-angeles-2,"['sushi', 'salad', 'soup']"
+35ZV-tvmpEGenx7dx_fGbA,34.0634,-118.4475,$,47.0,5.0,90024,Los Angeles,upside-down-los-angeles,['coffee']
+mIVWtPdnOWFQJ8j1dy6B2w,34.04745,-118.44357,$$,257.0,3.5,90025,Los Angeles,berris-pizza-los-angeles-2,"['salad', 'pizza', 'sandwiches']"
+0SIgsk8eoMP0txb-hKcK_A,34.055404067201,-118.442059967459,$$,368.0,3.5,90024,Los Angeles,delphi-greek-los-angeles-5,"['greek', 'mediterranean', 'cocktailbars']"
+avoCoHA8cjT7SJOtpY_0_g,34.02171,-118.46474,$$,939.0,3.5,90405,Santa Monica,z-garden-santa-monica,"['mediterranean', 'mideastern', 'greek']"
+jGHYiK17BNNQxBxMtIBbFQ,34.0602431,-118.4466832,$$,579.0,3.0,90024,Los Angeles,elysee-bakery-and-cafe-los-angeles,"['bakeries', 'french', 'coffee']"
+75q2kaEU1q8fQFJVDvyxUQ,34.0364227294922,-118.471054077148,$$,269.0,4.0,90404,Santa Monica,wine-expo-santa-monica,['wine_bars']
+UK_0g7c6eiekZn1UPHGF4A,34.04241,-118.44085,$$,45.0,4.5,90025,Los Angeles,la-mousse-desserts-los-angeles,"['desserts', 'bakeries']"
+9ms39Rij5JQs2-6f8eWBrg,34.034666496801,-118.43935696489,$$,367.0,3.5,90064,Los Angeles,billingsleys-los-angeles,['steak']
+VRm-vEYB6k0a81_nfGObJA,34.0206223,-118.4670029,$$,232.0,4.5,90405,Santa Monica,lo-cal-coffee-and-market-santa-monica,"['coffee', 'empanadas', 'sandwiches']"
+t0kYXkQXLpNzdEvq1ATdUw,34.031179588001,-118.446943008581,$$,267.0,4.0,90064,Los Angeles,the-talpa-restaurant-los-angeles,"['mexican', 'diners']"
+HXWdcnzYG1zmf0vDplmEEQ,34.0599599,-118.41982,$$,354.0,4.0,90067,Los Angeles,the-crack-shack-los-angeles-2,"['chickenshop', 'bars', 'newamerican']"
+b6Z82gcrOJ91-QOdvD_sAQ,34.0180648,-118.4724208,$,872.0,4.5,90405,Santa Monica,hungry-pocket-falafel-house-santa-monica,"['mideastern', 'falafel']"
+cpH1Lut_cep5zZyNImlnbw,34.0476319,-118.4634193,$$,532.0,3.5,90024,Los Angeles,qs-billiard-club-los-angeles,"['poolhalls', 'sportsbars', 'newamerican']"
+LsFLYDp6-q-0ngE9QpmVlA,34.0462357,-118.4480153,$$,192.0,3.5,90025,Los Angeles,louigis-italian-kitchen-los-angeles,"['pizza', 'italian', 'salad']"
+taMhm9egDVqBzT3LEf7eHA,34.0618827,-118.4439995,$$,228.0,4.0,90024,Los Angeles,pinches-tacos-los-angeles-5,['mexican']
+BK3Lpc9Az2lOcfyrWsaryw,34.041194,-118.426917,$$,440.0,3.5,90064,Los Angeles,marias-italian-kitchen-los-angeles,"['italian', 'pizza', 'bars']"
+z-3GFhC1w5o3_P6iN-lJgw,34.0289994723339,-118.442841838623,$$$,135.0,4.0,90064,Los Angeles,tokyo-kalbi-los-angeles-2,"['japanese', 'korean', 'asianfusion']"
+ceLURkYjRgXhVY2fjPXGAw,34.04764,-118.43542,$$$$,31.0,5.0,90025,Los Angeles,masakazu-los-angeles,"['sushi', 'japanese']"
+iCZjQPADbk9sYHNvjef2Zg,34.0642722,-118.4690313,$$,459.0,4.0,90049,Los Angeles,lemonade-los-angeles-6,"['newamerican', 'sandwiches', 'salad']"
+FR6vaLqh-MvXUAO1AHGHXQ,34.0384221,-118.4317743,$$,432.0,3.5,90064,Los Angeles,hop-li-seafood-restaurant-los-angeles-2,"['chinese', 'seafood']"
+7ZmE5OgQU2SG5qXgAi7Zcw,34.0398164,-118.4627035,$,340.0,3.5,90025,Los Angeles,taco-plus-los-angeles,"['breakfast_brunch', 'tacos']"
+5xQLCkZlFroGvytK8YGhvQ,34.039667,-118.43808,$$,378.0,3.0,90064,Los Angeles,hop-woo-los-angeles-9,"['cantonese', 'szechuan', 'dimsum']"
+t0Jua5Oo9247QorSQ1WzPw,34.061716,-118.44664,$$,576.0,3.0,90024,Westwood,barneys-beanery-westwood,"['breakfast_brunch', 'gastropubs', 'sandwiches']"
+atlOzY3DmXCBlw-LiIL4Lw,34.0190565138539,-118.455682664813,$$,514.0,4.0,90405,Santa Monica,vito-restaurant-santa-monica,"['italian', 'seafood', 'steak']"
+jcdIrdgeg58VbezTxJoVBw,34.053228650828,-118.4699574,$$,415.0,3.5,90049,Los Angeles,souplantation-los-angeles-3,"['buffets', 'vegetarian', 'salad']"
+,,,,,,,,,"['cafes', 'coffee', 'desserts']"
+QiiuqzcD4HUqYpKhhGXU6Q,34.06225761118,-118.44780849675,$$,465.0,3.5,90024,Los Angeles,tomodachi-sushi-los-angeles,"['sushi', 'japanese', 'korean']"
+gMES2FJ-6T7K-cqfYp_c-Q,34.019261,-118.4554674,$$,202.0,4.5,90405,Santa Monica,uplifters-kitchen-santa-monica,"['coffee', 'cafes', 'breakfast_brunch']"
+q44F4rITZyWIFh_xIOGOfA,34.054188,-118.4651363,$$,181.0,4.0,90049,Los Angeles,guyi-restaurant-los-angeles-3,['szechuan']
+vjYdvkaCnS_v_FBhT23aQg,34.0332507,-118.4483352,$,73.0,4.5,90064,Los Angeles,nelis-catering-and-restaurant-los-angeles,"['catering', 'sandwiches', 'breakfast_brunch']"
+-KoQb30Hphg9jRT8MGpZoA,34.0420733,-118.460884,$,154.0,4.0,90025,Los Angeles,board-house-coffee-los-angeles,"['coffee', 'breakfast_brunch', 'donuts']"
+TSRgZGwH4FeIt0aYaXImOw,34.0635092,-118.4451436,$,328.0,3.5,90024,Los Angeles,chick-fil-a-los-angeles-8,['hotdogs']
+vp_lalOGHj7ggzTUfNfQaA,34.0476596408126,-118.443937445615,$$,93.0,4.0,90025,Los Angeles,green-olive-los-angeles-4,['mediterranean']
+bLBVtX9I7sn0xfVMPC7xoA,34.05337,-118.46197,$$$,243.0,3.5,90049,Los Angeles,pecorino-restaurant-los-angeles,"['italian', 'steak', 'vegetarian']"
+N23zV6CHXX-S_-Gaf2qClA,34.035315,-118.438773,$,215.0,3.5,90064,Los Angeles,el-super-taco-los-angeles,"['mexican', 'sandwiches']"
+h3rQpPzQ-wiAoctnMLSIUA,34.0389048,-118.4420525,$$,207.0,3.5,90025,Los Angeles,tasty-noodle-house-los-angeles-10,"['shanghainese', 'dimsum', 'noodles']"
+vcDXEyrubM6HT_SklfSBIA,34.0738923,-118.4681433,$$$,589.0,4.0,90049,Los Angeles,west-restaurant-and-lounge-los-angeles,"['newamerican', 'lounges']"
+uDoYYdrvnUal7-RrZ9le7A,34.04619,-118.46434,$$,52.0,5.0,90025,Los Angeles,layali-la-los-angeles-4,"['mediterranean', 'hookah_bars', 'tapas']"
+qTqsw0dXi23XdtHhBpV0Jw,34.04008,-118.4633,$$,207.0,4.0,90025,Los Angeles,ihop-los-angeles-6,"['breakfast_brunch', 'tradamerican', 'burgers']"
+ckdA2ZfBEttCiz9hGXpUwg,34.05351,-118.46315,$$,224.0,4.0,90049,Los Angeles,new-york-bagel-co-los-angeles,"['bagels', 'breakfast_brunch']"
+C2SPQ6w29lS5UyNRMiHjLA,34.0581096886358,-118.419600535057,$$,539.0,3.5,90067,Los Angeles,obicà-mozzarella-bar-pizza-e-cucina-los-angeles-2,"['italian', 'wine_bars', 'pizza']"
+H2hf6jAvBLxVTXnutXlYNQ,34.03744,-118.469036,$$,690.0,3.5,90404,Santa Monica,busbys-west-santa-monica,"['sportsbars', 'newamerican']"
+QuLLfTZlJ5wcCAkULVHU5Q,34.0579268,-118.4431653,$$,52.0,4.5,90024,Los Angeles,kalbis-grill-los-angeles-3,"['korean', 'bbq', 'coffee']"
+YTFkXjH63neK5e1DkVjy2A,34.0522987,-118.4711024,$$$,212.0,4.0,90049,Los Angeles,vincenti-ristorante-los-angeles-3,['italian']
+TBE0EqMtp5avW1oV3ra_1g,34.038684,-118.442084,$$,283.0,3.0,90064,Los Angeles,yakitoriya-los-angeles,"['japanese', 'bars', 'asianfusion']"
+KzuxFNzfdx7BcSvM8FfANw,34.05994,-118.44445,$,185.0,4.0,90024,Los Angeles,peets-coffee-los-angeles-4,['coffee']
+C27AlKzYzTJwi3bNAWIXpQ,34.0621806,-118.4439215,$$,290.0,3.5,90024,Los Angeles,ministry-of-coffee-los-angeles,"['coffee', 'breakfast_brunch', 'juicebars']"
+Vlgc1zRzjrW-gMcBCf0-BA,34.0503436573404,-118.437825615344,$,91.0,4.0,90025,Los Angeles,sunnin-bakery-los-angeles,['bakeries']
+xwWWjAbA1tWkndj0L2zfBA,34.0439999,-118.45439,$,99.0,4.0,90025,Los Angeles,star-bakery-los-angeles,"['bakeries', 'customcakes']"
+2NT5lvZNSWGWzVzpy7VclQ,34.0445036089938,-118.431746634537,$,268.0,3.5,90025,Los Angeles,thai-moon-los-angeles-2,['thai']
+EwMfxT3R8ZwIpeEexn_TiQ,34.0538813,-118.4653214,$$,154.0,4.0,90049,Los Angeles,sweetgreen-los-angeles-9,"['salad', 'vegetarian']"
+pJ8FzqVUDwFZmtUkv04HfA,34.0211102,-118.4661294,$$,480.0,4.0,90405,Santa Monica,the-daily-pint-santa-monica,['sportsbars']
+VWRUywup9B4dwTzhUs4MrA,34.047861,-118.4348157,$$,45.0,4.5,90025,Los Angeles,laziz-grill-los-angeles,['persian']
+GGzgUd6k6aOHPp7PrT6d6g,34.063514204957,-118.444078952997,$$,346.0,3.5,90024,Westwood,ralphs-westwood,"['grocery', 'delis', 'pharmacy']"
+-p4vXR2qLH8___jkMkMX1A,34.0594042,-118.444932,$$,264.0,3.5,90024,Los Angeles,nekter-juice-bar-los-angeles,"['juicebars', 'acaibowls', 'icecream']"
+nGivqlqadnaKIzPc0HIvAg,34.0489,-118.46213,$,182.0,4.0,90025,Los Angeles,thai-bamboo-cuisine-los-angeles-2,['thai']
+rOXSAGBOEw4R22pxFyMYNA,34.04434,-118.43168,$,141.0,4.0,90025,Los Angeles,penguins-place-frozen-yogurt-los-angeles,['icecream']
+bPu6AQIkONEHrga1HVGqcw,34.0201539,-118.4539539,$$,254.0,4.0,90405,Santa Monica,zabies-santa-monica,['tradamerican']
+fU9nnj0fm039XgHemUoq7A,34.0417855,-118.4301057,$$$,179.0,4.0,90064,Los Angeles,matteos-los-angeles,['italian']
+-FEBN1JGv9ae44aathzVIg,34.053028,-118.466437,$$,165.0,4.0,90049,Los Angeles,simply-salad-los-angeles-3,"['salad', 'wraps']"
+4NNPmINhJ5D8S40Uj0vLgg,34.060162,-118.4454179,$$,261.0,3.5,90024,Los Angeles,headlines-diner-and-press-club-los-angeles-2,"['diners', 'breakfast_brunch', 'sandwiches']"
+Y9Sf4yCo2XF_ZwiPAFUbTw,34.0524516,-118.4703409,$$,289.0,3.5,90049,Los Angeles,alfred-coffee-brentwood-los-angeles-11,['coffee']
+_QGyUdE-thS2Tb2t0rKk8A,34.04959,-118.46119,$$,558.0,3.0,90025,Los Angeles,the-palace-seafood-and-dim-sum-los-angeles,"['dimsum', 'seafood', 'cantonese']"
+nvKkylFrGBp5RUuuNIEX2Q,34.053868,-118.465276,$$,215.0,4.0,90049,Los Angeles,taiko-los-angeles-2,"['japanese', 'sushi', 'noodles']"
+9ViYZ518yp8bB4gNpvnzRA,34.0314151,-118.4453646,$,331.0,3.5,90064,Los Angeles,chutneys-los-angeles,"['indpak', 'halal', 'pakistani']"
+,,,,,,,,,"['falafel', 'kebab', 'mideastern']"
+IqLiTfDobX9sKdzeCXh7kg,34.05882,-118.41698,$$,130.0,4.5,90067,Los Angeles,mrs-winstons-las-best-salad-and-juice-bar-los-angeles-2,"['healthmarkets', 'salad', 'juicebars']"
+eQ4L2wqKubLzoeiTg9OhRg,34.05431,-118.46323,$$$,118.0,4.0,90049,Los Angeles,bar-toscana-los-angeles,"['wine_bars', 'italian', 'cocktailbars']"
+ZheXbOKjjh1JFe2k2svhYg,34.0490039,-118.4359361,$$,212.0,3.5,90025,Los Angeles,pho-shop-los-angeles-3,['vietnamese']
+5dd7D6C3dKtpxzgsR5R1uA,34.0599599,-118.41982,$$$,821.0,3.0,90067,Los Angeles,javiers-century-city-los-angeles,"['mexican', 'bars']"
+oqXlAAHuPMCur3qiXbcSvw,34.064266308669,-118.469055609789,$$,102.0,4.5,90049,Los Angeles,casa-de-campo-los-angeles-2,['mexican']
+1iH0JS9j41v_i7hxuUL8Yw,34.0599599,-118.41982,$$,294.0,4.0,90067,Los Angeles,tocaya-century-city-los-angeles,"['mexican', 'vegan', 'gluten_free']"
+7E9aAEdQj2b0bLVDbEzV9A,34.045759,-118.4651769,$$,72.0,4.5,90025,Los Angeles,the-lone-wolf-cigar-company-and-lounge-los-angeles-3,"['tobaccoshops', 'cigarbars', 'headshops']"
+qMZj6xcCvyqPef_xqxBEsw,34.0621795654297,-118.44571685791,$,423.0,3.0,90024,Los Angeles,corner-bakery-cafe-los-angeles-4,"['bakeries', 'breakfast_brunch', 'cafes']"
+2gkXUnz_JUHL3e23miYeMQ,34.0610472,-118.44737,$$,239.0,3.5,90024,Los Angeles,bollywood-bites-los-angeles-3,['indpak']
+y5wmbVa-YMLxaKYh5meRxg,34.0476644,-118.4633843,$$,612.0,3.0,90025,Los Angeles,cabo-cantina-los-angeles-2,"['mexican', 'sportsbars', 'breakfast_brunch']"
+ybx06YCQVuv_H3LQ8Agdvg,34.0450523,-118.4323888,$$,109.0,4.0,90025,Los Angeles,the-west-end-craft-bar-and-neighborhood-kitchen-los-angeles,"['tapasmallplates', 'newamerican', 'gastropubs']"
+,,,,,,,,,"['tennis', 'playgrounds', 'parks']"
+jQQVGhTXKSU8qkKRiGTp4g,34.03265,-118.43808,$,35.0,5.0,90064,Los Angeles,perkside-coffee-truck-los-angeles-2,['coffee']
+zJnB1yKxco_kjNBMDGYpMg,34.0599726,-118.4446729,$$,196.0,3.5,90024,Los Angeles,sweetfin-poké-los-angeles-2,"['poke', 'japanese', 'gluten_free']"
+0TnAbhRcVjQimkcYZeqaXw,34.0394444261643,-118.4427955,$,178.0,3.5,90025,Los Angeles,noble-tea-los-angeles-3,"['coffee', 'taiwanese', 'bubbletea']"
+7XGC9lQ1-9T4QOe6DX6xZg,34.02743,-118.42929,$,272.0,4.0,90064,Los Angeles,baja-buds-los-angeles,"['mexican', 'desserts', 'salad']"
+jh_6XdcCqW5-eMyblXRDXA,34.041756,-118.459547,$$,356.0,3.0,90025,Los Angeles,greenview-thai-restaurant-los-angeles-3,"['thai', 'chinese', 'vietnamese']"
+FSwYtdKnrIQ3ofqMShHKJg,34.0689838567973,-118.4431814941,$,86.0,4.5,90024,Los Angeles,seas-cafe-los-angeles,['cafes']
+Ewq5vWFfi5htXLYmrX5lqg,34.0430631,-118.4579338,$,56.0,4.5,90025,Los Angeles,manolys-bakery-los-angeles,"['juicebars', 'breakfast_brunch', 'mexican']"
+qYcAdbzRGpMUcnuGL30Zpw,34.0193710033041,-118.421832828561,$,603.0,3.5,90034,Los Angeles,ugly-roll-sushi-los-angeles,"['sushi', 'fooddeliveryservices']"
+2qycueA1kBSErAUP7LQEpQ,34.0290119614647,-118.442860600594,$$,194.0,4.0,90064,Los Angeles,asianya-los-angeles-2,"['asianfusion', 'ramen']"
+QUWH1tyC2-u6sVWomqvI1Q,34.0298465590893,-118.472751295631,$,172.0,4.5,90404,Santa Monica,elabrew-coffee-santa-monica,"['cafes', 'coffee']"
+w82wBdvR4tDbbNoYQUT_Mw,34.0376946525254,-118.440579575846,$$,220.0,3.5,90064,Los Angeles,flaming-pot-los-angeles-5,['taiwanese']
+K7MedWVhAX73_Mmo7-Rq0g,34.032916,-118.4426804,$$,318.0,3.5,90064,Los Angeles,cheng-du-restaurant-los-angeles,['chinese']
+wMGDUEZuGEgEhrXj41YhYQ,34.039861,-118.4293705,$$,180.0,3.5,90064,Los Angeles,chocolate-bash-los-angeles-2,"['coffee', 'desserts', 'creperies']"
+tqd0Pu0LnvcsVj-NOYv7nw,34.0529787105699,-118.467106315345,$$,353.0,3.5,90049,Brentwood,fresh-brothers-brentwood-brentwood,"['pizza', 'salad', 'chicken_wings']"
+llIYK2iVqPoNUp83bnGUnw,34.048318,-118.44336,$$,162.0,3.0,90025,Los Angeles,salad-farm-los-angeles-2,"['sandwiches', 'salad', 'hotdogs']"
+ZO68_8y221gj6hq-n4XV_A,34.03793,-118.44081,$,100.0,4.0,90064,Los Angeles,bibigo-los-angeles-12,['korean']
+zspOzXI4JrwdCvN6DL1JSA,34.0457875,-118.4655867,$$,164.0,4.0,90025,Los Angeles,northern-cafe-los-angeles-8,['chinese']
+irxo9ZfOoD2YFoeujMmn2w,34.0564561890054,-118.426205382769,$$$,181.0,4.0,90025,Los Angeles,carmines-restaurant-and-bar-los-angeles,"['italian', 'wine_bars']"
+F6E7tgedmBiDqEHN5rQ93w,34.053254,-118.470066,$$,119.0,4.0,90049,Los Angeles,mendocino-farms-los-angeles-11,"['sandwiches', 'salad']"
+e9CQC0ILYwpmdFqhD6XfhA,34.0617725733605,-118.444031819264,$,175.0,3.5,90024,Los Angeles,jersey-mikes-subs-los-angeles-10,"['sandwiches', 'hotdogs', 'delis']"
+,,,,,,,,,['gardens']
+x5MIB5olaSq_50jRn-pAXg,34.0597447,-118.4456233,$$,127.0,4.0,90024,Westwood,tocaya-organica-westwood-westwood-4,"['mexican', 'vegan', 'gluten_free']"
+naeMgG9Dc7EScQdRgKOCag,34.0579,-118.43883,$$$,26.0,5.0,90024,Los Angeles,cakes-nouvelle-los-angeles,"['desserts', 'customcakes']"
+epVfgI_SxQMpTMbRaV8A2g,34.0477684867732,-118.444944413103,$,49.0,4.0,90025,Los Angeles,c-m-coffee-and-milk-at-westwood-gateway-los-angeles,"['coffee', 'cafes']"
+FjmEYsEtRNaerkOjh07wSQ,34.062937,-118.447274,$$,542.0,3.0,90024,Los Angeles,bjs-restaurant-and-brewhouse-los-angeles-5,"['pizza', 'breweries', 'newamerican']"
+Ov_hVSTRknMXG_DuHAjAyw,34.0433825,-118.4689,$$,93.0,4.5,90025,Los Angeles,thunderbird-los-angeles,"['sportsbars', 'cocktailbars', 'mexican']"
+WfUv5BpGZmp4vJIKW0I3Jg,34.0580611367607,-118.419446582278,$$,435.0,3.5,90067,Los Angeles,ajisen-ramen-los-angeles-2,['ramen']
+jFInRB3cvdjf1Wvs32wftQ,34.03206,-118.44532,$,225.0,3.5,90064,Los Angeles,cicceros-pizza-los-angeles,"['pizza', 'salad', 'sandwiches']"
+8YIsgV6fQX_xfOTWzNoAHw,34.047477017258,-118.44354939755,$$,159.0,3.0,90025,Los Angeles,o-sushi-los-angeles,"['sushi', 'japanese', 'asianfusion']"
+FY7S9R_-O2kozZZk7DgbKA,34.019083,-118.421685655315,$$,161.0,4.5,90034,Los Angeles,julie-goes-green-los-angeles,"['vegan', 'italian', 'pizza']"
+j0p8pQvudt_QgXjRTxbtnA,34.028007,-118.467372,$,226.0,4.0,90404,Santa Monica,bergamot-cafe-santa-monica,"['coffee', 'sandwiches', 'salad']"
+QFYsStCRewsbklQwSC838w,34.0218326324264,-118.465661215098,$$,250.0,4.0,90404,Santa Monica,asian-box-santa-monica-2,"['asianfusion', 'vegan', 'gluten_free']"
+bELqNoqvhAcrOyL-i-iwpA,34.06213,-118.44719,$$,353.0,3.0,90024,Los Angeles,california-pizza-kitchen-at-westwood-los-angeles,"['pizza', 'newamerican', 'salad']"
+SGL6SwcmFA89eLpOh79zvw,34.0461654663086,-118.434143066406,$,140.0,3.5,90025,Los Angeles,panda-express-los-angeles-51,"['hotdogs', 'chinese', 'salad']"
+,,,,,,,,,['bakeries']
+sfhNjAW30lxxOMHaMCYIKw,34.02705,-118.45563,$,263.0,3.5,90405,Santa Monica,unurban-coffee-house-santa-monica-5,"['coffee', 'galleries', 'juicebars']"
+gMvpjDPNcQcXXkYhn0RyQw,34.0583149556867,-118.417975879787,$$,235.0,4.0,90067,Century City,midici-the-neapolitan-pizza-company-century-city,"['wine_bars', 'italian', 'pizza']"
+66XuRrW_MtxSPSy2N3v-Nw,34.0305539,-118.4212936,$$,230.0,4.0,90064,Los Angeles,niko-niko-sushi-los-angeles-2,"['sushi', 'japanese']"
+nTQiIzY-Ic1JkpP-RWULNA,34.0624669,-118.4468532,$,82.0,4.0,90024,Los Angeles,its-boba-time-los-angeles-29,"['juicebars', 'coffee', 'desserts']"
+QiJvK9ov31xK69MCh28-5w,34.019998,-118.45437,$$,134.0,4.5,90405,Santa Monica,ocean-park-ramen-santa-monica,"['ramen', 'sushi']"
+a9DcHJW18ucKJxBq1-M3NQ,34.059017,-118.418861,$$$,391.0,3.5,90067,Los Angeles,terra-los-angeles-3,"['cocktailbars', 'steak', 'italian']"
+yDGVKaVVGJfZbUsbC0xZzg,34.0398218,-118.4425511,$$,169.0,3.5,90025,Los Angeles,karaoke-bleu-los-angeles,"['karaoke', 'divebars']"
+PxR6rRMleWUd-AgBYpJuAA,34.058161,-118.419621,$$,478.0,3.5,90067,Los Angeles,shake-shack-los-angeles,"['tradamerican', 'hotdogs', 'burgers']"
+Z3sflrc9515vqEAaWT9NCg,34.0594609834077,-118.418578299438,$$,118.0,4.0,90067,Los Angeles,la-colombe-los-angeles-2,['coffeeroasteries']
+JWSgtbeMTjDBuB7msu5now,34.0530759,-118.4647481,$$$,189.0,3.5,90049,Los Angeles,sor-tino-restaurant-los-angeles,"['italian', 'pizza']"
+4SeGageaPuloEW7z4Peffw,34.0266601,-118.4308361,$$,533.0,3.0,90064,Los Angeles,galbi-king-los-angeles,"['korean', 'bbq', 'soup']"
+bK0yAk3_fi9sao364iUP8Q,34.0439999,-118.45439,$$,146.0,3.5,90025,Los Angeles,north-end-pizzeria-los-angeles-3,"['italian', 'pizza']"
+EkG5CXl366qLwZlTJbCuuQ,34.0603467,-118.4426463,$$,410.0,3.0,90024,Los Angeles,frida-mexican-cuisine-los-angeles-4,['mexican']
+0xP-1VEHeHu0VBQQjN28vw,34.0197425659629,-118.421615436673,$,384.0,4.0,90034,Los Angeles,palms-ramen-yumeya-los-angeles,"['ramen', 'soup']"
+NE3yw8FiLc7ZIdr_b-G6Kg,34.0463516907337,-118.464982461776,$$,224.0,3.5,90025,Brentwood,california-pita-brentwood-brentwood,"['mediterranean', 'mideastern']"
+MRNqTTmEui3bIKXmKnhy-Q,34.04219,-118.460898,$$,401.0,3.0,90025,Los Angeles,hop-li-los-angeles,"['chinese', 'seafood']"
+yyBoN3x-zRAKRa-gFqNHNA,34.0444604,-118.455024,$$,290.0,3.0,90025,Los Angeles,qusqo-bistro-and-gallery-los-angeles,"['peruvian', 'vegetarian', 'seafood']"
+GVt0MwAoQcuM06V_-fHkug,34.0583969,-118.1912081,$,1176.0,4.5,90063,Los Angeles,the-lobos-truck-los-angeles,"['foodtrucks', 'tradamerican', 'comfortfood']"
+H7RQV-RrE58g9RlKwotjgg,34.058603,-118.419048,$$$,737.0,3.0,90067,Los Angeles,meizhou-dongpo-restaurant-los-angeles,"['szechuan', 'seafood', 'asianfusion']"
+v1ZE4XOTvGRVfJr6B3K47g,34.0399241,-118.4294456,$$,317.0,3.0,90064,Los Angeles,chilli-thai-los-angeles-3,['thai']
+c_PNphQTx0nxV-MjmNa-Dg,34.04744,-118.43436,$$,148.0,3.5,90025,Los Angeles,byblos-mediterranean-restaurant-and-hookah-bar-los-angeles-11,"['mideastern', 'mediterranean', 'hookah_bars']"
+NYbHLVzFJJynQ7NgZEZ5VQ,34.04089,-118.44337,$$,69.0,4.0,90025,West Los Angeles,mala-town-west-los-angeles,"['hotpot', 'chinese', 'comfortfood']"
+oWzaC1LbpV31rYZrHbRXeg,34.0522102,-118.4715602,$$,284.0,3.5,90049,Los Angeles,jon-and-vinnys-brentwood-los-angeles,"['italian', 'pizza']"
+Ocdamt8Rj1OwLz0jUXrvTw,34.0273034315832,-118.429574530444,$,495.0,3.0,90064,Los Angeles,hamburger-habit-los-angeles,['burgers']
+u1ORoO5WYli3dRFBHM9mEQ,34.0416174390152,-118.459613694512,$,135.0,3.5,90025,Los Angeles,h-salt-fish-and-chips-los-angeles,"['british', 'hotdogs', 'fishnchips']"
+yByY5hWFNzwj4Gb1xWQ2OA,34.0466521,-118.4644973,$$,213.0,3.5,90025,Los Angeles,lazy-daisy-cafe-los-angeles,['cafes']
+z7VieaCUNfdMmGZqOMYxDA,34.0576280735107,-118.41930267473,$$,118.0,4.0,90067,Los Angeles,spice-affair-century-city-los-angeles-2,['indpak']
+k4k4sN5FPHJsy8X_AUPsqA,34.0272203,-118.4283597,$,224.0,3.5,90034,Los Angeles,the-bagel-factory-los-angeles-2,"['bagels', 'breakfast_brunch', 'sandwiches']"
+C-4pBx861b7pAmliTKIBQA,34.1598963,-118.2666852,$$,403.0,4.5,91202,Glendale,roobinas-cake-glendale,"['bakeries', 'desserts', 'customcakes']"
+YrVwUbhaMBU0vZqWQd2RQA,34.0624519158228,-118.446887012356,$,161.0,3.5,90024,Los Angeles,the-flame-broiler-los-angeles,"['korean', 'hotdogs', 'asianfusion']"
+w6rg4uA3g6Q3VuvH0q01lQ,34.0429,-118.42356,$$,260.0,3.5,90064,Los Angeles,louises-trattoria-los-angeles-4,['italian']
+dZ7rrM4u42u9a-wWedqq9A,34.028893,-118.472461,$$,125.0,4.5,90407,Santa Monica,mrs-winstons-las-best-salad-and-juice-bar-santa-monica-2,"['healthmarkets', 'salad', 'juicebars']"
+E0IGPqe-WsTqD49zJ4HoSg,34.0314025,-118.4697103,$$,350.0,3.5,90404,Santa Monica,tiato-santa-monica,"['asianfusion', 'venues', 'cafes']"
+FB_mLYx-NQdPWl16nhRW3Q,34.0599319,-118.446551132506,$$,95.0,4.0,90024,Los Angeles,meat-your-seoul-los-angeles,"['asianfusion', 'japanese', 'korean']"
+oHQinavLjEcYtVNn1_J7og,34.0454788208008,-118.447944641113,$,58.0,3.5,90025,Los Angeles,rex-bakery-los-angeles,"['desserts', 'bakeries', 'persian']"
+78LNJf7-QNnewjXKA9QuBg,34.05287,-118.46695,$,202.0,3.5,90049,Los Angeles,acai-nation-los-angeles-5,"['desserts', 'breakfast_brunch', 'juicebars']"
+,,,,,,,,,"['wine_bars', 'creperies', 'french']"
+0-VPL4kI699tEzipR2nteQ,34.02218,-118.43889,$,157.0,4.0,90064,Los Angeles,lost-and-found-los-angeles,['divebars']
+,,,,,,,,,['bubbletea']
+GOgBE8pxnqTeD7uoycXkBA,34.0451126098633,-118.446716308594,$,104.0,3.0,90025,Los Angeles,gourmet-genie-los-angeles-2,"['mediterranean', 'mideastern']"
+AtsCjQIibHYByerMsVZH3A,34.0268208,-118.4689495,$$$,133.0,4.0,90404,Santa Monica,birdie-gs-santa-monica-2,"['tradamerican', 'cocktailbars']"
+-usq2_zcOsi5-0sPKiFvng,34.043995,-118.454391,$,148.0,3.5,90025,Los Angeles,tasty-wok-cuisine-los-angeles-2,"['chinese', 'asianfusion']"
+PntICmrreZnYNr1VUFhllQ,34.0594052506592,-118.418786440679,$,86.0,4.5,90067,Los Angeles,leaff-artisan-belgian-waffles-los-angeles-2,"['chocolate', 'waffles', 'coffee']"
+RKzgXZ-PUS_LTnActzcH4Q,34.030017,-118.472355,$$,286.0,3.5,90404,Santa Monica,daily-grill-santa-monica-2,"['tradamerican', 'steak', 'breakfast_brunch']"
+kInZh4MXgtq0VTiO0YZsmw,34.053737,-118.466101,$,169.0,3.5,90049,Los Angeles,starbucks-los-angeles-19,['coffee']
+FWBeF6g78wwphRkG64ngvA,34.08841,-118.37783,$$,693.0,4.0,90069,Los Angeles,babys-badass-burgers-los-angeles,"['burgers', 'foodtrucks']"
+UNhsuZmtqGA5X5_3_pGYUw,34.02252,-118.21658,$,354.0,4.5,90023,Los Angeles,tacos-y-birria-la-unica-los-angeles,"['tacos', 'foodtrucks']"
+b87BpAdxs6lUeMi62V13XQ,34.069379,-118.445407,$$,127.0,4.0,90095,Los Angeles,plateia-los-angeles,"['mediterranean', 'newamerican', 'breakfast_brunch']"
+_LXBYMXh3dv10yaJI81EHw,34.020982,-118.4663687,$$,416.0,3.5,90405,Santa Monica,the-lazy-daisy-santa-monica,"['breakfast_brunch', 'sandwiches', 'burgers']"
+hUZDpWXUkw165KAk-uv5FA,34.0578011470348,-118.419312471828,$$$,210.0,3.5,90067,Los Angeles,gelsons-los-angeles-3,"['grocery', 'delis', 'wine_bars']"
+CYFXQ-EXUii5Aw5f1AA-YQ,34.0406,-118.46404,$,222.0,3.5,90025,West Los Angeles,ono-hawaiian-bbq-west-los-angeles-2,"['hawaiian', 'bbq', 'seafood']"
+GUKWv2TF760IhOwUXuyxgw,34.0219645904549,-118.44997315336,$$,380.0,3.5,90405,Santa Monica,el-torito-santa-monica-2,"['mexican', 'bars', 'breakfast_brunch']"
+K23jqD1_lrWQxWomuvVKoA,34.053368,-118.465914,$,98.0,4.0,90049,Los Angeles,yogurtland-los-angeles-los-angeles-8,['icecream']
+B9kN780xFlQqnbsPZmH-PQ,34.0624938,-118.4466555,$$,277.0,3.0,90024,Los Angeles,onkei-ramen-and-sushi-los-angeles,"['ramen', 'sushi']"
+YhQmzzKPtEeZnpvvOZmyTg,34.052925,-118.4670125,$$,338.0,3.0,90049,Brentwood,chin-chin-brentwood,"['chinese', 'asianfusion']"
+IAzVa3gaOGeIKttZqphD2g,33.9894829,-118.262014,$,682.0,4.0,90011,Los Angeles,teddys-red-tacos-los-angeles,"['foodtrucks', 'tacos']"
+LEh0miVNN2OdTv984eHhBg,34.039397,-118.473735,$$,109.0,4.0,90403,Santa Monica,luna-grill-santa-monica-santa-monica,"['greek', 'mediterranean', 'salad']"
+M0JcJIr7zSOSHqfpfENeCQ,34.0334815979004,-118.473663330078,$,32.0,5.0,90404,Santa Monica,pop-candy-santa-monica,"['foodstands', 'candy']"
+rjz50w0fVSWyTpepJZOmBA,34.036758,-118.434098,$,46.0,4.0,90064,Los Angeles,cemitas-poblanas-los-angeles-2,"['foodtrucks', 'mexican']"
+SCHSOebDtAjHk1dnrcVTeQ,34.057551,-118.419393,$,253.0,3.5,90067,Los Angeles,bibigo-los-angeles-11,['korean']
+ddQ-nWc2NRdqGO-1qEOHug,34.02553,-118.43219,$$,218.0,3.5,90064,Los Angeles,marie-callenders-restaurant-and-bakery-los-angeles-3,"['bakeries', 'tradamerican', 'breakfast_brunch']"
+,,,,,,,,,['parks']
+X3FjM4euGwCAe2jZ5fUlCw,34.0593079947883,-118.444793324925,$,161.0,3.0,90024,Los Angeles,sansai-japanese-grill-los-angeles-10,"['japanese', 'sushi']"
+xvW29d3S75D1JdjpPW3sJQ,34.0274931,-118.4291749,$,457.0,3.0,90064,Los Angeles,boba-time-los-angeles-4,"['coffee', 'icecream', 'shavedice']"
+5z6YbJ0i3V16hCm31iHU_A,34.0599599,-118.41982,$$,175.0,3.5,90067,Los Angeles,saint-marc-los-angeles-3,['newamerican']
+n0aZC-MAalau-racm2Y20w,34.06271433,-118.44822867,$,31.0,4.5,90024,Los Angeles,dipnmix-los-angeles-2,"['waffles', 'creperies', 'icecream']"
+IH5OdO9k2bzk6qhuoJ2B8Q,34.06407,-118.46946,$$$,160.0,4.0,90049,Los Angeles,divino-los-angeles,"['italian', 'wine_bars']"
+nvLZeV5Nru1GBxWe5gAd-g,34.0535202026367,-118.463340759277,$$,142.0,3.5,90049,Los Angeles,the-larder-at-tavern-los-angeles,"['breakfast_brunch', 'coffee', 'newamerican']"
+il3mj97wZQ_i1itQBxa1DQ,34.053498,-118.462499,$$,55.0,4.0,90049,Los Angeles,caffe-luxxe-los-angeles-2,['coffee']
+egFmq4geJuqNzZhhvz3oKw,34.0590918642852,-118.420453477524,$$,500.0,3.0,90067,Los Angeles,toscanova-los-angeles,"['italian', 'wine_bars']"
+sYZ-QjJ0BI1qV1aTRbXUJQ,33.95804,-118.3898,$,199.0,4.5,90045,Los Angeles,cafe-vietnam-truck-los-angeles-30,"['vietnamese', 'sandwiches', 'foodtrucks']"
+JtQI62zBQWmXOIUT2_RoIg,34.0610653,-118.446235,$,381.0,3.0,90024,Los Angeles,chipotle-mexican-grill-los-angeles-2,"['mexican', 'hotdogs']"
+qx_laQmA-uBGAt5QUehmaw,34.0454459503403,-118.523584681406,$,128.0,5.0,90272,Pacific Palisades,gracias-señor-pacific-palisades,"['foodtrucks', 'mexican']"
+QnK3I7gyhzmLc2OQqHu4fQ,34.0449899,-118.4325589,$$$,129.0,3.5,90025,Los Angeles,koutoubia-los-angeles,['moroccan']
+meXU5mzbXhnpjFjEtEaoqg,34.062529,-118.447346,$,272.0,3.0,90024,Los Angeles,starbucks-los-angeles-17,['coffee']
+sqAZAVtoXzpYjTpUgE7rgA,34.0371806,-118.4349337,$,83.0,3.5,90064,Los Angeles,la-salsa-los-angeles-9,['mexican']
+35LG4UfojynOWmoCTV2z4A,34.0631,-118.44362,$,28.0,4.5,90024,Los Angeles,cork-and-tap-beer-and-wine-bar-los-angeles,['bars']
+tPEAt-6c1bzIVkfRZNdjhA,34.023186393541,-118.461851570804,$,46.0,4.5,90405,Santa Monica,baskin-robbins-santa-monica-3,"['desserts', 'icecream', 'customcakes']"
+u-cFAUop_mZaHdiQ42S12w,34.04788,-118.43474,$,71.0,3.5,90025,Los Angeles,super-sun-los-angeles,"['importedfood', 'markets', 'delis']"
+wjg2JexVIAtCNqPbzVhElw,34.059021,-118.418867,$,72.0,4.5,90067,Los Angeles,wushiland-boba-los-angeles,['bubbletea']
+PeYm0nioeSSLy5dfF8mwog,34.0642408,-118.4694159,$$,68.0,4.5,90049,Los Angeles,the-yogurt-shoppe-los-angeles,"['icecream', 'gelato', 'vegan']"
+VzUuxKtuo76OTtbtLj4cug,34.04264,-118.46857,$,101.0,4.0,90025,Los Angeles,bagelworks-cafe-los-angeles-5,"['bagels', 'sandwiches', 'cafes']"
+K6dRXEPvjIAj78iLX8AREQ,40.2948417663574,-121.053520202637,$$,47.0,3.5,96137,Westwood,the-tackle-box-food-truck-westwood,"['foodtrucks', 'seafood', 'sandwiches']"
+FFJSYqOSSOaNChtabVRxIw,34.0382195,-118.4322128,$,35.0,4.5,90064,Los Angeles,zen-bakery-los-angeles,['bakeries']
+pCkhQHi3t9mbe78MIciIsw,34.032096862793,-118.472816467285,$$,61.0,4.5,90404,Santa Monica,love-bird-santa-monica,"['chickenshop', 'foodtrucks']"
+7a7lOH8PWqdnhKhvDf5thw,34.0201644897461,-118.450134277344,$,60.0,4.5,90405,Santa Monica,the-cutting-board-santa-monica,['breakfast_brunch']
+gjHpLphYvGS5WsXCMM7qLg,34.04294,-118.42227,$,154.0,3.5,90064,Los Angeles,century-dragon-los-angeles-2,['chinese']
+91meCwrmojpFj4XGecn34A,34.060317,-118.442658,$$,258.0,3.0,90024,Los Angeles,italian-express-los-angeles,"['pizza', 'italian', 'salad']"
+69GHsZuC2noKu1HKrx3q9A,34.045565,-118.449784,$,17.0,4.5,90025,Los Angeles,pupusas-yeni-los-angeles,['latin']
+Lu2osODR3Cu9kTfaav3JiQ,34.0266888040758,-118.431936958053,$,35.0,4.5,90064,Los Angeles,brother-cousins-tacos-los-angeles,"['tacos', 'foodstands']"
+6XKAzQIdgGqHXt4rDtwnjg,34.03313,-118.43872,$$,33.0,4.5,90064,Los Angeles,merguez-et-al-los-angeles-5,"['foodtrucks', 'african']"
+2jDchrEyfLcc1O3CfRvO_w,34.053866,-118.466539,$$,74.0,4.0,90049,Los Angeles,pressed-juicery-los-angeles-15,"['juicebars', 'icecream']"
+t5Ggj9n2ApvawNWTXvwMAg,34.06009,-118.444769,$,196.0,3.0,90024,Los Angeles,d-amores-famous-pizza-los-angeles,"['pizza', 'italian']"
+QJhiQ32lV1TUP-niFXq6_A,34.0458281,-118.4491673,$,37.0,4.0,90025,Los Angeles,rays-los-angeles-3,"['burgers', 'breakfast_brunch', 'delis']"
+,,,,,,,,,"['wine_bars', 'seafood', 'steak']"
+jQVRSpzNkAe0mGrzkXw0VA,34.034465,-118.455484,$,25.0,4.5,90025,Los Angeles,garden-cafe-los-angeles-7,['cafes']
+a858YHV2PZx_HdoBr2g_5g,34.064367,-118.469398,$$,80.0,4.5,90049,Los Angeles,soom-soom-fresh-mediterranean-los-angeles-4,"['falafel', 'gluten_free', 'mideastern']"
+JauWHFChLLBzbHLavZStSw,34.047352,-118.443782,$$,199.0,2.5,90025,Los Angeles,fatburger-los-angeles-20,"['burgers', 'hotdogs']"
+0D_kaKetEWvYJ804dCARyw,34.0662177,-118.4454167,$,87.0,4.0,90095,Los Angeles,ronald-reagan-ucla-medical-center-cafeteria-los-angeles,"['cafeteria', 'medcenters']"
+W4KL3Q_AVGfRrWcwR60gKw,34.0187471,-118.4714028,$,307.0,3.5,90405,Santa Monica,grey-block-pizza-santa-monica,['pizza']
+RZuVQUk-kLobMK6ATN9b9w,34.019378,-118.455362183087,$$,131.0,4.0,90405,Santa Monica,blossom-a-vietnamese-noodles-shop-santa-monica,"['vietnamese', 'noodles']"
+SWSyOcGLwqx_NOhA3SjMFw,34.0484,-118.44295,$,193.0,2.5,90025,Los Angeles,carvel-los-angeles,['icecream']
+AVVXqTBTDOl_T6RZlmI3fg,34.0326937,-118.4525734,$,113.0,3.5,90064,Los Angeles,the-greek-kabob-los-angeles,"['greek', 'mediterranean']"
+zFQ_2p-vxjdI8SPuNXTgaQ,34.06293,-118.44684,$$,54.0,4.0,90024,Los Angeles,shahi-los-angeles-3,"['mediterranean', 'wine_bars', 'hookah_bars']"
+8p8dnKwBdiVaWHo7FXuL4g,34.059367798411,-118.44510802791,$,205.0,3.0,90024,Los Angeles,noahs-bagels-los-angeles-5,"['breakfast_brunch', 'bagels', 'sandwiches']"
+,,,,,,,,,['museums']
+,,,,,,,,,['dog_parks']
+X2V5ZvWbK9ugE1QYagLNuA,34.0644108,-118.469407707453,$$,149.0,4.0,90049,Los Angeles,le-pain-quotidien-los-angeles-27,"['coffee', 'bakeries', 'breakfast_brunch']"
+O0eS7NIjDKNGNy80CXjqKQ,34.03577,-118.44413,$,38.0,4.0,90064,Los Angeles,gourmet-bites-cafe-los-angeles-2,"['sandwiches', 'cafes', 'breakfast_brunch']"
+g4GftV6mzdTXXYr0S9egnQ,34.0602092,-118.4429637,$$,188.0,3.0,90024,Los Angeles,first-szechuan-wok-los-angeles,['chinese']
+Io4M7onJ5q_Y0hj5nXGzgg,34.0268,-118.4737,$,281.0,3.5,90404,Santa Monica,dogtown-dogs-santa-monica,"['hotdog', 'foodstands', 'foodtrucks']"
+_X8MUno5oD0Wr4ynywG8jw,34.050347,-118.4377052,$$,231.0,2.5,90024,Los Angeles,liwan-restaurant-and-hookah-lounge-los-angeles-2,"['mediterranean', 'hookah_bars', 'halal']"
+2gO5gTkeEy3jl8DJ5ffvXA,34.0418053,-118.4302555,$$$,74.0,3.5,90404,Santa Monica,keith-and-margos-murder-mystery-santa-monica,"['theater', 'dinnertheater', 'teambuilding']"
+WiTMRukKmLARoEoKdrV6Qg,34.1463062227897,-118.425396788406,$$,296.0,4.0,91423,Los Angeles,okamoto-kitchen-los-angeles-2,"['foodtrucks', 'japanese', 'catering']"
+v_IoWH8feN7ksO6rd78KQw,34.04315,-118.431594,$,80.0,3.5,90064,Los Angeles,starbucks-los-angeles-99,['coffee']
+3EcAjx38IuElCQTPUhJa-w,34.040249,-118.465408,$$,143.0,3.5,90025,Los Angeles,chef-mings-kitchen-los-angeles,['chinese']
+,,,,,,,,,"['photoboothrentals', 'desserts']"
+V0PC9nh-iRnxwXtt2DR0LA,34.0457713,-118.4656077,$$,117.0,3.5,90025,Los Angeles,fatburger-los-angeles-29,"['burgers', 'hotdogs']"
+BS9IYqyx76MuZIrd55YwRA,34.070394,-118.444207,$$,134.0,3.5,90095,Los Angeles,wolfgang-puck-express-los-angeles-3,"['salad', 'pizza', 'sandwiches']"
+MGZcRMKvabDOK3xdYKxAYQ,34.0623468,-118.4479731,$$,66.0,4.0,90024,Los Angeles,hangry-moons-los-angeles,['chickenshop']
+,,,,,,,,,"['bars', 'tradamerican']"
+Kl1vjsn01mAqIyvKH-Omxg,34.04921,-118.43591,$$,74.0,3.5,90025,West Los Angeles,dim-sum-house-west-los-angeles-2,['dimsum']
+yDYvsxWGx20_V1DUnmRq6w,34.053914,-118.465256,$$,176.0,3.0,90049,Brentwood,california-pizza-kitchen-at-brentwood-brentwood-2,"['pizza', 'newamerican', 'salad']"
+js8C037RkvYP2wSkAFfhLw,34.059948,-118.419068,$$,75.0,4.0,90067,Los Angeles,beaming-organic-superfood-café-los-angeles-2,"['juicebars', 'vegetarian', 'acaibowls']"
+BrZbWxfB3OjYr1b5jhXVdw,34.0535301092795,-118.465336206522,$,108.0,3.5,90049,Los Angeles,the-coffee-bean-and-tea-leaf-los-angeles-8,['coffee']
+bOW6g57-D2tvXdDJf-8l7w,34.03988,-118.42913,$$,76.0,3.5,90064,Los Angeles,cold-stone-creamery-los-angeles-2,"['icecream', 'customcakes', 'cupcakes']"
+PJ3AnFKw0EBhKKg7htmM9A,34.0475671,-118.445234,$$,98.0,3.0,90025,West Los Angeles,starbucks-west-los-angeles-2,['coffee']
+lGaVIq0oiRSRmtDZvMTljw,34.071675806548,-118.45139353867,$,71.0,4.0,90024,Los Angeles,feast-at-rieber-los-angeles,"['asianfusion', 'japanese', 'korean']"
+mfKZ_oApeZptCE49N7KMYg,34.0328574367504,-118.452932331561,$$,155.0,3.0,90064,Los Angeles,north-end-pizza-los-angeles,"['italian', 'pizza']"
+mNS8SLDLrtSg9ip78nb2sw,34.037965,-118.44031,$$,59.0,3.5,90064,Los Angeles,4fingers-crispy-chicken-los-angeles-2,"['chickenshop', 'asianfusion', 'chicken_wings']"
+V7h6iFznzyLgN-MFksriYA,34.065068,-118.469313,$$$,166.0,3.5,90049,Los Angeles,brentwood-restaurant-and-lounge-los-angeles,"['tradamerican', 'lounges']"
+h2UTzXsrRzTWT0LRSo8FMw,34.0188388,-118.4562382,$,133.0,4.0,90405,Santa Monica,ocean-park-pizza-santa-monica-2,['pizza']
+2bdfejmOJcpJLngOJ5Ebig,34.0277418,-118.4292412,$,81.0,4.0,90064,Los Angeles,gabes-bar-and-grill-los-angeles,"['sportsbars', 'tradamerican']"
+r6MSYeb2rnp3PTlwDWMang,34.0188388,-118.4562382,$$,148.0,4.0,90405,Santa Monica,buds-deli-santa-monica,"['delis', 'salad', 'sandwiches']"
+FKRwi0mKQLADOdq08ytE-A,34.04756,-118.44317,$,115.0,2.5,90025,Los Angeles,del-taco-los-angeles-16,['hotdogs']
+SPDKXBx7yC3lAOY4fkGN2A,34.0601471,-118.4468841,$,158.0,3.0,90024,Los Angeles,fatburger-los-angeles-3,"['burgers', 'hotdogs']"
+w_mCACKhYBFyjt3Depnd5g,34.0209,-118.45284,$$,70.0,4.0,90405,Santa Monica,bento-moderno-santa-monica,"['asianfusion', 'sushi', 'bubbletea']"
+a8zs0zfAHa231nGGUutvrQ,34.0631440907026,-118.447216960192,$$,571.0,2.5,90024,Los Angeles,habibi-cafe-los-angeles,"['coffee', 'mideastern', 'hookah_bars']"
+wIfVd6PPWLq6xLPZwqf29A,34.0590031,-118.418866,$$,198.0,3.5,90067,Los Angeles,petros-los-angeles-2,['greek']
+FpDteBrZOlmJLjLHYSQHAQ,34.04488,-118.46601,$$,283.0,2.5,90025,Los Angeles,california-wok-los-angeles-3,"['cantonese', 'seafood', 'chicken_wings']"
+aiVoyPfPq209B2cgmZpG1Q,34.0599599,-118.41982,$$,262.0,3.0,90067,Los Angeles,la-pizza-and-la-pasta-los-angeles-2,"['pizza', 'italian']"
+cR6JrBWcC1b9uE5vCWHJXg,34.0222646139644,-118.4641318829,$$$,77.0,4.0,90405,Santa Monica,lunetta-dining-room-and-bar-santa-monica-2,['newamerican']
+bxBeTVgP5vDB0r-KUtGeiA,34.0599599,-118.41982,$$,49.0,4.5,90067,Los Angeles,roris-artisanal-creamery-los-angeles-2,['icecream']
+,,,,,,,,,['golf']
+2vHT7_RU0QC1hUSBnqqYvg,34.059448891988,-118.444752,$$,119.0,3.0,90024,Los Angeles,starbucks-los-angeles-4,['coffee']
+f1gGFTs6KxJcuK8ua_Y34g,34.0498566,-118.4601918,$,73.0,3.5,90025,Los Angeles,baskin-robbins-los-angeles-17,"['icecream', 'customcakes', 'desserts']"
+rTLi1fCWUcICgaKt97VGhQ,34.0194432,-118.4551911,$$,159.0,3.5,90405,Santa Monica,miyako-restaurant-santa-monica,"['sushi', 'japanese']"
+-vd5u9O2lx9DWkJLS9kKqg,34.0406796,-118.464074,$$,36.0,4.0,90025,Los Angeles,jackies-cookie-connection-los-angeles-5,"['bakeries', 'desserts']"
+KyppDi1Hdg2G1F_No30Bpw,34.0409879964362,-118.443474060822,$$$,581.0,3.5,90025,Los Angeles,mizu-212-los-angeles,"['japanese', 'hotpot']"
+lwBbzIzX1q7MavJOR7Tzyg,33.97908,-118.25009,$,1580.0,3.5,90001,Los Angeles,the-grilled-cheese-truck-los-angeles,"['foodtrucks', 'tradamerican']"
+jMHo_8fvvoHEagoPW6FtCg,34.0703959481482,-118.450064638831,$,53.0,4.0,90024,Los Angeles,de-neve-commons-residential-restaurant-los-angeles,['buffets']
+3fPNUmVWkPbl1uzskv9P8g,34.05814,-118.44398,$$,41.0,4.0,90024,Los Angeles,comoncy-los-angeles-3,"['cafes', 'sandwiches', 'salad']"
+C95jJ9abbTs__EdaxgRF0A,34.0225422805592,-118.439317345619,$,155.0,3.5,90064,Los Angeles,pops-hot-dogs-los-angeles-2,"['hotdog', 'gluten_free']"
+Cgn4Q21ufGCvyzgH5GL-gg,34.041672,-118.460857,$,99.0,3.0,90025,Los Angeles,pilis-tacos-los-angeles,['mexican']
+,,,,,,,,,"['poutineries', 'foodtrucks']"
+dcOPejQ6FMmw-QjS64xrDQ,34.03915,-118.44167,$,37.0,4.5,90025,West Los Angeles,myungrang-hot-dog-sawtelle-west-los-angeles,['hotdog']
+vIxXy3mAtya5cuDoflLdfQ,34.05026,-118.45921,$,51.0,3.5,90025,Los Angeles,the-coffee-bean-and-tea-leaf-los-angeles-119,['coffee']
+VsfYRn8Zis256vX3MvOcaQ,34.070383,-118.44423,$,62.0,4.0,90024,Los Angeles,the-greenhouse-los-angeles,"['newamerican', 'salad']"
+qksi8HiDVsMiTZqfdOH9Mw,34.0430248,-118.4683121,$$,73.0,4.0,90025,Los Angeles,sainsbury-deli-and-cafe-los-angeles-2,"['grocery', 'delis']"
+nMEh6boQ7v_q03qcFZZ79Q,34.0569114685059,-118.243949890137,$,624.0,3.5,90012,Los Angeles,white-rabbit-truck-los-angeles-4,"['filipino', 'foodtrucks', 'catering']"
+mgRIuatYCr4HZa80AWOOWw,34.019209,-118.455666,$$,92.0,4.0,90405,Santa Monica,juice-crafters-santa-monica,"['breakfast_brunch', 'juicebars', 'vegan']"
+pvldEcMFvqEpQj9GvyT_hg,34.0578989294423,-118.41928351786,$$,275.0,3.0,90067,Los Angeles,massis-kabob-the-original-kabobery-los-angeles-2,"['persian', 'mideastern', 'mediterranean']"
+_b1CtZexVkk01fQfXvbafA,34.0190892666578,-118.455624505877,$,135.0,3.5,90405,Santa Monica,bubble-boba-santa-monica,['coffee']
+kgDB9Ed6uEU_-vYeSSjmlQ,34.0595364038356,-118.42003544313,$$,59.0,4.0,90067,Los Angeles,nespresso-boutique-at-bloomingdales-los-angeles,"['coffee', 'cafes', 'coffeeroasteries']"
+m_sILXXH2qMNMV2-7uKU2g,34.037410736084,-118.434875488281,$,58.0,3.5,90064,Los Angeles,donut-star-los-angeles-2,"['donuts', 'bakeries']"
+dpBVjwUEPJX4axlt10waNg,34.057835,-118.418746,$$,50.0,4.0,90067,Los Angeles,shuck-house-los-angeles-2,"['seafood', 'raw_food']"
+YF6Edy1BycAdW9_t1TSblA,34.03313,-118.43872,$$,63.0,4.0,90064,Los Angeles,prince-of-venice-food-truck-los-angeles-2,"['italian', 'foodtrucks']"
+COx2757VbbcsV0we29UBTw,34.0599599,-118.41982,$$,75.0,4.0,90067,Los Angeles,halo-top-scoop-shop-los-angeles-2,"['icecream', 'desserts']"
+FO2c7nLMs4xvgNUvq81Ljg,34.0602266,-118.4430663,$$,264.0,2.5,90024,Westwood,dennys-westwood,"['diners', 'breakfast_brunch', 'tradamerican']"
+axPdZg9-yEEYvNpXiOxoKw,34.027743,-118.442963,$,105.0,3.5,90064,Los Angeles,burgerim-los-angeles-2,"['tradamerican', 'burgers', 'sandwiches']"
+130Br_VSsGhRflfr5MQpKA,34.05636417,-118.448533,$,27.0,4.0,90024,Los Angeles,federal-cafe-los-angeles,"['sandwiches', 'cafes']"
+PyivZWrHyYv4JQd9qGGrjw,33.9788284301758,-118.249931335449,$$,180.0,4.5,90001,Los Angeles,tokyo-doggie-style-los-angeles-6,"['foodtrucks', 'japanese', 'hotdog']"
+xZbX6QhqyA3brRFbLfRqdg,34.2569465637207,-118.419013977051,$$,169.0,5.0,91331,Los Angeles,maravilla-latin-cuisine-los-angeles-3,"['foodtrucks', 'latin']"
+sew0crT9WoZ0I11Mg6Msaw,34.0458928,-118.4515095,$$,116.0,4.5,90025,Los Angeles,jackfruit-cafe-los-angeles,['vegan']
+3FTOg-6TGVGq1fc4LJwKOw,34.0441381,-118.4310527,$,92.0,3.0,90064,Los Angeles,buellers-bagels-los-angeles-2,['bagels']
+iY0Wk8XCbIiO7snA_4odYw,34.0599599,-118.41982,$$$,154.0,3.0,90067,Los Angeles,il-pesce-cucina-at-eataly-los-angeles,"['seafood', 'bars']"
+iJhPhuGGzIX8cljDu_Ix8g,34.0468935,-118.4448756,$$,57.0,3.0,90025,Los Angeles,market-cafe-at-westwood-gateway-los-angeles,['cafes']
+nxs5mVxSGYOtI7o3T3DorA,34.0207113980944,-118.452964782715,$,106.0,3.5,90403,Santa Monica,the-coffee-bean-and-tea-leaf-santa-monica-7,['coffee']
+plkTsuBDc8Sx1aA05p6lQw,34.06814,-118.442134,$,25.0,4.5,90095,Los Angeles,blaze-fast-fired-pizza-los-angeles-10,"['salad', 'hotdogs', 'pizza']"
+9YyxXe8PUa-7UNMD_CANww,34.0326885,-118.4525998,$,58.0,3.5,90064,Los Angeles,the-coffee-bean-and-tea-leaf-los-angeles-42,['coffee']
+ErsqWR_vlynER6GW3efq_g,34.058603,-118.419048,$$,59.0,4.0,90067,Los Angeles,century-city-mall-food-court-los-angeles,['food_court']
+cQUHs5gzvbNZNjP4cwzFOg,34.0433053599901,-118.456791937351,$,29.0,4.0,90025,West Los Angeles,juquila-taco-truck-west-los-angeles,"['mexican', 'foodtrucks']"
+TjLM-VHOgZ3GSn-N9yoSeA,34.0645292401314,-118.469736948609,$$,168.0,3.5,90049,Brentwood,marias-italian-kitchen-brentwood,"['pizza', 'italian']"
+oX0_dwhi17dv2xKB89E4Tg,34.0599599,-118.41982,$$,53.0,4.0,90067,Los Angeles,bar-verde-los-angeles-3,"['newamerican', 'cocktailbars']"
+1TJ_IvBxp9Duc9XKNOsjMA,34.0718,-118.449725,$$,28.0,4.5,90024,Los Angeles,bruin-plate-los-angeles-2,['tradamerican']
+OXSux90kup0AVKoqF2r_rA,34.0706034608698,-118.443313372293,$,110.0,3.5,90095,Los Angeles,kerckhoff-coffee-house-los-angeles,"['coffee', 'icecream']"
+6CRTusHx-wJYMy3kw6BgJA,34.02003,-118.4547,$,99.0,3.5,90405,Santa Monica,fast-taco-santa-monica,['mexican']
+m1IsA_YbLH2sX2REyQ2LWg,34.0579247062626,-118.419373155519,$,75.0,3.5,90067,Los Angeles,asianbox-los-angeles,"['asianfusion', 'gluten_free']"
+ga1GBiOnCTgRAYwx1j3dyQ,34.151939,-118.361105,$,120.0,4.5,91602,Los Angeles,tacos-palacios-los-angeles-4,"['tacos', 'foodtrucks']"
+PFzY26wX-6hHYZGoQfLY9g,34.041871,-118.461287,$$,30.0,4.0,90025,Los Angeles,yekta-restaurant-los-angeles-2,"['mideastern', 'halal', 'persian']"
+l9g8tt3NXCN3vJFlR_MV7g,34.0480743054621,-118.351336928125,$,179.0,4.0,90019,Los Angeles,ta-bom-truck-los-angeles-2,"['brazilian', 'foodtrucks']"
+qHId7b-F7XsM_EEmXBLoqw,34.0643501281738,-118.437088012695,$,84.0,3.5,90024,Los Angeles,bollywood-bites-los-angeles-2,"['indpak', 'foodtrucks']"
+HLjdayUQha_FdhHboLSxxQ,34.0590031,-118.418866,$$,127.0,3.5,90067,Los Angeles,tender-greens-los-angeles-15,"['newamerican', 'sandwiches']"
+,,,,,,,,,"['museums', 'arttours', 'kids_activities']"
+wt2KkurQF6nGv-KPdYjYmA,33.9005754171619,-118.326611867643,$,168.0,4.5,90249,Gardena,dotys-tacos-gardena,"['mexican', 'foodtrucks']"
+UOG1vQhRWxiM_cQYvNAjrw,34.072602559911,-118.45097405577,$,44.0,4.0,90024,Los Angeles,café-1919-los-angeles-2,['italian']
+gvbBCNIEaFkYJ0AEFNCvNg,34.038126,-118.440949,$,137.0,2.5,90064,Los Angeles,starbucks-los-angeles-259,['coffee']
+,,,,,,,,,"['groomer', 'pet_sitting', 'dog_parks']"
+l8KBXYz4Epa2nzTpg4YP2Q,34.0198476127824,-118.454824003605,$,72.0,4.0,90405,Santa Monica,menchies-frozen-yogurt-santa-monica-2,['icecream']
+HPzzEKPpGkMHOE_M3HPnmA,34.05787,-118.44496,$,63.0,3.0,90024,Los Angeles,bites-los-angeles-2,"['sandwiches', 'coffee', 'breakfast_brunch']"
+,,,,,,,,,"['sushi', 'japanese']"
+GyOuWB-5RWyf1XQTKjSfIg,34.065,-118.46909,$$$,144.0,3.5,90049,Brentwood,peppone-ristorante-brentwood,"['italian', 'bars']"
+iAFeSOM1RaiLlkhMheRfpg,34.0576999,-118.42453,$,72.0,3.5,90025,Los Angeles,the-coffee-bean-and-tea-leaf-los-angeles-17,['coffee']
+rKs40LPiZH9mDGixhfnvQA,34.072489707432,-118.450270663737,$,71.0,3.5,90024,Los Angeles,bruin-cafe-los-angeles,"['sandwiches', 'cafes', 'breakfast_brunch']"
+DvXULM5nTrk0-akh8PwjWA,34.0629970809396,-118.447252996266,$,47.0,3.5,90024,Los Angeles,baja-california-tacos-los-angeles-2,"['tacos', 'seafood']"
+l_tOQKbfnDDARZ7eq0ss3Q,34.039735,-118.438015,$,51.0,3.5,90064,Los Angeles,california-mexican-grill-los-angeles,['mexican']
+Ud0s3Ms7eVLVidoedb0Wxg,34.1211685401886,-118.205555453897,$,116.0,5.0,90042,Los Angeles,tacos-la-tehuanita-los-angeles,"['tacos', 'foodtrucks', 'vegan']"
+,,,,,,,,,"['coffee', 'bakeries', 'donuts']"
+WNERggZECNPv-5uiQ2POew,34.049093,-118.440704,$,90.0,2.5,90025,Los Angeles,jack-in-the-box-los-angeles-11,"['burgers', 'hotdogs', 'breakfast_brunch']"
+d4yHBOSfyhAznILtY2iWkw,34.0233764,-118.4618115,$,175.0,3.0,90405,Santa Monica,classic-pizza-santa-monica-3,"['italian', 'pizza', 'sandwiches']"
+,,,,,,,,,['tea']
+qNyKwK-olp8-HDBIyLuUhg,34.029884,-118.4656151,$$,58.0,4.0,90404,Santa Monica,lime-santa-monica,"['pizza', 'cafes', 'breakfast_brunch']"
+btkCHapgD0grbL1FPk_bMA,34.041212,-118.4265196,$,151.0,2.5,90064,Los Angeles,einstein-bros-bagels-los-angeles-6,"['bagels', 'coffee']"
+fHOqusdRXqD3H2DrDusQ8Q,34.03894,-118.43028,$$,27.0,4.0,90064,Los Angeles,déjà-brew-taproom-and-kitchen-los-angeles-3,"['newamerican', 'sportsbars', 'pubs']"
+KeOugU2XgjPIdSi9M0-qdA,34.0535063318187,-118.464875932522,$,166.0,3.0,90049,Los Angeles,chipotle-mexican-grill-los-angeles-28,"['mexican', 'hotdogs']"
+oLtXgp0JawyA9giS0G3saQ,34.0599599,-118.41982,$$$,30.0,4.5,90067,Los Angeles,k-minamoto-los-angeles-2,"['desserts', 'chocolate']"
+pQwHF71BFb2ZaHAYfkm3ug,34.059005,-118.418865,$$,38.0,4.0,90067,Los Angeles,bake-cheese-tart-los-angeles,"['bakeries', 'desserts']"
+6PxWjI9chAcLJkIj_MnfYg,34.0616798400879,-118.445449829102,$,13.0,5.0,90024,Westwood,the-roast-truck-westwood,"['coffee', 'foodtrucks']"
+2ZeXLWnQhf1NBY0fj_YXCg,34.0600499,-118.43738,$$,39.0,4.0,90024,Los Angeles,double-take-los-angeles,"['newamerican', 'comfortfood', 'cocktailbars']"
+ST5Tywv-cVpPDpAd12eKmg,34.09996,-118.32698,$$,91.0,4.5,90028,Los Angeles,kings-wings-los-angeles-2,"['foodtrucks', 'chicken_wings']"
+dvRoSS5y3-zuNsnQdRf49w,34.0387725830078,-118.26114654541,$$,123.0,4.5,90015,Los Angeles,postcards-central-american-soul-food-los-angeles,"['foodtrucks', 'soulfood']"
+q6Ur-lQB4wbg2cEQR4MiAA,34.0599599,-118.41982,$$,37.0,4.0,90067,Los Angeles,blue-bottle-coffee-los-angeles-28,['coffee']
+Qh-R8EGDLQZFwwdApN0Kvw,34.02911,-118.28306,$$,74.0,4.5,90007,Los Angeles,the-fix-on-wheels-los-angeles,"['foodtrucks', 'burgers']"
+Adp9Ba4dBaKasi1bfpZz-A,34.06191,-118.44764,$$,19.0,4.5,96137,Westwood,seventy7-west-westwood,"['cocktailbars', 'lounges', 'venues']"
+LLQCa0TuR3YyjH406ZDI6A,34.05996,-118.41982,$$,57.0,3.5,90067,Los Angeles,grom-gelateria-los-angeles,"['gelato', 'icecream']"
+,,,,,,,,,"['pizza', 'italian']"
+QIUem1mebltOt0_HncXc6A,34.048347,-118.435394,$,72.0,3.0,90025,Westwood,starbucks-westwood-9,['coffee']
+,,,,,,,,,['dog_parks']
+5nCpaXjlIDWBCWHSiC7r4w,34.0460195649778,-118.465401984264,$,134.0,3.0,90025,Los Angeles,jersey-mikes-subs-los-angeles-11,"['sandwiches', 'hotdogs', 'delis']"
+u6tdqi2PFouQ0lcvkSvLPA,34.0601566,-118.420833,$$,108.0,3.0,90067,Los Angeles,johnnies-ny-pizzeria-los-angeles-3,"['italian', 'pizza']"
+Ls7tPkG0vUEwlCViifRboQ,34.041694,-118.4610335,$,30.0,4.0,90025,Los Angeles,tlaco-taco-los-angeles,"['mexican', 'salvadoran']"
+qnoHviRTzSGjO-wbv1fguw,34.03978,-118.42904,$$,59.0,3.0,90064,Los Angeles,landmark-wine-bar-los-angeles,['wine_bars']
+7lhZv_79QeSLdxKFHHhckQ,34.05513,-118.38404,$$,87.0,4.0,90035,Los Angeles,the-rooster-los-angeles-3,"['foodtrucks', 'breakfast_brunch']"
+jljq3PO3l-0zEdCDirweQA,34.00455,-118.26009,$$,48.0,5.0,90011,Los Angeles,stopbye-café-los-angeles-3,"['asianfusion', 'foodtrucks', 'indonesian']"
+Pq301TL9bS0sgzzILU8-GQ,34.04164,-118.43024,$$,64.0,3.0,90064,Los Angeles,hoboken-los-angeles,"['italian', 'pizza', 'sandwiches']"
+BiQarjef-TbH1Yiy6d2s0Q,34.027239,-118.427726,$,52.0,4.0,90034,Los Angeles,starbucks-los-angeles-375,['coffee']
+74U5LUGwXz1VqkT9YtbJlQ,34.03732,-118.26116,$,178.0,4.0,90015,Los Angeles,the-greasy-wiener-los-angeles,"['hotdog', 'foodtrucks']"
+TjcXl6QUJxb5kdcpTzYUOw,34.06268933,-118.44537867,$,102.0,3.0,90024,Westwood,the-coffee-bean-and-tea-leaf-westwood-2,['coffee']
+3QRRptCEfjUtnDnZ4jTzMA,34.0039082,-118.2818791,$,132.0,4.0,90037,Los Angeles,tacos-los-carnalillos-taco-truck-los-angeles-2,"['mexican', 'foodtrucks']"
+Um8lQ4bSiP7mHJko_KDkng,34.022749,-118.4389915,$,85.0,3.5,90064,Los Angeles,starbucks-los-angeles-23,['coffee']
+fv5M19-7YerFFXQxkPc0ig,34.0053558349609,-118.479789733887,$,111.0,4.0,90405,Santa Monica,pinch-of-flavor-santa-monica,"['foodtrucks', 'seafood', 'catering']"
+Zv6pQP12TsaqfQfLBHhOiQ,34.0928916931152,-118.360679626465,$,56.0,4.5,90046,Los Angeles,happy-ice-los-angeles,"['foodtrucks', 'shavedice', 'icecream']"
+3aHFyG9tiJS-hrKF3w0_Xw,34.0599599,-118.41982,$$,69.0,3.5,90067,Los Angeles,sweetgreen-los-angeles-13,"['salad', 'vegetarian']"
+,,,,,,,,,['parks']
+cauDRpzqKgpkuq17IXoWXg,34.0580728496089,-118.419199629628,$$,41.0,4.0,90067,Los Angeles,lette-macarons-los-angeles-8,"['coffee', 'macarons', 'desserts']"
+aa5Zs6R0G4VWnOonUxGwSw,34.0500350536831,-118.460706591381,$,40.0,3.5,90025,Los Angeles,cafe-brio-los-angeles,"['pizza', 'delis']"
+TmeEOnL7H2ed7bJD2dk5PQ,34.01945,-118.469127,$,175.0,3.0,90405,Santa Monica,campos-famous-burritos-santa-monica,['mexican']
+qf43yPlFw42CD1QMcPcOSg,34.039606,-118.429989,$,62.0,3.0,90064,Los Angeles,starbucks-los-angeles-202,['coffee']
+,,,,,,,,,"['bakeries', 'cakeshop', 'coffee']"
+pKGSYYij_CO-LWowNbafIQ,34.00566,-118.25849,$,46.0,5.0,90011,Los Angeles,tumaca-truck-los-angeles,"['foodtrucks', 'sandwiches', 'catering']"
+TyDle42ASOpi5Z7Sc3l28g,34.0730332793643,-118.449984660441,$,43.0,4.0,90024,Los Angeles,covel-commons-residential-restaurant-los-angeles,['tradamerican']
+uVVjfDCDOMg1ve76k3W3gA,34.0526698567151,-118.318055927413,$,47.0,4.5,90019,Los Angeles,smaffee-cafe-los-angeles-3,"['electronicsrepair', 'mobilephonerepair', 'coffee']"
+,,,,,,,,,['dog_parks']
+,,,,,,,,,['cocktailbars']
+xOYjHmazeteBLYyu6H1Epw,34.230985,-118.535684,$,106.0,4.5,91324,Los Angeles,taqueria-la-plebe-and-more-los-angeles,"['foodtrucks', 'mexican']"
+-Mjb6lfD_jna9xobQWzeiA,34.058159,-118.444657,$,51.0,3.0,90024,Los Angeles,trimana-los-angeles-13,['sandwiches']
+2a164ASGbxi9wXXs1cyj3A,34.0519132900642,-118.472110703588,$$,14.0,4.5,90049,Los Angeles,the-plaza-pantry-los-angeles-2,"['breakfast_brunch', 'juicebars', 'cafes']"
+tGU21drW8Aey_ZBZMk9c0Q,34.019688,-118.422116,$,188.0,3.0,90034,Los Angeles,the-coffee-bean-and-tea-leaf-los-angeles-4,['coffee']
+P5mGoVYPk0DLpXflKFoxPQ,34.038006,-118.440903,$,79.0,2.5,90064,Los Angeles,panda-express-los-angeles-18,"['chinese', 'hotdogs']"
+hw2rzzZHXAUuYYHkMkgz3A,34.0179802,-118.4725658,$$,74.0,4.0,90405,Santa Monica,mom-and-bop-santa-monica,"['korean', 'asianfusion', 'salad']"
+STCgZmE0zb96gksgQ0grnA,34.05996,-118.41982,$$,83.0,3.5,90067,Los Angeles,wexlers-deli-los-angeles-3,['delis']
+RTMiWufXRjOWOF8PBRPzqQ,34.0220709,-118.4661392,$$,50.0,4.0,90404,Santa Monica,groundwork-coffee-co-santa-monica-13,"['coffee', 'breakfast_brunch', 'catering']"
+fVB1E6J3H9fRvLBc9TX6_g,34.0399779077834,-118.465654961765,$$,211.0,2.5,90025,Los Angeles,wingstop-los-angeles-16,['chicken_wings']
+,,,,,,,,,['desserts']
+V99etW9Yh8R91bu08h8q-A,34.0273005248823,-118.427639552409,$,102.0,3.0,90034,Los Angeles,el-pollo-loco-los-angeles-86,"['hotdogs', 'mexican']"
+QRFofYdq_rj0jIOAldpg5w,34.03313,-118.43872,$$,28.0,4.0,90064,Los Angeles,pho-king-awesome-food-truck-los-angeles,"['foodtrucks', 'cambodian', 'taiwanese']"
+KXjkZVuH001Fo2FYXmjGfw,34.0750658562523,-118.440073728561,$,22.0,4.5,90095,Los Angeles,ucla-franklin-d-murphy-sculpture-garden-los-angeles,"['localflavor', 'galleries']"
+EEuvTlQdpJQEQ_VMekjbcA,34.03313,-118.43872,$$,9.0,5.0,90064,Los Angeles,big-city-cakes-and-catering-los-angeles,"['desserts', 'catering', 'customcakes']"
+,,,,,,,,,"['chinese', 'desserts']"
+KY5qr-i9649r1cUDc8VU_w,34.040351,-118.463337,$,106.0,2.5,90025,West Los Angeles,starbucks-west-los-angeles,['coffee']
+X-qxej8yP0S7tJ8kyBnV2Q,34.0392696278969,-118.473773398277,$$,48.0,4.0,90403,Santa Monica,the-habit-burger-grill-santa-monica-2,"['burgers', 'sandwiches', 'salad']"
+7Znco6XB1mhsLyMBIn56JQ,34.05894,-118.419968,$$,108.0,3.0,90067,Los Angeles,california-pizza-kitchen-at-westfield-century-city-los-angeles-3,"['pizza', 'salad', 'newamerican']"
+,,,,,,,,,"['desserts', 'catering']"
+eyTqzMGeaXF0qvu9exLkpA,34.0300029,-118.4689268,$$,78.0,3.5,90404,Santa Monica,bobarrito-santa-monica-5,"['bubbletea', 'foodtrucks', 'sushi']"
+tBD1OWhWTht0yMibjUOBxg,34.032699,-118.452547,$,31.0,3.5,90064,Los Angeles,jersey-mikes-subs-los-angeles-30,"['hotdogs', 'delis', 'sandwiches']"
+,,,,,,,,,"['foodtrucks', 'mexican']"
+1w3DLqhn1iisrXxPltAq6Q,34.0434203752073,-118.456622958183,$,15.0,4.0,90025,Los Angeles,el-torito-oaxaqueño-los-angeles,"['foodtrucks', 'mexican']"
+7suc1yaZT9Flmk6kIFAvqg,34.059402,-118.444691,$,78.0,2.5,90024,Los Angeles,subway-restaurants-los-angeles-7,['sandwiches']
+NGQLgF7WL6pU73ItsA0nEg,34.0685054,-118.4447634,$,78.0,3.0,90024,Los Angeles,rubios-los-angeles-5,"['mexican', 'seafood', 'salad']"
+,,,,,,,,,"['foodtrucks', 'bbq', 'japanese']"
+INU2x0b0IaQLs4Z1efcQOA,33.9912132,-118.4675316,$,80.0,4.0,90746,Carson,wicked-fish-tacos-carson-9,"['foodtrucks', 'tacos']"
+iNd5um_yfFw2pSF1-E1GFg,34.0588515578378,-118.4421306476,$,12.0,4.5,90024,Los Angeles,dyllans-deli-los-angeles-2,"['delis', 'coffee', 'juicebars']"
+1ON2XXttBB7k5Z5LvZrVlw,33.8893305,-118.2074657,$$,186.0,4.5,90221,Compton,billionaire-burger-boyz-compton,"['foodtrucks', 'burgers']"
+dkotO8HMfFI79PZ4Pw1Qqw,34.0417122,-118.4593604,$,30.0,3.5,90025,Los Angeles,little-caesars-los-angeles-34,['pizza']
+yirNnFJ8Mo8wN5Oy8hG6xQ,34.0671513173607,-118.444673097288,$,54.0,3.0,90024,Los Angeles,café-synapse-los-angeles-2,"['coffee', 'pizza', 'sandwiches']"
+BWvwWPqRITdxkh-vZy2o2A,34.02848,-118.42902,$$,181.0,2.5,90064,Los Angeles,ihop-los-angeles-2,"['breakfast_brunch', 'tradamerican', 'burgers']"
+t0vFrIyqX6N5mAT3d0YV_Q,34.064514,-118.469416,$$,76.0,3.0,90049,Los Angeles,starbucks-los-angeles-20,['coffee']
+6dduXgKsy9V5u-TaWUFRvQ,34.0386656,-118.4221519,$,8.0,5.0,90064,Los Angeles,sunflower-baking-los-angeles-2,['bakeries']
+im15AcdfZE0mqDdmyj62DA,34.070325,-118.444311,$$,48.0,3.5,90095,Los Angeles,veggie-grill-los-angeles-11,"['newamerican', 'vegetarian', 'vegan']"
+TmCRfu0PfoUtW__lz3UriA,34.0232789,-118.4619965,$$,167.0,3.0,90405,Santa Monica,mandarin-chinese-and-japanese-santa-monica,"['chinese', 'sushi']"
+7tIK40ZvTu8vuhBnR6g3wg,34.0664817,-118.3520389,$,117.0,4.0,90036,Los Angeles,yalla-truck-los-angeles,"['mediterranean', 'foodtrucks']"
+lN1Qqj0IKojGF2cma6Itxw,34.0631451,-118.4367551,$$$,7.0,5.0,90024,Los Angeles,exclusif-hookah-catering-los-angeles-3,"['hookah_bars', 'catering']"
+v-hfspFQSAIZLok45pUBAA,34.0751451,-118.3853175,$,31.0,4.5,90048,Los Angeles,gyromania-los-angeles-2,"['greek', 'foodtrucks']"
+pE3-U1XKbFZ6Fp-5WmV6YA,34.06612,-118.45978,$$,33.0,4.0,90049,Los Angeles,media-services-cafe-los-angeles,['cafes']
+Zh3UoqopOlanhvh-lHK0mA,34.034108,-118.446671,$$,11.0,4.5,90064,Los Angeles,jackies-family-bakery-los-angeles,"['bakeries', 'wholesalers', 'customcakes']"
+dPgVG1nGSUONC0IViu5Phg,34.08928,-118.16793,$,71.0,4.5,90032,Los Angeles,mariscos-los-lechugas-los-angeles,"['seafood', 'foodtrucks', 'cocktailbars']"
+A8u1P4p29eYwtVYbjQuRkw,34.05814,-118.24666,$$,217.0,3.5,90012,Los Angeles,brewwings-los-angeles,"['chicken_wings', 'catering', 'foodtrucks']"
+,,,,,,,,,"['golf', 'nonprofit']"
+Ay_ISxUjUGaHfJpFNZew8A,34.0590132,-118.4416802,$,17.0,4.0,90024,Los Angeles,cravings-los-angeles,"['mediterranean', 'breakfast_brunch']"
+7yo6zHn3MzPc93OZU1c3dQ,34.0061611809921,-118.428872823715,$,44.0,4.5,90066,Venice,tacos-del-valle-venice,"['foodtrucks', 'mexican']"
+ls9YvfUCBusDVo7syIJzfQ,34.22366,-118.36829,$$,89.0,4.5,91352,Los Angeles,bird-coma-los-angeles-3,"['foodtrucks', 'catering', 'burgers']"
+qTnVpBCf3ZHDCxvRJR9QJg,34.0180181,-118.4725008,$,69.0,4.0,90405,Santa Monica,samo-pizza-santa-monica,"['pizza', 'salad']"
+dlWjuzhJK4U24zQdu2CzDw,34.05996,-118.41982,$,41.0,3.5,90067,Los Angeles,pressed-juicery-los-angeles-21,"['juicebars', 'icecream']"
+ImFsc_NCRvdNaWoXlDaR1g,34.029876,-118.472881,$,14.0,4.5,90404,Santa Monica,elabrew-coffee-truck-santa-monica,"['coffee', 'foodtrucks']"
+kDA2lea_NS11Qbkc3gawVA,34.04749,-118.34694,$$,120.0,3.5,90019,Los Angeles,wise-barbecue-los-angeles,"['foodtrucks', 'bbq']"
+9zxcvJkYrq2kaqRqLywTmA,34.034828,-118.47314617,$,84.0,3.0,90404,Santa Monica,carls-jr-santa-monica,"['hotdogs', 'burgers']"
+,,,,,,,,,"['chinese', 'seafood']"
+rl3GBOGded27stdzREY48g,34.0449315836692,-118.417880079029,$$,22.0,4.0,90064,Los Angeles,rancho-park-gardens-restaurant-los-angeles,"['diners', 'tradamerican', 'mediterranean']"
+eRf9rS8Uoi4hPyN5-DbFuw,34.046725,-118.44817767,$,39.0,2.5,90025,Los Angeles,subway-restaurants-los-angeles-21,['sandwiches']
+eC6LKNPIDWHFj4KgDZgpJQ,34.23356533,-118.58883683,$$,50.0,5.0,91304,Canoga Park,uncle-johnnys-burgers-canoga-park,"['foodstands', 'burgers']"
+sEfWYORvlOCJptFIAGg2eQ,34.0628765,-118.4466819,$,66.0,2.5,90024,Los Angeles,taco-bell-los-angeles-28,"['hotdogs', 'mexican', 'tex-mex']"
+BdMGcCmhBsjsivdixQHWmw,34.1580543518066,-118.512672424316,$,120.0,4.0,91316,Los Angeles,the-triple-threat-truck-los-angeles,"['foodtrucks', 'puertorican']"
+jFrenE6GLB-oH02XEDwoBA,34.0524169155307,-118.470549657941,$$,50.0,3.0,90402,Santa Monica,joe-and-the-juice-santa-monica,"['coffee', 'juicebars']"
+jWHkyruIrYdXAsbXrghQ3g,34.0162709608561,-118.490619000437,$$,41.0,4.5,90272,Santa Monica,acai-dream-bowl-truck-santa-monica,"['foodtrucks', 'vegan', 'acaibowls']"
+9PQDm1GGAAN1ko03DtGtrA,34.0726034043985,-118.451777921503,$,53.0,3.0,90024,Los Angeles,rendezvous-los-angeles,"['mexican', 'asianfusion']"
+biEtosI0gLBhgKRE-vtuDg,34.0312584,-118.4452474,$,33.0,3.0,90064,Los Angeles,subway-restaurants-los-angeles-82,"['hotdogs', 'sandwiches']"
+ukDSCMJdIOYEwMTczJbUWA,34.05843,-118.3057,$$,210.0,3.5,90005,Los Angeles,richeeze-los-angeles-3,"['foodtrucks', 'sandwiches']"
+IuEiOGyy0zyknNJ34WXuwQ,34.0468857065374,-118.448478351356,$,23.0,3.0,90025,Los Angeles,7-eleven-los-angeles-38,"['convenience', 'coffee']"
+,,,,,,,,,"['vegan', 'newamerican', 'falafel']"
+qdsRgCB9O1JFJcJ0Ths9TA,34.0435030558295,-118.422458013533,$,88.0,2.5,90064,Los Angeles,mcdonalds-los-angeles-12,"['hotdogs', 'burgers', 'coffee']"
+,,,,,,,,,['localflavor']
+ubR-c4KK8MKRZxnD-wbUSg,34.0599599,-118.41982,$$,24.0,3.5,90067,Los Angeles,il-gelato-los-angeles-5,"['gelato', 'icecream']"
+,,,,,,,,,"['foodtrucks', 'seafood']"
+a0GEpxY84u8oxbXlp2ygrw,34.054988,-118.4413009,$$,55.0,2.5,90024,Los Angeles,tochal-market-los-angeles,"['grocery', 'delis']"
+xhzT0xGvWWxr2brwmB0CRw,34.0331767417211,-118.451922386885,$$,48.0,3.0,90064,Los Angeles,happy-sushi-and-izakaya-los-angeles,"['japanese', 'sushi']"
+DFAtaOjN8SjNr2uy0zoKgw,34.0391055850598,-118.169239805088,$,59.0,4.5,90022,Los Angeles,east-los-tacos-los-angeles,"['foodtrucks', 'tacos']"
+zrj4AF_Eaje0q050X58cPg,34.04020533,-118.46500333,$$,9.0,4.5,90025,Los Angeles,golden-dragon-tea-room-los-angeles-2,['tea']
+,,,,,,,,,"['burgers', 'popuprestaurants']"
+Yx-Q0-So7QpwkYOSxq60YQ,34.0599598280935,-118.419820033014,$$,83.0,3.0,90067,Los Angeles,big-fish-little-fish-los-angeles,"['poke', 'asianfusion']"
+U2zhu7bFJkS1O6NG0fajRw,34.0685054,-118.4447634,$,20.0,4.0,90024,Los Angeles,lollicup-fresh-los-angeles-3,"['bubbletea', 'coffee', 'juicebars']"
+eJ7JZ38xcfuYl7bPOr3UeA,34.058455,-118.416694,$$,42.0,3.5,90067,Century City,starbucks-century-city-4,['coffee']
+HGVQMyoo5OLBZjnLm5Fblg,34.05665,-118.42601,$,202.0,2.0,90025,Los Angeles,mcdonalds-los-angeles-28,"['hotdogs', 'burgers', 'coffee']"
+DfLyhi2NX80M4ABigLrMmw,34.0459656720456,-118.464752733707,$,241.0,1.5,90025,West Los Angeles,mcdonalds-west-los-angeles-2,"['burgers', 'hotdogs', 'coffee']"
+vUnUGqRTbG3oXbua0-0_qQ,34.0574,-118.44372,$,5.0,5.0,90024,Los Angeles,el-jefe-fresh-fruit-los-angeles,"['streetvendors', 'catering']"
+T8bTG12QgBC-40y7jsodhA,34.0609650361254,-118.447514846921,$$,185.0,3.5,90024,Los Angeles,musashiya-udon-noodle-los-angeles-5,"['noodles', 'ramen']"
+ervQEiyJA_IDbkbFm0ZUPg,34.04175,-118.4595,$,69.0,2.5,90025,W.  Los Angeles,el-pollo-loco-w-los-angeles-2,"['hotdogs', 'mexican']"
+abv-O81T4lmr5aRd9lNmjw,34.049423190418,-118.239630887237,$,32.0,4.5,90001,Los Angeles,merci-clement-truck-los-angeles,"['foodtrucks', 'gelato']"
+c2z2WohzRlBfGFUqF4ikCg,34.0436421307436,-118.467737665537,$,17.0,4.0,90025,Los Angeles,trimana-los-angeles-36,['cafes']
+8TlXpfI0uvwLIlBlresR6g,34.055931,-118.442341,$,118.0,2.0,90024,Los Angeles,dominos-pizza-los-angeles,"['pizza', 'chicken_wings', 'sandwiches']"
+cM7Rme4RUlL264xCcMrDvQ,34.0294391,-118.470694,$,44.0,3.5,90404,Santa Monica,city-kitchen-express-santa-monica-2,"['sandwiches', 'coffee', 'salad']"
+,,,,,,,,,['localflavor']
+yuh8s_Ajn7lGXogeZxV0jg,34.0422625,-118.4407095,$,5.0,4.5,90025,Los Angeles,marthas-kitchen-los-angeles-4,"['foodtrucks', 'tradamerican', 'mexican']"
+h7bYhg1wvmBhoGOZlLw3Mg,34.0590031,-118.418866,$$,57.0,3.0,90067,Los Angeles,la-vaca-brazilian-grill-los-angeles,"['brazilian', 'bbq', 'salad']"
+we3vnFcpJTun6c4st2EVkw,34.0234414,-118.4616882,$,47.0,3.0,90405,Santa Monica,yum-yum-donuts-santa-monica-2,"['donuts', 'sandwiches', 'coffee']"
+,,,,,,,,,['landmarks']
+pf1zkRKb40MSO9hVXD33nA,34.0599599,-118.41982,$,7.0,5.0,90067,Los Angeles,nordstrom-ebar-artisan-coffee-los-angeles,['coffee']
+dbSOV3T8LIb4PHS5PNUZfA,34.057866,-118.418889,$,128.0,2.5,90067,Los Angeles,yogurtland-los-angeles-los-angeles-12,['icecream']
+04lXNdR-O1wRtqyJUDwt1A,34.0259787,-118.4273723,$,30.0,3.5,90034,Los Angeles,subway-restaurants-los-angeles-118,"['sandwiches', 'hotdogs']"
+B4gehzTrpHs8WtS3Je9jNg,34.0585340520776,-118.419287479285,$$,22.0,3.5,90067,Los Angeles,caffe-lavazza-los-angeles,"['coffee', 'breakfast_brunch', 'bakeries']"
+IgS584lAJYwdfnKnxvknbw,34.0375,-118.43467,$,11.0,4.0,90064,Los Angeles,judiths-foods-los-angeles-6,"['foodtrucks', 'tacos']"
+zILBSP7PvnqiRVhb3tOapQ,34.0738139,-118.4529409,$$,26.0,4.0,90024,Los Angeles,the-study-at-hedrick-los-angeles-2,['coffee']
+fvdDdr0vSdZkTf5DBVLKlw,34.024333,-118.460824,$,67.0,3.0,90405,Santa Monica,starbucks-santa-monica-48,['coffee']
+Ftn8OZEqwT952zi67CAYLg,34.0202102567218,-118.451902270317,$,10.0,4.5,90404,Santa Monica,backpackers-truck-santa-monica-8,"['korean', 'foodtrucks']"
+DpkQr52N-EZwGOKfXShIZw,34.05903,-118.418855,$$,15.0,4.0,90067,Los Angeles,viktor-benes-bakery-los-angeles-3,"['bakeries', 'gelato', 'customcakes']"
+91QJ2ZCKTIsN88SxTm1r0A,34.07038,-118.444258,$,46.0,3.0,90095,Los Angeles,carls-jr-los-angeles-13,"['hotdogs', 'burgers']"
+,,,,,,,,,['sushi']
+qB1llEIBbd11PEsYE8EaDA,34.0682498511803,-118.442115962935,$,40.0,3.0,90095,Los Angeles,yoshinoya-los-angeles-15,"['japanese', 'hotdogs']"
+,,,,,,,,,"['german', 'foodtrucks', 'catering']"
+lCfWSzZ0_-RAYDCcczBo-w,34.0481,-118.46312,$,26.0,3.0,90025,Los Angeles,subway-restaurants-los-angeles-39,['sandwiches']
+REsIDmOmkVaUo6f7mN_sQw,34.0454738635325,-118.442874658648,$$,15.0,3.0,90025,Los Angeles,oliver-cafe-lounge-west-la-los-angeles,"['newamerican', 'lounges', 'sandwiches']"
+,,,,,,,,,"['breakfast_brunch', 'juicebars', 'acaibowls']"
+tFD9LwJd9HszMpPM_GpGHQ,34.0690002441406,-118.350242614746,$,53.0,4.0,90036,Los Angeles,the-falafel-factory-los-angeles,"['falafel', 'foodtrucks']"
+wgtKqTxfoprlR_EwNzlIhQ,34.2724002,-118.4647573,$,32.0,5.0,91345,Los Angeles,cítrico-ceviche-bar-los-angeles,"['seafood', 'mexican', 'foodtrucks']"
+tNUPIFCKBzqn9L5upQ8JJQ,34.040019,-118.465593,$,65.0,2.5,90025,Los Angeles,dominos-pizza-los-angeles-59,['pizza']
+KpyA-fexuD0_wsBoQA87DQ,34.019731,-118.454727188257,$,105.0,2.5,90405,Santa Monica,starbucks-santa-monica-5,['coffee']
+qO3jSn18vzfOyzieqFpYyg,34.0309258,-118.2380432,$,46.0,4.0,90021,Los Angeles,sus-arepas-los-angeles,"['foodtrucks', 'latin', 'sandwiches']"
+IdvKPkAnraeMMj3q17yUbA,34.07663,-118.26483,$,25.0,4.5,90026,Los Angeles,los-angeles-shave-ice-truck-los-angeles,"['icecream', 'shavedice', 'foodtrucks']"
+R4E4UIgdZt0jmLtm-ZpPOA,34.0567741394043,-118.443000793457,$,62.0,2.5,90024,Los Angeles,papa-johns-pizza-los-angeles-25,['pizza']
+9sWrzI3UbOAQsuzzkTV1wQ,34.06239,-118.44785,$$,26.0,3.0,90024,Los Angeles,northern-cafe-los-angeles-10,['chinese']
+,,,,,,,,,['burgers']
+be_D6z3oa1ddbHGHaWOu5A,34.1259460449219,-118.291015625,$$,89.0,3.5,90027,Los Angeles,the-tropic-truck-los-angeles-5,"['foodtrucks', 'caribbean']"
+wYNkk3i1FvT4kI814Y77Vg,34.04762,-118.46371,$,53.0,2.5,90025,Los Angeles,papa-johns-pizza-los-angeles-7,['pizza']
+dwksGXxMaOqjiosc6uFFVg,34.0674019,-118.4448929,$$,20.0,3.5,90095,Los Angeles,court-of-sciences-student-center-los-angeles-2,['coffee']
+,,,,,,,,,"['indpak', 'chinese', 'foodtrucks']"
+,,,,,,,,,['pizza']
+,,,,,,,,,"['burgers', 'foodstands', 'catering']"
+,,,,,,,,,"['foodtrucks', 'vegan']"
+,,,,,,,,,['ramen']
+,,,,,,,,,['french']
+qu8yFETeo4J8fMbf_7XV_Q,34.03983,-118.26855,$,29.0,4.5,90015,Los Angeles,urban-espresso-los-angeles-6,"['foodtrucks', 'coffee', 'breakfast_brunch']"
+,,,,,,,,,"['coffee', 'foodtrucks', 'bakeries']"
+cVLrl9q5Aei9VWvnGiyruQ,34.17436,-118.61076,$$,16.0,5.0,91367,Woodland Hills,sweet-little-things-by-shiry-woodland-hills,"['desserts', 'cupcakes', 'bakeries']"
+8YgcyLSDjTcxT7d7My-XGA,34.04175,-118.4595,$,25.0,3.0,90025,Los Angeles,subway-restaurants-los-angeles-2,['sandwiches']
+wEmburuThcI2x5XscvtgUw,34.02942,-118.4504,$,120.0,2.0,90064,Los Angeles,taco-bell-los-angeles-27,"['hotdogs', 'mexican']"
+,,,,,,,,,"['healthtrainers', 'hiking']"
+YmsIPeQute7ykEuyu22QWQ,34.0444656673881,-118.431919605731,$,25.0,3.0,90025,Los Angeles,subway-restaurants-los-angeles-62,['sandwiches']
+ur39kGOmI7jH7dB0nnlIug,34.03367,-118.26145,$$,37.0,4.5,90015,Los Angeles,the-holy-grill-770-los-angeles,"['foodtrucks', 'kosher', 'mediterranean']"
+yvZhdhMtzkM3hZG5ZJHm9g,33.8341771453,-118.384204297,$$,48.0,4.5,90277,Redondo Beach,recess-truck-redondo-beach,"['desserts', 'foodtrucks', 'icecream']"
+vAZltY2IH-7J61IXRWVy0w,34.0496374471594,-118.460039869005,$,38.0,2.5,90025,West Los Angeles,7-eleven-west-los-angeles-5,"['convenience', 'coffee']"
+3OH-y51BZmfyRiLNvU_19A,34.0288643194466,-118.472170687153,$,47.0,3.0,90404,Santa Monica,trimana-santa-monica,"['delis', 'sandwiches']"
+ZJyrm7HkU0_F9W_DfqnRbA,34.0236705,-118.2180793,$$,66.0,4.0,90023,Los Angeles,bison-burger-los-angeles,"['foodtrucks', 'burgers', 'sandwiches']"
+Ntmb_x9OIkdF0577bdAPsA,33.89344,-118.35287,$,20.0,5.0,90260,Lawndale,amals-baklava-and-more-lawndale-2,"['bakeries', 'desserts', 'catering']"
+1flRAP3MW7wJO9yROzyT6w,34.0595626831055,-118.41771697998,$,16.0,4.0,90067,Los Angeles,century-grill-los-angeles,['newamerican']
+ln2LNg-UkxC6O7uAUmAQqg,34.05262,-118.417621,$$,72.0,2.5,90064,Los Angeles,ralphs-los-angeles-38,"['grocery', 'bakeries', 'delis']"
+ehofu7XpWLs5A8PZ9rYlFw,34.062799,-118.443839,$,33.0,3.0,90024,Los Angeles,starbucks-los-angeles-328,['coffee']
+,,,,,,,,,"['bubbletea', 'juicebars', 'taiwanese']"
+,,,,,,,,,['golf']
+ktoFEqz1otnLvokP2n1xTA,34.0496230759317,-118.4355597,$,16.0,3.0,90025,West Los Angeles,7-eleven-west-los-angeles-6,"['convenience', 'coffee']"
+oA0V9OOiuKSyF80j2tyF-A,34.0480995,-118.4631195,$$,14.0,3.5,90025,Los Angeles,shades-of-curry-los-angeles,['indpak']
+EDQfyGdwqZdsUcfG1OqyhA,34.044005,-118.46818,$,16.0,3.5,90025,Los Angeles,harvest-cafe-los-angeles,"['delis', 'tradamerican', 'breakfast_brunch']"
+L4EYjRLGFWwwJB4sFaxEGQ,34.03796,-118.43235,$,44.0,2.5,90064,Los Angeles,jack-in-the-box-los-angeles-10,"['burgers', 'hotdogs', 'breakfast_brunch']"
+Bf1uG9Ki092gzhGf6VhkNg,34.0277329857058,-118.443195596392,$,23.0,3.0,90064,Los Angeles,7-eleven-los-angeles-115,"['convenience', 'coffee']"
+2HTZBgL1ps-CRlsfDPVe-g,34.0379028320312,-118.443061828613,$$,15.0,3.0,90064,Los Angeles,judis-deli-and-cafe-los-angeles,"['cafes', 'delis']"
+BrzdkJvzbBkw_JlEEg7ITQ,34.0577720441663,-118.418817720238,$,27.0,3.5,90067,Century City,the-coffee-bean-and-tea-leaf-century-city,['coffee']
+CYvO5HAebhHhanbmqmx51g,34.1888656316672,-118.626026421951,$,21.0,5.0,91307,West Hills,daniels-food-west-hills,"['foodtrucks', 'burgers', 'hotdogs']"
+Q_MHYVh2F9q0dNrFmchc0g,34.0545639,-118.4409461,$$,29.0,3.0,90024,Los Angeles,sholeh-los-angeles,['persian']
+3N7P_RQnrmeEL-JMrqLoaQ,34.0599599,-118.41982,$,36.0,3.0,90067,Los Angeles,pizza-alla-pala-los-angeles-2,['pizza']
+fXf4EP1Zrg6_YkTWDy-1Lw,34.0489,-118.46213,$,33.0,2.5,90025,Los Angeles,trimana-los-angeles-9,['delis']
+Yl8F3uV0wE_2CWfoXDiCrA,34.0259935958744,-118.4315276,$,111.0,2.0,90064,Los Angeles,mcdonalds-los-angeles-126,"['hotdogs', 'burgers', 'coffee']"
+,,,,,,,,,['coffee']
+,,,,,,,,,"['cigarbars', 'venues', 'catering']"
+,,,,,,,,,['golf']
+sMz8IJ0l1BEMxzfwwBDyhA,34.09398,-118.36042,$$,15.0,5.0,90046,West Hollywood,les-délices-du-four-french-bakery-west-hollywood,['bakeries']
+PGdhlhpo36EqMW2KIg654A,34.182541,-118.305763,$$,30.0,4.5,91502,Burbank,bouvardia-restaurant-burbank-6,"['venues', 'armenian', 'musicians']"
+,,,,,,,,,"['foodtrucks', 'tacos', 'vegan']"
+w1Fsyx1cEfHwTTKRMdu5Lw,34.046234,-118.266871,$$,71.0,3.5,90015,Los Angeles,super-smash-buns-los-angeles,"['foodtrucks', 'burgers', 'asianfusion']"
+uSc9L4WQDb2wXbBSD-sL9A,34.030579,-118.447105,$,5.0,4.5,90064,Los Angeles,aires-oaxaqueños-los-angeles,"['foodstands', 'mexican']"
+,,,,,,,,,['pizza']
+WubmhDaK703TF4WibZ8ZzQ,34.0685054,-118.4447634,$,73.0,2.5,90024,Los Angeles,panda-express-los-angeles-13,"['chinese', 'hotdogs']"
+uJUVrZGEZ-mPudAFLzeCjg,33.91285,-118.35251,$$,57.0,4.0,90250,Hawthorne,chef-cs-smhokin-pot-hawthorne-20,"['cajun', 'foodtrucks', 'southern']"
+cWC1aSv6ql0nBzHX_0a6MQ,34.06447,-118.44351,$,16.0,3.5,90095,Los Angeles,ucla-medical-center-cafeteria-los-angeles,['cafeteria']
+,,,,,,,,,"['parks', 'venues']"
+_JKsTGFFwohr3P64j5ubHA,34.05528,-118.44132,$,26.0,2.5,90024,Los Angeles,7-eleven-los-angeles-13,"['convenience', 'coffee']"
+HgO37Kca69Pm1C_K5slQ_w,34.0187096355305,-118.199443034828,$,35.0,4.5,90023,Los Angeles,tacos-los-gueros-los-angeles,"['mexican', 'foodtrucks']"
+BLZ5kHDNVf8nnIRaiSJ3Xg,34.0743573096961,-118.44234011164,$,46.0,3.0,90095,Los Angeles,northern-lights-cafe-los-angeles,['cafes']
+UW1T01H9ado3SXGnHd9pYw,34.034008026123,-118.472869873047,$,153.0,2.0,90404,Santa Monica,mcdonalds-santa-monica-6,"['hotdogs', 'burgers', 'coffee']"
+B84xoNKDJj3KgsB7jnammg,34.0660008960967,-118.443592786789,$$,24.0,3.0,90095,Los Angeles,cafe-med-los-angeles,"['salad', 'burgers', 'sandwiches']"
+,,,,,,,,,"['hospitals', 'burgers', 'pediatricians']"
+,,,,,,,,,['golf']
+,,,,,,,,,['parks']
+,,,,,,,,,"['haitian', 'foodtrucks', 'fooddeliveryservices']"
+kXhG3-4AQFpyfBlpH16V2g,34.2647775,-118.520314,$,102.0,3.5,91344,Los Angeles,belly-bombz-wings-truck-and-catering-los-angeles,"['foodtrucks', 'korean']"
+psr7ZuJh_C8cNyYfvQXhnA,34.0407341,-118.438048,$,23.0,2.5,90064,Los Angeles,7-eleven-los-angeles-185,"['convenience', 'coffee']"
+q0R7iLqXyHoNmlLsIAOLsw,34.030818,-118.421374,$,63.0,2.5,90064,West Los Angeles,winchells-donuts-west-los-angeles,"['donuts', 'sandwiches', 'coffee']"
+Udoof7-g5jxhIyRyTnfaOw,34.059013,-118.418994,$,35.0,3.0,90067,Los Angeles,chick-fil-a-los-angeles-15,['hotdogs']
+T7GhlLx5TslJhlUGplBPBw,34.0391246,-118.4661772,$$,20.0,3.0,90025,Los Angeles,patio-restaurant-and-cafe-los-angeles-3,"['mediterranean', 'coffee', 'vegetarian']"
+ni6CjwlIPD9tetqGwJAkRQ,33.8629455566406,-118.394996643066,$$,158.0,3.0,90254,Hermosa Beach,rolln-lobster-food-truck-hermosa-beach,"['seafood', 'foodtrucks']"
+,,,,,,,,,"['foodtrucks', 'dimsum']"
+T5Qv6Xsb0LT7s48dnO3iKA,34.05349,-118.24532,$$,46.0,4.0,,Los Angeles,achara-food-truck-los-angeles,"['foodtrucks', 'filipino', 'bbq']"
+WkizSlUurQQLCwDCxGAtZA,34.04012,-118.4275,$,22.0,3.0,90064,Los Angeles,ruby-thai-kitchen-los-angeles,['thai']
+dk-mRiQLfDC7OXJilF0Msg,34.0703653142189,-118.44037529827,$,10.0,4.0,90095,Los Angeles,evelyn-and-mo-ostin-music-café-los-angeles,['coffee']
+9bwjRfAJexB0So47YnWHow,34.2856864929199,-118.604530334473,$,19.0,5.0,91311,Los Angeles,mama-minas-sweets-and-treats-los-angeles,"['bakeries', 'vegan', 'gluten_free']"
+_mJWd2qb-88WYOEdPMxnrA,34.0297602551748,-118.472465090454,$$$$,19.0,3.5,90404,Santa Monica,fresh-finkelstein-santa-monica,['tea']
+8rewfSe4RcbXo9H8jHwfSA,34.02532,-118.45803,$,65.0,2.5,90405,Santa Monica,wienerschnitzel-santa-monica,"['hotdogs', 'hotdog', 'sandwiches']"
+,,,,,,,,,"['landmarks', 'visitorcenters']"
+jpwWuArQhUFYKS0qLDMmZQ,34.040077,-118.465040395999,$,103.0,2.0,90025,Los Angeles,pizza-hut-los-angeles-25,"['pizza', 'italian', 'chicken_wings']"
+LImIRy5El-V5mKHQk8iwrw,34.06305,-118.44096,$$,20.0,3.0,90024,Los Angeles,the-hideout-los-angeles-3,"['newamerican', 'bars']"
+,,,,,,,,,"['foodtrucks', 'african']"
+wFI-C4mWUrsLbY-__Z_4Mg,34.0247564212034,-118.459036946297,$,94.0,2.0,90405,Santa Monica,mcdonalds-santa-monica-8,"['burgers', 'hotdogs', 'coffee']"
+2uSEc3MYOgn90KRcR6U7tg,34.05996,-118.41982,$,76.0,2.0,90067,Los Angeles,chipotle-mexican-grill-los-angeles-47,"['hotdogs', 'mexican']"
+T9g4QHDME5WRWJDkJF0ioQ,34.0397981004067,-118.46296630335,$,14.0,3.5,90025,West Los Angeles,7-eleven-west-los-angeles,"['convenience', 'coffee']"
+zSGprSItzABlvhbaZPEZng,34.04288,-118.42238,$,80.0,2.0,90064,Los Angeles,dominos-pizza-los-angeles-18,"['pizza', 'chicken_wings', 'sandwiches']"
+vvGDj5fArtz7zdr0D8jW9A,34.0200513180004,-118.454635665405,$,64.0,2.5,90405,Santa Monica,subway-restaurants-santa-monica-5,"['hotdogs', 'sandwiches']"
+,,,,,,,,,"['atvrentals', 'rvrental', 'hiking']"
+R7BVV6KoI6TIysq_A1xwgg,34.057731,-118.419692,$$,50.0,2.5,90067,Los Angeles,panda-express-los-angeles-11,"['chinese', 'hotdogs']"
+ZbHZQKuuPu6q5agM1awr9g,34.0674003,-118.4448948,$,28.0,2.5,90095,Los Angeles,fusion-los-angeles,"['newamerican', 'hotdogs']"
+,,,,,,,,,"['foodtrucks', 'korean']"
+t3WXTPEZ_3lNcMj4Y4ixtg,34.0193512,-118.4699905,$,81.0,2.5,90405,Santa Monica,burger-king-santa-monica,"['burgers', 'hotdogs']"
+,,,,,,,,,['parks']
+,,,,,,,,,"['bakeries', 'customcakes']"
+ENjeBlQnK-W1CUThz101rg,34.0396352,-118.4289445,$,12.0,3.5,90064,Los Angeles,prinkipia-frozen-yogurt-los-angeles-2,['icecream']
+,,,,,,,,,['localflavor']
+h1P0mmRzkyy9R42mTRlkxA,34.059609,-118.419434,$$,10.0,4.0,90067,Los Angeles,forty-carrots-los-angeles-3,"['juicebars', 'icecream', 'sandwiches']"
+3Hzto8cMq0QfOEFcD1NHDA,34.070390695425,-118.444472803557,$,28.0,3.0,90024,Los Angeles,taco-bell-los-angeles-3,['hotdogs']
+,,,,,,,,,['gardens']
+Kg4aasWjVto6DXGPkp0OiA,34.0463594498295,-118.464333321015,$,54.0,2.0,90025,Los Angeles,kfc-los-angeles-26,"['hotdogs', 'chicken_wings', 'chickenshop']"
+FfFQm3rhgo3_fYjU1u8b6w,34.0403442382813,-118.143180847168,$$,30.0,4.5,91754,Monterey Park,tiffanys-catering-monterey-park-4,"['bakeries', 'catering']"
+ZdEiWFg6u3WqBHbij6vspQ,34.0226814903529,-118.439179676518,$,64.0,2.0,90064,Los Angeles,chipotle-mexican-grill-los-angeles-53,"['hotdogs', 'mexican']"
+MA2zHV0j-FOZqH0lmfi64Q,34.0268,-118.4737,$,18.0,3.5,90404,Santa Monica,aloha-fridays-santa-monica-2,"['foodtrucks', 'hawaiian']"
+oXPFsfVr5sYQx2fz2yK4fA,34.07025,-118.4384,$,8.0,4.0,90024,Los Angeles,the-coffee-bean-and-tea-leaf-los-angeles-46,['coffee']
+qlLtmTOWS4uMKaKOZk-U2w,34.0662177,-118.4454167,$,22.0,2.5,90095,Los Angeles,subway-los-angeles-240,"['hotdogs', 'sandwiches']"
+,,,,,,,,,"['icecream', 'foodtrucks']"
+1eBM5B2vIMZteSONobobpA,34.0631101,-118.445588,$,7.0,4.0,90024,Los Angeles,7-eleven-los-angeles-193,"['convenience', 'coffee']"
+,,,,,,,,,"['desserts', 'partyequipmentrentals']"
+TJEnDvOIJ0YLUBdVTGKmcg,34.09996,-118.32625,$,50.0,3.5,90028,Hollywood,chez-salim-chicken-and-rice-food-truck-hollywood,"['foodtrucks', 'halal', 'mediterranean']"
+x6M5SjgjDjxWWBkxYvtLCA,34.070384,-118.444233,$,17.0,3.0,90095,Los Angeles,bruin-buzz-los-angeles,['coffee']
+,,,,,,,,,['delis']
+8ZY6sypphiAtb5kXJ_rUzQ,34.0194432,-118.4551911,$,19.0,3.5,90405,Santa Monica,fruitti-yogo-santa-monica,['icecream']
+x8iR8p7R12fNkamfuHmvcw,34.028516,-118.442757,$,46.0,2.0,90064,Los Angeles,papa-johns-pizza-los-angeles-5,['pizza']
+UVPVAtsAiBOtw-BI_W9kTw,34.0625709029135,-118.44532285664,$,14.0,3.0,90024,Los Angeles,fire-hook-taco-truck-los-angeles,['foodstands']
+WUxJX7QptQqH7tgCyGclpQ,34.15788,-118.46105,$$,273.0,2.0,91403,Los Angeles,rice-balls-of-fire-los-angeles,"['foodtrucks', 'asianfusion', 'catering']"
+,,,,,,,,,"['foodtrucks', 'thai']"
+,,,,,,,,,"['foodtrucks', 'japanese', 'mexican']"
+,,,,,,,,,['tradamerican']
+BM-4pVZ0ZeQJYTepaO6bAA,34.0188,-118.42137,$,53.0,2.5,90034,Los Angeles,burger-king-los-angeles-10,"['burgers', 'hotdogs']"
+iaJQfZg9x37jkMw7LFyk8Q,34.0453185888798,-118.419281639681,$,50.0,2.0,90064,Los Angeles,kfc-los-angeles-7,"['chicken_wings', 'hotdogs', 'chickenshop']"
+C2AjP0DSkNTXTSXXr-NAXQ,34.0599599,-118.41982,$$,11.0,3.5,90067,Los Angeles,caffe-vergnano-los-angeles,"['coffeeroasteries', 'coffee']"
+PnX7iaxwN7eo9kQ5hHyvKA,34.2676,-118.42227,$,15.0,5.0,91342,Pacoima,el-rey-del-cocktel-pacoima,"['seafood', 'foodtrucks']"
+lN_gbLZdzhzejE_DS6T8sw,34.0217973,-118.4648052,$,84.0,2.0,90405,Santa Monica,yoshinoya-santa-monica-santa-monica,"['japanese', 'hotdogs', 'seafood']"
+QpgRPWVFLtQrk6vQJk7wRw,34.0731366684163,-118.439353696791,$,35.0,2.5,90024,Los Angeles,lu-valle-commons-los-angeles,['coffee']
+,,,,,,,,,"['tacos', 'foodtrucks']"
+yG9qalpyE92fjjiSlmlbJA,34.026478,-118.427113,$,21.0,3.0,90034,Los Angeles,starbucks-los-angeles-18,['coffee']
+,,,,,,,,,"['desserts', 'juicebars', 'icecream']"
+,,,,,,,,,"['japanese', 'foodtrucks']"
+,,,,,,,,,"['hotdog', 'foodtrucks', 'tacos']"
+b2Ms_mxHaRzZ6295XKK4yg,34.068222,-118.442125,$,24.0,2.5,90024,Los Angeles,subway-los-angeles-245,"['hotdogs', 'sandwiches']"
+fLtjISLQBrahVZAT3CFXtA,34.2310853582468,-118.36753200608,$,13.0,5.0,91352,Los Angeles,tacos-eronga-1-los-angeles,"['mexican', 'foodtrucks']"
+,,,,,,,,,"['beertours', 'winetours', 'bars']"
+,,,,,,,,,['golf']
+_SpZQdqxb6O65vAbm4CKmg,34.034875,-118.448916,$,25.0,2.0,90064,Los Angeles,starbucks-los-angeles-271,['coffee']
+_L5Pf7bTLXHlvluXUQCd_w,34.16536,-118.52706,$$$,7.0,5.0,91316,Encino,sweet-cheeks-bakehouse-encino-3,"['bakeries', 'fooddeliveryservices']"
+,,,,,,,,,"['tacos', 'streetvendors']"
+,,,,,,,,,"['coffee', 'foodtrucks']"
+,,,,,,,,,"['fooddeliveryservices', 'bakeries', 'customcakes']"
+,,,,,,,,,"['foodtrucks', 'seafood', 'fishnchips']"
+KrivJ1coTLmgpGvGGC2Ayw,34.0837472012297,-118.331095576286,$$,17.0,4.0,93010,Camarillo,matts-coffee-express-camarillo-6,"['juicebars', 'coffee', 'foodtrucks']"
+KnQzDIY2hTKNamRbTeowfg,34.03996,-118.47352333,$,17.0,3.5,90402,Santa Monica,jimmy-johns-santa-monica,"['sandwiches', 'hotdogs', 'delis']"
+DJqaSrXzZyIcvPV9EJZ12w,34.4468803405762,-118.510902404785,$$,36.0,5.0,91350,Santa Clarita,madison-rose-bakery-santa-clarita-2,['bakeries']
+,,,,,,,,,['museums']
+9NYAMW8j2vfmJuIzi_9Ncg,34.035101,-118.2913288,$,33.0,3.5,90007,Los Angeles,celaya-bakery-los-angeles-3,"['bakeries', 'customcakes']"
+,,,,,,,,,"['chicken_wings', 'catering', 'foodtrucks']"
+,,,,,,,,,"['bbq', 'foodtrucks', 'desserts']"
+,,,,,,,,,['parks']
+,,,,,,,,,['parks']
+KqOXJDR2YiTVic5bVbdnAw,34.0513187,-118.3649663,$,9.0,4.5,90019,Los Angeles,whammy-bar-los-angeles,"['musicinstrumentservices', 'coffee']"
+SYn7ZN4KDNU17vHfEIFi8Q,34.0599599,-118.41982,$,7.0,4.0,90067,Los Angeles,cannoli-e-bomboloni-los-angeles,['desserts']
+,,,,,,,,,"['facepainting', 'magicians', 'pettingzoos']"
+,,,,,,,,,"['golf', 'venues', 'wedding_planning']"
+,,,,,,,,,['italian']
+,,,,,,,,,"['parks', 'playgrounds']"
+bG9ClLF1FYFuSqC1xvdQRg,34.073983,-118.443051,$,17.0,3.0,90095,Los Angeles,espresso-roma-cafe-los-angeles,['coffee']
+,,,,,,,,,"['salad', 'hotdogs']"
+Q_YjtQG1F6dbyKzksV6tmA,34.0436332,-118.422023,$,28.0,2.5,90064,Los Angeles,subway-restaurants-los-angeles-51,['sandwiches']
+mhHTlNKioAfZEFZeWad0zQ,34.0704935049361,-118.450003266335,$,12.0,3.5,90095,Los Angeles,de-neve-late-night-los-angeles,"['hotdogs', 'newamerican']"
+,,,,,,,,,"['foodtrucks', 'spanish', 'seafood']"
+,,,,,,,,,"['foodtrucks', 'pizza']"
+,,,,,,,,,['yelpevents']
+JiYslHHmxDRNtjDg_49fmQ,33.7885,-117.97395,$$,178.0,4.0,92841,Garden Grove,mess-hall-canteen-garden-grove-7,"['foodtrucks', 'sandwiches', 'salad']"
+VkB0Cau98NFR75muz-uv5Q,33.7523035,-118.1298234,$,41.0,4.5,90031,Los Angeles,frijolitos-mobile-coffee-los-angeles-4,"['coffee', 'foodtrucks']"
+,,,,,,,,,"['cakeshop', 'customcakes', 'desserts']"
+,,,,,,,,,['kosher']
+,,,,,,,,,"['foodtrucks', 'catering', 'tradamerican']"
+,,,,,,,,,"['foodtrucks', 'waffles', 'sandwiches']"
+g2izf9lI2kBjSwRSZ1uNxA,34.0280996,-118.4711418,$,12.0,3.5,90404,Santa Monica,khanhs-tea-house-and-zen-garden-santa-monica,['tea']
+,,,,,,,,,"['bakeries', 'desserts', 'catering']"
+,,,,,,,,,"['creperies', 'foodtrucks']"
+,,,,,,,,,"['foodstands', 'tacos']"
+iPAI2ekjZS5NpFcGAl19hA,34.0399,-118.43781,$,24.0,2.0,90064,Los Angeles,subway-restaurants-los-angeles-35,['sandwiches']
+EGz4toczaB2njcFcqGzsxA,33.7332038879395,-118.294395446777,$$,24.0,5.0,90731,San Pedro,fiyahnesian-cuisine-no-title,"['catering', 'foodstands', 'mexican']"
+,,,,,,,,,"['italian', 'pizza']"
+_CEl1EIbirUWPwL3pQnE3w,34.06415,-118.469947,$,17.0,3.0,90049,Los Angeles,subway-restaurants-los-angeles-8,['sandwiches']
+,,,,,,,,,"['foodtrucks', 'chickenshop', 'hotdogs']"
+,,,,,,,,,"['coffee', 'juicebars', 'foodtrucks']"
+lZYAcFvLNX0Y_r4IZNk4qw,34.029182434082,-118.472160339355,$,21.0,3.0,90404,Santa Monica,subway-restaurants-santa-monica-8,"['hotdogs', 'sandwiches']"
+,,,,,,,,,"['tacos', 'foodstands']"
+,,,,,,,,,"['foodtrucks', 'mexican']"
+1ykmFi--XzPw9EdICqCqrA,34.0482167,-118.4431133,$$$,4.0,3.0,90025,Los Angeles,angolo-divino-los-angeles,['italian']
+,,,,,,,,,"['tacos', 'foodstands']"
+,,,,,,,,,['chicken_wings']
+6SXitpTQTzcCVqACjFs3KQ,34.0190402916871,-118.421794096939,$,64.0,2.0,90034,Los Angeles,pizza-hut-los-angeles-47,"['pizza', 'italian', 'chicken_wings']"
+,,,,,,,,,"['foodtrucks', 'mexican']"
+VosxX-lFf2TCZFbydqjufg,34.0284004211426,-118.354179382324,$$,11.0,4.5,90016,Los Angeles,mexican-chuckwagon-fusion-los-angeles,"['foodtrucks', 'mexican']"
+qCj9vRr90rAlm44bEPV8iA,34.075246,-118.441449,$,11.0,3.0,90095,Los Angeles,café-451-los-angeles-2,"['coffee', 'cafes']"
+4Vt-_pOpIMLHj4Pa1eM-qg,34.047822479906,-118.241345734439,$,7.0,5.0,78704,Los Angeles,pop-art-los-angeles-4,"['desserts', 'foodtrucks', 'icecream']"
+9TfRFaJ43IL64y8DWf2iOg,34.073913,-118.439267,$,16.0,3.0,90024,Los Angeles,jimmys-coffee-house-los-angeles,['coffee']
+,,,,,,,,,['desserts']
+,,,,,,,,,['sushi']
+VGBeNoAerguJLt4BqKOr7A,34.040333,-118.426351,$,7.0,3.0,90064,Los Angeles,great-wraps-los-angeles-2,['sandwiches']
+ioJ7fJEM-KQthGLjG9vwHg,34.047119140625,-118.446067810059,$$$,1.0,5.0,,Los Angeles,addies-place-los-angeles,"['tapas', 'wineries']"
+Wy3p95yP5mAt00rY-0WRSQ,34.047365,-118.44379,$,12.0,2.0,90025,Los Angeles,buffalo-express-los-angeles-3,"['burgers', 'tradamerican']"
+,,,,,,,,,"['foodtrucks', 'italian']"
+,,,,,,,,,"['desserts', 'chocolate']"
+jTaE-R8tVPIoVPnznX7SOg,34.02053,-118.42395,$,7.0,4.0,90034,Los Angeles,trimana-los-angeles-35,['sandwiches']
+a2xU0sFv_-g38SUyNgespQ,34.0713875597974,-118.448619968262,$,8.0,3.5,90095,Los Angeles,stage-canteen-los-angeles,"['coffee', 'internetcafe', 'sandwiches']"
+lkYF49T_tDdVf7VbjXHxBw,34.1016299248973,-118.333691404536,$,8.0,4.5,90028,Los Angeles,ice-cream-roll-los-angeles-6,"['desserts', 'icecream', 'foodtrucks']"
+VBoLqbYbc6ZOEcFAxExdCw,34.045617858211,-118.450825363398,$$,1.0,5.0,90025,Los Angeles,alanas-coffee-roasters-los-angeles-4,['coffeeroasteries']
+,,,,,,,,,['museums']
+,,,,,,,,,['localflavor']
+jc34lE0h0yy2kE8YvVjPPw,34.0465989188272,-118.416818415,$,3.0,4.5,90047,Los Angeles,judiths-foods-los-angeles-10,"['foodtrucks', 'tacos']"
+DyOPtay-CVLuqBAFD8EYpw,34.058188,-118.418308,$,25.0,2.0,90067,Los Angeles,kellys-coffee-and-fudge-factory-los-angeles-2,['coffee']
+PH3sasg6P3PzBqNbXh8XuQ,33.74901,-117.89935,$,94.0,4.5,92703,Santa Ana,tortas-ahogadas-los-primos-santa-ana,"['mexican', 'foodtrucks']"
+O_trywKNTZe3L2UnbqZXxg,33.8683632868948,-118.236840043507,$$,26.0,4.0,90220,Rancho Dominguez,green-olive-truck-rancho-dominguez-3,"['foodtrucks', 'falafel']"
+YcnG54gYALerU1qFLpdA5A,34.0305569,-118.4688196,$$,13.0,2.5,90404,Santa Monica,calbi-fusion-tacos-burritos-santa-monica,['mexican']
+,,,,,,,,,['persian']
+,,,,,,,,,"['foodtrucks', 'tacos']"
+,,,,,,,,,['bakeries']
+,,,,,,,,,"['foodtrucks', 'mexican']"
+RgUq2nW9aUrQJFaYA5-QLw,33.6623991876128,-117.750723548234,$$,182.0,4.5,92807,Anaheim,burning-buns-anaheim-4,"['foodtrucks', 'burgers', 'sandwiches']"
+z32h0XnJ3yw-fpouaXdvFQ,34.4627169,-118.5622893,$,35.0,4.5,91354,Santa Clarita,kona-ice-of-santa-clarita-santa-clarita-2,"['icecream', 'shavedice', 'foodtrucks']"
+CIrWphhxqPZrtlTkumwi_w,34.062979,-118.436315,$,9.0,3.0,90024,Westwood,greek-pizza-westwood,"['pizza', 'greek']"
+VxR96cOuKfo7J0f5HjcrTg,34.43553,-118.54703,$$,71.0,4.0,91354,Los Angeles,sugo-italian-food-truck-los-angeles-13,"['foodtrucks', 'italian']"
+K8eEx2J3pF3b-w6EZwKY5w,34.052535,-118.4528947,$,4.0,3.0,90073,Los Angeles,va-canteen-wla-los-angeles,['cafeteria']
+,,,,,,,,,['landmarks']
+ZpWz18qsxBg6uuWflF9wbA,34.034107208252,-118.446670532227,$,12.0,2.0,90064,Los Angeles,the-cake-collection-los-angeles,['bakeries']
+4Ayynt-ZeM9W9AJHNVoSyw,34.0263185,-118.4328075,$$,11.0,2.5,91344,Los Angeles,thrifty-ice-cream-los-angeles,['icecream']
+Y_ShMbbzBgHE_QdjDgivkQ,34.0606374,-118.4175143,$$,2.0,5.0,90067,Century City,moist-and-creamy-century-city,"['desserts', 'bakeries']"
+,,,,,,,,,"['icecream', 'desserts']"
+Epx3YXER1UNrSXADuHZDyw,34.0554199,-118.4421921,$$,1.0,5.0,90024,Los Angeles,veggie-greek-los-angeles,['greek']
+XWwTTBdREWpvxkp8d5HWhA,34.0685054,-118.4447634,$,8.0,3.0,90095,Los Angeles,kikka-los-angeles,"['sushi', 'ramen']"
+,,,,,,,,,"['bartenders', 'djs', 'cocktailbars']"
+,,,,,,,,,"['foodtrucks', 'mexican']"
+_pM4auWs2jTpyHez-YOASg,34.0683516578329,-118.442423343658,$,11.0,2.5,90095,Los Angeles,southern-lights-los-angeles,['coffee']
+scuPNFIGpUTObSSZsqRiww,34.0561822784992,-118.44350920196,$,1.0,5.0,90024,Los Angeles,viet-ngans-lab-los-angeles,"['vietnamese', 'asianfusion']"
+RbbPE7YHC1Gyu9ynitzjVw,34.2809205918312,-118.401948474348,$,6.0,5.0,91342,Los Angeles,tacos-el-pimi-los-angeles,"['foodtrucks', 'mexican']"
+ItVlFkxcRS2B6zdbBQWlaA,34.027093,-118.473852,$,19.0,2.5,90404,Santa Monica,starbucks-santa-monica-28,['coffee']
+Alm1NXgFwT2gJ88RpBXW1w,34.0662177,-118.4454167,$,6.0,3.5,90025,Los Angeles,roadside-grill-los-angeles,['burgers']
+,,,,,,,,,"['localfishstores', 'aquariumservices', 'aquariums']"
+DgV25QI1MYs8B2g45wo8zA,34.039599,-118.428899,$$,3.0,3.5,90064,Los Angeles,rainbow-house-los-angeles,['japanese']
+r3uUdX-hfMxq9_DwfelkBg,34.05244,-118.47388,$,2.0,5.0,90049,Los Angeles,jamagel-los-angeles,['bagels']
+,,,,,,,,,['coffee']
+,,,,,,,,,['landmarks']
+,,,,,,,,,"['reiki', 'spiritual_shop', 'coffee']"
+1StuymR_aV7xU6yKdpk_aA,33.9196596,-118.273849942022,$$,6.0,5.0,90061,Los Angeles,mariscos-los-tres-animales-los-angeles-2,"['mexican', 'foodtrucks']"
+,,,,,,,,,"['hotdog', 'hotdogs', 'sandwiches']"
+,,,,,,,,,"['artmuseums', 'galleries']"
+fAg584WefYUSDPpD84Q5Vg,34.0652923583984,-118.435012817383,$$,5.0,3.0,90024,Los Angeles,the-cooperage-los-angeles,['sandwiches']
+GnYOffNhpaRPMPTOeN_tpw,34.041762,-118.472119,$,2.0,4.5,90010,Los Angeles,bossy-dog-los-angeles,['streetvendors']
+,,,,,,,,,"['mexican', 'vegan', 'foodtrucks']"
+,,,,,,,,,"['foodtrucks', 'mexican']"
