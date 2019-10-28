@@ -3,5 +3,5 @@
 
 **/.DS_Store
 **/.ipynb_checkpoints
-**/*.json
+**/creds.json
 **/*.txt
