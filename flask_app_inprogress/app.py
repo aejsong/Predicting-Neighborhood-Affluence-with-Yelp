@@ -15,11 +15,19 @@ app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
 # secret key to perform certain actions
 app.secret_key = 'sdfgsdgfdgfgfdgd'
 
+
+
+
 # create index
 @app.route('/')
 def index():
 
     return render_template("index.html")
+
+
+
+
+
 
 # create dataframe page
 @app.route('/dataframe/')
@@ -29,15 +37,31 @@ def dataframe():
 
     return render_template("dataframe.html",data=df2.to_html())
 
+
+
+
+
+
+
 # create team page
 @app.route('/team/')
 def team():
 
     return render_template("team.html")
 
+
+
+
+
+
 # create map page
 @app.route('/map/')
 def map():
+
+    # dsi cc9 map
+    # la_coord = (34.0522, -118.2437)
+    # maps = folium.Map(location=la_coord, zoom_start=11)
+
     # google static map scrape
     #key is confidential
     api_key = ""
@@ -56,6 +80,11 @@ def map():
 
     return render_template("map.html",map_image=r.content)
 
+
+
+
+
+
 # prediction function
 def affluency_predictor(to_predict):
     # format the variable
@@ -72,6 +101,11 @@ def affluency_predictor(to_predict):
     print('------------')
     return result[0]
 
+
+
+
+
+
 @app.route('/process', methods=["POST"])
 def process():
     if request.method == 'POST':
@@ -85,6 +119,11 @@ def process():
 
         return render_template("index.html",results=np.round(results,2))
 
+
+
+
+
+
 # create page to diplay visualization
 @app.route('/histogram/')
 def histogram():
@@ -92,6 +131,9 @@ def histogram():
     # df2 = pd.read_csv('MARIOdemoGRAPHS.csv').drop(columns='Unnamed: 0')
     # train data
     df2 = pd.read_csv('MOTHEROFMOTHERS.csv').drop(columns=['Unnamed: 0', 'Unnamed: 0.1', 'Unnamed: 0.1.1'])
+
+
+
 
     # use plotly to create visualization
     fig = make_subplots(rows=2, cols=2,
@@ -119,6 +161,11 @@ def histogram():
     histogram=graphJSON
 
     return render_template("histogram.html", plot=histogram)
+
+
+
+
+
 
 @app.route('/bargraph/')
 def create_plot():
