@@ -1,7 +1,8 @@
 # **Utilizing Yelp Data to Predict Zip Code Affluence**
 
 
-
+## **Presentation Link**
+https://docs.google.com/presentation/d/1j1K5PPtJyluv8yNAdwtPDVuJzkNf5Y35CVCVlhQJliw/edit?usp=sharing
 
 
 
