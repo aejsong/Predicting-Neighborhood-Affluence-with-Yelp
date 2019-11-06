@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_9fde93d8d13642398b3ce6b1c6f902ba {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_9fde93d8d13642398b3ce6b1c6f902ba" ></div>
+        
+</body>
+<script>    
+    
+            var map_9fde93d8d13642398b3ce6b1c6f902ba = L.map(
+                "map_9fde93d8d13642398b3ce6b1c6f902ba",
+                {
+                    center: [34.05650341324437, -118.24076869795769],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 13,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_fa03cf604d4f4377b160cd804b959a6e = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_9fde93d8d13642398b3ce6b1c6f902ba);
+        
+    
+            var marker_12858306234c4d6cb3f2c2d84f66ace0 = L.marker(
+                [34.05650341324437, -118.24076869795769],
+                {"clusteredMarker": true}
+            ).addTo(map_9fde93d8d13642398b3ce6b1c6f902ba);
+        
+    
+        var popup_a82dd5d5a1be4a84ad98c2bedcf6a4f4 = L.popup({"autoClose": false, "maxWidth": 2650});
+
+        
+            var html_7b0d012da80f4e1b86aab1d52726d9d3 = $(`<div id="html_7b0d012da80f4e1b86aab1d52726d9d3" style="width: 100.0%; height: 100.0%;">                 <strong>Zip Code: 90012</strong>                 </br>Avg. IRS Income (Thousands): 45.317                 </br>Predicted Income Thousands: 19.43                 </br>Avg. $ of Businesses: 1.581                 </br> Number of Businesses: 608</div>`)[0];
+            popup_a82dd5d5a1be4a84ad98c2bedcf6a4f4.setContent(html_7b0d012da80f4e1b86aab1d52726d9d3);
+        
+
+        marker_12858306234c4d6cb3f2c2d84f66ace0.bindPopup(popup_a82dd5d5a1be4a84ad98c2bedcf6a4f4)
+        .openPopup();
+
+        
+    
+</script>
