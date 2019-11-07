@@ -39,8 +39,21 @@ def affluency_predictor(to_predict):
     # format the variable
     session_int = int(to_predict.strip())
     df = pd.read_csv("../data/X_cluster.csv")
+    df = df[['zip_code', 'count', 'review_count', 'price*review_count', 'price_1', 'price_2',
+     'price_3', 'price_4', 'rating_0.0', 'rating_1.0', 'rating_1.5',
+      'rating_2.0', 'rating_2.5', 'rating_3.0', 'rating_3.5', 'rating_4.0',
+      'rating_4.5', 'rating_5', 'cluster_0', 'cluster_1', 'cluster_2',
+      'cluster_3', 'cluster_4', 'cluster_5', 'cluster_6', 'cluster_7',
+      'cluster_8', 'cluster_9', 'cluster_10', 'cluster_11', 'cluster_12',
+      'cluster_13', 'cluster_14', 'cluster_15', 'cluster_16', 'cluster_17',
+      'cluster_18', 'cluster_19', 'cluster_20', 'cluster_21', 'cluster_22',
+      'cluster_23', 'cluster_24', 'cluster_25', 'cluster_26', 'cluster_27',
+      'cluster_28', 'cluster_29', 'cluster_30', 'cluster_31', 'cluster_32',
+      'cluster_33', 'cluster_34', 'cluster_35', 'cluster_36', 'cluster_37',
+      'cluster_38', 'cluster_39', 'cluster_40', 'cluster_41', 'cluster_42',
+      'cluster_43', 'cluster_44', 'cluster_45']]
     # create array from dataframe row
-    predict_array = np.array(df[df['zip_code'] == session_int].drop(columns ='zip_code'))
+    predict_array = df[df['zip_code'] == session_int]
     print(predict_array)
     # load trained model
     loaded_model = pickle.load(open("model.p", "rb"))
