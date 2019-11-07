@@ -20,6 +20,8 @@ app.secret_key = 'sdfgsdgfdgfgfdgd'
 # create index
 @app.route('/')
 def index():
+
+    # Homepage map of Los Angeles
     la_coord = (34.0522, -118.2437)
     maps = folium.Map(location=la_coord, zoom_start=11)
 
@@ -29,7 +31,7 @@ def index():
 
 
 
-# team page
+# team information page
 @app.route('/team/')
 def team():
 
@@ -38,11 +40,16 @@ def team():
 
 
 
-# prediction function
+# prediction function for user input
 def affluency_predictor(to_predict):
+
     # format the variable
     session_int = int(to_predict.strip())
+
+    # .csv where features needed to model exist
     df = pd.read_csv("../data/Z_cluster.csv")
+
+    # Pandas rearranges column order when saved to .csv so have to put the columns back in correct order
     df = df[['zip_code',
              'cluster_0',
              'cluster_1',
@@ -349,17 +356,20 @@ def affluency_predictor(to_predict):
              'rating',
              'price_adj']]
 
-    # create array from dataframe row
+    # create array from dataframe with user zipcode input
     predict_array = df[df['zip_code'] == session_int].drop(columns='zip_code', axis=1)
     print(predict_array)
-    # load trained model
+
+    # load trained model from pickle
     loaded_model = pickle.load(open("model.p", "rb"))
-    # predict
+
+    # predict on array
     result = loaded_model.predict(predict_array)
     print(result)
     print('------------')
 
-    map_df = pd.read_csv('../data/data_zipcode_j.csv')
+    # create map of zipcode requested
+    map_df = pd.read_csv('../data/data_zipcode.csv')
     la_coord = (34.0522, -118.2437)
     maps = folium.Map(location=la_coord, zoom_start=11)
 
@@ -396,18 +406,22 @@ def affluency_predictor(to_predict):
 
 
 
-# when submit a zipcode
+# process when zipcode submitted
 @app.route('/process', methods=["POST"])
 def process():
+
     if request.method == 'POST':
 
+        # running user input through function
         results = affluency_predictor(request.form['rawtext'])
 
-        # session variable
+        # session variable for user input
         session['text'] = request.form['rawtext']
 
         print(results)
 
+        # This dataframe has the price category count for each zipcode
+        # Turn count into a bargraph distribution
         df2 = pd.read_csv('../data/X_cluster.csv')
 
         index = df2['zip_code'].values.tolist().index(int(session['text'].strip())) #returns 0

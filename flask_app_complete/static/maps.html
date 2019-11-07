@@ -23,7 +23,7 @@
             <meta name="viewport" content="width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
             <style>
-                #map_ad217c084ce4414a976b9711257c9c7e {
+                #map_9019cf11aef349d1b564fb20bb365747 {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -35,17 +35,17 @@
 </head>
 <body>    
     
-            <div class="folium-map" id="map_ad217c084ce4414a976b9711257c9c7e" ></div>
+            <div class="folium-map" id="map_9019cf11aef349d1b564fb20bb365747" ></div>
         
 </body>
 <script>    
     
-            var map_ad217c084ce4414a976b9711257c9c7e = L.map(
-                "map_ad217c084ce4414a976b9711257c9c7e",
+            var map_9019cf11aef349d1b564fb20bb365747 = L.map(
+                "map_9019cf11aef349d1b564fb20bb365747",
                 {
-                    center: [34.0522, -118.2437],
+                    center: [33.83340550270835, -118.38749264791667],
                     crs: L.CRS.EPSG3857,
-                    zoom: 11,
+                    zoom: 13,
                     zoomControl: true,
                     preferCanvas: false,
                 }
@@ -55,9 +55,28 @@
 
         
     
-            var tile_layer_6c4b03feadf14c77b755a15f4e8b51ba = L.tileLayer(
+            var tile_layer_26b9aa4163bc4f2fa52ca0f8f8ff4204 = L.tileLayer(
                 "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
                 {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
-            ).addTo(map_ad217c084ce4414a976b9711257c9c7e);
+            ).addTo(map_9019cf11aef349d1b564fb20bb365747);
         
+    
+            var marker_7aee6183821a462c8461fceecd960d86 = L.marker(
+                [33.83340550270835, -118.38749264791667],
+                {"clusteredMarker": true}
+            ).addTo(map_9019cf11aef349d1b564fb20bb365747);
+        
+    
+        var popup_4fc94827ded640718a7b0bc0f9c3dce6 = L.popup({"autoClose": false, "maxWidth": 2650});
+
+        
+            var html_f4dc862e457042489bbd8a2bcd019496 = $(`<div id="html_f4dc862e457042489bbd8a2bcd019496" style="width: 100.0%; height: 100.0%;">                 <strong>Zip Code: 90277</strong>                 </br>Med. 2017 Household Income: $101532.0                 </br>Predicted Median Income: $101744.74                 </br>Businesses Avg. $ Count: 1.703                 </br> Number of Businesses: 192</div>`)[0];
+            popup_4fc94827ded640718a7b0bc0f9c3dce6.setContent(html_f4dc862e457042489bbd8a2bcd019496);
+        
+
+        marker_7aee6183821a462c8461fceecd960d86.bindPopup(popup_4fc94827ded640718a7b0bc0f9c3dce6)
+        .openPopup();
+
+        
+    
 </script>
