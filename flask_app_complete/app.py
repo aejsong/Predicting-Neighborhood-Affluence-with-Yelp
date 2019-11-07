@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, g, session, redirect, url_for
+from flask import Flask, render_template, request, g, session
 import pandas as pd
 import numpy as np
 import plotly
@@ -20,8 +20,12 @@ app.secret_key = 'sdfgsdgfdgfgfdgd'
 # create index
 @app.route('/')
 def index():
+    la_coord = (34.0522, -118.2437)
+    maps = folium.Map(location=la_coord, zoom_start=11)
 
-    return render_template("index.html")
+    maps.save('./static/maps.html')
+
+    return render_template("index.html",map_source='./static/maps.html')
 
 
 
@@ -72,8 +76,8 @@ def affluency_predictor(to_predict):
         if int(each[1]['zip_code']) == session_int:
             popup_text = folium.Html(f"""
                 <strong>Zip Code: {each[1]["zip_code"].astype(int)}</strong>
-                </br>Avg. IRS Income (Thousands): {each[1]["ave_agi"].round(3)}
-                </br>Predicted Income Thousands: {result[0].round(2)}
+                </br>Avg. 2013 IRS Income (Thousands): {each[1]["ave_agi"].round(3)}
+                </br>Predicted Income (Thousands): {np.exp(result[0]).round(2)}
                 </br>Avg. $ of Businesses: {each[1]["price"].round(3)}
                 </br> Number of Businesses: {int(each[1]["count"])}""",
                 script=True)
@@ -104,7 +108,7 @@ def affluency_predictor(to_predict):
 def process():
     if request.method == 'POST':
 
-        results = affluency_predictor(request.form['rawtext'])
+        results = np.exp(affluency_predictor(request.form['rawtext']))
 
         # session variable
         session['text'] = request.form['rawtext']
