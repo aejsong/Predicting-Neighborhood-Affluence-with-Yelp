@@ -29,7 +29,7 @@ def index():
 
 
 
-
+# team page
 @app.route('/team/')
 def team():
 
@@ -103,7 +103,7 @@ def affluency_predictor(to_predict):
 
 
 
-
+# when submit a zipcode
 @app.route('/process', methods=["POST"])
 def process():
     if request.method == 'POST':
