@@ -19,14 +19,15 @@ This tool will estimate the affluence of a neighborhood based on the number of $
 - Assets  
   - `.json` files required for webscraping process
 - Code   
-  - `01 - Yelp Webscraping.ipynb`
-  - `02 - Yelp Data Merging & Cleaning.ipynb`
-  - `03 - Yelp Adding IRS Income to Dataframe.ipynb`
-  - `04 - Yelp Modeling.ipynb`
-  - `A1 - Creating ZIP Code Dictionary.ipynb`
-  - `A2 - Creating LA County Coordinate Dictionary.ipynb`
-  - `A3 - Collecting Census Financial Data.ipynb`
-  - `A4 - GraphQL API.ipynb`
+  - [`01 - Yelp Webscraping.ipynb`](https://github.com/aejsong/Predicting-Neighborhood-Affluence-with-Yelp/blob/master/Code/01%20-%20Yelp%20Webscraping.ipynb)
+  - [`02 - Yelp Data Merging & Cleaning.ipynb`](https://github.com/aejsong/Predicting-Neighborhood-Affluence-with-Yelp/blob/master/Code/02%20-%20Yelp%20Data%20Merging%20%26%20Cleaning-draft%20for%20publishing.ipynb)
+  - [`03 - Yelp Adding IRS Income to Dataframe.ipynb`](https://github.com/aejsong/Predicting-Neighborhood-Affluence-with-Yelp/blob/master/Code/03%20-%20Yelp%20Adding%20IRS%20Income-draft%20for%20publishing.ipynb)
+  - [`04 - Yelp Modeling.ipynb`](https://github.com/aejsong/Predicting-Neighborhood-Affluence-with-Yelp/blob/master/Code/04%20-%20Basic%20Modeling.ipynb)
+  - [`05 - Yelp Further Feature Engineering and Modeling.ipynb`](https://github.com/aejsong/Predicting-Neighborhood-Affluence-with-Yelp/blob/master/Code/05%20-%20Yelp%20Further%20Feature%20Engineering%20and%20Modeling.ipynb)
+  - [`A1 - Creating ZIP Code Dictionary.ipynb`](https://github.com/aejsong/Predicting-Neighborhood-Affluence-with-Yelp/blob/master/Code/A1%20-%20Creating%20ZIP%20Code%20Dictionary.ipynb)
+  - [`A2 - Creating LA County Coordinate Dictionary.ipynb`](https://github.com/aejsong/Predicting-Neighborhood-Affluence-with-Yelp/blob/master/Code/A2%20-%20Creating%20LA%20County%20Coordinate%20Dictionary.ipynb)
+  - [`A3 - Collecting Census Financial Data.ipynb`](https://github.com/aejsong/Predicting-Neighborhood-Affluence-with-Yelp/blob/master/Code/A3%20-%20Collecting%20Census%20Financial%20Data.ipynb)
+  - [`A4 - GraphQL API.ipynb`](https://github.com/aejsong/Predicting-Neighborhood-Affluence-with-Yelp/blob/master/Code/A4%20-%20GraphQL%20API.ipynb)
 - Data
   - `.csv` files acquired from webscraping process and Flask operation
 - flask_app_complete  
