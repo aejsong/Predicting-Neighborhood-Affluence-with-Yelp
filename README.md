@@ -4,7 +4,7 @@
 ## **Presentation Link**
 https://docs.google.com/presentation/d/1x6mdFnOGBZWx4fPJO_OO_CF1Uf4N9m5_dsgrioAmbh8/edit?usp=sharing
 
-## ** Flask Demo Video**  
+## **Flask Demo Video**  
 https://drive.google.com/file/d/1YDauGdTVFCNHEwzZ-KRU7xr6gsdjCdKI/view?usp=sharing
 
 
@@ -23,11 +23,13 @@ This tool will estimate the affluence of a neighborhood based on the number of $
   - `02 - Yelp Data Merging & Cleaning.ipynb`
   - `03 - Yelp Adding IRS Income to Dataframe.ipynb`
   - `04 - Yelp Modeling.ipynb`
-  - `A1_creating-zip-code-coordinate-dictionary.ipynb`
-  - `A2_graphql-API.ipynb`
+  - `A1 - Creating ZIP Code Dictionary.ipynb`
+  - `A2 - Creating LA County Coordinate Dictionary.ipynb`
+  - `A3 - Collecting Census Financial Data.ipynb`
+  - `A4 - GraphQL API.ipynb`
 - Data
-  - `.csv` files acquired from webscraping process
-- Flask  
+  - `.csv` files acquired from webscraping process and Flask operation
+- flask_app_complete  
   - Materials to launch the Flask application
 
 
@@ -54,20 +56,29 @@ The dictionary for the final dataframe used for our model.
 ## **Executive Summary**
 Insert some summary about our results  
 
-|Metric|Score|
-|------|----------|
-|Some Metric|Some Score|
-|Some Metric|Some Score|
-|Some Metric|Some Score|
-|Some Metric|Some Score|
-|Some Metric|Some Score|
-|Some Metric|Some Score|
+
+|model|RMSE Train|RMSE Test|R2 Train|R2 Test|pipeline R2 test|
+| --- | --- | --- | --- | ---|---|
+|Linear Regression| 0.29|0.26|0.45|0.50|0.33|
+|KNN Regression| 0.26|0.32|0.58|0.29|0.34|
+|Decision Tree Regression| 0|0..38|1|0.008|0.13|
+|Baggin Regression| 0.12|0.28|0.90|0.46|0.55|
+|Random Forest Regression| 0.13|0.27|0.89|0.50|0.53|
+|Adaboost Regression| 0.20|0.26|0.74|0.53|0.51|
+|support vector Regression| 0.09|0.38|0.94|-0.02|-0.02|
+|XGB Regression| 0.12|0.28|0.90|0.42|0.42|
 
 
 
 
 ## **Conclusions & Recommendations**
-Some conclusion about how our app should be used and it's limitations, and maybe some pretty graphs about some basic info of our data (ie. distribution of price $).
+Commercial Activity on Yelp can predict the total wealthness of neighborhood.
+The prediction has bias when there are less than 50 business in a zip code.
+Also model based on Yelp data have hard time identify commercial zone and wealthy neighborhood with less commercials.
+Model with heavy unsupervised learning provides very accurate results.
+Inconsistencies in either model may provide real-world insight because overpredicted income may indicate gentrification and income inequality while underpredicted income may indicate affluent, primarily residential areas. Neither mischaracterization indicates our model is performing poorly.
+
+
 
 
 
