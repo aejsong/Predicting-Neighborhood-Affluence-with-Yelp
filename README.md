@@ -73,7 +73,9 @@ __Basic Modeling__
 
 __Unsupervised/Supervised Modeling__
 
-- Need Score from jerry for model used in Flask app
+|model|RMSE Train|RMSE Test|R2 Train|R2 Test|  
+| --- | --- | --- | --- | ---|
+|Linear Regression|RMSE Train|RMSE Test|R2 Train|0.81|
 
 ![hiii](Assets/README-3d97c0bb.png)  
 Residuals of actual median income vs. predicted median income.
