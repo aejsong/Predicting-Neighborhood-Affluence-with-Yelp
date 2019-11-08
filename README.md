@@ -2,10 +2,10 @@
 
 
 ## **Presentation Link**
-https://docs.google.com/presentation/d/1x6mdFnOGBZWx4fPJO_OO_CF1Uf4N9m5_dsgrioAmbh8/edit?usp=sharing
+[Click here for presentation slides](https://docs.google.com/presentation/d/1x6mdFnOGBZWx4fPJO_OO_CF1Uf4N9m5_dsgrioAmbh8/edit?usp=sharing)
 
 ## **Flask Demo Video**  
-https://drive.google.com/file/d/1YDauGdTVFCNHEwzZ-KRU7xr6gsdjCdKI/view?usp=sharing
+[Click here for Flask App Demo Recording](https://drive.google.com/file/d/1YDauGdTVFCNHEwzZ-KRU7xr6gsdjCdKI/view?usp=sharing)
 
 
 
