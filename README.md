@@ -75,13 +75,13 @@ __Unsupervised/Supervised Modeling__
 
 - Need Score from jerry for model used in Flask app
 
-![hiii](assets/README-3d97c0bb.png)  
+![hiii](Assets/README-3d97c0bb.png)  
 Residuals of actual median income vs. predicted median income.
 
 </br>
 </br>
 
-![hi](assets/README-35033c85.png)  
+![hi](Assets/README-35033c85.png)  
 Clustering / Unsupervised learning based off of latitude and longitude.
 
 
