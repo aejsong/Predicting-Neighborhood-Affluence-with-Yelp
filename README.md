@@ -49,14 +49,15 @@ The dictionary for the final dataframe used for our model.
 |**price*rating**|float|An engineered feature that multiplies price and rating together for each business and then averages all of the businesses together in that zip code.|
 |**rating**|float|Average star rating (out of 5) for all businesses in a zip code.|
 |**review_count**|float|Average number of review counts for all businesses in a zip code.|
+|**cluster_{#}**|int|Cluster number that unsupervised learning grouped in.|
 
 
 
 
 ## **Executive Summary**
-Insert some summary about our results  
+Commercial activity on Yelp can predict the median affluence of a neighborhood. However, the prediction has bias when there are less than 50 businesses in a zip code area. A model based on only Yelp and income data has a hard time identifying commerical areas vs. more affluent neighborhoods with less commercial activity. For the most part, a model with heavy unsupervised learning provides very accuracte results.
 
-
+Basic Modeling
 |model|RMSE Train|RMSE Test|R2 Train|R2 Test|pipeline R2 test|
 | --- | --- | --- | --- | ---|---|
 |Linear Regression| 0.29|0.26|0.45|0.50|0.33|
@@ -68,15 +69,15 @@ Insert some summary about our results
 |support vector Regression| 0.09|0.38|0.94|-0.02|-0.02|
 |XGB Regression| 0.12|0.28|0.90|0.42|0.42|
 
+Unsupervised/Supervised Modeling  
+- Need Scores
 
 
 
 ## **Conclusions & Recommendations**
-Commercial Activity on Yelp can predict the total wealthness of neighborhood.
-The prediction has bias when there are less than 50 business in a zip code.
-Also model based on Yelp data have hard time identify commercial zone and wealthy neighborhood with less commercials.
-Model with heavy unsupervised learning provides very accurate results.
-Inconsistencies in either model may provide real-world insight because overpredicted income may indicate gentrification and income inequality while underpredicted income may indicate affluent, primarily residential areas. Neither mischaracterization indicates our model is performing poorly.
+Utilizing Yelp data and income data can predict the median affluence of a neighborhood. Inconsistencies in either models may provide real-world insight because overpredicted income may indicate gentrification and income inequality while underpredicted income may indicate affluent, primarily residential areas. Neither mischaracterization indicates our model is performing poorly.
+
+We recommend that for future use, Flask App should be automated so a user can input a zip code where the app then scrapes data, cleans data, updates model with new data, save model, and use updated model to make a better prediction. This will require some edits in our current functions and add to our Flask code. After this, we can release the app where users will input zipcodes and there introduce data from all over the world, therefore improving our model. Introducing GeoJSON to outline zip code boundaries when requested may also improve map visual. In order to better predict affluence in zip codes where neighborhoods are more affluent+have little commercial activity and zip codes where neighborhoods are less affluence+have an increasing amount of commercial activity, it would also be recommended to set up an automated scraper that can take housing information from Zillow/RedFin, etc. and include those data in our model as well.
 
 
 
