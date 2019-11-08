@@ -2,7 +2,10 @@
 
 
 ## **Presentation Link**
-https://docs.google.com/presentation/d/1j1K5PPtJyluv8yNAdwtPDVuJzkNf5Y35CVCVlhQJliw/edit?usp=sharing
+https://docs.google.com/presentation/d/1x6mdFnOGBZWx4fPJO_OO_CF1Uf4N9m5_dsgrioAmbh8/edit?usp=sharing
+
+## ** Flask Demo Video**  
+https://drive.google.com/file/d/1YDauGdTVFCNHEwzZ-KRU7xr6gsdjCdKI/view?usp=sharing
 
 
 
@@ -69,4 +72,10 @@ Some conclusion about how our app should be used and it's limitations, and maybe
 
 
 ## **Sources**
-Insert links here.
+https://www.yelp.com/
+https://www.yelp.com/developers/documentation/v3/business_search
+https://www.openstreetmap.org/#map=4/38.01/-95.84
+https://data.census.gov/cedsci/
+https://www.kdnuggets.com/2019/04/building-flask-api-automatically-extract-named-entities-spacy.html
+https://github.com/irinhwng/Yelp
+
