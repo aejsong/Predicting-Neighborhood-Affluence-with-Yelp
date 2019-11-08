@@ -10,7 +10,7 @@ https://drive.google.com/file/d/1YDauGdTVFCNHEwzZ-KRU7xr6gsdjCdKI/view?usp=shari
 
 
 ## **Problem Statement**
-This tool will estimate the affluence of a neighborhood based on the number of $ of businesses and services (according to Yelp) in a given neighborhood ($, $$, $$$, $$$$). This tool will expect to get, as an input, a list of zip codes and will estimate the wealth of the locality. While traditional methods typically estimate wealth of a locality based on demographic characteristics (e.g. income or unemployment rate), the novelty of this approach is in its use of big data related to commercial activity and cost of product and services as an indicator for affluency.
+This tool will estimate the affluence of a neighborhood based on the number of $ of businesses and services (according to Yelp) in a given neighborhood ($, $$, $$$, $$$$). This tool will expect to get, as an input, a list of zip codes and will estimate the wealth of the locality. While traditional methods typically estimate wealth of a locality based on demographic characteristics (e.g. income or unemployment rate), the novelty of this approach is in its use of big data related to commercial activity and cost of product and services as an indicator for affluence.
 
 
 
@@ -55,29 +55,40 @@ The dictionary for the final dataframe used for our model.
 
 
 ## **Executive Summary**
-Commercial activity on Yelp can predict the median affluence of a neighborhood. However, the prediction has bias when there are less than 50 businesses in a zip code area. A model based on only Yelp and income data has a hard time identifying commerical areas vs. more affluent neighborhoods with less commercial activity. For the most part, a model with heavy unsupervised learning provides very accuracte results.
+Commercial activity on Yelp can predict the median affluence of a neighborhood. However, the prediction has bias when there are less than 50 businesses in a zip code area. A model based on only Yelp and income data has a hard time identifying commercial areas vs. more affluent neighborhoods with less commercial activity. For the most part, a model with heavy unsupervised learning provides very accurate results.
 
-Basic Modeling
-|model|RMSE Train|RMSE Test|R2 Train|R2 Test|pipeline R2 test|
-| --- | --- | --- | --- | ---|---|
-|Linear Regression| 0.29|0.26|0.45|0.50|0.33|
-|KNN Regression| 0.26|0.32|0.58|0.29|0.34|
-|Decision Tree Regression| 0|0..38|1|0.008|0.13|
-|Baggin Regression| 0.12|0.28|0.90|0.46|0.55|
+__Basic Modeling__  
+
+|model|RMSE Train|RMSE Test|R2 Train|R2 Test|pipeline R2 test|  
+| --- | --- | --- | --- | ---|---|  
+|Linear Regression| 0.29|0.26|0.45|0.50|0.33|  
+|KNN Regression| 0.26|0.32|0.58|0.29|0.34|  
+|Decision Tree Regression| 0|0..38|1|0.008|0.13|  
+|Baggin Regression| 0.12|0.28|0.90|0.46|0.55|  
 |Random Forest Regression| 0.13|0.27|0.89|0.50|0.53|
 |Adaboost Regression| 0.20|0.26|0.74|0.53|0.51|
 |support vector Regression| 0.09|0.38|0.94|-0.02|-0.02|
 |XGB Regression| 0.12|0.28|0.90|0.42|0.42|
 
-Unsupervised/Supervised Modeling  
-- Need Scores
+__Unsupervised/Supervised Modeling__
+
+- Need Score from jerry for model used in Flask app
+
+![](assets/README-3d97c0bb.png)
+Residuals of actual median income vs. predicted median income.
+
+</br>
+</br>
+
+![](assets/README-35033c85.png)
+Clustering / Unsupervised learning based off of latitude and longitude.
 
 
 
 ## **Conclusions & Recommendations**
-Utilizing Yelp data and income data can predict the median affluence of a neighborhood. Inconsistencies in either models may provide real-world insight because overpredicted income may indicate gentrification and income inequality while underpredicted income may indicate affluent, primarily residential areas. Neither mischaracterization indicates our model is performing poorly.
+Utilizing Yelp data and income data can predict the median affluence of a neighborhood. Inconsistencies in either models may provide real-world insight because over-predicted income may indicate gentrification and income inequality while under-predicted income may indicate affluent, primarily residential areas. Neither mischaracterization indicates our model is performing poorly.
 
-We recommend that for future use, Flask App should be automated so a user can input a zip code where the app then scrapes data, cleans data, updates model with new data, save model, and use updated model to make a better prediction. This will require some edits in our current functions and add to our Flask code. After this, we can release the app where users will input zipcodes and there introduce data from all over the world, therefore improving our model. Introducing GeoJSON to outline zip code boundaries when requested may also improve map visual. In order to better predict affluence in zip codes where neighborhoods are more affluent+have little commercial activity and zip codes where neighborhoods are less affluence+have an increasing amount of commercial activity, it would also be recommended to set up an automated scraper that can take housing information from Zillow/RedFin, etc. and include those data in our model as well.
+We recommend that for future use, Flask App should be automated so a user can input a zip code where the app then scrapes data, cleans data, updates model with new data, save model, and use updated model to make a better prediction. This will require some edits in our current functions and add to our Flask code. After this, we can release the app where users will input zip codes and introduce data from all over the world, therefore improving our model. Introducing GeoJSON to outline zip code boundaries when requested may also improve map visual. In order to better predict affluence in zip codes where neighborhoods are more affluent+have little commercial activity and zip codes where neighborhoods are less affluence+have an increasing amount of commercial activity, it would also be recommended to set up an automated scraper that can take housing information from Zillow/RedFin, etc. and include those data in our model as well.
 
 
 
@@ -90,4 +101,3 @@ https://www.openstreetmap.org/#map=4/38.01/-95.84
 https://data.census.gov/cedsci/
 https://www.kdnuggets.com/2019/04/building-flask-api-automatically-extract-named-entities-spacy.html
 https://github.com/irinhwng/Yelp
-
